@@ -1,0 +1,176 @@
+name: Eklenti Derleyici
+
+on:
+  schedule:
+    - cron: '21 20 * * *'
+  workflow_dispatch:
+
+jobs:
+  build-and-push-plugins:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install node-fetch
+        run: npm install node-fetch@2
+
+      - name: Generate plugins.json for TRplugins
+        run: |
+          node - <<'NODE'
+          const fetch = require('node-fetch');
+          const fs = require('fs');
+
+          const urls = [
+            'https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/plugins.json',
+            'https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/plugins.json',
+            'https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/plugins.json',
+            'https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/plugins.json',
+            'https://raw.githubusercontent.com/sarapcanagii/Pitipitii/builds/plugins.json',
+            'https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/plugins.json',
+            'https://raw.githubusercontent.com/Sertel392/Makotogecici/main/plugins.json',
+            'https://raw.githubusercontent.com/GitLatte/Sinetech/builds/plugins.json',
+            'https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/plugins.json',
+            'https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/plugins.json'
+          ];
+
+          const botOwner = 'PyrusDrago';
+
+          function parseDateFromPlugin(p) {
+            const fields = ['updatedAt','lastUpdated','updated','releaseDate','date','publishedAt','published','created_at','timestamp'];
+            for (const f of fields) {
+              if (p[f]) {
+                const d = new Date(p[f]);
+                if (!isNaN(d)) return d;
+              }
+            }
+            return null;
+          }
+
+          function parseDateHeader(res) {
+            const lm = res.headers.get('last-modified');
+            if (lm) {
+              const d = new Date(lm);
+              if (!isNaN(d)) return d;
+            }
+            return null;
+          }
+
+          function normalizeVersion(v) {
+            if (!v) return null;
+            return String(v).replace(/^v/i, '');
+          }
+
+          function compareVersions(a, b) {
+            if (!a && !b) return 0;
+            if (a && !b) return 1;
+            if (!a && b) return -1;
+            const pa = String(a).split(/[.\-+_]/).map(x => isNaN(parseInt(x)) ? x : parseInt(x));
+            const pb = String(b).split(/[.\-+_]/).map(x => isNaN(parseInt(x)) ? x : parseInt(x));
+            const n = Math.max(pa.length, pb.length);
+            for (let i = 0; i < n; i++) {
+              const xa = pa[i] === undefined ? 0 : pa[i];
+              const xb = pb[i] === undefined ? 0 : pb[i];
+              if (typeof xa === 'number' && typeof xb === 'number') {
+                if (xa > xb) return 1;
+                if (xa < xb) return -1;
+              } else {
+                const sa = String(xa);
+                const sb = String(xb);
+                if (sa > sb) return 1;
+                if (sa < sb) return -1;
+              }
+            }
+            return 0;
+          }
+
+          function addUpdateInfo(plugin, finalDate, replace) {
+            if (!replace || !finalDate) return;
+
+            const today = new Date().toISOString().split('T')[0];
+            const pluginDateStr = finalDate.toISOString().split('T')[0];
+
+            // Eğer bugünün tarihiyle eşleşiyorsa kırmızı nokta ekle
+            const marker = pluginDateStr === today ? "🔴 " : "";
+
+            // Description başına ekleme
+            plugin.description = `${marker}(Güncellendi: ${pluginDateStr}) ` + (plugin.description || '');
+          }
+
+          (async () => {
+            const mergedMap = new Map();
+            for (const url of urls) {
+              try {
+                const res = await fetch(url);
+                if (!res.ok) {
+                  console.warn(`GET ${url} -> ${res.status} ${res.statusText}`);
+                  continue;
+                }
+                const plugins = await res.json();
+                if (!Array.isArray(plugins)) {
+                  console.warn(`${url} -> Invalid plugins.json`);
+                  continue;
+                }
+
+                const sourceDate = parseDateHeader(res);
+                let added = 0;
+                for (const plugin of plugins) {
+                  if (Array.isArray(plugin.tvTypes) && plugin.tvTypes.includes('NSFW')) continue;
+
+                  plugin.authors = [botOwner];
+
+                  const key = plugin.id || plugin.name || plugin.title || plugin.slug || plugin.packageName || plugin.file || plugin.url || JSON.stringify(plugin);
+
+                  const pluginDate = parseDateFromPlugin(plugin);
+                  const finalDate = pluginDate || sourceDate || null;
+
+                  const version = normalizeVersion(plugin.version || plugin.ver || plugin.pkgVersion || null);
+
+                  const existing = mergedMap.get(key);
+                  let replace = false;
+                  if (!existing) {
+                    replace = true;
+                  } else {
+                    if (existing.date && finalDate) {
+                      if (finalDate > existing.date) replace = true;
+                    } else if (!existing.date && finalDate) {
+                      replace = true;
+                    } else if (existing.date && !finalDate) {
+                      replace = false;
+                    } else {
+                      const cmp = compareVersions(version, existing.version);
+                      if (cmp > 0) replace = true;
+                    }
+                  }
+
+                  if (replace) {
+                    addUpdateInfo(plugin, finalDate, replace);
+                    mergedMap.set(key, { plugin, date: finalDate, version });
+                  }
+                  added++;
+                }
+                console.log('Source: ' + url);
+                console.log('→ ' + added + ' plugins processed (dedup applied)');
+              } catch (e) {
+                console.error(`GET ${url} -> error: ${e.message}`);
+                continue;
+              }
+            }
+
+            const merged = Array.from(mergedMap.values()).map(v => v.plugin);
+            fs.writeFileSync('plugins.json', JSON.stringify(merged, null, 2));
+            console.log('plugins.json created. Total unique plugins:', merged.length);
+          })();
+          NODE
+
+      - name: Commit and push plugins.json
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add plugins.json
+          git diff --staged --quiet || git commit -m "Update plugins.json"
+          git push
