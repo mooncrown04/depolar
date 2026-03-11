@@ -1,0 +1,111 @@
+name: Readme Oluşturucu
+
+on:
+  schedule:
+    - cron: '0 20 * * *'
+  workflow_dispatch:
+
+jobs:
+  build-readme:
+    name: README Dosyası Oluştur ve Güncelle
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Depoyu Klonla
+        uses: actions/checkout@v4
+
+      - name: Python Ortamını Kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: README.md Dosyasını Oluştur
+        run: |
+          import json
+          from datetime import datetime, timedelta, timezone
+          from pathlib import Path
+
+          OWNER = "PyrusDrago"
+          OWNER_AVATAR = "https://github.com/PyrusDrago.png"
+          OWNER_PROFILE = "https://github.com/PyrusDrago"
+          REPO_SHORT_CODE = "MoOnCrOwN"
+
+          IMAGE_KEYS = ["iconUrl","image","icon","logo","thumbnail","cover","img","picture","poster"]
+          LANGUAGE_FLAGS = {"tr":("🇹🇷","TR"),"en":("🇬🇧","GB"),"de":("🇩🇪","DE")}
+          DEFAULT_FLAG = ("🏴‍☠️","")
+
+          def fix_icon_url(url):
+              return url.replace("%size%","64") if url and "%size%" in url else url
+
+          def turkish_types(tvtypes):
+              mapping={"movie":"Film","tvseries":"Dizi","anime":"Anime","documentary":"Belgesel"}
+              return [mapping.get(t.lower(),t.capitalize()) for t in (tvtypes or [])]
+
+          def get_flag_and_code(language):
+              return LANGUAGE_FLAGS.get(language.lower(),DEFAULT_FLAG)
+
+          def get_repo_owner(url):
+              import re
+              m=re.search(r"githubusercontent\.com/([^/]+)",url or "")
+              return m.group(1) if m else "UnknownRepo"
+
+          turkey_tz = timezone(timedelta(hours=3))
+          formatted_date = datetime.now(turkey_tz).strftime("%d.%m.%Y %H:%M")
+
+          with open("plugins.json",encoding="utf-8") as f:
+              plugins=json.load(f)
+
+          unique_plugins={}
+          for plugin in plugins:
+              name=(plugin.get("name") or plugin.get("title") or "").strip()
+              if not name or name in unique_plugins: continue
+              language=(plugin.get("language") or "").lower().strip()
+              flag,code=get_flag_and_code(language)
+              img_url=next((fix_icon_url(plugin[k]) for k in IMAGE_KEYS if plugin.get(k)),None)
+              tur_types=turkish_types(plugin.get("tvTypes"))
+              repo_owner=get_repo_owner(plugin.get("url") or "")
+              # Tarih ve durum bilgisi description’dan çekiliyor
+              desc=(plugin.get("description") or "")
+              marker="🔴" if "🔴" in desc else ("🟡" if "🟡" in desc else "")
+              date_part=""
+              import re
+              m=re.search(r"(\d{2}\.\d{2}\.\d{4})",desc)
+              if m: date_part=m.group(1)
+              unique_plugins[name]=(img_url,tur_types,flag,code,date_part,marker,repo_owner)
+
+          plugin_count=len(unique_plugins)
+          readme_header=(
+              f"### Son Güncelleme: {formatted_date}\n\n"
+              f"### Repo Kısa Kodu: {REPO_SHORT_CODE}\n\n"
+              f"### Toplam Eklenti Sayısı: {plugin_count}\n\n"
+              "---\n\n"
+              f"### Depo Sahibi:\n"
+              f"[<img src='{OWNER_AVATAR}' width='48' height='48' style='border-radius:50%;'>]({OWNER_PROFILE})  \n"
+              f"[{OWNER}]({OWNER_PROFILE})\n"
+              "---\n\n"
+              "## 📦 Eklenti Listesi\n\n"
+              "| İkon | Eklenti Adı | Tarih | Durum | Depo | Türler | Ülke |\n"
+              "|:----:|:------------|:------|:------|:-----|:-------|:----:|\n"
+          )
+
+          table_rows=[]
+          for name,(img_url,tur_types,flag,code,date_part,marker,repo_owner) in sorted(unique_plugins.items()):
+              tur_text=", ".join(tur_types)
+              img_md=f'<img src="{img_url}" width="32">' if img_url else "—"
+              country_col=f"{flag} [{code}]" if flag and code else DEFAULT_FLAG[0]
+              table_rows.append(f"| {img_md} | **{name}** | {date_part} | {marker} | {repo_owner} | {tur_text} | {country_col} |")
+
+          readme_content=readme_header+"\n".join(table_rows)
+          Path("README.md").write_text(readme_content,encoding="utf-8")
+        shell: python
+
+      - name: README.md Dosyasını Commit ve Push Et
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          if ! git diff --staged --quiet; then
+            git commit -m "Docs: README.md dosyası güncellendi"
+            git push
+          else
+            echo "README.md dosyasında değişiklik tespit edilmedi."
