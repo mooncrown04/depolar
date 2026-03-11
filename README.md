@@ -1,14 +1,14 @@
-### Son Güncelleme: 11.03.2026 11:18
+### Son Güncelleme: 11.03.2026 11:31
 
-### Repo Kısa Kodu: MoOnCrOwN
+### Repo Kısa Kodu: yok
 
 ### Toplam Eklenti Sayısı: 132
 
 ---
 
 ### Depo Sahibi:
-[<img src='https://github.com/PyrusDrago.png' width='48' height='48' style='border-radius:50%;'>](https://github.com/PyrusDrago)  
-[PyrusDrago](https://github.com/PyrusDrago)
+[<img src='https://st5.depositphotos.com/1041725/67731/v/380/depositphotos_677319750-stock-illustration-ararat-mountain-illustration-vector-white.jpg' width='48' height='48' style='border-radius:50%;'>](https://github.com/mooncrown04)  
+[MoOnCrOwN](https://github.com/mooncrown04)
 ---
 
 ## 📦 Eklenti Listesi
