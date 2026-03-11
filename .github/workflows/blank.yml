@@ -94,10 +94,7 @@ jobs:
             const today = new Date().toISOString().split('T')[0];
             const pluginDateStr = finalDate.toISOString().split('T')[0];
 
-            // Eğer bugünün tarihiyle eşleşiyorsa kırmızı nokta ekle
             const marker = pluginDateStr === today ? "🔴 " : "";
-
-            // Description başına ekleme
             plugin.description = `${marker}(Güncellendi: ${pluginDateStr}) ` + (plugin.description || '');
           }
 
@@ -168,9 +165,11 @@ jobs:
           NODE
 
       - name: Commit and push plugins.json
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add plugins.json
           git diff --staged --quiet || git commit -m "Update plugins.json"
-          git push
+          git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main
