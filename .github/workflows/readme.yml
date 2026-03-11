@@ -20,6 +20,7 @@ jobs:
           python-version: '3.x'
 
       - name: README.md Dosyasını Oluştur
+        shell: python
         run: |
           import json, re
           from datetime import datetime, timedelta, timezone
@@ -94,7 +95,6 @@ jobs:
 
           readme_content=readme_header+"\n".join(table_rows)
           Path("README.md").write_text(readme_content,encoding="utf-8")
-        shell: python
         
       - name: README.md Dosyasını Commit ve Push Et
         run: |
@@ -104,5 +104,4 @@ jobs:
           if ! git diff --staged --quiet; then
             git commit -m "Docs: README.md dosyası güncellendi"
             git push
-          else
-            echo "README.md dosyasında değişiklik tespit edilmedi."
+          fi
