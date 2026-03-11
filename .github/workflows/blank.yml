@@ -1,4 +1,4 @@
-name: Eklenti Derleyicı
+name: Eklenti Derleyici
 
 on:
   schedule:
@@ -19,7 +19,7 @@ jobs:
       - name: Install node-fetch
         run: npm install node-fetch@2
 
-      - name: Generate plugins.json for TRplugins
+      - name: Generate plugins.json for MoOnCrOwN
         run: |
           node - <<'NODE'
           const fetch = require('node-fetch');
@@ -88,14 +88,20 @@ jobs:
             return 0;
           }
 
-          function addUpdateInfo(plugin, finalDate, replace) {
+          function getRepoOwner(url) {
+            const match = url.match(/githubusercontent\.com\/([^/]+)/);
+            return match ? match[1] : "UnknownRepo";
+          }
+
+          function addUpdateInfo(plugin, finalDate, replace, sourceUrl) {
             if (!replace || !finalDate) return;
 
             const today = new Date().toISOString().split('T')[0];
-            const pluginDateStr = finalDate.toISOString().split('T')[0];
+            const pluginDateStr = finalDate.toLocaleDateString('tr-TR'); 
+            const marker = finalDate.toISOString().split('T')[0] === today ? "🔴 " : "";
 
-            const marker = pluginDateStr === today ? "🔴 " : "";
-            plugin.description = `${marker}(Güncellendi: ${pluginDateStr}) ` + (plugin.description || '');
+            const repoOwner = getRepoOwner(sourceUrl);
+            plugin.description = `${marker}${repoOwner} ${pluginDateStr} ` + (plugin.description || '');
           }
 
           (async () => {
@@ -145,7 +151,7 @@ jobs:
                   }
 
                   if (replace) {
-                    addUpdateInfo(plugin, finalDate, replace);
+                    addUpdateInfo(plugin, finalDate, replace, url);
                     mergedMap.set(key, { plugin, date: finalDate, version });
                   }
                   added++;
@@ -172,4 +178,5 @@ jobs:
           git config user.email "action@github.com"
           git add plugins.json
           git diff --staged --quiet || git commit -m "Update plugins.json"
+          git pull --rebase https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git main
           git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main
