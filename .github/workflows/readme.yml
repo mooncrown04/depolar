@@ -26,10 +26,10 @@ jobs:
           from datetime import datetime, timedelta, timezone
           from pathlib import Path
 
-          OWNER = "PyrusDrago"
-          OWNER_AVATAR = "https://github.com/PyrusDrago.png"
-          OWNER_PROFILE = "https://github.com/PyrusDrago"
-          REPO_SHORT_CODE = "MoOnCrOwN"
+          OWNER = "MoOnCrOwN"
+          OWNER_AVATAR = "https://st5.depositphotos.com/1041725/67731/v/380/depositphotos_677319750-stock-illustration-ararat-mountain-illustration-vector-white.jpg"
+          OWNER_PROFILE = "https://github.com/mooncrown04
+          REPO_SHORT_CODE = "yok"
 
           IMAGE_KEYS = ["iconUrl","image","icon","logo","thumbnail","cover","img","picture","poster"]
           LANGUAGE_FLAGS = {"tr":("🇹🇷","TR"),"en":("🇬🇧","GB"),"de":("🇩🇪","DE")}
