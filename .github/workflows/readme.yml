@@ -2,8 +2,8 @@ name: Readme Oluşturucu
 
 on:
   schedule:
-    - cron: '0 20 * * *'
-  workflow_dispatch:
+    - cron: '0 20 * * *'   # Her gün 20:00'de çalışır
+  workflow_dispatch:        # Manuel çalıştırma
 
 jobs:
   build-readme:
@@ -21,7 +21,7 @@ jobs:
 
       - name: README.md Dosyasını Oluştur
         run: |
-          import json
+          import json, re
           from datetime import datetime, timedelta, timezone
           from pathlib import Path
 
@@ -45,7 +45,6 @@ jobs:
               return LANGUAGE_FLAGS.get(language.lower(),DEFAULT_FLAG)
 
           def get_repo_owner(url):
-              import re
               m=re.search(r"githubusercontent\.com/([^/]+)",url or "")
               return m.group(1) if m else "UnknownRepo"
 
@@ -64,11 +63,9 @@ jobs:
               img_url=next((fix_icon_url(plugin[k]) for k in IMAGE_KEYS if plugin.get(k)),None)
               tur_types=turkish_types(plugin.get("tvTypes"))
               repo_owner=get_repo_owner(plugin.get("url") or "")
-              # Tarih ve durum bilgisi description’dan çekiliyor
               desc=(plugin.get("description") or "")
               marker="🔴" if "🔴" in desc else ("🟡" if "🟡" in desc else "")
               date_part=""
-              import re
               m=re.search(r"(\d{2}\.\d{2}\.\d{4})",desc)
               if m: date_part=m.group(1)
               unique_plugins[name]=(img_url,tur_types,flag,code,date_part,marker,repo_owner)
