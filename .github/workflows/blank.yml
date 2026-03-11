@@ -26,7 +26,6 @@ jobs:
           const fs = require('fs');
 
           const urls = [
-            'https://raw.githubusercontent.com/mooncrown04/TestPlugins/refs/heads/builds/plugins.json',
             'https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/plugins.json',
             'https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/plugins.json',
             'https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/plugins.json',
@@ -94,14 +93,20 @@ jobs:
             return match ? match[1] : "UnknownRepo";
           }
 
-          function addUpdateInfo(plugin, finalDate, replace, sourceUrl) {
-            if (!replace || !finalDate) return;
+          function addUpdateInfo(plugin, finalDate, replace, sourceUrl, isNew) {
+            if (!finalDate) return;
 
             const today = new Date().toISOString().split('T')[0];
             const pluginDateStr = finalDate.toLocaleDateString('tr-TR'); 
-            const marker = finalDate.toISOString().split('T')[0] === today ? "🔴 " : "";
-
             const repoOwner = getRepoOwner(sourceUrl);
+
+            let marker = "";
+            if (isNew) {
+              marker = "🟡 ";
+            } else if (finalDate.toISOString().split('T')[0] === today) {
+              marker = "🔴 ";
+            }
+
             plugin.description = `${marker}${repoOwner} ${pluginDateStr} ` + (plugin.description || '');
           }
 
@@ -152,7 +157,8 @@ jobs:
                   }
 
                   if (replace) {
-                    addUpdateInfo(plugin, finalDate, replace, url);
+                    const isNew = !existing;
+                    addUpdateInfo(plugin, finalDate, replace, url, isNew);
                     mergedMap.set(key, { plugin, date: finalDate, version });
                   }
                   added++;
