@@ -1,4 +1,4 @@
-### Son Güncelleme: 11.03.2026 23:36
+### Son Güncelleme: 12.03.2026 23:38
 
 ### Repo Kısa Kodu: yok
 
@@ -16,9 +16,9 @@
 | İkon | Eklenti Adı | Tarih | Durum | Depo | Türler | Ülke |
 |:----:|:------------|:------|:------|:-----|:-------|:----:|
 | <img src="https://www.google.com/s2/favicons?domain=www.4kfilmizlesene.org&sz=64" width="32"> | **4KFilmIzlesene** |  |  | nikyokki | Film | 🇹🇷 [TR] |
-| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animely.net/&size=128" width="32"> | **AnimeElysium** |  |  | Kraptor123 | Anime, Animemovie, Ova | 🇹🇷 [TR] |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://animecix.net&size=16" width="32"> | **AnimeciX** |  |  | Kraptor123 | Anime | 🇹🇷 [TR] |
 | <img src="https://animeler.me/wp-content/uploads/cropped-animelerpw-48x48.png" width="32"> | **Animeler** |  |  | Kraptor123 | Anime | 🇹🇷 [TR] |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animely.net/&size=128" width="32"> | **Animely** |  |  | Kraptor123 | Anime, Animemovie, Ova | 🇹🇷 [TR] |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/aniworld.png" width="32"> | **Aniworld MC - Latte** |  |  | GitLatte | Animemovie, Anime, Ova | 🇩🇪 [DE] |
 | <img src="https://anizium.co/assets/images/logo.png" width="32"> | **Anizium** |  |  | Kraptor123 | Animemovie, Anime | 🇹🇷 [TR] |
 | <img src="https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png" width="32"> | **AsyaAnimeleri** |  |  | Kraptor123 | Anime | 🇹🇷 [TR] |
