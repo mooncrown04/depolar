@@ -290,14 +290,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FullHDFilmizlesene.cs3",
     "status": 1,
-    "version": 34,
+    "version": 35,
     "name": "FullHDFilmizlesene",
     "internalName": "FullHDFilmizlesene",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-    "fileSize": 78575,
+    "fileSize": 77791,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -507,14 +507,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SinemaCX.cs3",
     "status": 1,
-    "version": 27,
+    "version": 28,
     "name": "SinemaCX",
     "internalName": "SinemaCX",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
-    "fileSize": 19086,
+    "fileSize": 20049,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -584,7 +584,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 14694,
+    "fileSize": 14693,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -593,7 +593,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 53,
+    "version": 54,
     "internalName": "TRasyalog",
     "description": "TRasyalog izleme sitesi.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/TRasyalog.cs3",
@@ -737,14 +737,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziGom.cs3",
     "status": 1,
-    "version": 27,
+    "version": 28,
     "name": "DiziGom",
     "internalName": "DiziGom",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
-    "fileSize": 25420,
+    "fileSize": 29577,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -1141,14 +1141,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YabanciDizi.cs3",
     "status": 1,
-    "version": 11,
+    "version": 12,
     "name": "YabanciDizi",
     "internalName": "YabanciDizi",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
-    "fileSize": 46100,
+    "fileSize": 39049,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
