@@ -1,8 +1,8 @@
-### Son Güncelleme: 18.03.2026 23:39
+### Son Güncelleme: 19.03.2026 23:40
 
 ### Repo Kısa Kodu: yok
 
-### Toplam Eklenti Sayısı: 132
+### Toplam Eklenti Sayısı: 134
 
 ---
 
@@ -52,7 +52,7 @@
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://diziwatch.tv&size=128" width="32"> | **DiziWatch** |  |  | Kraptor123 | Dizi, Anime | 🇹🇷 [TR] |
 | <img src="https://i.imgur.com/zQYsL6Z.png" width="32"> | **DiziYo** |  |  | Kraptor123 | Dizi, Anime | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=www.diziyou.co" width="32"> | **DiziYou** |  |  | Kraptor123 | Dizi | 🇹🇷 [TR] |
-| <img src="https://www.google.com/s2/favicons?sz=128&domain=https://dizilla.to" width="32"> | **Dizilla** |  |  | Kraptor123 | Dizi | 🇹🇷 [TR] |
+| <img src="https://www.google.com/s2/favicons?domain=dizilla.club&sz=64" width="32"> | **Dizilla** |  |  | feroxx | Dizi | 🇹🇷 [TR] |
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmbol.org/&size=128" width="32"> | **FilmBOL** |  |  | ByAyzen | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://filmbip.com/uploads/favicon/original/favicon.webp" width="32"> | **FilmBip** |  |  | maarrem | Film | 🇹🇷 [TR] |
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmekseni.net/&size=128" width="32"> | **FilmEkseni** |  |  | Kraptor123 | Film | 🇹🇷 [TR] |
@@ -76,6 +76,7 @@
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hdfilmdelisi.one/&size=128" width="32"> | **HDFilmDelisi** |  |  | Kraptor123 | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=64" width="32"> | **HDFilmIzle** |  |  | nikyokki | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=hdfilmsitesi.net&sz=64" width="32"> | **HDFilmSitesi** |  |  | nikyokki | Film | 🇹🇷 [TR] |
+| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hdfilmizle.life/rally-caps/&size=128" width="32"> | **HDFilmizle** |  |  | Kraptor123 | Film | 🇹🇷 [TR] |
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hintdizi.com&size=128" width="32"> | **HintDizi** |  |  | Kraptor123 | Asiandrama | 🇹🇷 [TR] |
 | <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png" width="32"> | **InatBox** |  |  | Kraptor123 | Film, Dizi, Live | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=720pizle.ai&sz=64" width="32"> | **IzleAI** |  |  | ramazansancar | Film | 🇹🇷 [TR] |
@@ -123,6 +124,7 @@
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tvdiziler.cc&size=16" width="32"> | **TvDiziler** |  |  | Kraptor123 | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=twitch.tv&sz=64" width="32"> | **Twitch** |  |  | ramazansancar | Live | 🏴‍☠️ |
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ugurfilm3.xyz/&size=128" width="32"> | **UgurFilm** |  |  | Kraptor123 | Film | 🇹🇷 [TR] |
+| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://vavoo.to/&size=128" width="32"> | **Vavoo** |  |  | ByAyzen | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=wfilmizle.my&sz=64" width="32"> | **WFilmİzle** |  |  | nikyokki | Film | 🇹🇷 [TR] |
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://watch2movies.net/&size=128" width="32"> | **Watch2Movies** |  |  | Kraptor123 | Film | 🇬🇧 [GB] |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40" width="32"> | **WebDramaTurkey** |  |  | Kraptor123 | Asiandrama, Film, Anime | 🇹🇷 [TR] |
