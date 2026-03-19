@@ -136,7 +136,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 36751,
+    "fileSize": 36648,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -145,7 +145,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 79,
+    "version": 87,
     "internalName": "Dizilla",
     "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/Dizilla.cs3",
@@ -250,8 +250,8 @@
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmModu.cs3",
-    "status": 0,
-    "version": 30,
+    "status": 1,
+    "version": 31,
     "name": "FilmModu",
     "internalName": "FilmModu",
     "authors": [
@@ -350,14 +350,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/JetFilmizle.cs3",
     "status": 1,
-    "version": 50,
+    "version": 51,
     "name": "JetFilmizle",
     "internalName": "JetFilmizle",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-    "fileSize": 49558,
+    "fileSize": 49963,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -468,14 +468,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SetFilmIzle.cs3",
     "status": 1,
-    "version": 30,
+    "version": 31,
     "name": "SetFilmIzle",
     "internalName": "SetFilmIzle",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
-    "fileSize": 35445,
+    "fileSize": 35729,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -487,14 +487,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SezonlukDizi.cs3",
     "status": 1,
-    "version": 24,
+    "version": 25,
     "name": "SezonlukDizi",
     "internalName": "SezonlukDizi",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
-    "fileSize": 36230,
+    "fileSize": 45659,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -1849,14 +1849,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaMinik.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "AsyaMinik",
     "internalName": "AsyaMinik",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Asyaminik - En Güncel Asya Dizileri Burada!",
-    "fileSize": 18681,
+    "fileSize": 19725,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -1946,14 +1946,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziFilmORG.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "DiziFilmORG",
     "internalName": "DiziFilmORG",
     "authors": [
       "PyrusDrago"
     ],
     "description": "En yeni ve popüler yerli yabancı filmleri Türkçe dublaj ve altyazılı seçeneklerle Full HD kalitede, tek parça ve kesintisiz Dizifilm.org’da izle.",
-    "fileSize": 36446,
+    "fileSize": 41259,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -1993,7 +1993,7 @@
       "PyrusDrago"
     ],
     "description": "DiziPal Orijinal.",
-    "fileSize": 90746,
+    "fileSize": 91968,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2100,15 +2100,15 @@
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FlixHQ.cs3",
-    "status": 1,
-    "version": 6,
+    "status": 0,
+    "version": 7,
     "name": "FlixHQ",
     "internalName": "FlixHQ",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Watch Free Movies and Series online - Very fast streaming - No Registration Required - Click NOW",
-    "fileSize": 52858,
+    "fileSize": 52857,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "en",
     "tvTypes": [
@@ -2140,14 +2140,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/GinikoCanli.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "GinikoCanli",
     "internalName": "GinikoCanli",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Vpn Gerekli! Dünyanın tüm ülkelerinden ücretsiz çevrimiçi TV.",
-    "fileSize": 14429,
+    "fileSize": 16107,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2254,14 +2254,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KraptorPlus.cs3",
     "status": 1,
-    "version": 41,
+    "version": 42,
     "name": "KraptorPlus",
     "internalName": "KraptorPlus",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Kaliteli kaynakları ile birlikte KraptorPlus eklentisi, sizlere 4K kalitesine kadar yüksek kaliteli ve altyazılı film izleme zevkini sağlıyor.",
-    "fileSize": 336719,
+    "fileSize": 340500,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2356,14 +2356,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Sinezy.cs3",
     "status": 1,
-    "version": 29,
+    "version": 31,
     "name": "Sinezy",
     "internalName": "Sinezy",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Yerli ve yabancı film izle! Türkçe Dublaj ve Alt Yazılı Seçenekleriyle full hd film izlemek için En çok tercih edilen adres!",
-    "fileSize": 18764,
+    "fileSize": 20067,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2394,14 +2394,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Turkdizileri.cs3",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "Turkdizileri",
     "internalName": "Turkdizileri",
     "authors": [
       "PyrusDrago"
     ],
     "description": "TRT1, Showtv, Kanal D ve daha fazla site tek bir eklentide birleşiyor.",
-    "fileSize": 137427,
+    "fileSize": 137994,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
