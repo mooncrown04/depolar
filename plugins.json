@@ -154,14 +154,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziMom.cs3",
     "status": 1,
-    "version": 46,
+    "version": 47,
     "name": "DiziMom",
     "internalName": "DiziMom",
     "authors": [
       "PyrusDrago"
     ],
     "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-    "fileSize": 38984,
+    "fileSize": 39863,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -229,24 +229,23 @@
     "name": "FilmBip"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmMakinesi.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "fileSize": 21345,
     "status": 1,
-    "version": 51,
-    "name": "FilmMakinesi",
-    "internalName": "FilmMakinesi",
+    "language": "tr",
     "authors": [
       "PyrusDrago"
     ],
-    "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
-    "fileSize": 39559,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "language": "tr",
     "tvTypes": [
-      "Movie",
-      "TvSeries"
+      "Movie"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmmakinesi.tv&size=128",
-    "apiVersion": 1
+    "version": 51,
+    "internalName": "FilmMakinesi",
+    "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
+    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/FilmMakinesi.cs3",
+    "name": "FilmMakinesi"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmModu.cs3",
@@ -1329,14 +1328,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YTS.cs3",
     "status": 1,
-    "version": 23,
+    "version": 25,
     "name": "YTS",
     "internalName": "YTS",
     "authors": [
       "PyrusDrago"
     ],
     "description": "YTS Filmleri 4K Desteği Otomatik altyazı ve film açıklaması (Torrent)",
-    "fileSize": 41005,
+    "fileSize": 63435,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
