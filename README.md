@@ -1,4 +1,4 @@
-### Son Güncelleme: 21.03.2026 23:29
+### Son Güncelleme: 22.03.2026 23:30
 
 ### Repo Kısa Kodu: yok
 
@@ -59,7 +59,7 @@
 | <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE" width="32"> | **FilmHane** |  |  | Kraptor123 | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=www.filmizleilk.com&sz=64" width="32"> | **FilmIzleIlk** |  |  | nikyokki | Film, Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=filmkovasi.tv&sz=64" width="32"> | **FilmKovasi** |  |  | nikyokki | Film | 🇹🇷 [TR] |
-| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmmakinesi.tv&size=128" width="32"> | **FilmMakinesi** |  |  | Kraptor123 | Film, Dizi | 🇹🇷 [TR] |
+| <img src="https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=64" width="32"> | **FilmMakinesi** |  |  | feroxx | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=www.filmmodu17.com" width="32"> | **FilmModu** |  |  | Kraptor123 | Film | 🇹🇷 [TR] |
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmzal.me/&size=128" width="32"> | **Filmzal** |  |  | Kraptor123 | Film | 🏴‍☠️ |
 | <img src="https://www.google.com/s2/favicons?domain=filmizlesene.plus&sz=64" width="32"> | **Filmİzlesene** |  |  | nikyokki | Film | 🇹🇷 [TR] |
