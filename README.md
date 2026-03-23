@@ -1,4 +1,4 @@
-### Son Güncelleme: 22.03.2026 23:30
+### Son Güncelleme: 23.03.2026 23:39
 
 ### Repo Kısa Kodu: yok
 
@@ -36,7 +36,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=ddizi.im&sz=64" width="32"> | **DDizi** |  |  | nikyokki | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.ddizi.im/images/logo.png" width="32"> | **DDizi - Latte** |  |  | GitLatte | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.dmax.com.tr/favicon.ico" width="32"> | **DMax** |  |  | nikyokki | Dizi | 🇹🇷 [TR] |
-| <img src="https://www.ddizi.im/favicon.ico" width="32"> | **Ddizi** |  |  | maarrem | Dizi | 🇹🇷 [TR] |
+| <img src="https://www.ddizi.im/favicon.ico" width="32"> | **Ddizi** |  |  | feroxx | Dizi | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=diziasia.com" width="32"> | **DiziAsia** |  |  | Kraptor123 | Asiandrama | 🇹🇷 [TR] |
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diziasya.com&size=32" width="32"> | **DiziAsya** |  |  | Kraptor123 | Asiandrama, Film, Anime | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=64" width="32"> | **DiziBox** |  |  | maarrem | Dizi | 🇹🇷 [TR] |
