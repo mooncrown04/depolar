@@ -110,11 +110,11 @@ jobs:
 
             let marker = "";
             if (isNew) {
-              marker = "\uD83D\uDFE1";
+              marker = "\ud83d\udfe1 ";
             } else if (versionChanged) {
-              marker = "\U0001F534";  // Versiyon değişmişse kırmızı
+              marker = "\ud83d\udd34 ";  // Versiyon değişmişse kırmızı
             } else if (displayDate.toISOString().split('T')[0] === todayStr) {
-              marker = "\U0001F534";
+              marker = "\ud83d\udd34 ";
             }
 
             plugin.description = `${marker}${repoOwner} ${pluginDateStr} ` + (plugin.description || '');
