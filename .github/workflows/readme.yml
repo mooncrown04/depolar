@@ -49,8 +49,26 @@ jobs:
               m=re.search(r"githubusercontent\.com/([^/]+)",url or "")
               return m.group(1) if m else "UnknownRepo"
 
+          # ✅ YENİ: Plugin'den tarih al (description'dan değil, plugin alanlarından)
+          def parse_date_from_plugin(plugin):
+              fields = ['updatedAt','lastUpdated','updated','releaseDate','date','publishedAt','published','created_at','timestamp','buildDate']
+              for f in fields:
+                  val = plugin.get(f)
+                  if val:
+                      try:
+                          d = datetime.fromisoformat(val.replace('Z', '+00:00'))
+                          return d
+                      except:
+                          try:
+                              d = datetime.strptime(val, "%Y-%m-%d")
+                              return d
+                          except:
+                              continue
+              return None
+
           turkey_tz = timezone(timedelta(hours=3))
-          formatted_date = datetime.now(turkey_tz).strftime("%d.%m.%Y %H:%M")
+          now = datetime.now(turkey_tz)
+          formatted_date = now.strftime("%d.%m.%Y %H:%M")
 
           with open("plugins.json",encoding="utf-8") as f:
               plugins=json.load(f)
@@ -59,16 +77,51 @@ jobs:
           for plugin in plugins:
               name=(plugin.get("name") or plugin.get("title") or "").strip()
               if not name or name in unique_plugins: continue
+              
               language=(plugin.get("language") or "").lower().strip()
               flag,code=get_flag_and_code(language)
               img_url=next((fix_icon_url(plugin[k]) for k in IMAGE_KEYS if plugin.get(k)),None)
               tur_types=turkish_types(plugin.get("tvTypes"))
               repo_owner=get_repo_owner(plugin.get("url") or "")
               desc=(plugin.get("description") or "")
+              
+              # ✅ YENİ: Marker'ı description'dan al
               marker="🔴" if "🔴" in desc else ("🟡" if "🟡" in desc else "")
-              date_part=""
-              m=re.search(r"(\d{2}\.\d{2}\.\d{4})",desc)
-              if m: date_part=m.group(1)
+              
+              # ✅ YENİ: Tarih belirleme mantığı
+              # 1. Önce plugin'in kendi tarih alanlarına bak
+              plugin_date = parse_date_from_plugin(plugin)
+              
+              # 2. Description'dan tarih çıkarmaya çalış
+              date_part = ""
+              m = re.search(r"(\d{2}\.\d{2}\.\d{4})", desc)
+              if m:
+                  date_part = m.group(1)
+              
+              # 3. Eğer 🔴 (güncelleme) varsa ve description'da bugünün tarihi yoksa, bugünün tarihini kullan
+              if marker == "🔴":
+                  # Description'da tarih var mı kontrol et
+                  if date_part:
+                      # Tarihi parse et ve bugün mü kontrol et
+                      try:
+                          desc_date = datetime.strptime(date_part, "%d.%m.%Y").replace(tzinfo=turkey_tz)
+                          today = now.replace(hour=0, minute=0, second=0, microsecond=0)
+                          # Eğer description'daki tarih eskiyse, bugünün tarihini kullan
+                          if desc_date < today:
+                              date_part = now.strftime("%d.%m.%Y")
+                      except:
+                          date_part = now.strftime("%d.%m.%Y")
+                  else:
+                      # Description'da tarih yoksa bugünün tarihini kullan
+                      date_part = now.strftime("%d.%m.%Y")
+              
+              # 4. Eğer hala tarih yoksa plugin'in kendi tarihini veya bugünü kullan
+              if not date_part:
+                  if plugin_date:
+                      date_part = plugin_date.strftime("%d.%m.%Y")
+                  else:
+                      date_part = now.strftime("%d.%m.%Y")
+              
               unique_plugins[name]=(img_url,tur_types,flag,code,date_part,marker,repo_owner)
 
           plugin_count=len(unique_plugins)
