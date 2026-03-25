@@ -7,14 +7,16 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun",
+      "inatchii",
+      "JustRelaxable"
     ],
     "tvTypes": [
       "Anime"
     ],
     "version": 21,
     "internalName": "AnimeciX",
-    "description": "🟡 maarrem 25.03.2026 AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/AnimeciX.cs3",
     "name": "AnimeciX"
   },
@@ -26,14 +28,15 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun",
+      "JustRelaxable"
     ],
     "tvTypes": [
       "Documentary"
     ],
     "version": 12,
     "internalName": "BelgeselX",
-    "description": "🟡 maarrem 25.03.2026 En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/BelgeselX.cs3",
     "name": "BelgeselX"
   },
@@ -45,14 +48,15 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "Adippe",
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Live"
     ],
     "version": 10,
     "internalName": "CanliTV",
-    "description": "🟡 maarrem 25.03.2026 Canlı TV",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 Canlı TV",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/CanliTV.cs3",
     "name": "CanliTV"
   },
@@ -64,14 +68,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Cartoon"
     ],
     "version": 8,
     "internalName": "CizgiMax",
-    "description": "🟡 maarrem 25.03.2026 ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/CizgiMax.cs3",
     "name": "CizgiMax"
   },
@@ -83,14 +87,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "TvSeries"
     ],
     "version": 10,
     "internalName": "Ddizi",
-    "description": "🟡 maarrem 25.03.2026 DDizi.im için Cloudstream eklentisi",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 DDizi.im için Cloudstream eklentisi",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/Ddizi.cs3",
     "name": "Ddizi"
   },
@@ -102,14 +106,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "TvSeries"
     ],
     "version": 23,
     "internalName": "DiziBox",
-    "description": "🟡 maarrem 25.03.2026 Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziBox.cs3",
     "name": "DiziBox"
   },
@@ -121,14 +125,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "AsianDrama"
     ],
     "version": 29,
     "internalName": "DiziKorea",
-    "description": "🟡 maarrem 25.03.2026 En Güncel Kore Dizileri izleme Sitesi",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 En Güncel Kore Dizileri izleme Sitesi",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziKorea.cs3",
     "name": "DiziKorea"
   },
@@ -140,14 +144,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "TvSeries"
     ],
     "version": 39,
     "internalName": "Dizilla",
-    "description": "🟡 maarrem 25.03.2026 Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/Dizilla.cs3",
     "name": "Dizilla"
   },
@@ -159,14 +163,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "TvSeries"
     ],
     "version": 35,
     "internalName": "DiziMom",
-    "description": "🟡 maarrem 25.03.2026 Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziMom.cs3",
     "name": "DiziMom"
   },
@@ -178,7 +182,8 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun",
+      "muratcesmecioglu"
     ],
     "tvTypes": [
       "TvSeries",
@@ -186,7 +191,7 @@
     ],
     "version": 32,
     "internalName": "DiziPal",
-    "description": "🟡 maarrem 25.03.2026 en yeni dizileri güvenli ve hızlı şekilde sunar.",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziPal.cs3",
     "name": "DiziPal"
   },
@@ -198,14 +203,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "TvSeries"
     ],
     "version": 23,
     "internalName": "DiziYou",
-    "description": "🟡 maarrem 25.03.2026 Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/DiziYou.cs3",
     "name": "DiziYou"
   },
@@ -217,14 +222,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 11,
     "internalName": "FilmBip",
-    "description": "🟡 maarrem 25.03.2026 Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Filmbip heryerde seninle!",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Filmbip heryerde seninle!",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FilmBip.cs3",
     "name": "FilmBip"
   },
@@ -236,14 +241,15 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun",
+      "usdogu"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 40,
     "internalName": "FilmMakinesi",
-    "description": "🟡 maarrem 25.03.2026 Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FilmMakinesi.cs3",
     "name": "FilmMakinesi"
   },
@@ -255,14 +261,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 15,
     "internalName": "FilmModu",
-    "description": "🟡 maarrem 25.03.2026 Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FilmModu.cs3",
     "name": "FilmModu"
   },
@@ -274,7 +280,7 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Movie",
@@ -282,7 +288,7 @@
     ],
     "version": 35,
     "internalName": "FullHDFilm",
-    "description": "🟡 maarrem 25.03.2026 Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FullHDFilm.cs3",
     "name": "FullHDFilm"
   },
@@ -294,14 +300,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 27,
     "internalName": "FullHDFilmizlesene",
-    "description": "🟡 maarrem 25.03.2026 Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/FullHDFilmizlesene.cs3",
     "name": "FullHDFilmizlesene"
   },
@@ -313,7 +319,8 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "hexated",
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Movie",
@@ -321,7 +328,7 @@
     ],
     "version": 23,
     "internalName": "HDFilmCehennemi",
-    "description": "🟡 maarrem 25.03.2026 Türkiye'nin en hızlı hd film izleme sitesi",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 Türkiye'nin en hızlı hd film izleme sitesi",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/HDFilmCehennemi.cs3",
     "name": "HDFilmCehennemi"
   },
@@ -333,7 +340,8 @@
     "status": 3,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "JustRelaxable",
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Movie",
@@ -342,7 +350,7 @@
     ],
     "version": 24,
     "internalName": "InatBox",
-    "description": "🟡 maarrem 25.03.2026 İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/InatBox.cs3",
     "name": "InatBox"
   },
@@ -354,14 +362,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 41,
     "internalName": "JetFilmizle",
-    "description": "🟡 maarrem 25.03.2026 Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/JetFilmizle.cs3",
     "name": "JetFilmizle"
   },
@@ -373,14 +381,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "AsianDrama"
     ],
     "version": 7,
     "internalName": "KoreanTurk",
-    "description": "🟡 maarrem 25.03.2026 Güney Kore sevdalılarının vazgeçemediği ve Türkiye'nin en çok ziyaret edilen Güney Kore Portalı; Koreantürk'e hoşgeldiniz!",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 Güney Kore sevdalılarının vazgeçemediği ve Türkiye'nin en çok ziyaret edilen Güney Kore Portalı; Koreantürk'e hoşgeldiniz!",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/KoreanTurk.cs3",
     "name": "KoreanTurk"
   },
@@ -392,7 +400,7 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Movie",
@@ -400,7 +408,7 @@
     ],
     "version": 14,
     "internalName": "KultFilmler",
-    "description": "🟡 maarrem 25.03.2026 Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/KultFilmler.cs3",
     "name": "KultFilmler"
   },
@@ -412,7 +420,8 @@
     "status": 1,
     "language": "hi",
     "authors": [
-      "PyrusDrago"
+      "Horis, megix",
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Movie",
@@ -420,7 +429,7 @@
     ],
     "version": 32,
     "internalName": "NetflixMirror",
-    "description": "🟡 maarrem 25.03.2026 Netflix, PrimeVideo Content in Multiple Languages",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 Netflix, PrimeVideo Content in Multiple Languages",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/NetflixMirror.cs3",
     "name": "NetflixMirror"
   },
@@ -432,14 +441,14 @@
     "status": 1,
     "language": "en",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 3,
     "internalName": "RareFilmm",
-    "description": "🟡 maarrem 25.03.2026 The Cave of Forgotten Films",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 The Cave of Forgotten Films",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/RareFilmm.cs3",
     "name": "RareFilmm"
   },
@@ -451,7 +460,10 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun",
+      "yusiqo",
+      "inatchii",
+      "JustRelaxable"
     ],
     "tvTypes": [
       "Movie",
@@ -460,7 +472,7 @@
     ],
     "version": 97,
     "internalName": "RecTV",
-    "description": "🟡 maarrem 25.03.2026 RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/RecTV.cs3",
     "name": "RecTV"
   },
@@ -472,7 +484,7 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Movie",
@@ -480,7 +492,7 @@
     ],
     "version": 24,
     "internalName": "SetFilmIzle",
-    "description": "🟡 maarrem 25.03.2026 Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/SetFilmIzle.cs3",
     "name": "SetFilmIzle"
   },
@@ -492,14 +504,15 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun",
+      "JustRelaxable"
     ],
     "tvTypes": [
       "TvSeries"
     ],
     "version": 6,
     "internalName": "SezonlukDizi",
-    "description": "🟡 maarrem 25.03.2026 Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/SezonlukDizi.cs3",
     "name": "SezonlukDizi"
   },
@@ -511,14 +524,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 18,
     "internalName": "SinemaCX",
-    "description": "🟡 maarrem 25.03.2026 Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/SinemaCX.cs3",
     "name": "SinemaCX"
   },
@@ -530,14 +543,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 22,
     "internalName": "SuperFilmGeldi",
-    "description": "🟡 maarrem 25.03.2026 Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/SuperFilmGeldi.cs3",
     "name": "SuperFilmGeldi"
   },
@@ -549,14 +562,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 19,
     "internalName": "TLCtr",
-    "description": "🟡 maarrem 25.03.2026 TLC tr",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 TLC tr",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/TLCtr.cs3",
     "name": "TLCtr"
   },
@@ -568,14 +581,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Anime"
     ],
     "version": 17,
     "internalName": "TRanimaci",
-    "description": "🟡 maarrem 25.03.2026 TRanimeci - Türkiye'nin Online Anime izleme sitesi.",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 TRanimeci - Türkiye'nin Online Anime izleme sitesi.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/TRanimaci.cs3",
     "name": "TRanimaci"
   },
@@ -587,14 +600,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "TvSeries"
     ],
     "version": 52,
     "internalName": "TRasyalog",
-    "description": "🟡 maarrem 25.03.2026 TRasyalog izleme sitesi.",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 TRasyalog izleme sitesi.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/TRasyalog.cs3",
     "name": "TRasyalog"
   },
@@ -606,14 +619,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Anime"
     ],
     "version": 14,
     "internalName": "TurkAnime",
-    "description": "🟡 maarrem 25.03.2026 Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/TurkAnime.cs3",
     "name": "TurkAnime"
   },
@@ -625,14 +638,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 13,
     "internalName": "UgurFilm",
-    "description": "🟡 maarrem 25.03.2026 Yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleriyle 720p ve 1080p HD kalitesinde film izle - Uğur Film full hd film izle.",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 Yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleriyle 720p ve 1080p HD kalitesinde film izle - Uğur Film full hd film izle.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/UgurFilm.cs3",
     "name": "UgurFilm"
   },
@@ -644,14 +657,14 @@
     "status": 3,
     "language": "en",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 5,
     "internalName": "Watch2Movies",
-    "description": "🟡 maarrem 25.03.2026 !!! YAPIM AŞAMASINDA !!! Watch2Movies is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series. You can also Download full movies from Watch2Movies and watch it later if you want.",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 !!! YAPIM AŞAMASINDA !!! Watch2Movies is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series. You can also Download full movies from Watch2Movies and watch it later if you want.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/Watch2Movies.cs3",
     "name": "Watch2Movies"
   },
@@ -663,14 +676,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 15,
     "internalName": "WebteIzle",
-    "description": "🟡 maarrem 25.03.2026 Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
+    "description": "\\ud83d\\udfe1 maarrem 25.03.2026 Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
     "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/WebteIzle.cs3",
     "name": "WebteIzle"
   },
@@ -682,14 +695,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "patr0n"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 1,
     "internalName": "AltiYuzAltmisAltiFilmIzle",
-    "description": "🟡 feroxx 25.03.2026 666FilmIzle - Türkçe Dublaj ve Altyazılı Film izle.",
+    "description": "\\ud83d\\udfe1 feroxx 25.03.2026 666FilmIzle - Türkçe Dublaj ve Altyazılı Film izle.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/AltiYuzAltmisAltiFilmIzle.cs3",
     "name": "AltiYuzAltmisAltiFilmIzle"
   },
@@ -701,14 +714,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "patr0n"
     ],
     "tvTypes": [
       "Anime"
     ],
     "version": 1,
     "internalName": "AsyaAnimeleri",
-    "description": "🟡 feroxx 25.03.2026 Asya Animeleri - Anime izle, Donghua izle, Türkçe Altyazılı Anime izle.",
+    "description": "\\ud83d\\udfe1 feroxx 25.03.2026 Asya Animeleri - Anime izle, Donghua izle, Türkçe Altyazılı Anime izle.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/AsyaAnimeleri.cs3",
     "name": "AsyaAnimeleri"
   },
@@ -720,7 +733,8 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun",
+      "muratcesmecioglu"
     ],
     "tvTypes": [
       "TvSeries",
@@ -728,7 +742,7 @@
     ],
     "version": 38,
     "internalName": "DiziPalOriginal",
-    "description": "🟡 feroxx 25.03.2026 en yeni dizileri güvenli ve hızlı şekilde sunar.",
+    "description": "\\ud83d\\udfe1 feroxx 25.03.2026 en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
     "name": "DiziPalOriginal"
   },
@@ -739,14 +753,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "kraptor"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 1,
     "internalName": "kısakod:kraptorcs",
-    "description": "🟡 Kraptor123 25.03.2026 Yeni repomuzun kısa kodları: kraptorcs, kraptorcs3, kraptor bu üç kısa koddan tercih ettiğinizi kullanıp yeni repomuzu ekleyebilirsiniz!",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Yeni repomuzun kısa kodları: kraptorcs, kraptorcs3, kraptor bu üç kısa koddan tercih ettiğinizi kullanıp yeni repomuzu ekleyebilirsiniz!",
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/kraptorcs.cs3",
     "name": "kısakod:kraptorcs"
   },
@@ -758,14 +772,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "sarapcanagii"
     ],
     "tvTypes": [
       "Live"
     ],
     "version": 12,
     "internalName": "NeonSpor",
-    "description": "🟡 sarapcanagii 25.03.2026 (Açılmayan Spor Kanallar İçin VPN Gerekebilir.) NeonSpor eklentisi.",
+    "description": "\\ud83d\\udfe1 sarapcanagii 25.03.2026 (Açılmayan Spor Kanallar İçin VPN Gerekebilir.) NeonSpor eklentisi.",
     "url": "https://raw.githubusercontent.com/sarapcanagii/Pitipitii/builds/NeonSpor.cs3",
     "name": "NeonSpor"
   },
@@ -777,14 +791,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "nikyokki"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 5,
     "internalName": "4KFilmIzlesene",
-    "description": "🟡 ramazansancar 25.03.2026 En yeni ve sorunsuz ⚡  Full HD Film izle keyfi her yerde sizinle ! 4K ve 1080p online film izleme farkıyla 4KFilmizlesene&amp;#039;nin Tadını Çıkart.",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 En yeni ve sorunsuz ⚡  Full HD Film izle keyfi her yerde sizinle ! 4K ve 1080p online film izleme farkıyla 4KFilmizlesene&amp;#039;nin Tadını Çıkart.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/4KFilmIzlesene.cs3",
     "name": "4KFilmIzlesene"
   },
@@ -796,14 +810,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "nikyokki"
     ],
     "tvTypes": [
       "Movie, TvSeries"
     ],
     "version": 2,
     "internalName": "AsyaWatch",
-    "description": "🟡 ramazansancar 25.03.2026 Asyawatch",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 Asyawatch",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/AsyaWatch.cs3",
     "name": "AsyaWatch"
   },
@@ -815,7 +829,8 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "nikyokki",
+      "ramazansancar"
     ],
     "tvTypes": [
       "Movie",
@@ -823,7 +838,7 @@
     ],
     "version": 9,
     "internalName": "DiziGom",
-    "description": "🟡 ramazansancar 25.03.2026 Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/DiziGom.cs3",
     "name": "DiziGom"
   },
@@ -835,14 +850,15 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "nikyokki",
+      "kerimmkirac"
     ],
     "tvTypes": [
       "TvSeries"
     ],
     "version": 16,
     "internalName": "DiziMag",
-    "description": "🟡 ramazansancar 25.03.2026 En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/DiziMag.cs3",
     "name": "DiziMag"
   },
@@ -854,14 +870,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "nikyokki"
     ],
     "tvTypes": [
       "TvSeries"
     ],
     "version": 1,
     "internalName": "DMax",
-    "description": "🟡 ramazansancar 25.03.2026 DMAX dizi ve programlarını takip etmek için ziyaret edin. DMAX dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 DMAX dizi ve programlarını takip etmek için ziyaret edin. DMAX dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/DMax.cs3",
     "name": "DMax"
   },
@@ -873,14 +889,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "nikyokki"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 2,
     "internalName": "Filmİzlesene",
-    "description": "🟡 ramazansancar 25.03.2026 Filmizlesene ile hızlı film izleme fırsatını yakala, en yeni ve iyi filmleri Full HD 1080p kalitesiyle online ve bedava izle",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 Filmizlesene ile hızlı film izleme fırsatını yakala, en yeni ve iyi filmleri Full HD 1080p kalitesiyle online ve bedava izle",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/Filmİzlesene.cs3",
     "name": "Filmİzlesene"
   },
@@ -892,14 +908,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "nikyokki"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 3,
     "internalName": "FilmKovasi",
-    "description": "🟡 ramazansancar 25.03.2026 Film Kovasi ⚡ ile en güncel ve sorunsuz Full HD Film izle keyfi her yerde seninle! 1080p online film izleme ayrıcalığıyla Film Kovası'nın Tadını Çıkarın.",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 Film Kovasi ⚡ ile en güncel ve sorunsuz Full HD Film izle keyfi her yerde seninle! 1080p online film izleme ayrıcalığıyla Film Kovası'nın Tadını Çıkarın.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/FilmKovasi.cs3",
     "name": "FilmKovasi"
   },
@@ -911,14 +927,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "nikyokki"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 2,
     "internalName": "FullHDFilmİzlede",
-    "description": "🟡 ramazansancar 25.03.2026 En güncel ve popüler filmleri Full HD kalitesinde, Türkçe altyazılı veya Türkçe dublaj seçenekleriyle izleyebileceğiniz tek adres! Sinema tutkunları için en özel film deneyimini yaşamak için fullhdfilmizlede.net",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 En güncel ve popüler filmleri Full HD kalitesinde, Türkçe altyazılı veya Türkçe dublaj seçenekleriyle izleyebileceğiniz tek adres! Sinema tutkunları için en özel film deneyimini yaşamak için fullhdfilmizlede.net",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/FullHDFilmİzlede.cs3",
     "name": "FullHDFilmİzlede"
   },
@@ -930,14 +946,15 @@
     "status": 3,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "usdogu",
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Live"
     ],
     "version": 6,
     "internalName": "GolgeTV",
-    "description": "🟡 ramazansancar 25.03.2026 GolgeTV cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 GolgeTV cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/GolgeTV.cs3",
     "name": "GolgeTV"
   },
@@ -949,7 +966,7 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "nikyokki"
     ],
     "tvTypes": [
       "Movie",
@@ -957,7 +974,7 @@
     ],
     "version": 2,
     "internalName": "HDFilmIzle",
-    "description": "🟡 ramazansancar 25.03.2026 HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabancı filmlerle Türkçe dublaj veya Altyazı olarak kesintisiz film izlemenin tadını çıkarın.",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabancı filmlerle Türkçe dublaj veya Altyazı olarak kesintisiz film izlemenin tadını çıkarın.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/HDFilmIzle.cs3",
     "name": "HDFilmIzle"
   },
@@ -969,14 +986,15 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "nikyokki",
+      "ramazansancar"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 12,
     "internalName": "HDFilmSitesi",
-    "description": "🟡 ramazansancar 25.03.2026 Film izle, Hdfilmsitesi ile Online 1080p ve 4K kalite Full HD Filmlere Türkçe Dublaj ve Altyazılı olarak Reklamsız Kesintisiz HD Film izle.",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 Film izle, Hdfilmsitesi ile Online 1080p ve 4K kalite Full HD Filmlere Türkçe Dublaj ve Altyazılı olarak Reklamsız Kesintisiz HD Film izle.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/HDFilmSitesi.cs3",
     "name": "HDFilmSitesi"
   },
@@ -988,14 +1006,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "patr0n"
     ],
     "tvTypes": [
       "Live"
     ],
     "version": 3,
     "internalName": "iptvSevenler",
-    "description": "🟡 ramazansancar 25.03.2026 iptvSevenler",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 iptvSevenler",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/iptvSevenler.cs3",
     "name": "iptvSevenler"
   },
@@ -1007,14 +1025,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 6,
     "internalName": "IzleAI",
-    "description": "🟡 ramazansancar 25.03.2026 1080P yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleri ile Türkiye'nin en geniş film arşivi 720pizle Full hd film izle.",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 1080P yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleri ile Türkiye'nin en geniş film arşivi 720pizle Full hd film izle.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/IzleAI.cs3",
     "name": "IzleAI"
   },
@@ -1026,14 +1044,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "patr0n"
     ],
     "tvTypes": [
       "TvSeries"
     ],
     "version": 2,
     "internalName": "powerDizi",
-    "description": "🟡 ramazansancar 25.03.2026 powerDizi",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 powerDizi",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/powerDizi.cs3",
     "name": "powerDizi"
   },
@@ -1045,14 +1063,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "patr0n"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 3,
     "internalName": "powerSinema",
-    "description": "🟡 ramazansancar 25.03.2026 powerSinema",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 powerSinema",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/powerSinema.cs3",
     "name": "powerSinema"
   },
@@ -1064,14 +1082,15 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "nikyokki",
+      "ramazansancar"
     ],
     "tvTypes": [
       "TvSeries"
     ],
     "version": 9,
     "internalName": "RoketDizi",
-    "description": "🟡 ramazansancar 25.03.2026 Türkiye'nin en tatlış yabancı dizi izleme sitesi. Türkçe dublaj, altyazılı, eski ve yeni yabancı dizilerin yanı sıra kore (asya) dizileri izleyebilirsiniz.",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 Türkiye'nin en tatlış yabancı dizi izleme sitesi. Türkçe dublaj, altyazılı, eski ve yeni yabancı dizilerin yanı sıra kore (asya) dizileri izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/RoketDizi.cs3",
     "name": "RoketDizi"
   },
@@ -1083,7 +1102,8 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun",
+      "yusiqo"
     ],
     "tvTypes": [
       "Movie",
@@ -1092,7 +1112,7 @@
     ],
     "version": 12,
     "internalName": "SineWix",
-    "description": "🟡 ramazansancar 25.03.2026 Sinewix | Ücretsiz Film - Dizi - Anime İzleme Uygulaması.",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 Sinewix | Ücretsiz Film - Dizi - Anime İzleme Uygulaması.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/SineWix.cs3",
     "name": "SineWix"
   },
@@ -1104,14 +1124,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "nikyokki"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 2,
     "internalName": "Tafdi",
-    "description": "🟡 ramazansancar 25.03.2026 Türkçe altyazılı film izle, full hd olarak film izlemenin keyfini çıkarın. Türkiyenin en büyük film izleme platformu tafdi kalitesiyle sizlerle.",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 Türkçe altyazılı film izle, full hd olarak film izlemenin keyfini çıkarın. Türkiyenin en büyük film izleme platformu tafdi kalitesiyle sizlerle.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/Tafdi.cs3",
     "name": "Tafdi"
   },
@@ -1123,14 +1143,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "nikyokki"
     ],
     "tvTypes": [
       "TvSeries"
     ],
     "version": 1,
     "internalName": "TLCTR",
-    "description": "🟡 ramazansancar 25.03.2026 TLC TV dizi ve programlarını takip etmek için ziyaret edin. TLC TV dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 TLC TV dizi ve programlarını takip etmek için ziyaret edin. TLC TV dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/TLCTR.cs3",
     "name": "TLCTR"
   },
@@ -1142,14 +1162,16 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "Adippe",
+      "keyiflerolsun",
+      "nikyokki"
     ],
     "tvTypes": [
       "Live"
     ],
     "version": 6,
     "internalName": "TurkSCanliTV",
-    "description": "🟡 ramazansancar 25.03.2026 TurkS Canlı TV",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 TurkS Canlı TV",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/TurkSCanliTV.cs3",
     "name": "TurkSCanliTV"
   },
@@ -1161,14 +1183,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "nikyokki"
     ],
     "tvTypes": [
       "TvSeries"
     ],
     "version": 1,
     "internalName": "TvDiziler",
-    "description": "🟡 ramazansancar 25.03.2026 Ücretsiz yerli dizi izleme sitesi en popüler dizileri tek parça hd kalitesiyle ve reklamsız bedava olarak buradan tv dizileri izleyin.",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 Ücretsiz yerli dizi izleme sitesi en popüler dizileri tek parça hd kalitesiyle ve reklamsız bedava olarak buradan tv dizileri izleyin.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/TvDiziler.cs3",
     "name": "TvDiziler"
   },
@@ -1180,7 +1202,7 @@
     "fileSize": 13653,
     "status": 1,
     "authors": [
-      "PyrusDrago"
+      "CranberrySoup"
     ],
     "tvTypes": [
       "Live"
@@ -1188,7 +1210,7 @@
     "version": 4,
     "internalName": "Twitch",
     "jarUrl": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/Twitch.jar",
-    "description": "🟡 ramazansancar 25.03.2026 Watch livestreams from Twitch",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 Watch livestreams from Twitch",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/Twitch.cs3",
     "name": "Twitch"
   },
@@ -1200,14 +1222,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "patr0n"
     ],
     "tvTypes": [
       "Live"
     ],
     "version": 2,
     "internalName": "vavooSpor",
-    "description": "🟡 ramazansancar 25.03.2026 vavooSpor",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 vavooSpor",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/vavooSpor.cs3",
     "name": "vavooSpor"
   },
@@ -1219,14 +1241,15 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "nikyokki",
+      "kerimmkirac"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 3,
     "internalName": "WFilmİzle",
-    "description": "🟡 ramazansancar 25.03.2026 Aile Filmleri izle, Yerli ve yabancı en yeni Aile filmlerini Full HD 1080p görüntü kalitesiyle Türkçe Dublaj ve Türkçe Altyazı seçenekleriyle izleyin.",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 Aile Filmleri izle, Yerli ve yabancı en yeni Aile filmlerini Full HD 1080p görüntü kalitesiyle Türkçe Dublaj ve Türkçe Altyazı seçenekleriyle izleyin.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/WFilmİzle.cs3",
     "name": "WFilmİzle"
   },
@@ -1238,14 +1261,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "nikyokki"
     ],
     "tvTypes": [
       "TvSeries"
     ],
     "version": 3,
     "internalName": "YabanciDizi",
-    "description": "🟡 ramazansancar 25.03.2026 Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/YabanciDizi.cs3",
     "name": "YabanciDizi"
   },
@@ -1257,14 +1280,15 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "Cloudburst",
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Others"
     ],
     "version": 6,
     "internalName": "YouTube",
-    "description": "🟡 ramazansancar 25.03.2026 YouTube, izlediğiniz videolarla önerilerini iyileştirir. İlginizi çekebilecek içeriklerle dolu bir akış oluşturmak için video izlemeye başlayın.",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 YouTube, izlediğiniz videolarla önerilerini iyileştirir. İlginizi çekebilecek içeriklerle dolu bir akış oluşturmak için video izlemeye başlayın.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/YouTube.cs3",
     "name": "YouTube"
   },
@@ -1277,7 +1301,7 @@
     "status": 1,
     "language": "en",
     "authors": [
-      "PyrusDrago"
+      "Phisher98"
     ],
     "tvTypes": [
       "Movie",
@@ -1286,7 +1310,7 @@
     "version": 5,
     "internalName": "YTS",
     "jarUrl": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/YTS.jar",
-    "description": "🟡 ramazansancar 25.03.2026 YTS Movies 4K Support (Torrent)",
+    "description": "\\ud83d\\udfe1 ramazansancar 25.03.2026 YTS Movies 4K Support (Torrent)",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/YTS.cs3",
     "name": "YTS"
   },
@@ -1298,14 +1322,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "Makoto Tokioki"
     ],
     "tvTypes": [
       "Tv Series"
     ],
     "version": 14,
     "internalName": "YerelDiziler",
-    "description": "🟡 Sertel392 25.03.2026 Bu eklentide yerel dizileri güncel şekilde bulabilirsiniz",
+    "description": "\\ud83d\\udfe1 Sertel392 25.03.2026 Bu eklentide yerel dizileri güncel şekilde bulabilirsiniz",
     "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/YerelDiziler.cs3",
     "name": "YerelDiziler"
   },
@@ -1316,14 +1340,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "Makoto Tokioki"
     ],
     "tvTypes": [
       "Cartoon, TvSeries"
     ],
     "version": 3,
     "internalName": "CizgiVeDizi",
-    "description": "🟡 Sertel392 25.03.2026 Popüler çizgi film ve dizilerin Türkçe güncel kaynağı.",
+    "description": "\\ud83d\\udfe1 Sertel392 25.03.2026 Popüler çizgi film ve dizilerin Türkçe güncel kaynağı.",
     "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/CizgiVeDizi.cs3",
     "name": "CizgiVeDizi"
   },
@@ -1334,14 +1358,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "Makoto Tokioki"
     ],
     "tvTypes": [
       "Live"
     ],
     "version": 4,
     "internalName": "CanliTv",
-    "description": "🟡 Sertel392 25.03.2026 Ulusal kanalları bu eklentide izleyebilirsiniz.",
+    "description": "\\ud83d\\udfe1 Sertel392 25.03.2026 Ulusal kanalları bu eklentide izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/CanliTv.cs3",
     "name": "CanliTv"
   },
@@ -1352,7 +1376,7 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "Makoto Tokioki"
     ],
     "tvTypes": [
       "AsianDrama",
@@ -1362,7 +1386,7 @@
     ],
     "version": 2,
     "internalName": "WebDramaTurkey",
-    "description": "🟡 Sertel392 25.03.2026 Asya içeriklerinin tek adresi.",
+    "description": "\\ud83d\\udfe1 Sertel392 25.03.2026 Asya içeriklerinin tek adresi.",
     "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/WebDramaTurkey.cs3",
     "name": "WebDramaTurkey"
   },
@@ -1373,7 +1397,7 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "Makoto Tokioki"
     ],
     "tvTypes": [
       "Movie",
@@ -1381,7 +1405,7 @@
     ],
     "version": 2,
     "internalName": "TorrentFilm",
-    "description": "🟡 Sertel392 25.03.2026 Türkçe altyazılı torrentleri buradan 4K kalitesinde izleyebilirsiniz.",
+    "description": "\\ud83d\\udfe1 Sertel392 25.03.2026 Türkçe altyazılı torrentleri buradan 4K kalitesinde izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/TorrentFilm.cs3",
     "name": "TorrentFilm"
   },
@@ -1392,14 +1416,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "Makoto Tokioki"
     ],
     "tvTypes": [
       "Tv Series"
     ],
     "version": 1,
     "internalName": "YerelProgramlar",
-    "description": "🟡 Sertel392 25.03.2026 Yerel programları güncel şekilde bulabilirsiniz",
+    "description": "\\ud83d\\udfe1 Sertel392 25.03.2026 Yerel programları güncel şekilde bulabilirsiniz",
     "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/YerelProgramlar.cs3",
     "name": "YerelProgramlar"
   },
@@ -1410,14 +1434,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "Makoto Tokioki"
     ],
     "tvTypes": [
       "TvSeries"
     ],
     "version": 1,
     "internalName": "Kanal 7",
-    "description": "🟡 Sertel392 25.03.2026 Hint, Pakistan ve Türk dizilerinin adresi",
+    "description": "\\ud83d\\udfe1 Sertel392 25.03.2026 Hint, Pakistan ve Türk dizilerinin adresi",
     "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/Kanal 7.cs3",
     "name": "Kanal 7"
   },
@@ -1428,14 +1452,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "Makoto Tokioki"
     ],
     "tvTypes": [
       "Movie,TvSeries"
     ],
     "version": 1,
     "internalName": "Puhu",
-    "description": "🟡 Sertel392 25.03.2026 Puhu",
+    "description": "\\ud83d\\udfe1 Sertel392 25.03.2026 Puhu",
     "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/Puhu.cs3",
     "name": "Puhu"
   },
@@ -1446,14 +1470,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "Makoto Tokioki"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 2,
     "internalName": "AsyaFilmIzlesene",
-    "description": "🟡 Sertel392 25.03.2026 Hint, Kore Filmleri",
+    "description": "\\ud83d\\udfe1 Sertel392 25.03.2026 Hint, Kore Filmleri",
     "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/AsyaFilmIzlesene.cs3",
     "name": "AsyaFilmIzlesene"
   },
@@ -1465,7 +1489,8 @@
     "status": 1,
     "language": "de",
     "authors": [
-      "PyrusDrago"
+      "GitLatte",
+      "Hexated"
     ],
     "tvTypes": [
       "AnimeMovie",
@@ -1474,7 +1499,7 @@
     ],
     "version": 4,
     "internalName": "Aniworld MC - Latte",
-    "description": "🟡 GitLatte 25.03.2026 Sinetech.tr Forum @Memetcandal`ın isteği üzerine Aniworld eklentisinin Hexated isimli depodan alınıp güncellenmiş halidir. Altyazılı veya dublajlı olarak anime izleyebilirsiniz. Türkçe içerikler yoktur.",
+    "description": "\\ud83d\\udfe1 GitLatte 25.03.2026 Sinetech.tr Forum @Memetcandal`ın isteği üzerine Aniworld eklentisinin Hexated isimli depodan alınıp güncellenmiş halidir. Altyazılı veya dublajlı olarak anime izleyebilirsiniz. Türkçe içerikler yoktur.",
     "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/Aniworld MC - Latte.cs3",
     "name": "Aniworld MC - Latte"
   },
@@ -1486,14 +1511,15 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "GitLatte",
+      "patr0nq"
     ],
     "tvTypes": [
       "TvSeries"
     ],
     "version": 4,
     "internalName": "DDizi - Latte",
-    "description": "🟡 GitLatte 25.03.2026 Ddizi, dizi izle, dizi seyret, ddizi.im - Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz dizi izleme sitesi.",
+    "description": "\\ud83d\\udfe1 GitLatte 25.03.2026 Ddizi, dizi izle, dizi seyret, ddizi.im - Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz dizi izleme sitesi.",
     "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DDizi - Latte.cs3",
     "name": "DDizi - Latte"
   },
@@ -1505,7 +1531,8 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "GitLatte",
+      "patr0nq"
     ],
     "tvTypes": [
       "TvSeries",
@@ -1513,7 +1540,7 @@
     ],
     "version": 5,
     "internalName": "DiziFun - Latte",
-    "description": "🟡 GitLatte 25.03.2026 Dizifun, yabancı dizi - film, yerli dizi - film , türkçe dublaj , türkçe altyazılı ve anime dizi - film izlemeniz için sizinledir.",
+    "description": "\\ud83d\\udfe1 GitLatte 25.03.2026 Dizifun, yabancı dizi - film, yerli dizi - film , türkçe dublaj , türkçe altyazılı ve anime dizi - film izlemeniz için sizinledir.",
     "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DiziFun - Latte.cs3",
     "name": "DiziFun - Latte"
   },
@@ -1525,14 +1552,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "GitLatte"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 3,
     "internalName": "GoFilmIzle - Latte",
-    "description": "🟡 GitLatte 25.03.2026 GoFilmizle | Yerli ve Yabancı Full HD Film izleme Sitesi - Diziler çalışmaz.",
+    "description": "\\ud83d\\udfe1 GitLatte 25.03.2026 GoFilmizle | Yerli ve Yabancı Full HD Film izleme Sitesi - Diziler çalışmaz.",
     "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/GoFilmIzle - Latte.cs3",
     "name": "GoFilmIzle - Latte"
   },
@@ -1544,7 +1571,8 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "GitLatte",
+      "patr0nq"
     ],
     "tvTypes": [
       "TvSeries",
@@ -1552,7 +1580,7 @@
     ],
     "version": 3,
     "internalName": "KICK Türkiye - Latte",
-    "description": "🟡 GitLatte 25.03.2026 Kick'teki Türkçe canlı yayınlar ve popüler yayıncıları canlı izleyin. Arayın, bulun  ve izlemeye devam edin.",
+    "description": "\\ud83d\\udfe1 GitLatte 25.03.2026 Kick'teki Türkçe canlı yayınlar ve popüler yayıncıları canlı izleyin. Arayın, bulun  ve izlemeye devam edin.",
     "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/KICK Türkiye - Latte.cs3",
     "name": "KICK Türkiye - Latte"
   },
@@ -1564,14 +1592,17 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "keyiflerolsun",
+      "GitLatte",
+      "patr0nq",
+      "nikyokki"
     ],
     "tvTypes": [
       "Live"
     ],
     "version": 3,
     "internalName": "myway TV - Latte",
-    "description": "🟡 GitLatte 25.03.2026 Sinetech.tr Forum myway canlı tv listesi",
+    "description": "\\ud83d\\udfe1 GitLatte 25.03.2026 Sinetech.tr Forum myway canlı tv listesi",
     "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/myway TV - Latte.cs3",
     "name": "myway TV - Latte"
   },
@@ -1583,14 +1614,15 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "GitLatte",
+      "patr0nq"
     ],
     "tvTypes": [
       "Live"
     ],
     "version": 3,
     "internalName": "Müzik TV ve Radyo - Latte",
-    "description": "🟡 GitLatte 25.03.2026 Müzik Kanallarına özel canlı tv eklentisidir.",
+    "description": "\\ud83d\\udfe1 GitLatte 25.03.2026 Müzik Kanallarına özel canlı tv eklentisidir.",
     "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/Müzik TV ve Radyo - Latte.cs3",
     "name": "Müzik TV ve Radyo - Latte"
   },
@@ -1602,14 +1634,16 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "GitLatte",
+      "patr0nq",
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "TvSeries"
     ],
     "version": 6,
     "internalName": "powerboard Dizi - Latte",
-    "description": "🟡 GitLatte 25.03.2026 powerboard`un yabancı dizi arşivi",
+    "description": "\\ud83d\\udfe1 GitLatte 25.03.2026 powerboard`un yabancı dizi arşivi",
     "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/powerboard Dizi - Latte.cs3",
     "name": "powerboard Dizi - Latte"
   },
@@ -1621,14 +1655,16 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "GitLatte",
+      "patr0nq",
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Movie"
     ],
     "version": 5,
     "internalName": "powerboard Sinema - Latte",
-    "description": "🟡 GitLatte 25.03.2026 powerboard`un sinema arşivi",
+    "description": "\\ud83d\\udfe1 GitLatte 25.03.2026 powerboard`un sinema arşivi",
     "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/powerboard Sinema - Latte.cs3",
     "name": "powerboard Sinema - Latte"
   },
@@ -1640,14 +1676,16 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "GitLatte",
+      "patr0nq",
+      "keyiflerolsun"
     ],
     "tvTypes": [
       "Live"
     ],
     "version": 3,
     "internalName": "Tv Bahçesi - Latte",
-    "description": "🟡 GitLatte 25.03.2026 TvGarden televizyon listesi. @keyiflerolsun Canlı TV eklentisinden yararlanılmıştır.",
+    "description": "\\ud83d\\udfe1 GitLatte 25.03.2026 TvGarden televizyon listesi. @keyiflerolsun Canlı TV eklentisinden yararlanılmıştır.",
     "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/Tv Bahçesi - Latte.cs3",
     "name": "Tv Bahçesi - Latte"
   },
@@ -1659,7 +1697,8 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "GitLatte",
+      "patr0nq"
     ],
     "tvTypes": [
       "Movie",
@@ -1669,7 +1708,7 @@
     ],
     "version": 3,
     "internalName": "WebDramaTurkey - Latte",
-    "description": "🟡 GitLatte 25.03.2026 Kore, Çin ve Japon yapımı filmleri Web Drama Turkey üzerinden Türkçe altyazılı olarak izleyebilirsiniz. Kore filmi izle, Çin filmi izle, Asya filmleri izle.",
+    "description": "\\ud83d\\udfe1 GitLatte 25.03.2026 Kore, Çin ve Japon yapımı filmleri Web Drama Turkey üzerinden Türkçe altyazılı olarak izleyebilirsiniz. Kore filmi izle, Çin filmi izle, Asya filmleri izle.",
     "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/WebDramaTurkey - Latte.cs3",
     "name": "WebDramaTurkey - Latte"
   },
@@ -1681,14 +1720,14 @@
     "status": 1,
     "language": "tr",
     "authors": [
-      "PyrusDrago"
+      "GitLatte"
     ],
     "tvTypes": [
       "Live"
     ],
     "version": 1,
     "internalName": "YouTube Özel - Latte",
-    "description": "🟡 GitLatte 25.03.2026 Youtube 7/24 içeriklerinden derlemeler içerir. Orijinal youtube ile oynatılarak kullanılmaktadır. Bu konuda @feroxx`un geliştirdiği youtube extractor için teşekkürler.",
+    "description": "\\ud83d\\udfe1 GitLatte 25.03.2026 Youtube 7/24 içeriklerinden derlemeler içerir. Orijinal youtube ile oynatılarak kullanılmaktadır. Bu konuda @feroxx`un geliştirdiği youtube extractor için teşekkürler.",
     "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/YouTube Özel - Latte.cs3",
     "name": "YouTube Özel - Latte"
   },
@@ -1699,9 +1738,11 @@
     "name": "Animeler",
     "internalName": "Animeler",
     "authors": [
-      "PyrusDrago"
+      "kraptor",
+      "ByAyzen",
+      "kerimmkirac"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 HD kalitesinde ücretsiz anime izle! Animeler.me, en yeni ve popüler anime serilerini Türkçe altyazılı ve dublajlı olarak sunar. Favori animelerini hemen keşfet!",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 HD kalitesinde ücretsiz anime izle! Animeler.me, en yeni ve popüler anime serilerini Türkçe altyazılı ve dublajlı olarak sunar. Favori animelerini hemen keşfet!",
     "fileSize": 37805,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -1718,9 +1759,10 @@
     "name": "Animely",
     "internalName": "Animely",
     "authors": [
-      "PyrusDrago"
+      "kraptor",
+      "ByAyzen"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Animely ile en sevdiğiniz animeleri Türkçe altyazılı olarak HD kalitede izleyin. Güncel sezon animeleri, klasikler ve çok daha fazlası. Hemen ücretsiz hesap oluşturun ve anime dünyasına katılın. Binlerce bölüm anime içeriğiyle sizleri bekliyor!",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Animely ile en sevdiğiniz animeleri Türkçe altyazılı olarak HD kalitede izleyin. Güncel sezon animeleri, klasikler ve çok daha fazlası. Hemen ücretsiz hesap oluşturun ve anime dünyasına katılın. Binlerce bölüm anime içeriğiyle sizleri bekliyor!",
     "fileSize": 26576,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -1739,9 +1781,9 @@
     "name": "Anizium",
     "internalName": "Anizium",
     "authors": [
-      "PyrusDrago"
+      "kerimmkirac"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Anizium ile dünyada ilk ve tek 4K Türkçe dublaj platformunda anime keyfini yaşa. En yeni animeleri İngilizce altyazı ve dublaj seçenekleriyle 1080p ve 4K kalitesinde HD izle.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Anizium ile dünyada ilk ve tek 4K Türkçe dublaj platformunda anime keyfini yaşa. En yeni animeleri İngilizce altyazı ve dublaj seçenekleriyle 1080p ve 4K kalitesinde HD izle.",
     "fileSize": 38165,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -1759,9 +1801,10 @@
     "name": "AsyaFanatiklerim",
     "internalName": "AsyaFanatiklerim",
     "authors": [
-      "PyrusDrago"
+      "kraptor",
+      "kerimmkirac"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Asya Fanatikleri, asya dizilerini izleme imkanı sunar. Kore dizileri izle, asyafanatikleri kore dizileri, tayvan dizileri izle, çin dizileri izle, anime izle.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Asya Fanatikleri, asya dizilerini izleme imkanı sunar. Kore dizileri izle, asyafanatikleri kore dizileri, tayvan dizileri izle, çin dizileri izle, anime izle.",
     "fileSize": 18404,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -1778,9 +1821,9 @@
     "name": "AsyaMinik",
     "internalName": "AsyaMinik",
     "authors": [
-      "PyrusDrago"
+      "kraptor"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Asyaminik - En Güncel Asya Dizileri Burada!",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Asyaminik - En Güncel Asya Dizileri Burada!",
     "fileSize": 19725,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -1797,9 +1840,9 @@
     "name": "BirAsyaDizi",
     "internalName": "BirAsyaDizi",
     "authors": [
-      "PyrusDrago"
+      "kraptor"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Asya'nın En Ünlü Dizilerini en yüksek çözünürlükte HD ve kesintisiz izleyin, kaliteli Asya film ve dizilerinin keyfini sürün.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Asya'nın En Ünlü Dizilerini en yüksek çözünürlükte HD ve kesintisiz izleyin, kaliteli Asya film ve dizilerinin keyfini sürün.",
     "fileSize": 16912,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -1816,9 +1859,9 @@
     "name": "CizgiveDizi",
     "internalName": "CizgiveDizi",
     "authors": [
-      "PyrusDrago"
+      "kraptor"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
     "fileSize": 37176,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -1835,9 +1878,9 @@
     "name": "DiziAsia",
     "internalName": "DiziAsia",
     "authors": [
-      "PyrusDrago"
+      "kerimmkirac"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 DiziAsia - Asya Dizileri İzle",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 DiziAsia - Asya Dizileri İzle",
     "fileSize": 17470,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -1854,9 +1897,9 @@
     "name": "DiziAsya",
     "internalName": "DiziAsya",
     "authors": [
-      "PyrusDrago"
+      "kerimmkirac"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Asya'nın en iyi Çin ve Kore dizilerini ve filmlerini keşfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kültürüne hemen adım atın!",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Asya'nın en iyi Çin ve Kore dizilerini ve filmlerini keşfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kültürüne hemen adım atın!",
     "fileSize": 50377,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -1875,9 +1918,9 @@
     "name": "DiziFilmORG",
     "internalName": "DiziFilmORG",
     "authors": [
-      "PyrusDrago"
+      "ByAyzen"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 En yeni ve popüler yerli yabancı filmleri Türkçe dublaj ve altyazılı seçeneklerle Full HD kalitede, tek parça ve kesintisiz Dizifilm.org’da izle.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 En yeni ve popüler yerli yabancı filmleri Türkçe dublaj ve altyazılı seçeneklerle Full HD kalitede, tek parça ve kesintisiz Dizifilm.org’da izle.",
     "fileSize": 41259,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -1895,9 +1938,10 @@
     "name": "DiziLife",
     "internalName": "DiziLife",
     "authors": [
-      "PyrusDrago"
+      "kerimmkirac",
+      "kraptor"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Dizilife yabancı dizi ve film izlemek için tasarlanmış bir platformdur. Tüm dünyadan yerli/yabancı bütün dizileri ve filmleri ücretsiz ve donmadan izleyebilirsiniz.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Dizilife yabancı dizi ve film izlemek için tasarlanmış bir platformdur. Tüm dünyadan yerli/yabancı bütün dizileri ve filmleri ücretsiz ve donmadan izleyebilirsiniz.",
     "fileSize": 23175,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -1915,9 +1959,11 @@
     "name": "DiziPalOrijinal",
     "internalName": "DiziPalOrijinal",
     "authors": [
-      "PyrusDrago"
+      "kraptor",
+      "kerimmkirac",
+      "ByAyzen"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 DiziPal Orijinal.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 DiziPal Orijinal.",
     "fileSize": 92508,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -1934,9 +1980,9 @@
     "name": "DiziWatch",
     "internalName": "DiziWatch",
     "authors": [
-      "PyrusDrago"
+      "kraptor"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Yabancı dizi izle, anime izle, en popüler yabancı dizileri ve animeleri ücretsiz olarak diziwatch.tv'de izleyin.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Yabancı dizi izle, anime izle, en popüler yabancı dizileri ve animeleri ücretsiz olarak diziwatch.tv'de izleyin.",
     "fileSize": 26891,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -1954,9 +2000,10 @@
     "name": "DiziYo",
     "internalName": "DiziYo",
     "authors": [
-      "PyrusDrago"
+      "kraptor",
+      "ByAyzen"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Diziyo ile Yabancı Dizi, Film, Anime, Çizgi-Film izle.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Diziyo ile Yabancı Dizi, Film, Anime, Çizgi-Film izle.",
     "fileSize": 79254,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -1974,9 +2021,9 @@
     "name": "FilmEkseni",
     "internalName": "FilmEkseni",
     "authors": [
-      "PyrusDrago"
+      "kraptor"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Film Ekseni ⚡ Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Film Ekseni ⚡ Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
     "fileSize": 27226,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -1993,7 +2040,7 @@
     "name": "FilmHane",
     "internalName": "FilmHane",
     "authors": [
-      "PyrusDrago"
+      "kraptor"
     ],
     "fileSize": 22837,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
@@ -2003,7 +2050,7 @@
     ],
     "iconUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE",
     "apiVersion": 1,
-    "description": "🟡 Kraptor123 25.03.2026 "
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 "
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Filmzal.cs3",
@@ -2012,9 +2059,9 @@
     "name": "Filmzal",
     "internalName": "Filmzal",
     "authors": [
-      "PyrusDrago"
+      "kraptor"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Filmzal: HD Film izle, Tv-Seriallar - HD Film izle, Azerbaycanca Dublaj film izle, Türkçe Dublaj Film İzle",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Filmzal: HD Film izle, Tv-Seriallar - HD Film izle, Azerbaycanca Dublaj film izle, Türkçe Dublaj Film İzle",
     "fileSize": 30788,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "az",
@@ -2031,9 +2078,9 @@
     "name": "FlixHQ",
     "internalName": "FlixHQ",
     "authors": [
-      "PyrusDrago"
+      "kerimmkirac"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Watch Free Movies and Series online - Very fast streaming - No Registration Required - Click NOW",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Watch Free Movies and Series online - Very fast streaming - No Registration Required - Click NOW",
     "fileSize": 52857,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "en",
@@ -2051,9 +2098,9 @@
     "name": "FullHDIzle",
     "internalName": "FullHDIzle",
     "authors": [
-      "PyrusDrago"
+      "kraptor"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Film izle online platformunda, Full hd film izleme ayrıcalığını yaşayın. Türkçe Dublaj ve altyazılı filmleri kayıt derdi olmadan 720p veya 1080p izleyin.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Film izle online platformunda, Full hd film izleme ayrıcalığını yaşayın. Türkçe Dublaj ve altyazılı filmleri kayıt derdi olmadan 720p veya 1080p izleyin.",
     "fileSize": 18127,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -2070,9 +2117,9 @@
     "name": "GinikoCanli",
     "internalName": "GinikoCanli",
     "authors": [
-      "PyrusDrago"
+      "kraptor"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Vpn Gerekli! Dünyanın tüm ülkelerinden ücretsiz çevrimiçi TV.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Vpn Gerekli! Dünyanın tüm ülkelerinden ücretsiz çevrimiçi TV.",
     "fileSize": 16107,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -2089,9 +2136,9 @@
     "name": "HDFilmDelisi",
     "internalName": "HDFilmDelisi",
     "authors": [
-      "PyrusDrago"
+      "ByAyzen"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 En yeni ve popüler filmleri Türkçe dublaj ve altyazı seçenekleriyle Full HD kalitede izleyin. Binlerce film tek tıkla sizlerle!",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 En yeni ve popüler filmleri Türkçe dublaj ve altyazı seçenekleriyle Full HD kalitede izleyin. Binlerce film tek tıkla sizlerle!",
     "fileSize": 31205,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -2108,9 +2155,9 @@
     "name": "HDFilmizle",
     "internalName": "HDFilmizle",
     "authors": [
-      "PyrusDrago"
+      "ByAyzen"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 En yeni ve popüler filmleri 1080p kalitesinde Türkçe dublaj altyazılı izle. Aksiyon, macera, komedi, dram ve daha fazlası film izle sayfamızda.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 En yeni ve popüler filmleri 1080p kalitesinde Türkçe dublaj altyazılı izle. Aksiyon, macera, komedi, dram ve daha fazlası film izle sayfamızda.",
     "fileSize": 26291,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -2127,9 +2174,9 @@
     "name": "HintDizi",
     "internalName": "HintDizi",
     "authors": [
-      "PyrusDrago"
+      "kraptor"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 En sevilen Hint dizileri ve filmleri, güncel içerikler ve arşivlik yapımlar HintDizi.com'da! Dizi arşivimize göz atın ve favori yapımlarınızı kaçırmayın.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 En sevilen Hint dizileri ve filmleri, güncel içerikler ve arşivlik yapımlar HintDizi.com'da! Dizi arşivimize göz atın ve favori yapımlarınızı kaçırmayın.",
     "fileSize": 18762,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -2146,9 +2193,9 @@
     "name": "KanalD",
     "internalName": "KanalD",
     "authors": [
-      "PyrusDrago"
+      "kraptor"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 KanalD.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 KanalD.",
     "fileSize": 26236,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -2165,9 +2212,10 @@
     "name": "KickTR",
     "internalName": "KickTR",
     "authors": [
-      "PyrusDrago"
+      "ByAyzen",
+      "kraptor"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Kick, canlı yayın yapılan bir platformdur. Daha gevşek kuralları ve yayıncılara daha fazla kazanç sağlamasıyla bilinir. Platform, yayıncılardan sadece %5 kesinti yapar ve bu oran diğer yayın platformlarına göre en düşük kesintilerden biridir.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Kick, canlı yayın yapılan bir platformdur. Daha gevşek kuralları ve yayıncılara daha fazla kazanç sağlamasıyla bilinir. Platform, yayıncılardan sadece %5 kesinti yapar ve bu oran diğer yayın platformlarına göre en düşük kesintilerden biridir.",
     "fileSize": 28171,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -2184,9 +2232,11 @@
     "name": "KraptorPlus",
     "internalName": "KraptorPlus",
     "authors": [
-      "PyrusDrago"
+      "kraptor",
+      "Phisher98",
+      "ByAyzen"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Kaliteli kaynakları ile birlikte KraptorPlus eklentisi, sizlere 4K kalitesine kadar yüksek kaliteli ve altyazılı film izleme zevkini sağlıyor.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Kaliteli kaynakları ile birlikte KraptorPlus eklentisi, sizlere 4K kalitesine kadar yüksek kaliteli ve altyazılı film izleme zevkini sağlıyor.",
     "fileSize": 340500,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -2208,9 +2258,11 @@
     "name": "MirrorVerse",
     "internalName": "MirrorVerse",
     "authors": [
-      "PyrusDrago"
+      "kraptor",
+      "NivinCNC",
+      "ByAyzen"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Netflix, Disney+ ve Primevideo eklentileri tek bir eklentide kendisi bir eklenti degildir bu 3 eklentiyi kurar, tüm eklentilerde altyazı netflixde dublaj desteği var.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Netflix, Disney+ ve Primevideo eklentileri tek bir eklentide kendisi bir eklenti degildir bu 3 eklentiyi kurar, tüm eklentilerde altyazı netflixde dublaj desteği var.",
     "fileSize": 108910,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -2228,9 +2280,9 @@
     "name": "OnePaceTr",
     "internalName": "OnePaceTr",
     "authors": [
-      "PyrusDrago"
+      "kraptor"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 One Pace türkçe altyazılı izleme platformu.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 One Pace türkçe altyazılı izleme platformu.",
     "fileSize": 23983,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -2247,9 +2299,10 @@
     "name": "OpenAnime",
     "internalName": "OpenAnime",
     "authors": [
-      "PyrusDrago"
+      "Kraptor",
+      "ByAyzen"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Anime izleme deneyiminizi zenginleştiren, hızlı ve etkileyici özelliklerle donatılmış, şık bir tasarıma sahip anime platformu. Anime izleme deneyiminiz, kolaylaştırıldı.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Anime izleme deneyiminizi zenginleştiren, hızlı ve etkileyici özelliklerle donatılmış, şık bir tasarıma sahip anime platformu. Anime izleme deneyiminiz, kolaylaştırıldı.",
     "fileSize": 40856,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -2267,9 +2320,10 @@
     "name": "SeiCode",
     "internalName": "SeiCode",
     "authors": [
-      "PyrusDrago"
+      "kraptor",
+      "kerimmkirac"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Seicode ile en yeni animeler keşfedin!",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Seicode ile en yeni animeler keşfedin!",
     "fileSize": 36315,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -2286,9 +2340,9 @@
     "name": "SelcukFlix",
     "internalName": "SelcukFlix",
     "authors": [
-      "PyrusDrago"
+      "kerimmkirac"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
     "fileSize": 92142,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -2306,9 +2360,9 @@
     "name": "Sinezy",
     "internalName": "Sinezy",
     "authors": [
-      "PyrusDrago"
+      "kraptor"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Yerli ve yabancı film izle! Türkçe Dublaj ve Alt Yazılı Seçenekleriyle full hd film izlemek için En çok tercih edilen adres!",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Yerli ve yabancı film izle! Türkçe Dublaj ve Alt Yazılı Seçenekleriyle full hd film izlemek için En çok tercih edilen adres!",
     "fileSize": 20603,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -2325,9 +2379,9 @@
     "name": "TrAnimeIzle",
     "internalName": "TrAnimeIzle",
     "authors": [
-      "PyrusDrago"
+      "kraptor"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Anime izle, Anime tv, birbirinden farklı ve güzel animeleri keyifle seyredebileceğiniz Türk anime severlerin en popüler türkçe anime izleme sitesidir.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Anime izle, Anime tv, birbirinden farklı ve güzel animeleri keyifle seyredebileceğiniz Türk anime severlerin en popüler türkçe anime izleme sitesidir.",
     "fileSize": 36197,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -2344,9 +2398,9 @@
     "name": "Turkdizileri",
     "internalName": "Turkdizileri",
     "authors": [
-      "PyrusDrago"
+      "ByAyzen"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 TRT1, Showtv, Kanal D ve daha fazla site tek bir eklentide birleşiyor.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 TRT1, Showtv, Kanal D ve daha fazla site tek bir eklentide birleşiyor.",
     "fileSize": 151122,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -2363,9 +2417,9 @@
     "name": "YeniKaynak",
     "internalName": "YeniKaynak",
     "authors": [
-      "PyrusDrago"
+      "kraptor"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 İran Sinemasının Yeni Adresi - İran Filmleri, İran Dizileri, İslami Filmler, Dini Filmler, Dini Sinema, İslami Diziler,...",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 İran Sinemasının Yeni Adresi - İran Filmleri, İran Dizileri, İslami Filmler, Dini Filmler, Dini Sinema, İslami Diziler,...",
     "fileSize": 17295,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -2383,9 +2437,9 @@
     "name": "YeniWatch",
     "internalName": "YeniWatch",
     "authors": [
-      "PyrusDrago"
+      "kerimmkirac"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Yeni diziwatch yani Yeniwatch. Yabancı dizi izle, anime izle, en popüler yabancı dizileri ve animeleri ücretsiz olarak yeniwatch.net.tr'te izleyin.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Yeni diziwatch yani Yeniwatch. Yabancı dizi izle, anime izle, en popüler yabancı dizileri ve animeleri ücretsiz olarak yeniwatch.net.tr'te izleyin.",
     "fileSize": 19194,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -2402,9 +2456,9 @@
     "name": "YesilCamTv",
     "internalName": "YesilCamTv",
     "authors": [
-      "PyrusDrago"
+      "kraptor"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Türk sinemasının unutulmaz filmler bu adreste.",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Türk sinemasının unutulmaz filmler bu adreste.",
     "fileSize": 19949,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -2421,9 +2475,11 @@
     "name": "Youtube",
     "internalName": "Youtube",
     "authors": [
-      "PyrusDrago"
+      "Eagle",
+      "ByAyzen",
+      "Kraptor"
     ],
-    "description": "🟡 Kraptor123 25.03.2026 Youtube",
+    "description": "\\ud83d\\udfe1 Kraptor123 25.03.2026 Youtube",
     "fileSize": 114801,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -2443,9 +2499,9 @@
     "name": "FilmBOL",
     "internalName": "FilmBOL",
     "authors": [
-      "PyrusDrago"
+      "ByAyzen"
     ],
-    "description": "🟡 ByAyzen 25.03.2026 Ücretli Hesabınız Yoksa Kullanamazsınız! Cookie Gerekli Cookie Ne Bilmiyorsanız Araştırınız.",
+    "description": "\\ud83d\\udfe1 ByAyzen 25.03.2026 Ücretli Hesabınız Yoksa Kullanamazsınız! Cookie Gerekli Cookie Ne Bilmiyorsanız Araştırınız.",
     "fileSize": 25974,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
     "language": "tr",
@@ -2463,9 +2519,9 @@
     "name": "Koredizi",
     "internalName": "Koredizi",
     "authors": [
-      "PyrusDrago"
+      "com.byayzen"
     ],
-    "description": "🟡 ByAyzen 25.03.2026 Koredizi ile yoğun bir günün ardından soluklanıp kısa dizilerle dünyanıza renk katabilirsiniz.",
+    "description": "\\ud83d\\udfe1 ByAyzen 25.03.2026 Koredizi ile yoğun bir günün ardından soluklanıp kısa dizilerle dünyanıza renk katabilirsiniz.",
     "fileSize": 26214,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
     "language": "tr",
@@ -2482,9 +2538,9 @@
     "name": "M3UPlayer",
     "internalName": "M3UPlayer",
     "authors": [
-      "PyrusDrago"
+      "ByAyzen"
     ],
-    "description": "🟡 ByAyzen 25.03.2026 M3UPlayer bir m3u oynatıcısıdır. İçerisinde hiç bir M3U dosyasını barındırmaz! Ayarlar butonuna tıklayarak kendiniz ekleyebilirsiniz.",
+    "description": "\\ud83d\\udfe1 ByAyzen 25.03.2026 M3UPlayer bir m3u oynatıcısıdır. İçerisinde hiç bir M3U dosyasını barındırmaz! Ayarlar butonuna tıklayarak kendiniz ekleyebilirsiniz.",
     "fileSize": 91269,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
     "language": "tr",
@@ -2501,9 +2557,9 @@
     "name": "Torrential",
     "internalName": "Torrential",
     "authors": [
-      "PyrusDrago"
+      "ByAyzen"
     ],
-    "description": "🟡 ByAyzen 25.03.2026 Torrential eklentisi sürekli geliştirilebilir bir torrent ve debrid oynatıcı eklentisidir. Mevcut kaynaklar arasından Torrentio ve Comet kullanılmaktadır.",
+    "description": "\\ud83d\\udfe1 ByAyzen 25.03.2026 Torrential eklentisi sürekli geliştirilebilir bir torrent ve debrid oynatıcı eklentisidir. Mevcut kaynaklar arasından Torrentio ve Comet kullanılmaktadır.",
     "fileSize": 166219,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
     "language": "tr",
@@ -2520,9 +2576,9 @@
     "name": "Vavoo",
     "internalName": "Vavoo",
     "authors": [
-      "PyrusDrago"
+      "ByAyzen"
     ],
-    "description": "🟡 ByAyzen 25.03.2026 Vavoo.",
+    "description": "\\ud83d\\udfe1 ByAyzen 25.03.2026 Vavoo.",
     "fileSize": 36643,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
     "language": "tr",
