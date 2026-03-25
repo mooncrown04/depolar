@@ -93,17 +93,27 @@ jobs:
             return match ? match[1] : "UnknownRepo";
           }
 
-          function addUpdateInfo(plugin, finalDate, replace, sourceUrl, isNew) {
-            if (!finalDate) return;
-
-            const today = new Date().toISOString().split('T')[0];
-            const pluginDateStr = finalDate.toLocaleDateString('tr-TR'); 
+          // ✅ YENİ: Versiyon değişikliğinde bugünün tarihini kullan
+          function addUpdateInfo(plugin, finalDate, replace, sourceUrl, isNew, versionChanged) {
+            const today = new Date();
+            const todayStr = today.toISOString().split('T')[0];
             const repoOwner = getRepoOwner(sourceUrl);
+            
+            // Eğer versiyon değişmişse BUGÜNÜN tarihini kullan
+            // Yoksa plugin'in kendi tarihini kullan
+            let displayDate = finalDate || today;
+            if (versionChanged) {
+              displayDate = today;
+            }
+            
+            const pluginDateStr = displayDate.toLocaleDateString('tr-TR');
 
             let marker = "";
             if (isNew) {
               marker = "🟡 ";
-            } else if (finalDate.toISOString().split('T')[0] === today) {
+            } else if (versionChanged) {
+              marker = "🔴 ";  // Versiyon değişmişse kırmızı
+            } else if (displayDate.toISOString().split('T')[0] === todayStr) {
               marker = "🔴 ";
             }
 
@@ -112,6 +122,8 @@ jobs:
 
           (async () => {
             const mergedMap = new Map();
+            const today = new Date();
+            
             for (const url of urls) {
               try {
                 const res = await fetch(url);
@@ -141,25 +153,36 @@ jobs:
 
                   const existing = mergedMap.get(key);
                   let replace = false;
+                  let versionChanged = false;  // ✅ Yeni flag
+                  
                   if (!existing) {
                     replace = true;
+                    versionChanged = false;
                   } else {
                     if (existing.date && finalDate) {
-                      if (finalDate > existing.date) replace = true;
+                      if (finalDate > existing.date) {
+                        replace = true;
+                        versionChanged = true;  // Tarih ileride = versiyon değişmiş
+                      }
                     } else if (!existing.date && finalDate) {
                       replace = true;
+                      versionChanged = true;
                     } else if (existing.date && !finalDate) {
                       replace = false;
                     } else {
                       const cmp = compareVersions(version, existing.version);
-                      if (cmp > 0) replace = true;
+                      if (cmp > 0) {
+                        replace = true;
+                        versionChanged = true;  // ✅ Versiyon yükselmiş
+                      }
                     }
                   }
 
                   if (replace) {
                     const isNew = !existing;
-                    addUpdateInfo(plugin, finalDate, replace, url, isNew);
-                    mergedMap.set(key, { plugin, date: finalDate, version });
+                    // ✅ versionChanged parametresini ekle
+                    addUpdateInfo(plugin, finalDate, replace, url, isNew, versionChanged);
+                    mergedMap.set(key, { plugin, date: finalDate || today, version });
                   }
                   added++;
                 }
