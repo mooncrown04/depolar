@@ -27,7 +27,6 @@ jobs:
 
           const urls = [
             'https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/plugins.json',
-           // 'https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/plugins.json',
             'https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/plugins.json',
             'https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/plugins.json',
             'https://raw.githubusercontent.com/sarapcanagii/Pitipitii/builds/plugins.json',
@@ -93,14 +92,35 @@ jobs:
             return match ? match[1] : "UnknownRepo";
           }
 
-          // ✅ YENİ: Versiyon değişikliğinde bugünün tarihini kullan
+          // ✅ YENİ: Emoji'leri escape edilmiş formata çevir
+          function escapeEmojis(str) {
+            return str.replace(/[\u{1F300}-\u{1F9FF}]/gu, function(char) {
+              const code = char.codePointAt(0);
+              if (code > 0xFFFF) {
+                const high = Math.floor((code - 0x10000) / 0x400) + 0xD800;
+                const low = ((code - 0x10000) % 0x400) + 0xDC00;
+                return '\\u' + high.toString(16).padStart(4, '0') + 
+                       '\\u' + low.toString(16).padStart(4, '0');
+              }
+              return '\\u' + code.toString(16).padStart(4, '0');
+            });
+          }
+
+          // ✅ YENİ: Tüm string değerleri escape eden JSON stringify
+          function stringifyWithEscapedEmojis(obj) {
+            return JSON.stringify(obj, (key, value) => {
+              if (typeof value === 'string') {
+                return escapeEmojis(value);
+              }
+              return value;
+            }, 2);
+          }
+
           function addUpdateInfo(plugin, finalDate, replace, sourceUrl, isNew, versionChanged) {
             const today = new Date();
             const todayStr = today.toISOString().split('T')[0];
             const repoOwner = getRepoOwner(sourceUrl);
             
-            // Eğer versiyon değişmişse BUGÜNÜN tarihini kullan
-            // Yoksa plugin'in kendi tarihini kullan
             let displayDate = finalDate || today;
             if (versionChanged) {
               displayDate = today;
@@ -112,12 +132,12 @@ jobs:
             if (isNew) {
               marker = "\ud83d\udfe1 ";
             } else if (versionChanged) {
-              marker = "\ud83d\udd34 ";  // Versiyon değişmişse kırmızı
+              marker = "\ud83d\udd34 ";
             } else if (displayDate.toISOString().split('T')[0] === todayStr) {
               marker = "\ud83d\udd34 ";
             }
 
-            plugin.description = `${marker}${repoOwner} ${pluginDateStr} ` + (plugin.description || '');
+            plugin.description = marker + repoOwner + " " + pluginDateStr + " " + (plugin.description || '');
           }
 
           (async () => {
@@ -153,7 +173,7 @@ jobs:
 
                   const existing = mergedMap.get(key);
                   let replace = false;
-                  let versionChanged = false;  // ✅ Yeni flag
+                  let versionChanged = false;
                   
                   if (!existing) {
                     replace = true;
@@ -162,7 +182,7 @@ jobs:
                     if (existing.date && finalDate) {
                       if (finalDate > existing.date) {
                         replace = true;
-                        versionChanged = true;  // Tarih ileride = versiyon değişmiş
+                        versionChanged = true;
                       }
                     } else if (!existing.date && finalDate) {
                       replace = true;
@@ -173,14 +193,13 @@ jobs:
                       const cmp = compareVersions(version, existing.version);
                       if (cmp > 0) {
                         replace = true;
-                        versionChanged = true;  // ✅ Versiyon yükselmiş
+                        versionChanged = true;
                       }
                     }
                   }
 
                   if (replace) {
                     const isNew = !existing;
-                    // ✅ versionChanged parametresini ekle
                     addUpdateInfo(plugin, finalDate, replace, url, isNew, versionChanged);
                     mergedMap.set(key, { plugin, date: finalDate || today, version });
                   }
@@ -195,7 +214,9 @@ jobs:
             }
 
             const merged = Array.from(mergedMap.values()).map(v => v.plugin);
-            fs.writeFileSync('plugins.json', JSON.stringify(merged, null, 2));
+            
+            // ✅ DEĞİŞTİRİLDİ: Escape edilmiş JSON yaz
+            fs.writeFileSync('plugins.json', stringifyWithEscapedEmojis(merged));
             console.log('plugins.json created. Total unique plugins:', merged.length);
           })();
           NODE
