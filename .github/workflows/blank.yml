@@ -37,8 +37,6 @@ jobs:
             'https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/plugins.json'
           ];
 
-          const botOwner = 'PyrusDrago';
-
           function parseDateFromPlugin(p) {
             const fields = ['updatedAt','lastUpdated','updated','releaseDate','date','publishedAt','published','created_at','timestamp'];
             for (const f of fields) {
@@ -92,7 +90,6 @@ jobs:
             return match ? match[1] : "UnknownRepo";
           }
 
-          // ✅ YENİ: Emoji'leri escape edilmiş formata çevir
           function escapeEmojis(str) {
             return str.replace(/[\u{1F300}-\u{1F9FF}]/gu, function(char) {
               const code = char.codePointAt(0);
@@ -106,7 +103,6 @@ jobs:
             });
           }
 
-          // ✅ YENİ: Tüm string değerleri escape eden JSON stringify
           function stringifyWithEscapedEmojis(obj) {
             return JSON.stringify(obj, (key, value) => {
               if (typeof value === 'string') {
@@ -162,7 +158,8 @@ jobs:
                 for (const plugin of plugins) {
                   if (Array.isArray(plugin.tvTypes) && plugin.tvTypes.includes('NSFW')) continue;
 
-                  plugin.authors = [botOwner];
+                  // ✅ KALDIRILDI: plugin.authors = [botOwner];
+                  // Orijinal authors korunuyor, kaynak dosyadan geliyor
 
                   const key = plugin.id || plugin.name || plugin.title || plugin.slug || plugin.packageName || plugin.file || plugin.url || JSON.stringify(plugin);
 
@@ -214,8 +211,6 @@ jobs:
             }
 
             const merged = Array.from(mergedMap.values()).map(v => v.plugin);
-            
-            // ✅ DEĞİŞTİRİLDİ: Escape edilmiş JSON yaz
             fs.writeFileSync('plugins.json', stringifyWithEscapedEmojis(merged));
             console.log('plugins.json created. Total unique plugins:', merged.length);
           })();
