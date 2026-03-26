@@ -90,25 +90,23 @@ jobs:
             return match ? match[1] : "UnknownRepo";
           }
 
-          function addUpdateInfo(plugin, finalDate, replace, sourceUrl, isNew, versionChanged) {
+          function addUpdateInfo(plugin, finalDate, sourceUrl, isNew, versionChanged) {
             const today = new Date();
-            const todayStr = today.toISOString().split('T')[0];
             const repoOwner = getRepoOwner(sourceUrl);
             
-            let displayDate = finalDate || today;
-            if (versionChanged) {
-              displayDate = today;
-            }
+            // Tarih belirleme:
+            // - Yeni plugin veya versiyon değişimi: bugün
+            // - Aksi halde: eski tarih korunur (ama bu durumda zaten replace=false olur)
+            let displayDate = (isNew || versionChanged) ? today : finalDate;
+            if (!displayDate) displayDate = today;
             
             const pluginDateStr = displayDate.toLocaleDateString('tr-TR');
 
             let marker = "";
             if (isNew) {
-              marker = "\ud83c\udd95 "; // ⭐ Yıldız - daha yaygın desteklenir
+              marker = "\ud83c\udd95 "; // 🆕 Yeni
             } else if (versionChanged) {
-              marker = "\ud83d\udd34 "; // 🔴 Kırmızı daire
-            } else if (displayDate.toISOString().split('T')[0] === todayStr) {
-              marker = "\ud83d\udd34 "; // 🔴 Kırmızı daire
+              marker = "\ud83d\udd34 "; // 🔴 Versiyon değişti
             }
 
             plugin.description = marker + repoOwner + " " + pluginDateStr + " " + (plugin.description || '');
@@ -146,35 +144,31 @@ jobs:
                   const existing = mergedMap.get(key);
                   let replace = false;
                   let versionChanged = false;
+                  let isNew = !existing;
                   
-                  if (!existing) {
+                  if (isNew) {
+                    // Yeni plugin - ekle
                     replace = true;
                     versionChanged = false;
                   } else {
-                    if (existing.date && finalDate) {
-                      if (finalDate > existing.date) {
-                        replace = true;
-                        versionChanged = true;
-                      }
-                    } else if (!existing.date && finalDate) {
+                    // Mevcut plugin - sadece versiyon değişirse güncelle
+                    const cmp = compareVersions(version, existing.version);
+                    if (cmp !== 0) {
+                      // Versiyon değişmiş
                       replace = true;
                       versionChanged = true;
-                    } else if (existing.date && !finalDate) {
-                      replace = false;
                     } else {
-                      const cmp = compareVersions(version, existing.version);
-                      if (cmp > 0) {
-                        replace = true;
-                        versionChanged = true;
-                      }
+                      // Versiyon aynı - dokunma, eski kaydı koru
+                      replace = false;
+                      versionChanged = false;
                     }
                   }
 
                   if (replace) {
-                    const isNew = !existing;
-                    addUpdateInfo(plugin, finalDate, replace, url, isNew, versionChanged);
-                    mergedMap.set(key, { plugin, date: finalDate || today, version });
+                    addUpdateInfo(plugin, finalDate, url, isNew, versionChanged);
+                    mergedMap.set(key, { plugin, date: today, version });
                   }
+                  // replace = false ise hiçbir şey yapma, mevcut kayıt korunur
                   added++;
                 }
                 console.log('Source: ' + url);
