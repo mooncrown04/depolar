@@ -1,8 +1,8 @@
-### Son Güncelleme: 27.03.2026 20:42
+### Son Güncelleme: 27.03.2026 20:47
 
 ### Repo Kısa Kodu: yok
 
-### Toplam Eklenti Sayısı: 131
+### Toplam Eklenti Sayısı: 132
 
 ---
 
@@ -128,6 +128,7 @@
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40" width="32"> | **WebDramaTurkey** | 26.03.2026 |  | Kraptor123 | Asiandrama, Film, Anime | 🇹🇷 [TR] |
 | <img src="https://webdramaturkey.org/public/static/logo.webp?v=2.1.8" width="32"> | **WebDramaTurkey - Latte** | 26.03.2026 |  | GitLatte | Film, Podcast, Asiandrama, Anime | 🇹🇷 [TR] |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webteizle1.xyz&size=128" width="32"> | **WebteIzle** | 26.03.2026 |  | Kraptor123 | Film | 🇹🇷 [TR] |
+| — | **YTPatron** | 27.03.2026 | 🆕 | patr0nq | Live | 🇹🇷 [TR] |
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128" width="32"> | **YTS** | 26.03.2026 |  | Kraptor123 | Film, Torrent | 🇹🇷 [TR] |
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yabancidizi.so/&size=128" width="32"> | **YabanciDizi** | 26.03.2026 |  | Kraptor123 | Dizi | 🇹🇷 [TR] |
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.yenikaynak.com/&size=16" width="32"> | **YeniKaynak** | 26.03.2026 |  | Kraptor123 | Film, Dizi | 🇹🇷 [TR] |
