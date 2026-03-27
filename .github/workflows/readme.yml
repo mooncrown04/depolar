@@ -49,7 +49,7 @@ jobs:
               m=re.search(r"githubusercontent\.com/([^/]+)",url or "")
               return m.group(1) if m else "UnknownRepo"
 
-          # ✅ YENİ: Plugin'den tarih al (description'dan değil, plugin alanlarından)
+          # Plugin'den tarih al
           def parse_date_from_plugin(plugin):
               fields = ['updatedAt','lastUpdated','updated','releaseDate','date','publishedAt','published','created_at','timestamp','buildDate']
               for f in fields:
@@ -66,66 +66,160 @@ jobs:
                               continue
               return None
 
+          # Versiyon normalizasyonu ve karşılaştırması (İLK BELGEDEN)
+          def normalize_version(v):
+              if not v:
+                  return None
+              return str(v).replace('v', '').replace('V', '')
+
+          def compare_versions(a, b):
+              if not a and not b:
+                  return 0
+              if a and not b:
+                  return 1
+              if not a and b:
+                  return -1
+              pa = str(a).split('.')
+              pb = str(b).split('.')
+              # Sayı ve string karışık versiyon desteği
+              def parse_part(x):
+                  try:
+                      return int(x)
+                  except:
+                      return x
+              pa = [parse_part(x) for x in pa]
+              pb = [parse_part(x) for x in pb]
+              n = max(len(pa), len(pb))
+              for i in range(n):
+                  xa = pa[i] if i < len(pa) else 0
+                  xb = pb[i] if i < len(pb) else 0
+                  if isinstance(xa, int) and isinstance(xb, int):
+                      if xa > xb:
+                          return 1
+                      if xa < xb:
+                          return -1
+                  else:
+                      sa, sb = str(xa), str(xb)
+                      if sa > sb:
+                          return 1
+                      if sa < sb:
+                          return -1
+              return 0
+
           turkey_tz = timezone(timedelta(hours=3))
           now = datetime.now(turkey_tz)
           formatted_date = now.strftime("%d.%m.%Y %H:%M")
 
+          # Önceki README'den plugin bilgilerini oku (versiyon takibi için)
+          old_plugins = {}
+          old_readme_path = Path("README.md")
+          if old_readme_path.exists():
+              try:
+                  old_content = old_readme_path.read_text(encoding="utf-8")
+                  # Eski tablodan plugin bilgilerini çıkar
+                  # Format: | img | **name** | date | marker | repo | types | country |
+                  for line in old_content.split("\n"):
+                      if "| **" in line and "|" in line:
+                          parts = [p.strip() for p in line.split("|")]
+                          if len(parts) >= 7:
+                              name_match = re.search(r'\*\*(.+?)\*\*', parts[2])
+                              if name_match:
+                                  name = name_match.group(1)
+                                  date_part = parts[3] if len(parts) > 3 else ""
+                                  marker = parts[4] if len(parts) > 4 else ""
+                                  old_plugins[name] = {"date": date_part, "marker": marker}
+              except Exception as e:
+                  print(f"Eski README okuma hatası: {e}")
+
           with open("plugins.json",encoding="utf-8") as f:
               plugins=json.load(f)
 
-          unique_plugins={}
+          unique_plugins = {}
           for plugin in plugins:
-              name=(plugin.get("name") or plugin.get("title") or "").strip()
-              if not name or name in unique_plugins: continue
+              name = (plugin.get("name") or plugin.get("title") or "").strip()
+              if not name:
+                  continue
               
-              language=(plugin.get("language") or "").lower().strip()
-              flag,code=get_flag_and_code(language)
-              img_url=next((fix_icon_url(plugin[k]) for k in IMAGE_KEYS if plugin.get(k)),None)
-              tur_types=turkish_types(plugin.get("tvTypes"))
-              repo_owner=get_repo_owner(plugin.get("url") or "")
-              desc=(plugin.get("description") or "")
+              # Versiyon bilgisi (İLK BELGEDEKİ gibi)
+              version = normalize_version(plugin.get("version") or plugin.get("ver") or plugin.get("pkgVersion"))
               
-              # ✅ YENİ: Marker'ı description'dan al
-              marker="🔴" if "🔴" in desc else ("🟡" if "🟡" in desc else "")
+              language = (plugin.get("language") or "").lower().strip()
+              flag, code = get_flag_and_code(language)
+              img_url = next((fix_icon_url(plugin[k]) for k in IMAGE_KEYS if plugin.get(k)), None)
+              tur_types = turkish_types(plugin.get("tvTypes"))
+              repo_owner = get_repo_owner(plugin.get("url") or "")
               
-              # ✅ YENİ: Tarih belirleme mantığı
-              # 1. Önce plugin'in kendi tarih alanlarına bak
+              # Plugin'in kendi tarihini al
               plugin_date = parse_date_from_plugin(plugin)
               
-              # 2. Description'dan tarih çıkarmaya çalış
-              date_part = ""
-              m = re.search(r"(\d{2}\.\d{2}\.\d{4})", desc)
-              if m:
-                  date_part = m.group(1)
+              # Eski kayıt var mı kontrol et
+              old_plugin = unique_plugins.get(name)
+              old_readme_plugin = old_plugins.get(name)
               
-              # 3. Eğer 🔴 (güncelleme) varsa ve description'da bugünün tarihi yoksa, bugünün tarihini kullan
-              if marker == "🔴":
-                  # Description'da tarih var mı kontrol et
-                  if date_part:
-                      # Tarihi parse et ve bugün mü kontrol et
-                      try:
-                          desc_date = datetime.strptime(date_part, "%d.%m.%Y").replace(tzinfo=turkey_tz)
-                          today = now.replace(hour=0, minute=0, second=0, microsecond=0)
-                          # Eğer description'daki tarih eskiyse, bugünün tarihini kullan
-                          if desc_date < today:
-                              date_part = now.strftime("%d.%m.%Y")
-                      except:
-                          date_part = now.strftime("%d.%m.%Y")
+              # Marker ve tarih belirleme mantığı (İLK BELGEDEN)
+              marker = ""
+              display_date = ""
+              is_new = not old_readme_plugin
+              
+              if old_plugin:
+                  # Aynı plugin daha önce bu çalıştırmada eklendi (duplicate kontrolü)
+                  existing_version = old_plugin.get("version")
+                  cmp = compare_versions(version, existing_version)
+                  
+                  if cmp != 0:
+                      # Versiyon değişmiş -> 🔴
+                      marker = "🔴"
+                      display_date = now.strftime("%d.%m.%Y")
                   else:
-                      # Description'da tarih yoksa bugünün tarihini kullan
-                      date_part = now.strftime("%d.%m.%Y")
-              
-              # 4. Eğer hala tarih yoksa plugin'in kendi tarihini veya bugünü kullan
-              if not date_part:
+                      # Aynı versiyon -> eski bilgileri koru
+                      marker = old_plugin.get("marker", "")
+                      display_date = old_plugin.get("date", "")
+                      if not display_date and plugin_date:
+                          display_date = plugin_date.strftime("%d.%m.%Y")
+              elif old_readme_plugin:
+                  # README'de var, bu ilk kez görüyoruz
+                  # Versiyon karşılaştırması yapamıyoruz (eski versiyon bilgisi yok)
+                  # Plugin'in kendi tarihine bak
                   if plugin_date:
-                      date_part = plugin_date.strftime("%d.%m.%Y")
+                      today = now.replace(hour=0, minute=0, second=0, microsecond=0)
+                      plugin_date_midnight = plugin_date.replace(hour=0, minute=0, second=0, microsecond=0)
+                      if plugin_date_midnight >= today:
+                          marker = "🔴"  # Bugün güncellenmiş
+                          display_date = now.strftime("%d.%m.%Y")
+                      else:
+                          marker = ""  # Eski
+                          display_date = plugin_date.strftime("%d.%m.%Y")
                   else:
-                      date_part = now.strftime("%d.%m.%Y")
+                      marker = ""
+                      display_date = old_readme_plugin.get("date", now.strftime("%d.%m.%Y"))
+              else:
+                  # Yeni plugin -> 🆕
+                  marker = "🆕"
+                  display_date = now.strftime("%d.%m.%Y")
               
-              unique_plugins[name]=(img_url,tur_types,flag,code,date_part,marker,repo_owner)
+              # Tarih hala yoksa plugin'in kendi tarihini veya bugünü kullan
+              if not display_date:
+                  if plugin_date:
+                      display_date = plugin_date.strftime("%d.%m.%Y")
+                  else:
+                      display_date = now.strftime("%d.%m.%Y")
+              
+              # Sadece versiyon değiştiğinde veya yeni ise tarihi bugün yap
+              # Aksi halde eski tarihi koru
+              
+              unique_plugins[name] = {
+                  "img_url": img_url,
+                  "tur_types": tur_types,
+                  "flag": flag,
+                  "code": code,
+                  "date": display_date,
+                  "marker": marker,
+                  "repo_owner": repo_owner,
+                  "version": version  # Versiyon takibi için sakla
+              }
 
-          plugin_count=len(unique_plugins)
-          readme_header=(
+          plugin_count = len(unique_plugins)
+          readme_header = (
               f"### Son Güncelleme: {formatted_date}\n\n"
               f"### Repo Kısa Kodu: {REPO_SHORT_CODE}\n\n"
               f"### Toplam Eklenti Sayısı: {plugin_count}\n\n"
@@ -139,15 +233,23 @@ jobs:
               "|:----:|:------------|:------|:------|:-----|:-------|:----:|\n"
           )
 
-          table_rows=[]
-          for name,(img_url,tur_types,flag,code,date_part,marker,repo_owner) in sorted(unique_plugins.items()):
-              tur_text=", ".join(tur_types)
-              img_md=f'<img src="{img_url}" width="32">' if img_url else "—"
-              country_col=f"{flag} [{code}]" if flag and code else DEFAULT_FLAG[0]
+          table_rows = []
+          for name, data in sorted(unique_plugins.items()):
+              img_url = data["img_url"]
+              tur_types = data["tur_types"]
+              flag = data["flag"]
+              code = data["code"]
+              date_part = data["date"]
+              marker = data["marker"]
+              repo_owner = data["repo_owner"]
+              
+              tur_text = ", ".join(tur_types)
+              img_md = f'<img src="{img_url}" width="32">' if img_url else "—"
+              country_col = f"{flag} [{code}]" if flag and code else DEFAULT_FLAG[0]
               table_rows.append(f"| {img_md} | **{name}** | {date_part} | {marker} | {repo_owner} | {tur_text} | {country_col} |")
 
-          readme_content=readme_header+"\n".join(table_rows)
-          Path("README.md").write_text(readme_content,encoding="utf-8")
+          readme_content = readme_header + "\n".join(table_rows)
+          Path("README.md").write_text(readme_content, encoding="utf-8")
         
       - name: README.md Dosyasını Commit ve Push Et
         run: |
