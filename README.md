@@ -1,4 +1,4 @@
-### Son Güncelleme: 30.03.2026 23:49
+### Son Güncelleme: 31.03.2026 23:45
 
 ### Repo Kısa Kodu: yok
 
@@ -105,7 +105,7 @@
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=sezonlukdizi6.com" width="32"> | **SezonlukDizi** | 26.03.2026 |  | Kraptor123 | Dizi | 🇹🇷 [TR] |
 | <img src="https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480" width="32"> | **SineWix** | 26.03.2026 |  | Kraptor123 | Film, Dizi, Anime, Asiandrama, Cartoon | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=www.sinema.cx" width="32"> | **SinemaCX** | 26.03.2026 |  | Kraptor123 | Film | 🇹🇷 [TR] |
-| <img src="https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX" width="32"> | **Sinewix** | 30.03.2026 | 🆕 | feroxx | Film, Dizi, Anime | 🇹🇷 [TR] |
+| <img src="https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX" width="32"> | **Sinewix** | 30.03.2026 |  | feroxx | Film, Dizi, Anime | 🇹🇷 [TR] |
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://sinezy.fit&size=128" width="32"> | **Sinezy** | 26.03.2026 |  | Kraptor123 | Film | 🇹🇷 [TR] |
 | <img src="https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz&sz=64" width="32"> | **SuperFilmGeldi** | 26.03.2026 |  | ramazansancar | Film | 🇹🇷 [TR] |
 | <img src="https://www.tlctv.com.tr/favicon.ico" width="32"> | **TLCTR** | 26.03.2026 |  | ramazansancar | Dizi | 🇹🇷 [TR] |
