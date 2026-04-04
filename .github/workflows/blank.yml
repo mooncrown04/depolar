@@ -49,7 +49,7 @@ jobs:
             return String(v || '0.0.0').replace(/^v/i, '').trim();
           }
 
-          // Tekrarları önlemek için ismi standardize eden fonksiyon
+          // Tekrarları önlemek için isim ve ID bazlı katı anahtar
           function getStandardKey(p) {
             const raw = p.name || p.id || "";
             return raw.toLowerCase().replace(/\s+/g, '').replace(/i/g, 'ı').trim();
@@ -64,13 +64,10 @@ jobs:
             const mergedMap = new Map();
             const today = new Date().toLocaleDateString('tr-TR');
 
-            // Mevcut dosyayı yükle (varsa)
             if (fs.existsSync('plugins.json')) {
               try {
                 const oldContent = JSON.parse(fs.readFileSync('plugins.json', 'utf8'));
-                for (const p of oldContent) {
-                  mergedMap.set(getStandardKey(p), p);
-                }
+                for (const p of oldContent) mergedMap.set(getStandardKey(p), p);
               } catch (e) { console.log("Eski dosya okunamadı."); }
             }
 
@@ -86,7 +83,6 @@ jobs:
                   
                   const key = getStandardKey(remote);
                   const existing = mergedMap.get(key);
-                  
                   if (!remote.language && !remote.lang) remote.language = "tr";
 
                   let marker = "";
@@ -127,7 +123,15 @@ jobs:
           OWNER = "MoOnCrOwN"
           OWNER_AVATAR = "https://st5.depositphotos.com/1041725/67731/v/380/depositphotos_677319750-stock-illustration-ararat-mountain-illustration-vector-white.jpg"
           OWNER_PROFILE = "https://github.com/mooncrown04"
-          FLAGS = {"tr": "🇹🇷", "en": "🇬🇧", "de": "🇩🇪", "us": "🇺🇸", "hi": "🇮🇳"}
+          
+          # Görsel Bayraklar (FlagCDN)
+          FLAGS = {
+              "tr": "https://flagcdn.com/w20/tr.png",
+              "en": "https://flagcdn.com/w20/gb.png",
+              "de": "https://flagcdn.com/w20/de.png",
+              "us": "https://flagcdn.com/w20/us.png",
+              "hi": "https://flagcdn.com/w20/in.png"
+          }
           
           now = datetime.now(timezone(timedelta(hours=3)))
           full_date = now.strftime("%d.%m.%Y %H:%M")
@@ -146,21 +150,25 @@ jobs:
               date_str = date_match.group(0) if date_match else "—"
               
               lang_val = str(p.get("language") or p.get("lang") or "tr").lower().split('-')[0]
-              flag = FLAGS.get(lang_val, "🏳️")
+              flag_url = FLAGS.get(lang_val, "https://flagcdn.com/w20/un.png")
+              country_tag = f'<img src="{flag_url}" width="20" alt="{lang_val}">'
               
               icon = p.get("iconUrl") or p.get("icon") or ""
-              img_tag = f'<img src="{icon}" width="30">' if icon and "%size%" not in icon else "—"
+              # %size% içeren veya boş olan ikonları temizle
+              img_tag = f'<img src="{icon}" width="30" style="border-radius:4px;">' if icon and "%size%" not in icon else "—"
               
               owner_match = re.search(r'(?:🆕 |🔴 )(.*?) \d', desc)
               repo_name = owner_match.group(1) if owner_match else "Bilinmiyor"
 
-              rows.append(f"| {img_tag} | **{name}** | {date_str} | {marker} | `{repo_name}` | {flag} |")
+              rows.append(f"| {img_tag} | **{name}** | {date_str} | {marker} | `{repo_name}` | {country_tag} |")
 
           header = (
               f"### Son Güncelleme: {full_date}\n\n"
               f"### Toplam Eklenti: `{len(plugins)}` \n\n"
-              f"---\n### Depo Sahibi:\n[<img src='{OWNER_AVATAR}' width='48' style='border-radius:50%;'>]({OWNER_PROFILE})  \n"
-              f"**[{OWNER}]({OWNER_PROFILE})**\n\n---\n## 📦 Eklenti Listesi\n\n"
+              f"---\n### Depo Sahibi:\n"
+              f"[<img src='{OWNER_AVATAR}' width='48' style='border-radius:50%;'>]({OWNER_PROFILE})  \n"
+              f"**[{OWNER}]({OWNER_PROFILE})**\n\n"
+              f"---\n## 📦 Eklenti Listesi\n\n"
               f"| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |\n"
               f"|:----:|:------------|:------|:------|:-------|:----:|\n"
           )
@@ -174,4 +182,4 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add plugins.json README.md
-          git diff --staged --quiet || (git commit -m "Update: Fix duplicates and update list" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
+          git diff --staged --quiet || (git commit -m "Update: Duplicates removed and flag icons restored" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
