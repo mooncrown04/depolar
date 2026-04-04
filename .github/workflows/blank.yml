@@ -2,8 +2,8 @@ name: Eklenti ve README Yoneticisi
 
 on:
   schedule:
-    - cron: '30 20 * * *' # Türkiye saatiyle 23:30 civarı çalışır
-  workflow_dispatch:      # Manuel tetikleme butonu
+    - cron: '30 20 * * *'
+  workflow_dispatch:
 
 jobs:
   build-and-update:
@@ -12,14 +12,15 @@ jobs:
       - name: Depoyu Klonla
         uses: actions/checkout@v4
 
-      - name: Node.js ve Python Kurulumu
+      - name: Node.js Kurulumu
         uses: actions/setup-node@v4
         with:
           node-version: 20
       
-      - uses: actions/setup-python@v5
-          with:
-            python-version: '3.x'
+      - name: Python Kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
 
       - name: Bağımlılıkları Kur
         run: npm install node-fetch@2
@@ -33,7 +34,7 @@ jobs:
 
           const urls = [
             'https://raw.githubusercontent.com/patr0nq/cstestAddons/refs/heads/builds/plugins.json',
-            'https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/plugins.json',
+            'https://raw.githubusercontent.com/marrem/cs-Kekik/builds/plugins.json',
             'https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/plugins.json',
             'https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/plugins.json',
             'https://raw.githubusercontent.com/sarapcanagii/Pitipitii/builds/plugins.json',
@@ -104,45 +105,37 @@ jobs:
           from datetime import datetime, timedelta, timezone
           from pathlib import Path
 
-          # AYARLAR
           OWNER = "MoOnCrOwN"
           OWNER_AVATAR = "https://st5.depositphotos.com/1041725/67731/v/380/depositphotos_677319750-stock-illustration-ararat-mountain-illustration-vector-white.jpg"
           OWNER_PROFILE = "https://github.com/mooncrown04"
-          LANGUAGE_FLAGS = {"tr":("🇹🇷","TR"),"en":("🇬🇧","GB"),"de":("🇩🇪","DE"),"us":("🇺🇸","US")}
+          FLAGS = {"tr":("🇹🇷","TR"),"en":("🇬🇧","GB"),"de":("🇩🇪","DE"),"us":("🇺🇸","US")}
           
-          def get_flag(lang_raw):
-              clean = str(lang_raw or "tr").lower().strip().split('-')[0]
-              return LANGUAGE_FLAGS.get(clean, ("🏴‍☠️", ""))
-
-          # Tarih Ayarı
           now = datetime.now(timezone(timedelta(hours=3)))
           full_date = now.strftime("%d.%m.%Y %H:%M")
 
-          # Plugins.json Oku
           with open("plugins.json", encoding="utf-8") as f:
               plugins = json.load(f)
 
-          # Tablo Satırları
           rows = []
-          for p in sorted(plugins, key=lambda x: x.get('name','')):
+          for p in sorted(plugins, key=lambda x: x.get('name','').lower()):
               name = p.get('name','Unknown')
-              # Description içinden tarih ve durumu çek
               desc = p.get('description', '')
               marker = "🔴" if "🔴" in desc else ("🆕" if "🆕" in desc else " ")
               date_match = re.search(r'\d{2}\.\d{2}\.\d{4}', desc)
               date_str = date_match.group(0) if date_match else "—"
               
-              lang_data = p.get("language") or p.get("lang") or "tr"
-              flag, code = get_flag(lang_data)
+              lang_val = str(p.get("language") or p.get("lang") or "tr").lower().split('-')[0]
+              flag, code = FLAGS.get(lang_val, ("🏴‍☠️", ""))
               country = f"{flag} [{code}]" if code else flag
               
-              img = f'<img src="{p.get("iconUrl") or p.get("icon")}" width="32">' if p.get("iconUrl") or p.get("icon") else "—"
-              owner = re.search(r'(?:🆕 |🔴 )(.*?) \d', desc)
-              repo_name = owner.group(1) if owner else "Bilinmiyor"
+              icon = p.get("iconUrl") or p.get("icon") or ""
+              img_tag = f'<img src="{icon}" width="32">' if icon else "—"
+              
+              owner_match = re.search(r'(?:🆕 |🔴 )(.*?) \d', desc)
+              repo_name = owner_match.group(1) if owner_match else "Bilinmiyor"
 
-              rows.append(f"| {img} | **{name}** | {date_str} | {marker} | {repo_name} | {country} |")
+              rows.append(f"| {img_tag} | **{name}** | {date_str} | {marker} | {repo_name} | {country} |")
 
-          # Yazma İşlemi
           header = (
               f"### Son Güncelleme: {full_date}\n\n"
               f"### Toplam Eklenti: {len(plugins)}\n\n"
