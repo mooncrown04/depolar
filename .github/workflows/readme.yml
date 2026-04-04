@@ -1,25 +1,4 @@
-name: Readme Oluşturucu
-
-on:
-  schedule:
-    - cron: '0 20 * * *'   # Her gün Türkiye saatiyle 23:00 civarı çalışır
-  workflow_dispatch:        # İstediğinde düğmeye basıp çalıştırabilirsin
-
-jobs:
-  build-readme:
-    name: README Dosyası Oluştur ve Güncelle
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Depoyu Klonla
-        uses: actions/checkout@v4
-
-      - name: Python Ortamını Kur
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-
-      - name: README.md Dosyasını Oluştur
+- name: README.md Dosyasını Oluştur
         shell: python
         run: |
           import json, re
@@ -53,13 +32,12 @@ jobs:
               if not v: return "0.0.0"
               return str(v).lower().replace('v', '').strip()
 
-          # Türkiye Saati Ayarı
           turkey_tz = timezone(timedelta(hours=3))
           now = datetime.now(turkey_tz)
           today_str = now.strftime("%d.%m.%Y")
           formatted_full_date = now.strftime("%d.%m.%Y %H:%M")
 
-          # --- 1. ADIM: ESKİ README'Yİ OKU (HAFIZA SİSTEMİ) ---
+          # --- 1. ADIM: ESKİ README'Yİ OKU ---
           old_data_store = {}
           readme_path = Path("README.md")
           if readme_path.exists():
@@ -68,20 +46,16 @@ jobs:
               for line in lines:
                   if "| **" in line:
                       parts = [p.strip() for p in line.split('|')]
-                      if len(parts) >= 7:
-                          # Eklenti ismini temizle (**Ad** -> Ad)
+                      if len(parts) >= 6:
                           name = re.sub(r'\*\*','', parts[2])
                           date_val = parts[3]
                           marker_val = parts[4]
-                          # Gizli versiyon etiketini bul: v_match = re.search(r'', line)
-                          old_version = v_match.group(1) if v_match else "0.0.0"
+                          # HATA BURADAYDI - DÜZELTİLDİ
+                          v_found = re.search(r'', line)
+                          old_version = v_found.group(1) if v_found else "0.0.0"
                           old_data_store[name] = {"version": old_version, "date": date_val, "marker": marker_val}
 
-          # --- 2. ADIM: GÜNCEL PLUGINS.JSON'I İŞLE ---
-          if not Path("plugins.json").exists():
-              print("plugins.json bulunamadı!")
-              exit(1)
-
+          # --- 2. ADIM: GÜNCEL PLUGINS.JSON ---
           with open("plugins.json", encoding="utf-8") as f:
               plugins = json.load(f)
 
@@ -95,21 +69,16 @@ jobs:
               
               old_info = old_data_store.get(name)
               
-              # ZEKİ KARŞILAŞTIRMA MANTIĞI
               if not old_info:
-                  # Tamamen yeni bir eklenti gelmiş
                   marker = "🆕"
                   display_date = today_str
               elif old_info["version"] != new_version:
-                  # Versiyon numarası değişmiş (Güncelleme gelmiş)
                   marker = "🔴"
                   display_date = today_str
               else:
-                  # Versiyon aynı, README'deki eski tarih ve durumu (boş veya 🔴) koru
                   marker = old_info["marker"]
                   display_date = old_info["date"]
 
-              # Görsel hazırlıklar
               language = (plugin.get("language") or "").lower().strip()
               flag, code = get_flag_and_code(language)
               img_url = next((fix_icon_url(plugin[k]) for k in IMAGE_KEYS if plugin.get(k)), None)
@@ -118,10 +87,9 @@ jobs:
               img_md = f'<img src="{img_url}" width="32">' if img_url else "—"
               country_col = f"{flag} [{code}]" if code else flag
 
-              # Tablo Satırı Oluştur (Gizli versiyon etiketi ile beraber)
               unique_plugins[name] = f"| {img_md} | **{name}** | {display_date} | {marker} | {repo_owner} | {tur_text} | {country_col} | |"
 
-          # --- 3. ADIM: README.MD DOSYASINI YAZ ---
+          # --- 3. ADIM: YAZ ---
           readme_header = (
               f"### Son Güncelleme: {formatted_full_date}\n\n"
               f"### Repo Kısa Kodu: {REPO_SHORT_CODE}\n\n"
@@ -139,13 +107,3 @@ jobs:
           table_rows = [unique_plugins[n] for n in sorted(unique_plugins.keys())]
           readme_content = readme_header + "\n".join(table_rows)
           Path("README.md").write_text(readme_content, encoding="utf-8")
-
-      - name: Değişiklikleri Kaydet (Commit & Push)
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add README.md
-          if ! git diff --staged --quiet; then
-            git commit -m "Docs: README.md hafıza sistemi ile güncellendi"
-            git push
-          fi
