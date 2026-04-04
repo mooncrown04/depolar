@@ -2,8 +2,8 @@ name: Readme Oluşturucu
 
 on:
   schedule:
-    - cron: '0 20 * * *'   # Her gün 20:00'de çalışır
-  workflow_dispatch:        # Manuel çalıştırma
+    - cron: '0 20 * * *'   # Her gün Türkiye saatiyle 23:00 civarı çalışır
+  workflow_dispatch:        # İstediğinde düğmeye basıp çalıştırabilirsin
 
 jobs:
   build-readme:
@@ -39,7 +39,7 @@ jobs:
               return url.replace("%size%","64") if url and "%size%" in url else url
 
           def turkish_types(tvtypes):
-              mapping={"movie":"Film","tvseries":"Dizi","anime":"Anime","documentary":"Belgesel"}
+              mapping={"movie":"Film","tvseries":"Dizi","anime":"Anime","documentary":"Belgesel","asiandrama":"Asya Dizisi","live":"Canlı TV","cartoon":"Çizgi Film"}
               return [mapping.get(t.lower(),t.capitalize()) for t in (tvtypes or [])]
 
           def get_flag_and_code(language):
@@ -53,12 +53,13 @@ jobs:
               if not v: return "0.0.0"
               return str(v).lower().replace('v', '').strip()
 
+          # Türkiye Saati Ayarı
           turkey_tz = timezone(timedelta(hours=3))
           now = datetime.now(turkey_tz)
           today_str = now.strftime("%d.%m.%Y")
           formatted_full_date = now.strftime("%d.%m.%Y %H:%M")
 
-          # --- 1. ESKİ README'Yİ OKU (HAFIZA) ---
+          # --- 1. ADIM: ESKİ README'Yİ OKU (HAFIZA SİSTEMİ) ---
           old_data_store = {}
           readme_path = Path("README.md")
           if readme_path.exists():
@@ -76,11 +77,11 @@ jobs:
                           old_version = v_match.group(1) if v_match else "0.0.0"
                           old_data_store[name] = {"version": old_version, "date": date_val, "marker": marker_val}
 
-          # --- 2. GÜNCEL PLUGINS.JSON OKU ---
+          # --- 2. ADIM: GÜNCEL PLUGINS.JSON'I İŞLE ---
           if not Path("plugins.json").exists():
-              print("Hata: plugins.json bulunamadı!")
+              print("plugins.json bulunamadı!")
               exit(1)
-              
+
           with open("plugins.json", encoding="utf-8") as f:
               plugins = json.load(f)
 
@@ -94,14 +95,17 @@ jobs:
               
               old_info = old_data_store.get(name)
               
-              # Karşılaştırma Mantığı
+              # ZEKİ KARŞILAŞTIRMA MANTIĞI
               if not old_info:
+                  # Tamamen yeni bir eklenti gelmiş
                   marker = "🆕"
                   display_date = today_str
               elif old_info["version"] != new_version:
+                  # Versiyon numarası değişmiş (Güncelleme gelmiş)
                   marker = "🔴"
                   display_date = today_str
               else:
+                  # Versiyon aynı, README'deki eski tarih ve durumu (boş veya 🔴) koru
                   marker = old_info["marker"]
                   display_date = old_info["date"]
 
@@ -109,14 +113,15 @@ jobs:
               language = (plugin.get("language") or "").lower().strip()
               flag, code = get_flag_and_code(language)
               img_url = next((fix_icon_url(plugin[k]) for k in IMAGE_KEYS if plugin.get(k)), None)
-              tur_types = ", ".join(turkish_types(plugin.get("tvTypes")))
+              tur_types_list = turkish_types(plugin.get("tvTypes"))
+              tur_text = ", ".join(tur_types_list) if tur_types_list else "—"
               img_md = f'<img src="{img_url}" width="32">' if img_url else "—"
-              country_col = f"{flag} [{code}]" if flag and code else DEFAULT_FLAG[0]
+              country_col = f"{flag} [{code}]" if code else flag
 
-              # Tablo Satırı (Gizli versiyon en sonda)
-              unique_plugins[name] = f"| {img_md} | **{name}** | {display_date} | {marker} | {repo_owner} | {tur_types} | {country_col} | |"
+              # Tablo Satırı Oluştur (Gizli versiyon etiketi ile beraber)
+              unique_plugins[name] = f"| {img_md} | **{name}** | {display_date} | {marker} | {repo_owner} | {tur_text} | {country_col} | |"
 
-          # --- 3. README YAZ ---
+          # --- 3. ADIM: README.MD DOSYASINI YAZ ---
           readme_header = (
               f"### Son Güncelleme: {formatted_full_date}\n\n"
               f"### Repo Kısa Kodu: {REPO_SHORT_CODE}\n\n"
@@ -131,16 +136,16 @@ jobs:
               "|:----:|:------------|:------|:------|:-----|:-------|:----:|:---:|\n"
           )
 
-          table_rows = [unique_plugins[name] for name in sorted(unique_plugins.keys())]
+          table_rows = [unique_plugins[n] for n in sorted(unique_plugins.keys())]
           readme_content = readme_header + "\n".join(table_rows)
           Path("README.md").write_text(readme_content, encoding="utf-8")
 
-      - name: README.md Dosyasını Commit ve Push Et
+      - name: Değişiklikleri Kaydet (Commit & Push)
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add README.md
           if ! git diff --staged --quiet; then
-            git commit -m "Docs: README.md versiyon bazlı güncellendi"
+            git commit -m "Docs: README.md hafıza sistemi ile güncellendi"
             git push
           fi
