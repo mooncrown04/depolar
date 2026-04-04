@@ -31,8 +31,15 @@ jobs:
           OWNER_PROFILE = "https://github.com/mooncrown04"
           REPO_SHORT_CODE = "yok"
           IMAGE_KEYS = ["iconUrl","image","icon","logo","thumbnail","cover","img","picture","poster"]
-          LANGUAGE_FLAGS = {"tr":("🇹🇷","TR"),"en":("🇬🇧","GB"),"de":("🇩🇪","DE")}
-          DEFAULT_FLAG = ("🏴‍☠️","")
+          # Bayraklar Görsel Format (🇹🇷 [TR])
+          LANGUAGE_FLAGS = {
+              "tr": ("🇹🇷", "TR"),
+              "en": ("🇬🇧", "GB"),
+              "de": ("🇩🇪", "DE"),
+              "us": ("🇺🇸", "US"),
+              "fr": ("🇫🇷", "FR")
+          }
+          DEFAULT_FLAG = ("🏴‍☠️", "")
 
           def fix_icon_url(url):
               return url.replace("%size%","64") if url and "%size%" in url else url
@@ -42,7 +49,8 @@ jobs:
               return [mapping.get(t.lower(),t.capitalize()) for t in (tvtypes or [])]
 
           def get_flag_and_code(language):
-              return LANGUAGE_FLAGS.get(language.lower(),DEFAULT_FLAG)
+              lang_clean = str(language or "tr").lower().strip().split('-')[0]
+              return LANGUAGE_FLAGS.get(lang_clean, DEFAULT_FLAG)
 
           def get_repo_owner(url):
               m=re.search(r"githubusercontent\.com/([^/]+)",url or "")
@@ -68,7 +76,7 @@ jobs:
                       parts = [p.strip() for p in line.split('|')]
                       if len(parts) >= 6:
                           name = re.sub(r'\*\*','', parts[2])
-                          # Hafızayı alırken hata vermemesi için güvenli Regex:
+                          # Gizli versiyon etiketini arayan düzeltilmiş Regex:
                           v_found = re.search(r'', line)
                           try:
                               old_version = v_found.group(1) if v_found else "0.0.0"
@@ -105,32 +113,34 @@ jobs:
                   marker, display_date = old_info["marker"], old_info["date"]
 
               # Görsel ve Dil Ayarları
-              lang = (plugin.get("language") or "").lower().strip()
+              lang = (plugin.get("language") or plugin.get("lang") or "tr")
               flag, code = get_flag_and_code(lang)
               img_url = next((fix_icon_url(plugin[k]) for k in IMAGE_KEYS if plugin.get(k)), None)
               tur_types = ", ".join(turkish_types(plugin.get("tvTypes"))) or "—"
               img_md = f'<img src="{img_url}" width="32">' if img_url else "—"
-              country_col = f"{flag} [{code}]" if code else flag
+              
+              # Bayrak Görseli: 🇹🇷 [TR]
+              country_col = f"**{flag} [{code}]**" if code else flag
 
-              # Tablo Satırı (Gizli versiyon en sonda)
-              unique_plugins[name] = f"| {img_md} | **{name}** | {display_date} | {marker} | {repo_owner} | {tur_types} | {country_col} | |"
+              # Tablo Satırı (Gizli versiyon etiketi eklendi!)
+              unique_plugins[name] = f"| {img_md} | **{name}** | {display_date} | {marker} | `{repo_owner}` | {tur_types} | {country_col} | |"
 
           # --- 3. ADIM: YAZ VE KAYDET ---
           readme_header = (
               f"### Son Güncelleme: {formatted_full_date}\n\n"
-              f"### Repo Kısa Kodu: {REPO_SHORT_CODE}\n\n"
-              f"### Toplam Eklenti Sayısı: {len(unique_plugins)}\n\n"
+              f"### Repo Kısa Kodu: `{REPO_SHORT_CODE}`\n\n"
+              f"### Toplam Eklenti Sayısı: `{len(unique_plugins)}` \n\n"
               "---\n\n"
               f"### Depo Sahibi:\n"
               f"[<img src='{OWNER_AVATAR}' width='48' height='48' style='border-radius:50%;'>]({OWNER_PROFILE})  \n"
-              f"[{OWNER}]({OWNER_PROFILE})\n"
+              f"**[{OWNER}]({OWNER_PROFILE})**\n"
               "---\n\n"
               "## 📦 Eklenti Listesi\n\n"
-              "| İkon | Eklenti Adı | Tarih | Durum | Depo | Türler | Ülke | |\n"
-              "|:----:|:------------|:------|:------|:-----|:-------|:----:|:---:|\n"
+              "| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Türler | Ülke | |\n"
+              "|:----:|:------------|:------|:------|:-------|:-------|:----:|:---:|\n"
           )
 
-          table_rows = [unique_plugins[n] for n in sorted(unique_plugins.keys())]
+          table_rows = [unique_plugins[n] for n in sorted(unique_plugins.keys(), key=lambda x: x.lower())]
           Path("README.md").write_text(readme_header + "\n".join(table_rows), encoding="utf-8")
 
       - name: Degisiklikleri Kaydet
@@ -139,6 +149,6 @@ jobs:
           git config user.email "actions@github.com"
           git add README.md
           if ! git diff --staged --quiet; then
-            git commit -m "Docs: README.md guncellendi"
+            git commit -m "Docs: README.md bayraklar ve versiyonlar guncellendi"
             git push
           fi
