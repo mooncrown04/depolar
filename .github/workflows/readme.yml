@@ -32,16 +32,19 @@ jobs:
           REPO_SHORT_CODE = "yok"
           IMAGE_KEYS = ["iconUrl","image","icon","logo","thumbnail","cover","img","picture","poster"]
           
-          # GÖRSEL BAYRAK AYARLARI (İkon ve Tam İsim)
+          # GERÇEK RESİM TABANLI BAYRAK AYARLARI
+          # Format: "dil_kodu": ("Ülke_Kodu_Küçük_Harf", "Ülke İsmi")
           LANGUAGE_FLAGS = {
-              "tr": ("🇹🇷", "Türkiye"),
-              "en": ("🇬🇧", "İngiltere"),
-              "de": ("🇩🇪", "Almanya"),
-              "us": ("🇺🇸", "ABD"),
-              "fr": ("🇫🇷", "Fransa"),
-              "es": ("🇪🇸", "İspanya")
+              "tr": ("tr", "Türkiye"),
+              "en": ("gb", "İngiltere"),
+              "de": ("de", "Almanya"),
+              "us": ("us", "ABD"),
+              "fr": ("fr", "Fransa"),
+              "es": ("es", "İspanya"),
+              "it": ("it", "İtalya"),
+              "jp": ("jp", "Japonya")
           }
-          DEFAULT_FLAG = ("🌐", "Bilinmiyor")
+          DEFAULT_FLAG_CODE = "un"
 
           def fix_icon_url(url):
               return url.replace("%size%","64") if url and "%size%" in url else url
@@ -50,9 +53,9 @@ jobs:
               mapping={"movie":"Film","tvseries":"Dizi","anime":"Anime","documentary":"Belgesel","asiandrama":"Asya Dizisi","live":"Canlı TV","cartoon":"Çizgi Film"}
               return [mapping.get(t.lower(),t.capitalize()) for t in (tvtypes or [])]
 
-          def get_flag_and_name(language):
+          def get_flag_info(language):
               lang_clean = str(language or "tr").lower().strip().split('-')[0]
-              return LANGUAGE_FLAGS.get(lang_clean, DEFAULT_FLAG)
+              return LANGUAGE_FLAGS.get(lang_clean, (DEFAULT_FLAG_CODE, "Bilinmiyor"))
 
           def get_repo_owner(url):
               m=re.search(r"githubusercontent\.com/([^/]+)",url or "")
@@ -78,7 +81,6 @@ jobs:
                       parts = [p.strip() for p in line.split('|')]
                       if len(parts) >= 6:
                           name = re.sub(r'\*\*','', parts[2])
-                          # Gizli versiyon etiketini arayan Regex (DÜZELTİLDİ)
                           v_found = re.search(r'', line)
                           try:
                               old_version = v_found.group(1) if v_found else "0.0.0"
@@ -114,16 +116,16 @@ jobs:
               else:
                   marker, display_date = old_info["marker"], old_info["date"]
 
-              # Görsel ve Dil Ayarları (GÜNCELLENDİ)
-              lang = (plugin.get("language") or plugin.get("lang") or "tr")
-              flag, country_name = get_flag_and_name(lang)
-              country_col = f"{flag} {country_name}"
+              # RESİM TABANLI BAYRAK AYARI
+              lang_data = (plugin.get("language") or plugin.get("lang") or "tr")
+              f_code, f_name = get_flag_info(lang_data)
+              flag_img = f'<img src="https://flagcdn.com/w20/{f_code}.png" width="20" style="vertical-align: middle;">'
+              country_col = f"{flag_img} {f_name}"
               
               img_url = next((fix_icon_url(plugin[k]) for k in IMAGE_KEYS if plugin.get(k)), None)
               tur_types = ", ".join(turkish_types(plugin.get("tvTypes"))) or "—"
               img_md = f'<img src="{img_url}" width="32" style="border-radius:4px;">' if img_url else "—"
               
-              # Tablo Satırı (Gizli versiyon etiketi ve yeni bayrak formatı eklendi)
               unique_plugins[name] = f"| {img_md} | **{name}** | {display_date} | {marker} | `{repo_owner}` | {tur_types} | {country_col} | |"
 
           # --- 3. ADIM: YAZ VE KAYDET ---
@@ -150,6 +152,6 @@ jobs:
           git config user.email "actions@github.com"
           git add README.md
           if ! git diff --staged --quiet; then
-            git commit -m "Docs: README.md bayrak isimleri ve versiyonlar guncellendi"
+            git commit -m "Docs: README.md gercek bayrak ikonlari eklendi"
             git push
           fi
