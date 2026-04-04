@@ -1,4 +1,24 @@
-- name: README.md Dosyasını Oluştur
+name: Readme Olusturucu
+
+on:
+  schedule:
+    - cron: '0 20 * * *'
+  workflow_dispatch:
+
+jobs:
+  build-readme:
+    name: README Dosyasi Olustur ve Guncelle
+    runs-on: ubuntu-latest
+    steps:
+      - name: Depoyu Klonla
+        uses: actions/checkout@v4
+
+      - name: Python Ortamini Kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: README.md Dosyasini Olustur
         shell: python
         run: |
           import json, re
@@ -50,12 +70,14 @@
                           name = re.sub(r'\*\*','', parts[2])
                           date_val = parts[3]
                           marker_val = parts[4]
-                          # HATA BURADAYDI - DÜZELTİLDİ
                           v_found = re.search(r'', line)
                           old_version = v_found.group(1) if v_found else "0.0.0"
                           old_data_store[name] = {"version": old_version, "date": date_val, "marker": marker_val}
 
           # --- 2. ADIM: GÜNCEL PLUGINS.JSON ---
+          if not Path("plugins.json").exists():
+              exit(0)
+
           with open("plugins.json", encoding="utf-8") as f:
               plugins = json.load(f)
 
@@ -107,3 +129,13 @@
           table_rows = [unique_plugins[n] for n in sorted(unique_plugins.keys())]
           readme_content = readme_header + "\n".join(table_rows)
           Path("README.md").write_text(readme_content, encoding="utf-8")
+
+      - name: Degisiklikleri Kaydet
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          if ! git diff --staged --quiet; then
+            git commit -m "Docs: README güncellendi"
+            git push
+          fi
