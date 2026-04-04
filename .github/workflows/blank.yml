@@ -49,10 +49,10 @@ jobs:
             return String(v || '0.0.0').replace(/^v/i, '').trim();
           }
 
-          // Akıllı Eşleştirme için isim temizleyici
-          function cleanName(name) {
-            if (!name) return "";
-            return name.toLowerCase().replace(/\s+/g, '').replace(/i/g, 'ı').trim();
+          // Tekrarları önlemek için ismi standardize eden fonksiyon
+          function getStandardKey(p) {
+            const raw = p.name || p.id || "";
+            return raw.toLowerCase().replace(/\s+/g, '').replace(/i/g, 'ı').trim();
           }
 
           function getRepoOwner(url) {
@@ -62,16 +62,14 @@ jobs:
 
           (async () => {
             const mergedMap = new Map();
-            const cleanNameMap = new Map();
             const today = new Date().toLocaleDateString('tr-TR');
 
+            // Mevcut dosyayı yükle (varsa)
             if (fs.existsSync('plugins.json')) {
               try {
                 const oldContent = JSON.parse(fs.readFileSync('plugins.json', 'utf8'));
                 for (const p of oldContent) {
-                  const key = p.id || p.name;
-                  mergedMap.set(key, p);
-                  cleanNameMap.set(cleanName(p.name), key);
+                  mergedMap.set(getStandardKey(p), p);
                 }
               } catch (e) { console.log("Eski dosya okunamadı."); }
             }
@@ -86,28 +84,30 @@ jobs:
                 for (const remote of remotePlugins) {
                   if (Array.isArray(remote.tvTypes) && remote.tvTypes.includes('NSFW')) continue;
                   
-                  const normalizedKey = cleanName(remote.name);
-                  const existingKey = cleanNameMap.get(normalizedKey) || (remote.id || remote.name);
-                  const existing = mergedMap.get(existingKey);
+                  const key = getStandardKey(remote);
+                  const existing = mergedMap.get(key);
                   
                   if (!remote.language && !remote.lang) remote.language = "tr";
 
                   let marker = "";
-                  let shouldUpdate = false;
+                  let isUpdate = false;
 
                   if (!existing) {
                     marker = "🆕 ";
-                    shouldUpdate = True = true;
-                  } else if (normalizeVersion(remote.version) !== normalizeVersion(existing.version)) {
-                    marker = "🔴 ";
-                    shouldUpdate = true;
+                    isUpdate = true;
+                  } else {
+                    const vRemote = normalizeVersion(remote.version);
+                    const vExisting = normalizeVersion(existing.version);
+                    if (vRemote !== vExisting) {
+                      marker = "🔴 ";
+                      isUpdate = true;
+                    }
                   }
 
-                  if (shouldUpdate) {
+                  if (isUpdate) {
                     let cleanDesc = (remote.description || '').replace(/^(🔴|🆕).*?\d{2}\.\d{2}\.\d{4}/g, '').trim();
                     remote.description = `${marker}${repoOwner} ${today} ${cleanDesc}`;
-                    mergedMap.set(existingKey, remote);
-                    cleanNameMap.set(normalizedKey, existingKey);
+                    mergedMap.set(key, remote);
                   }
                 }
               } catch (e) { console.error(`${url} hatası: ${e.message}`); }
@@ -127,21 +127,12 @@ jobs:
           OWNER = "MoOnCrOwN"
           OWNER_AVATAR = "https://st5.depositphotos.com/1041725/67731/v/380/depositphotos_677319750-stock-illustration-ararat-mountain-illustration-vector-white.jpg"
           OWNER_PROFILE = "https://github.com/mooncrown04"
-          
-          # Gerçek İkonlu Bayraklar
-          FLAGS = {
-              "tr": "https://flagcdn.com/w20/tr.png",
-              "en": "https://flagcdn.com/w20/gb.png",
-              "de": "https://flagcdn.com/w20/de.png",
-              "us": "https://flagcdn.com/w20/us.png"
-          }
+          FLAGS = {"tr": "🇹🇷", "en": "🇬🇧", "de": "🇩🇪", "us": "🇺🇸", "hi": "🇮🇳"}
           
           now = datetime.now(timezone(timedelta(hours=3)))
           full_date = now.strftime("%d.%m.%Y %H:%M")
 
-          if not Path("plugins.json").exists():
-              exit(0)
-
+          if not Path("plugins.json").exists(): exit(0)
           with open("plugins.json", encoding="utf-8") as f:
               plugins = json.load(f)
 
@@ -149,36 +140,27 @@ jobs:
           for p in sorted(plugins, key=lambda x: x.get('name','').lower()):
               name = p.get('name','Unknown')
               desc = p.get('description', '')
-              
-              # Durum Belirleme
               marker = "🔴" if "🔴" in desc else ("🆕" if "🆕" in desc else "⚪")
               
-              # Tarih Çekme
               date_match = re.search(r'\d{2}\.\d{2}\.\d{4}', desc)
               date_str = date_match.group(0) if date_match else "—"
               
-              # Bayrak Hazırlama
               lang_val = str(p.get("language") or p.get("lang") or "tr").lower().split('-')[0]
-              flag_url = FLAGS.get(lang_val, "https://flagcdn.com/w20/un.png")
-              country_tag = f'<img src="{flag_url}" width="20">'
+              flag = FLAGS.get(lang_val, "🏳️")
               
-              # İkon Hazırlama
               icon = p.get("iconUrl") or p.get("icon") or ""
-              img_tag = f'<img src="{icon}" width="32" style="border-radius:4px;">' if icon else "—"
+              img_tag = f'<img src="{icon}" width="30">' if icon and "%size%" not in icon else "—"
               
-              # Kaynak (Repo Sahibi) Çekme
               owner_match = re.search(r'(?:🆕 |🔴 )(.*?) \d', desc)
               repo_name = owner_match.group(1) if owner_match else "Bilinmiyor"
 
-              rows.append(f"| {img_tag} | **{name}** | {date_str} | {marker} | `{repo_name}` | {country_tag} |")
+              rows.append(f"| {img_tag} | **{name}** | {date_str} | {marker} | `{repo_name}` | {flag} |")
 
           header = (
               f"### Son Güncelleme: {full_date}\n\n"
               f"### Toplam Eklenti: `{len(plugins)}` \n\n"
-              f"---\n### Depo Sahibi:\n"
-              f"[<img src='{OWNER_AVATAR}' width='48' style='border-radius:50%;'>]({OWNER_PROFILE})  \n"
-              f"**[{OWNER}]({OWNER_PROFILE})**\n\n"
-              f"---\n## 📦 Eklenti Listesi\n\n"
+              f"---\n### Depo Sahibi:\n[<img src='{OWNER_AVATAR}' width='48' style='border-radius:50%;'>]({OWNER_PROFILE})  \n"
+              f"**[{OWNER}]({OWNER_PROFILE})**\n\n---\n## 📦 Eklenti Listesi\n\n"
               f"| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |\n"
               f"|:----:|:------------|:------|:------|:-------|:----:|\n"
           )
@@ -192,4 +174,4 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add plugins.json README.md
-          git diff --staged --quiet || (git commit -m "Update plugins and README (Merged Duplicates)" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
+          git diff --staged --quiet || (git commit -m "Update: Fix duplicates and update list" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
