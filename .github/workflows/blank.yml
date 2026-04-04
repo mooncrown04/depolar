@@ -1,25 +1,31 @@
-name: Eklenti Derleyici
+name: Eklenti ve README Yoneticisi
 
 on:
   schedule:
-    - cron: '21 20 * * *'
-  workflow_dispatch:
+    - cron: '30 20 * * *' # Türkiye saatiyle 23:30 civarı çalışır
+  workflow_dispatch:      # Manuel tetikleme butonu
 
 jobs:
-  build-and-push-plugins:
+  build-and-update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Depoyu Klonla
+        uses: actions/checkout@v4
 
-      - name: Set up Node.js
+      - name: Node.js ve Python Kurulumu
         uses: actions/setup-node@v4
         with:
           node-version: 20
+      
+      - uses: actions/setup-python@v5
+          with:
+            python-version: '3.x'
 
-      - name: Install node-fetch
+      - name: Bağımlılıkları Kur
         run: npm install node-fetch@2
 
-      - name: Generate plugins.json
+      # --- 1. ADIM: PLUGINS.JSON OLUŞTURUCU (NODE.JS) ---
+      - name: Plugins JSON Guncelle
         run: |
           node - <<'NODE'
           const fetch = require('node-fetch');
@@ -39,15 +45,7 @@ jobs:
           ];
 
           function normalizeVersion(v) {
-            if (!v) return null;
-            return String(v).replace(/^v/i, '');
-          }
-
-          function compareVersions(a, b) {
-            const va = normalizeVersion(a);
-            const vb = normalizeVersion(b);
-            if (va === vb) return 0;
-            return va > vb ? 1 : -1;
+            return String(v || '0.0.0').replace(/^v/i, '').trim();
           }
 
           function getRepoOwner(url) {
@@ -59,21 +57,13 @@ jobs:
             const mergedMap = new Map();
             const today = new Date().toLocaleDateString('tr-TR');
 
-            // --- 1. ADIM: Mevcut dosyadaki eski verileri hafızaya al ---
             if (fs.existsSync('plugins.json')) {
               try {
                 const oldContent = JSON.parse(fs.readFileSync('plugins.json', 'utf8'));
-                for (const p of oldContent) {
-                  const key = p.id || p.name;
-                  mergedMap.set(key, p); 
-                }
-                console.log(`Mevcut dosyadan ${mergedMap.size} eklenti yüklendi.`);
-              } catch (e) {
-                console.error("Eski plugins.json okunurken hata oluştu, sıfırdan başlanıyor.");
-              }
+                for (const p of oldContent) mergedMap.set(p.id || p.name, p);
+              } catch (e) { console.log("Eski dosya okunamadı."); }
             }
 
-            // --- 2. ADIM: Kaynakları tara ve güncelle ---
             for (const url of urls) {
               try {
                 const res = await fetch(url);
@@ -83,47 +73,92 @@ jobs:
 
                 for (const remote of remotePlugins) {
                   if (Array.isArray(remote.tvTypes) && remote.tvTypes.includes('NSFW')) continue;
-
+                  
                   const key = remote.id || remote.name;
                   const existing = mergedMap.get(key);
+                  
+                  // BAYRAK GARANTİSİ: Dil yoksa 'tr' ata
+                  if (!remote.language && !remote.lang) remote.language = "tr";
 
-                  let needsUpdate = false;
                   let marker = "";
+                  if (!existing) marker = "🆕 ";
+                  else if (normalizeVersion(remote.version) !== normalizeVersion(existing.version)) marker = "🔴 ";
 
-                  if (!existing) {
-                    // Yeni eklenti
-                    needsUpdate = true;
-                    marker = "🆕 ";
-                  } else if (compareVersions(remote.version, existing.version) !== 0) {
-                    // Versiyon değişmiş
-                    needsUpdate = true;
-                    marker = "🔴 ";
-                  }
-
-                  if (needsUpdate) {
-                    // Sadece versiyon değiştiğinde veya yeniyse tarih etiketini ekle
-                    remote.description = `${marker}${repoOwner} ${today} ${remote.description || ''}`;
+                  if (marker) {
+                    let cleanDesc = (remote.description || '').replace(/^(🔴|🆕).*?\d{2}\.\d{2}\.\d{4}/g, '').trim();
+                    remote.description = `${marker}${repoOwner} ${today} ${cleanDesc}`;
                     mergedMap.set(key, remote);
-                    console.log(`Güncellendi/Eklendi: ${key} (${remote.version})`);
                   }
-                  // EĞER VERSİYON AYNIYSA: mergedMap içindeki "existing" (eski hali) aynen kalır.
                 }
-              } catch (e) {
-                console.error(`${url} hatası: ${e.message}`);
-              }
+              } catch (e) { console.error(`${url} hatası: ${e.message}`); }
             }
-
-            const finalArray = Array.from(mergedMap.values());
-            fs.writeFileSync('plugins.json', JSON.stringify(finalArray, null, 2));
-            console.log(`İşlem tamamlandı. Toplam: ${finalArray.length}`);
+            fs.writeFileSync('plugins.json', JSON.stringify(Array.from(mergedMap.values()), null, 2));
           })();
           NODE
 
-      - name: Commit and push
+      # --- 2. ADIM: README TABLO OLUŞTURUCU (PYTHON) ---
+      - name: README.md Guncelle
+        shell: python
+        run: |
+          import json, re
+          from datetime import datetime, timedelta, timezone
+          from pathlib import Path
+
+          # AYARLAR
+          OWNER = "MoOnCrOwN"
+          OWNER_AVATAR = "https://st5.depositphotos.com/1041725/67731/v/380/depositphotos_677319750-stock-illustration-ararat-mountain-illustration-vector-white.jpg"
+          OWNER_PROFILE = "https://github.com/mooncrown04"
+          LANGUAGE_FLAGS = {"tr":("🇹🇷","TR"),"en":("🇬🇧","GB"),"de":("🇩🇪","DE"),"us":("🇺🇸","US")}
+          
+          def get_flag(lang_raw):
+              clean = str(lang_raw or "tr").lower().strip().split('-')[0]
+              return LANGUAGE_FLAGS.get(clean, ("🏴‍☠️", ""))
+
+          # Tarih Ayarı
+          now = datetime.now(timezone(timedelta(hours=3)))
+          full_date = now.strftime("%d.%m.%Y %H:%M")
+
+          # Plugins.json Oku
+          with open("plugins.json", encoding="utf-8") as f:
+              plugins = json.load(f)
+
+          # Tablo Satırları
+          rows = []
+          for p in sorted(plugins, key=lambda x: x.get('name','')):
+              name = p.get('name','Unknown')
+              # Description içinden tarih ve durumu çek
+              desc = p.get('description', '')
+              marker = "🔴" if "🔴" in desc else ("🆕" if "🆕" in desc else " ")
+              date_match = re.search(r'\d{2}\.\d{2}\.\d{4}', desc)
+              date_str = date_match.group(0) if date_match else "—"
+              
+              lang_data = p.get("language") or p.get("lang") or "tr"
+              flag, code = get_flag(lang_data)
+              country = f"{flag} [{code}]" if code else flag
+              
+              img = f'<img src="{p.get("iconUrl") or p.get("icon")}" width="32">' if p.get("iconUrl") or p.get("icon") else "—"
+              owner = re.search(r'(?:🆕 |🔴 )(.*?) \d', desc)
+              repo_name = owner.group(1) if owner else "Bilinmiyor"
+
+              rows.append(f"| {img} | **{name}** | {date_str} | {marker} | {repo_name} | {country} |")
+
+          # Yazma İşlemi
+          header = (
+              f"### Son Güncelleme: {full_date}\n\n"
+              f"### Toplam Eklenti: {len(plugins)}\n\n"
+              f"---\n### Depo Sahibi:\n[<img src='{OWNER_AVATAR}' width='48' style='border-radius:50%;'>]({OWNER_PROFILE})  \n"
+              f"[{OWNER}]({OWNER_PROFILE})\n\n---\n## 📦 Eklenti Listesi\n\n"
+              "| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |\n"
+              "|:----:|:------------|:------|:------|:-------|:----:|\n"
+          )
+          Path("README.md").write_text(header + "\n".join(rows), encoding="utf-8")
+
+      # --- 3. ADIM: DEĞİŞİKLİKLERİ KAYDET ---
+      - name: Commit and Push
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
-          git add plugins.json
-          git diff --staged --quiet || (git commit -m "Update plugins.json" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
+          git add plugins.json README.md
+          git diff --staged --quiet || (git commit -m "Update plugins and README" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
