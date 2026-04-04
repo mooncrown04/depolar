@@ -19,7 +19,7 @@ jobs:
       - name: Install node-fetch
         run: npm install node-fetch@2
 
-      - name: Generate plugins.json for MoOnCrOwN
+      - name: Generate plugins.json
         run: |
           node - <<'NODE'
           const fetch = require('node-fetch');
@@ -38,165 +38,92 @@ jobs:
             'https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/plugins.json'
           ];
 
-          function parseDateFromPlugin(p) {
-            const fields = ['updatedAt','lastUpdated','updated','releaseDate','date','publishedAt','published','created_at','timestamp'];
-            for (const f of fields) {
-              if (p[f]) {
-                const d = new Date(p[f]);
-                if (!isNaN(d)) return d;
-              }
-            }
-            return null;
-          }
-
-          function parseDateHeader(res) {
-            const lm = res.headers.get('last-modified');
-            if (lm) {
-              const d = new Date(lm);
-              if (!isNaN(d)) return d;
-            }
-            return null;
-          }
-
           function normalizeVersion(v) {
             if (!v) return null;
             return String(v).replace(/^v/i, '');
           }
 
           function compareVersions(a, b) {
-            if (!a && !b) return 0;
-            if (a && !b) return 1;
-            if (!a && b) return -1;
-            const pa = String(a).split(/[.\-+_]/).map(x => isNaN(parseInt(x)) ? x : parseInt(x));
-            const pb = String(b).split(/[.\-+_]/).map(x => isNaN(parseInt(x)) ? x : parseInt(x));
-            const n = Math.max(pa.length, pb.length);
-            for (let i = 0; i < n; i++) {
-              const xa = pa[i] === undefined ? 0 : pa[i];
-              const xb = pb[i] === undefined ? 0 : pb[i];
-              if (typeof xa === 'number' && typeof xb === 'number') {
-                if (xa > xb) return 1;
-                if (xa < xb) return -1;
-              } else {
-                const sa = String(xa);
-                const sb = String(xb);
-                if (sa > sb) return 1;
-                if (sa < sb) return -1;
-              }
-            }
-            return 0;
+            const va = normalizeVersion(a);
+            const vb = normalizeVersion(b);
+            if (va === vb) return 0;
+            return va > vb ? 1 : -1;
           }
 
           function getRepoOwner(url) {
             const match = url.match(/githubusercontent\.com\/([^/]+)/);
-            return match ? match[1] : "UnknownRepo";
-          }
-
-          function addUpdateInfo(plugin, finalDate, sourceUrl, isNew, versionChanged) {
-            const today = new Date();
-            const repoOwner = getRepoOwner(sourceUrl);
-            
-            // Tarih belirleme:
-            // - Yeni plugin veya versiyon değişimi: bugün
-            // - Aksi halde: eski tarih korunur (ama bu durumda zaten replace=false olur)
-            let displayDate = (isNew || versionChanged) ? today : finalDate;
-            if (!displayDate) displayDate = today;
-            
-            const pluginDateStr = displayDate.toLocaleDateString('tr-TR');
-
-            let marker = "";
-            if (isNew) {
-              marker = "\ud83c\udd95 "; // 🆕 Yeni
-            } else if (versionChanged) {
-              marker = "\ud83d\udd34 "; // 🔴 Versiyon değişti
-            }
-
-            plugin.description = marker + repoOwner + " " + pluginDateStr + " " + (plugin.description || '');
+            return match ? match[1] : "Unknown";
           }
 
           (async () => {
             const mergedMap = new Map();
-            const today = new Date();
-            
-            for (const url of urls) {
+            const today = new Date().toLocaleDateString('tr-TR');
+
+            // --- 1. ADIM: Mevcut dosyadaki eski verileri hafızaya al ---
+            if (fs.existsSync('plugins.json')) {
               try {
-                const res = await fetch(url);
-                if (!res.ok) {
-                  console.warn(`GET ${url} -> ${res.status} ${res.statusText}`);
-                  continue;
+                const oldContent = JSON.parse(fs.readFileSync('plugins.json', 'utf8'));
+                for (const p of oldContent) {
+                  const key = p.id || p.name;
+                  mergedMap.set(key, p); 
                 }
-                const plugins = await res.json();
-                if (!Array.isArray(plugins)) {
-                  console.warn(`${url} -> Invalid plugins.json`);
-                  continue;
-                }
-
-                const sourceDate = parseDateHeader(res);
-                let added = 0;
-                for (const plugin of plugins) {
-                  if (Array.isArray(plugin.tvTypes) && plugin.tvTypes.includes('NSFW')) continue;
-
-                  const key = plugin.id || plugin.name || plugin.title || plugin.slug || plugin.packageName || plugin.file || plugin.url || JSON.stringify(plugin);
-
-                  const pluginDate = parseDateFromPlugin(plugin);
-                  const finalDate = pluginDate || sourceDate || null;
-
-                  const version = normalizeVersion(plugin.version || plugin.ver || plugin.pkgVersion || null);
-
-                  const existing = mergedMap.get(key);
-                  let replace = false;
-                  let versionChanged = false;
-                  let isNew = !existing;
-                  
-                  if (isNew) {
-                    // Yeni plugin - ekle
-                    replace = true;
-                    versionChanged = false;
-                  } else {
-                    // Mevcut plugin - sadece versiyon değişirse güncelle
-                    const cmp = compareVersions(version, existing.version);
-                    if (cmp !== 0) {
-                      // Versiyon değişmiş
-                      replace = true;
-                      versionChanged = true;
-                    } else {
-                      // Versiyon aynı - dokunma, eski kaydı koru
-                      replace = false;
-                      versionChanged = false;
-                    }
-                  }
-
-                  if (replace) {
-                    addUpdateInfo(plugin, finalDate, url, isNew, versionChanged);
-                    mergedMap.set(key, { plugin, date: today, version });
-                  }
-                  // replace = false ise hiçbir şey yapma, mevcut kayıt korunur
-                  added++;
-                }
-                console.log('Source: ' + url);
-                console.log('→ ' + added + ' plugins processed (dedup applied)');
+                console.log(`Mevcut dosyadan ${mergedMap.size} eklenti yüklendi.`);
               } catch (e) {
-                console.error(`GET ${url} -> error: ${e.message}`);
-                continue;
+                console.error("Eski plugins.json okunurken hata oluştu, sıfırdan başlanıyor.");
               }
             }
 
-            const merged = Array.from(mergedMap.values()).map(v => v.plugin);
-            
-            let jsonString = JSON.stringify(merged, null, 2);
-            jsonString = jsonString.replace(/\\\\u([0-9a-fA-F]{4})/g, '\\u$1');
-            
-            fs.writeFileSync('plugins.json', jsonString);
-            console.log('plugins.json created. Total unique plugins:', merged.length);
+            // --- 2. ADIM: Kaynakları tara ve güncelle ---
+            for (const url of urls) {
+              try {
+                const res = await fetch(url);
+                if (!res.ok) continue;
+                const remotePlugins = await res.json();
+                const repoOwner = getRepoOwner(url);
+
+                for (const remote of remotePlugins) {
+                  if (Array.isArray(remote.tvTypes) && remote.tvTypes.includes('NSFW')) continue;
+
+                  const key = remote.id || remote.name;
+                  const existing = mergedMap.get(key);
+
+                  let needsUpdate = false;
+                  let marker = "";
+
+                  if (!existing) {
+                    // Yeni eklenti
+                    needsUpdate = true;
+                    marker = "🆕 ";
+                  } else if (compareVersions(remote.version, existing.version) !== 0) {
+                    // Versiyon değişmiş
+                    needsUpdate = true;
+                    marker = "🔴 ";
+                  }
+
+                  if (needsUpdate) {
+                    // Sadece versiyon değiştiğinde veya yeniyse tarih etiketini ekle
+                    remote.description = `${marker}${repoOwner} ${today} ${remote.description || ''}`;
+                    mergedMap.set(key, remote);
+                    console.log(`Güncellendi/Eklendi: ${key} (${remote.version})`);
+                  }
+                  // EĞER VERSİYON AYNIYSA: mergedMap içindeki "existing" (eski hali) aynen kalır.
+                }
+              } catch (e) {
+                console.error(`${url} hatası: ${e.message}`);
+              }
+            }
+
+            const finalArray = Array.from(mergedMap.values());
+            fs.writeFileSync('plugins.json', JSON.stringify(finalArray, null, 2));
+            console.log(`İşlem tamamlandı. Toplam: ${finalArray.length}`);
           })();
           NODE
 
-      - name: Commit and push plugins.json
+      - name: Commit and push
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add plugins.json
-          git diff --staged --quiet || git commit -m "Update plugins.json"
-          git pull --rebase https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git main
-          git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main
+          git diff --staged --quiet || (git commit -m "Update plugins.json" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
