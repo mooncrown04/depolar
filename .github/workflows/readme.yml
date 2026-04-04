@@ -57,7 +57,7 @@ jobs:
           today_str = now.strftime("%d.%m.%Y")
           formatted_full_date = now.strftime("%d.%m.%Y %H:%M")
 
-          # --- 1. ADIM: ESKİ README'Yİ OKU ---
+          # --- 1. ADIM: ESKİ README'Yİ OKU (HAFIZA SİSTEMİ) ---
           old_data_store = {}
           readme_path = Path("README.md")
           if readme_path.exists():
@@ -68,13 +68,20 @@ jobs:
                       parts = [p.strip() for p in line.split('|')]
                       if len(parts) >= 6:
                           name = re.sub(r'\*\*','', parts[2])
-                          date_val = parts[3]
-                          marker_val = parts[4]
+                          # Hafızayı alırken hata vermemesi için güvenli Regex:
                           v_found = re.search(r'', line)
-                          old_version = v_found.group(1) if v_found else "0.0.0"
-                          old_data_store[name] = {"version": old_version, "date": date_val, "marker": marker_val}
+                          try:
+                              old_version = v_found.group(1) if v_found else "0.0.0"
+                          except IndexError:
+                              old_version = "0.0.0"
+                          
+                          old_data_store[name] = {
+                              "version": old_version, 
+                              "date": parts[3], 
+                              "marker": parts[4]
+                          }
 
-          # --- 2. ADIM: GÜNCEL PLUGINS.JSON ---
+          # --- 2. ADIM: GÜNCEL PLUGINS.JSON İŞLE ---
           if not Path("plugins.json").exists():
               exit(0)
 
@@ -88,30 +95,27 @@ jobs:
 
               new_version = normalize_version(plugin.get("version") or plugin.get("ver") or "0.0.0")
               repo_owner = get_repo_owner(plugin.get("url") or "")
-              
               old_info = old_data_store.get(name)
               
               if not old_info:
-                  marker = "🆕"
-                  display_date = today_str
+                  marker, display_date = "🆕", today_str
               elif old_info["version"] != new_version:
-                  marker = "🔴"
-                  display_date = today_str
+                  marker, display_date = "🔴", today_str
               else:
-                  marker = old_info["marker"]
-                  display_date = old_info["date"]
+                  marker, display_date = old_info["marker"], old_info["date"]
 
-              language = (plugin.get("language") or "").lower().strip()
-              flag, code = get_flag_and_code(language)
+              # Görsel ve Dil Ayarları
+              lang = (plugin.get("language") or "").lower().strip()
+              flag, code = get_flag_and_code(lang)
               img_url = next((fix_icon_url(plugin[k]) for k in IMAGE_KEYS if plugin.get(k)), None)
-              tur_types_list = turkish_types(plugin.get("tvTypes"))
-              tur_text = ", ".join(tur_types_list) if tur_types_list else "—"
+              tur_types = ", ".join(turkish_types(plugin.get("tvTypes"))) or "—"
               img_md = f'<img src="{img_url}" width="32">' if img_url else "—"
               country_col = f"{flag} [{code}]" if code else flag
 
-              unique_plugins[name] = f"| {img_md} | **{name}** | {display_date} | {marker} | {repo_owner} | {tur_text} | {country_col} | |"
+              # Tablo Satırı (Gizli versiyon en sonda)
+              unique_plugins[name] = f"| {img_md} | **{name}** | {display_date} | {marker} | {repo_owner} | {tur_types} | {country_col} | |"
 
-          # --- 3. ADIM: YAZ ---
+          # --- 3. ADIM: YAZ VE KAYDET ---
           readme_header = (
               f"### Son Güncelleme: {formatted_full_date}\n\n"
               f"### Repo Kısa Kodu: {REPO_SHORT_CODE}\n\n"
@@ -127,8 +131,7 @@ jobs:
           )
 
           table_rows = [unique_plugins[n] for n in sorted(unique_plugins.keys())]
-          readme_content = readme_header + "\n".join(table_rows)
-          Path("README.md").write_text(readme_content, encoding="utf-8")
+          Path("README.md").write_text(readme_header + "\n".join(table_rows), encoding="utf-8")
 
       - name: Degisiklikleri Kaydet
         run: |
@@ -136,6 +139,6 @@ jobs:
           git config user.email "actions@github.com"
           git add README.md
           if ! git diff --staged --quiet; then
-            git commit -m "Docs: README güncellendi"
+            git commit -m "Docs: README.md guncellendi"
             git push
           fi
