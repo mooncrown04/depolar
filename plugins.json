@@ -62,24 +62,22 @@
     "apiVersion": 1
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
+    "iconUrl": "https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 18683,
+    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
     "status": 1,
     "language": "tr",
     "authors": [
-      "Adippe",
-      "keyiflerolsun"
+      "Makoto Tokioki"
     ],
     "tvTypes": [
       "Live"
     ],
-    "version": 7,
-    "internalName": "CanliTV",
-    "description": "🔴 ramazansancar 04.04.2026 Canlı TV",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/CanliTV.cs3",
-    "name": "CanliTV"
+    "version": 4,
+    "internalName": "CanliTv",
+    "description": "🔴 Sertel392 04.04.2026 Ulusal kanalları bu eklentide izleyebilirsiniz.",
+    "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/CanliTv.cs3",
+    "name": "CanliTv"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/CizgiMax.cs3",
@@ -589,23 +587,23 @@
     "name": "SuperFilmGeldi"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=%size%",
+    "iconUrl": "https://www.tlctv.com.tr/favicon.ico",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 13170,
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 13259,
     "status": 1,
     "language": "tr",
     "authors": [
-      "keyiflerolsun"
+      "nikyokki"
     ],
     "tvTypes": [
-      "Movie"
+      "TvSeries"
     ],
-    "version": 19,
-    "internalName": "TLCtr",
-    "description": "🆕 maarrem 03.04.2026 TLC tr",
-    "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/TLCtr.cs3",
-    "name": "TLCtr"
+    "version": 1,
+    "internalName": "TLCTR",
+    "description": "🔴 ramazansancar 04.04.2026 TLC TV dizi ve programlarını takip etmek için ziyaret edin. TLC TV dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
+    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/TLCTR.cs3",
+    "name": "TLCTR"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tranimaci.com&sz=%size%",
@@ -785,26 +783,27 @@
     "name": "DiziPalOriginal"
   },
   {
-    "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 22636,
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SineWix.cs3",
     "status": 1,
-    "language": "tr",
+    "version": 9,
+    "name": "SineWix",
+    "internalName": "SineWix",
     "authors": [
-      "patr0n",
-      "keyiflerolsun"
+      "kraptor"
     ],
+    "description": "🔴 Kraptor123 04.04.2026 SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
+    "fileSize": 39352,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+    "language": "tr",
     "tvTypes": [
       "Movie",
       "TvSeries",
-      "Anime"
+      "Anime",
+      "AsianDrama",
+      "Cartoon"
     ],
-    "version": 2,
-    "internalName": "Sinewix",
-    "description": "🆕 feroxx 03.04.2026 Sinewix | Ücretsiz Film - Dizi - Anime İzleme Uygulaması",
-    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/Sinewix.cs3",
-    "name": "Sinewix"
+    "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
+    "apiVersion": 1
   },
   {
     "iconUrl": "https://www.4kfilmizleme.net/wp-content/uploads/2022/09/4kfilmizlemefavicon-1.png",
@@ -1018,24 +1017,23 @@
     "name": "GolgeTV"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 27428,
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HDFilmizle.cs3",
     "status": 1,
-    "language": "tr",
-    "authors": [
-      "nikyokki"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
     "version": 2,
-    "internalName": "HDFilmIzle",
-    "description": "🆕 ramazansancar 03.04.2026 HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabancı filmlerle Türkçe dublaj veya Altyazı olarak kesintisiz film izlemenin tadını çıkarın.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/HDFilmIzle.cs3",
-    "name": "HDFilmIzle"
+    "name": "HDFilmizle",
+    "internalName": "HDFilmizle",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "🆕 Kraptor123 03.04.2026 En yeni ve popüler filmleri 1080p kalitesinde Türkçe dublaj altyazılı izle. Aksiyon, macera, komedi, dram ve daha fazlası film izle sayfamızda.",
+    "fileSize": 26291,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hdfilmizle.life/rally-caps/&size=128",
+    "apiVersion": 1
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmsitesi.net&sz=%size%",
@@ -1154,29 +1152,6 @@
     "name": "RoketDizi"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SineWix.cs3",
-    "status": 1,
-    "version": 9,
-    "name": "SineWix",
-    "internalName": "SineWix",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "🔴 Kraptor123 04.04.2026 SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
-    "fileSize": 39352,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "AsianDrama",
-      "Cartoon"
-    ],
-    "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
-    "apiVersion": 1
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tafdi.info&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
@@ -1194,25 +1169,6 @@
     "description": "🆕 ramazansancar 03.04.2026 Türkçe altyazılı film izle, full hd olarak film izlemenin keyfini çıkarın. Türkiyenin en büyük film izleme platformu tafdi kalitesiyle sizlerle.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/Tafdi.cs3",
     "name": "Tafdi"
-  },
-  {
-    "iconUrl": "https://www.tlctv.com.tr/favicon.ico",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 13259,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "nikyokki"
-    ],
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "version": 1,
-    "internalName": "TLCTR",
-    "description": "🔴 ramazansancar 04.04.2026 TLC TV dizi ve programlarını takip etmek için ziyaret edin. TLC TV dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/TLCTR.cs3",
-    "name": "TLCTR"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
@@ -1333,24 +1289,28 @@
     "apiVersion": 1
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 14115,
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Youtube.cs3",
     "status": 1,
-    "language": "tr",
+    "version": 34,
+    "name": "Youtube",
+    "internalName": "Youtube",
     "authors": [
-      "Cloudburst",
-      "keyiflerolsun"
+      "Eagle",
+      "ByAyzen",
+      "Kraptor"
     ],
+    "description": "🔴 Kraptor123 04.04.2026 Youtube",
+    "fileSize": 114801,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+    "language": "tr",
     "tvTypes": [
-      "Others"
+      "Movie",
+      "Live",
+      "Music",
+      "TvSeries"
     ],
-    "version": 6,
-    "internalName": "YouTube",
-    "description": "🆕 ramazansancar 03.04.2026 YouTube, izlediğiniz videolarla önerilerini iyileştirir. İlginizi çekebilecek içeriklerle dolu bir akış oluşturmak için video izlemeye başlayın.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/YouTube.cs3",
-    "name": "YouTube"
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128",
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YTS.cs3",
@@ -1394,40 +1354,23 @@
     "name": "YerelDiziler"
   },
   {
-    "iconUrl": "https://cizgivedizi.com/Logo.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/CizgiveDizi.cs3",
     "status": 1,
-    "language": "tr",
+    "version": 29,
+    "name": "CizgiveDizi",
+    "internalName": "CizgiveDizi",
     "authors": [
-      "Makoto Tokioki"
+      "kraptor"
     ],
-    "tvTypes": [
-      "Cartoon, TvSeries"
-    ],
-    "version": 3,
-    "internalName": "CizgiVeDizi",
-    "description": "🆕 Sertel392 03.04.2026 Popüler çizgi film ve dizilerin Türkçe güncel kaynağı.",
-    "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/CizgiVeDizi.cs3",
-    "name": "CizgiVeDizi"
-  },
-  {
-    "iconUrl": "https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-    "status": 1,
+    "description": "🔴 Kraptor123 04.04.2026 Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
+    "fileSize": 37786,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
-    "authors": [
-      "Makoto Tokioki"
-    ],
     "tvTypes": [
-      "Live"
+      "Cartoon"
     ],
-    "version": 4,
-    "internalName": "CanliTv",
-    "description": "🔴 Sertel392 04.04.2026 Ulusal kanalları bu eklentide izleyebilirsiniz.",
-    "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/CanliTv.cs3",
-    "name": "CanliTv"
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgivedizi.com",
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/WebDramaTurkey.cs3",
@@ -1915,25 +1858,6 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/CizgiveDizi.cs3",
-    "status": 1,
-    "version": 29,
-    "name": "CizgiveDizi",
-    "internalName": "CizgiveDizi",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "🔴 Kraptor123 04.04.2026 Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
-    "fileSize": 37786,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "language": "tr",
-    "tvTypes": [
-      "Cartoon"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgivedizi.com",
-    "apiVersion": 1
-  },
-  {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziAsia.cs3",
     "status": 1,
     "version": 10,
@@ -2209,25 +2133,6 @@
       "Movie"
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hdfilmdelisi.one/&size=128",
-    "apiVersion": 1
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HDFilmizle.cs3",
-    "status": 1,
-    "version": 2,
-    "name": "HDFilmizle",
-    "internalName": "HDFilmizle",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "🆕 Kraptor123 03.04.2026 En yeni ve popüler filmleri 1080p kalitesinde Türkçe dublaj altyazılı izle. Aksiyon, macera, komedi, dram ve daha fazlası film izle sayfamızda.",
-    "fileSize": 26291,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hdfilmizle.life/rally-caps/&size=128",
     "apiVersion": 1
   },
   {
@@ -2529,30 +2434,6 @@
       "Movie"
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yesilcamtv.com.tr&size=64",
-    "apiVersion": 1
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Youtube.cs3",
-    "status": 1,
-    "version": 34,
-    "name": "Youtube",
-    "internalName": "Youtube",
-    "authors": [
-      "Eagle",
-      "ByAyzen",
-      "Kraptor"
-    ],
-    "description": "🔴 Kraptor123 04.04.2026 Youtube",
-    "fileSize": 114801,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "Live",
-      "Music",
-      "TvSeries"
-    ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128",
     "apiVersion": 1
   },
   {
