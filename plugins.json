@@ -21,7 +21,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AnimeciX.cs3",
     "status": 1,
-    "version": 46,
+    "version": 49,
     "name": "AnimeciX",
     "internalName": "AnimeciX",
     "authors": [
@@ -31,8 +31,8 @@
       "inatchii",
       "JustRelaxable"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
-    "fileSize": 112429,
+    "description": "🔴 Kraptor123 03.05.2026 AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
+    "fileSize": 112938,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -40,7 +40,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://animecix.net&size=16",
     "apiVersion": 1,
-    "fileHash": "sha256-61edce3056ad9206e969e396d80ddfed1da80faf695158665bc86c790b73d533"
+    "fileHash": "sha256-a7eea966a0c23e0d54f3df0554ccf6388e569386bb4a22cef272fd967add92d1"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/BelgeselX.cs3",
@@ -52,7 +52,7 @@
       "kraptor",
       "ByAyzen"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
+    "description": "🔴 Kraptor123 03.05.2026 En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
     "fileSize": 38880,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -77,7 +77,7 @@
     ],
     "version": 4,
     "internalName": "CanliTv",
-    "description": "🔴 Sertel392 02.05.2026 Ulusal kanalları bu eklentide izleyebilirsiniz.",
+    "description": "🔴 Sertel392 03.05.2026 Ulusal kanalları bu eklentide izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/CanliTv.cs3",
     "name": "CanliTv"
   },
@@ -91,7 +91,7 @@
       "keyiflerolsun",
       "kraptor"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
+    "description": "🔴 Kraptor123 03.05.2026 ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
     "fileSize": 34872,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -111,7 +111,7 @@
     "authors": [
       "kraptor"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Ddizi, dizi izle, dizi seyret, yerli dizi izle, canlı dizi, türk dizi izle, dizi izle full, diziizle, eski diziler.",
+    "description": "🔴 Kraptor123 03.05.2026 Ddizi, dizi izle, dizi seyret, yerli dizi izle, canlı dizi, türk dizi izle, dizi izle full, diziizle, eski diziler.",
     "fileSize": 24442,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -125,7 +125,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziBox.cs3",
     "status": 1,
-    "version": 26,
+    "version": 27,
     "name": "DiziBox",
     "internalName": "DiziBox",
     "authors": [
@@ -133,8 +133,8 @@
       "kerimmkirac",
       "ByAyzen"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
-    "fileSize": 29823,
+    "description": "🔴 Kraptor123 03.05.2026 Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
+    "fileSize": 32337,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -142,7 +142,7 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.dizibox.de&size=16",
     "apiVersion": 1,
-    "fileHash": "sha256-d72300c278f84c3573fc2da8056c02f735ebb71cba714b9b32ac91a0293d24a9"
+    "fileHash": "sha256-20b0c25faafe12d799f5c998b57408d2f65e67b05e0b56d08ed70c65efcbeb71"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziKorea.cs3",
@@ -154,7 +154,7 @@
       "Kerimmkirac",
       "kraptor"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Kore Dizileri izle, Dizikorea size en yeni ve güncel romantik komedi, okul tarzında ki Kore Asya Dizilerini Full HD Türkçe Altyazılı izleme şansı verir.",
+    "description": "🔴 Kraptor123 03.05.2026 Kore Dizileri izle, Dizikorea size en yeni ve güncel romantik komedi, okul tarzında ki Kore Asya Dizilerini Full HD Türkçe Altyazılı izleme şansı verir.",
     "fileSize": 47980,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -168,7 +168,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dizilla.cs3",
     "status": 1,
-    "version": 82,
+    "version": 85,
     "name": "Dizilla",
     "internalName": "Dizilla",
     "authors": [
@@ -176,8 +176,8 @@
       "kerimmkirac",
       "keyiflerolsun"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 1080p yabancı dizi izle. Türkçe altyazılı veya dublaj seçenekleriyle 1080p çözünürlükte yabancı dizilere anında ulaş. Popüler dizileri kesintisiz izle.",
-    "fileSize": 108827,
+    "description": "🔴 Kraptor123 03.05.2026 1080p yabancı dizi izle. Türkçe altyazılı veya dublaj seçenekleriyle 1080p çözünürlükte yabancı dizilere anında ulaş. Popüler dizileri kesintisiz izle.",
+    "fileSize": 110009,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -185,7 +185,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=https://dizilla.to",
     "apiVersion": 1,
-    "fileHash": "sha256-b4bc83eac50b62eb703e5a6c0562cfe50512de0aa6047e508eac419f593d40f4"
+    "fileHash": "sha256-b8c00600792c3c30f231f7897b3222d0d7c6725e1b7c5992d7cddd1eb37f308d"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziMom.cs3",
@@ -197,7 +197,7 @@
       "kraptor",
       "keyiflerolsun"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
+    "description": "🔴 Kraptor123 03.05.2026 Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
     "fileSize": 43098,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -218,7 +218,7 @@
       "kraptor",
       "ByAyzen"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 En yeni dizileri güvenli ve hızlı şekilde sunar.",
+    "description": "🔴 Kraptor123 03.05.2026 En yeni dizileri güvenli ve hızlı şekilde sunar.",
     "fileSize": 31381,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -239,7 +239,7 @@
     "authors": [
       "keyiflerolsun"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
+    "description": "🔴 Kraptor123 03.05.2026 Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
     "fileSize": 20327,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -282,7 +282,7 @@
       "usdogu",
       "nikyokki"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
+    "description": "🔴 Kraptor123 03.05.2026 Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
     "fileSize": 59787,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -303,7 +303,7 @@
     "authors": [
       "kraptor"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
+    "description": "🔴 Kraptor123 03.05.2026 Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
     "fileSize": 21883,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -330,22 +330,22 @@
     ],
     "version": 14,
     "internalName": "FullHDFilm",
-    "description": "🔴 ramazansancar 02.05.2026 Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
+    "description": "🔴 ramazansancar 03.05.2026 Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/FullHDFilm.cs3",
     "name": "FullHDFilm"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FullHDFilmizlesene.cs3",
     "status": 1,
-    "version": 40,
+    "version": 43,
     "name": "FullHDFilmizlesene",
     "internalName": "FullHDFilmizlesene",
     "authors": [
       "kraptor",
       "ByAyzen"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-    "fileSize": 94322,
+    "description": "🔴 Kraptor123 03.05.2026 Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
+    "fileSize": 94754,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -353,7 +353,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.fullhdfilmizlesene.de",
     "apiVersion": 1,
-    "fileHash": "sha256-046de1597292f5aa5493682f72300133cc97c0dd352591410b157f649f5d737a"
+    "fileHash": "sha256-a59928b4c73320e7616bdfa0cc393f2dc6c10df6a8060c5e0b6004dcc6438456"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HDFilmCehennemi.cs3",
@@ -364,7 +364,7 @@
     "authors": [
       "kraptor"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 HDFilmCehennemi - Türkiye'nin en hızlı hd film izleme sitesi. Tek ve gerçek HDFilmCehennemi sitesi.",
+    "description": "🔴 Kraptor123 03.05.2026 HDFilmCehennemi - Türkiye'nin en hızlı hd film izleme sitesi. Tek ve gerçek HDFilmCehennemi sitesi.",
     "fileSize": 57666,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -387,7 +387,7 @@
       "kraptor",
       "JustRelaxable"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Bu eklenti düzenli güncelleme almayacaktır!",
+    "description": "🔴 Kraptor123 03.05.2026 Bu eklenti düzenli güncelleme almayacaktır!",
     "fileSize": 50564,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -410,7 +410,7 @@
       "kraptor",
       "ByAyzen"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
+    "description": "🔴 Kraptor123 03.05.2026 Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
     "fileSize": 54654,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -430,7 +430,7 @@
     "authors": [
       "kraptor"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Güney Kore sevdalılarının vazgeçemediği ve Türkiye'nin en çok ziyaret edilen Güney Kore Portalı; Koreantürk'e hoşgeldiniz!",
+    "description": "🔴 Kraptor123 03.05.2026 Güney Kore sevdalılarının vazgeçemediği ve Türkiye'nin en çok ziyaret edilen Güney Kore Portalı; Koreantürk'e hoşgeldiniz!",
     "fileSize": 20659,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -451,7 +451,7 @@
       "kraptor",
       "keyiflerolsun"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
+    "description": "🔴 Kraptor123 03.05.2026 Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
     "fileSize": 28440,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -493,7 +493,7 @@
     "authors": [
       "ByAyzen"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 The Cave of Forgotten Films",
+    "description": "🔴 Kraptor123 03.05.2026 The Cave of Forgotten Films",
     "fileSize": 26300,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "en",
@@ -515,7 +515,7 @@
       "kraptor",
       "ByAyzen"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 RecTV,Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
+    "description": "🔴 Kraptor123 03.05.2026 RecTV,Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "fileSize": 63087,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -538,7 +538,7 @@
       "kraptor",
       "kerimmkirac"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
+    "description": "🔴 Kraptor123 03.05.2026 Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
     "fileSize": 54466,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -559,7 +559,7 @@
       "kraptor",
       "kerimmkirac"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
+    "description": "🔴 Kraptor123 03.05.2026 Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
     "fileSize": 64116,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -579,7 +579,7 @@
     "authors": [
       "kraptor"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
+    "description": "🔴 Kraptor123 03.05.2026 Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
     "fileSize": 20309,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -624,7 +624,7 @@
     ],
     "version": 1,
     "internalName": "TLCTR",
-    "description": "🔴 ramazansancar 02.05.2026 TLC TV dizi ve programlarını takip etmek için ziyaret edin. TLC TV dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
+    "description": "🔴 ramazansancar 03.05.2026 TLC TV dizi ve programlarını takip etmek için ziyaret edin. TLC TV dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/TLCTR.cs3",
     "name": "TLCTR"
   },
@@ -669,15 +669,15 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TurkAnime.cs3",
     "status": 1,
-    "version": 24,
+    "version": 25,
     "name": "TurkAnime",
     "internalName": "TurkAnime",
     "authors": [
       "kraptor",
       "ByAyzen"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
-    "fileSize": 48858,
+    "description": "🔴 Kraptor123 03.05.2026 Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
+    "fileSize": 49671,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -686,7 +686,7 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.turkanime.co&size=64",
     "apiVersion": 1,
-    "fileHash": "sha256-9d8c445727a3556a78c1d9d8aed6ea02a87c134ce7bdcb7f798bf3f10e57ddea"
+    "fileHash": "sha256-1947a18574cd210d803444f3a600d02cb88f657e3dc892d420a03f9f2c22ede2"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/UgurFilm.cs3",
@@ -698,7 +698,7 @@
       "kraptor",
       "kerimmkirac"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleriyle 720p ve 1080p HD kalitesinde film izle - Uğur Film full hd film izle.",
+    "description": "🔴 Kraptor123 03.05.2026 Yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleriyle 720p ve 1080p HD kalitesinde film izle - Uğur Film full hd film izle.",
     "fileSize": 32391,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -718,7 +718,7 @@
     "authors": [
       "kraptor"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Watch2Movies is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series. You can also Download full movies from Watch2Movies and watch it later if you want.",
+    "description": "🔴 Kraptor123 03.05.2026 Watch2Movies is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series. You can also Download full movies from Watch2Movies and watch it later if you want.",
     "fileSize": 42606,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "en",
@@ -739,7 +739,7 @@
       "kraptor",
       "ByAyzen"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
+    "description": "🔴 Kraptor123 03.05.2026 Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
     "fileSize": 72429,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -778,7 +778,7 @@
     "authors": [
       "kraptor"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Asya Animeleri – Anime izle | Donghua izle | Animeler | Donghuantr | Türkanime | Donghua Anime, Türkçe Altyazılı Anime izle , Türkçe Anime, animeizle.",
+    "description": "🔴 Kraptor123 03.05.2026 Asya Animeleri – Anime izle | Donghua izle | Animeler | Donghuantr | Türkanime | Donghua Anime, Türkçe Altyazılı Anime izle , Türkçe Anime, animeizle.",
     "fileSize": 27474,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -821,7 +821,7 @@
       "kraptor",
       "ByAyzen"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
+    "description": "🔴 Kraptor123 03.05.2026 SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
     "fileSize": 59099,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -901,7 +901,7 @@
     "authors": [
       "kerimmkirac"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Kore, Çin ve Japon dizilerini tek tıkla HD ve Türkçe altyazılı izle. En güncel Asya dizileri, unutulmaz Asya filmleri ve web dramalar seni bekliyor.",
+    "description": "🔴 Kraptor123 03.05.2026 Kore, Çin ve Japon dizilerini tek tıkla HD ve Türkçe altyazılı izle. En güncel Asya dizileri, unutulmaz Asya filmleri ve web dramalar seni bekliyor.",
     "fileSize": 49340,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -922,7 +922,7 @@
       "kraptor",
       "kerimmkirac"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
+    "description": "🔴 Kraptor123 03.05.2026 Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
     "fileSize": 55640,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -944,7 +944,7 @@
     "authors": [
       "nikyokki"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
+    "description": "🔴 Kraptor123 03.05.2026 En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
     "fileSize": 36068,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -1060,7 +1060,7 @@
     "authors": [
       "ByAyzen"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 En yeni ve popüler filmleri 1080p kalitesinde Türkçe dublaj altyazılı izle. Aksiyon, macera, komedi, dram ve daha fazlası film izle sayfamızda.",
+    "description": "🔴 Kraptor123 03.05.2026 En yeni ve popüler filmleri 1080p kalitesinde Türkçe dublaj altyazılı izle. Aksiyon, macera, komedi, dram ve daha fazlası film izle sayfamızda.",
     "fileSize": 26934,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -1236,7 +1236,7 @@
     "authors": [
       "kraptor"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Tv Diziler Ücretsiz yerli dizi izleme sitesi en popüler dizileri tek parça hd kalitesiyle ve reklamsız bedava olarak buradan tv dizileri izleyin.",
+    "description": "🔴 Kraptor123 03.05.2026 Tv Diziler Ücretsiz yerli dizi izleme sitesi en popüler dizileri tek parça hd kalitesiyle ve reklamsız bedava olarak buradan tv dizileri izleyin.",
     "fileSize": 30332,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -1315,7 +1315,7 @@
     "authors": [
       "kraptor"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
+    "description": "🔴 Kraptor123 03.05.2026 Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
     "fileSize": 39188,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -1337,7 +1337,7 @@
       "ByAyzen",
       "kraptor"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Youtube",
+    "description": "🔴 Kraptor123 03.05.2026 Youtube",
     "fileSize": 115255,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -1362,7 +1362,7 @@
       "Phisher98",
       "ByAyzen"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 YTS Filmleri 4K Desteği Otomatik altyazı ve film açıklaması (Torrent)",
+    "description": "🔴 Kraptor123 03.05.2026 YTS Filmleri 4K Desteği Otomatik altyazı ve film açıklaması (Torrent)",
     "fileSize": 65743,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -1401,7 +1401,7 @@
     "authors": [
       "kraptor"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
+    "description": "🔴 Kraptor123 03.05.2026 Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
     "fileSize": 38438,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
@@ -1415,7 +1415,7 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/WebDramaTurkey.cs3",
     "status": 1,
-    "version": 30,
+    "version": 31,
     "name": "WebDramaTurkey",
     "internalName": "WebDramaTurkey",
     "authors": [
@@ -1423,8 +1423,8 @@
       "kerimmkirac",
       "ByAyzen"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler",
-    "fileSize": 52069,
+    "description": "🔴 Kraptor123 03.05.2026 Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler",
+    "fileSize": 52504,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -1432,7 +1432,7 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40",
     "apiVersion": 1,
-    "fileHash": "sha256-3e434aa173aa799e651c1f4120877e2e6a01d5b42e01e8b9660454f4e88825bd"
+    "fileHash": "sha256-4c67e7b03aa3dec8f7304d989caa9fb9e9db466b9d9a311e0af053baf69d4d1d"
   },
   {
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/New_qBittorrent_Logo.svg/2048px-New_qBittorrent_Logo.svg.png",
@@ -1962,15 +1962,15 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziLife.cs3",
     "status": 1,
-    "version": 35,
+    "version": 36,
     "name": "DiziLife",
     "internalName": "DiziLife",
     "authors": [
       "kerimmkirac",
       "kraptor"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 Dizilife yabancı dizi ve film izlemek için tasarlanmış bir platformdur. Tüm dünyadan yerli/yabancı bütün dizileri ve filmleri ücretsiz ve donmadan izleyebilirsiniz.",
-    "fileSize": 52321,
+    "description": "🔴 Kraptor123 03.05.2026 Dizilife yabancı dizi ve film izlemek için tasarlanmış bir platformdur. Tüm dünyadan yerli/yabancı bütün dizileri ve filmleri ücretsiz ve donmadan izleyebilirsiniz.",
+    "fileSize": 52568,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -1979,12 +1979,12 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dizi18.life",
     "apiVersion": 1,
-    "fileHash": "sha256-2039788aa397256cf36acbc536e76a4135e47cf8b0bd02c0b94137b52e298c17"
+    "fileHash": "sha256-ac0dea041c7bc1213269725275ba8d7304a0db77678dc6c2066dd3aeb81bdc36"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziPalOrijinal.cs3",
     "status": 1,
-    "version": 12,
+    "version": 15,
     "name": "DiziPalOrijinal",
     "internalName": "DiziPalOrijinal",
     "authors": [
@@ -1992,8 +1992,8 @@
       "kerimmkirac",
       "ByAyzen"
     ],
-    "description": "🔴 Kraptor123 02.05.2026 DiziPal Orijinal.",
-    "fileSize": 125185,
+    "description": "🔴 Kraptor123 03.05.2026 DiziPal Orijinal.",
+    "fileSize": 125423,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2001,7 +2001,7 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b41c8a2c5797685cf98384df66cdc306fa7200128620231f16eb019931c6befd"
+    "fileHash": "sha256-0c04063c914fc5b7c477f3f9714ed0bf11abf9f10f8db4880250cc7ca5862beb"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziWatch.cs3",
@@ -2067,13 +2067,13 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmHane.cs3",
     "status": 1,
-    "version": 29,
+    "version": 30,
     "name": "FilmHane",
     "internalName": "FilmHane",
     "authors": [
       "kraptor"
     ],
-    "fileSize": 22837,
+    "fileSize": 25479,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2081,7 +2081,8 @@
     ],
     "iconUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE",
     "apiVersion": 1,
-    "description": "🆕 Kraptor123 03.04.2026 "
+    "fileHash": "sha256-6f5e2f64034b6a727678ddab7247515ff0e703af5b96085fabb36fb7de87f022",
+    "description": "🔴 Kraptor123 03.05.2026 "
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Filmzal.cs3",
@@ -2329,22 +2330,23 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SeiCode.cs3",
     "status": 1,
-    "version": 13,
+    "version": 14,
     "name": "SeiCode",
     "internalName": "SeiCode",
     "authors": [
       "kraptor",
       "kerimmkirac"
     ],
-    "description": "🔴 Kraptor123 08.04.2026 Seicode ile en yeni animeler keşfedin!",
-    "fileSize": 36575,
+    "description": "🔴 Kraptor123 03.05.2026 Seicode ile en yeni animeler keşfedin!",
+    "fileSize": 36570,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
       "Anime"
     ],
     "iconUrl": "https://seicode.net/favicon.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileHash": "sha256-3cec8e4105e6028aefabd80413e5cebcb00282d526acba90e505b83db931befd"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SelcukFlix.cs3",
@@ -2583,14 +2585,14 @@
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/WFilmizle.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "WFilmizle",
     "internalName": "WFilmizle",
     "authors": [
       "ByAyzen"
     ],
-    "description": "🔴 Kraptor123 01.05.2026 Yerli ve yabancı film izle, Türkçe dublaj ve altyazı seçenekleriyle en yeni ve unutulmamış olan filmleri Full HD kalitesinde online izleyebilirsiniz.",
-    "fileSize": 28369,
+    "description": "🔴 Kraptor123 03.05.2026 Yerli ve yabancı film izle, Türkçe dublaj ve altyazı seçenekleriyle en yeni ve unutulmamış olan filmleri Full HD kalitesinde online izleyebilirsiniz.",
+    "fileSize": 30711,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2598,6 +2600,6 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://wfilmizle.bar&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-7808ae870477d4d1a6d5f3354069f8a63ea7fa575479b1e696f9a9db160df636"
+    "fileHash": "sha256-f80a7379feb1074b6e19efad823c2e73dae5c4be8ad1715c9b5c7df2197de005"
   }
 ]
