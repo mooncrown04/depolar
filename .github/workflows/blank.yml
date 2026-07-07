@@ -33,6 +33,7 @@ jobs:
           const fs = require('fs');
 
           const urls = [
+            'https://github.com/caca1403/cloudstream-cagi-eklenti/blob/main/plugins.json',
             'https://raw.githubusercontent.com/patr0nq/cstestAddons/refs/heads/builds/plugins.json',
             'https://raw.githubusercontent.com/marrem/cs-Kekik/builds/plugins.json',
             'https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/plugins.json',
