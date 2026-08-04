@@ -46,13 +46,11 @@ jobs:
             'https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/plugins.json'
           ];
 
-          // --- BELİRLİ KAYNAKTAN İSTENMEYEN ÖZEL EKLENTİLER ---
-          // Hangi kaynaktan hangi eklentinin gelmeyeceğini buraya yazıyoruz
+          // Belirli kaynaktan istenmeyen özel eklentiler
           const specificBlacklist = [
             { owner: "ramazansancar", name: "powerdizi" },
             { owner: "ramazansancar", name: "powersinema" }
           ];
-          -------------------------------------------------------
 
           function normalizeVersion(v) {
             return String(v || '0.0.0').replace(/^v/i, '').trim();
@@ -93,7 +91,6 @@ jobs:
                   
                   const pluginName = (remote.name || "").toLowerCase().trim();
                   
-                  // Belirli kaynak + belirli eklenti eşleşiyorsa bu eklentiyi atla ama kaynağın diğer eklentilerine dokunma
                   const isBlocked = specificBlacklist.some(b => 
                     b.owner.toLowerCase() === repoOwner.toLowerCase() && 
                     b.name.toLowerCase() === pluginName
@@ -207,4 +204,4 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add plugins.json README.md
-          git diff --staged --quiet || (git commit -m "Update: Specific plugins filtered out from ramazansancar" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
+          git diff --staged --quiet || (git commit -m "Update: Syntax error fixed" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
