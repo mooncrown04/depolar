@@ -623,23 +623,24 @@
     "name": "TLCTR"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tranimaci.com&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/maarrem/cs-Kekik",
-    "fileSize": 12674,
+    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/TRanimaci.cs3",
     "status": 1,
-    "language": "tr",
+    "version": 17,
+    "name": "TRanimaci",
+    "internalName": "TRanimaci",
     "authors": [
       "keyiflerolsun"
     ],
+    "description": "🆕 maarrem 03.04.2026 TRanimeci - Türkiye'nin Online Anime izleme sitesi.",
+    "fileSize": 14099,
+    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "language": "tr",
     "tvTypes": [
       "Anime"
     ],
-    "version": 17,
-    "internalName": "TRanimaci",
-    "description": "🆕 maarrem 03.04.2026 TRanimeci - Türkiye'nin Online Anime izleme sitesi.",
-    "url": "https://raw.githubusercontent.com/maarrem/cs-Kekik/builds/TRanimaci.cs3",
-    "name": "TRanimaci"
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tranimaci.com&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-a086854cc34837d053c8b028b0c895a859a014534fffb359a2446520e084a7ac"
   },
   {
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/TRasyalog.cs3",
@@ -743,23 +744,24 @@
     "fileHash": "sha256-00baa649d28dd4ececb8fbe1f7490ba01a68ef473ab478eff8b8620daa486333"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=666filmizle.site&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 12020,
+    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/AltiYuzAltmisAltiFilmIzle.cs3",
     "status": 1,
-    "language": "tr",
+    "version": 1,
+    "name": "AltiYuzAltmisAltiFilmIzle",
+    "internalName": "AltiYuzAltmisAltiFilmIzle",
     "authors": [
       "patr0n"
     ],
+    "description": "🆕 feroxx 03.04.2026 666FilmIzle - Türkçe Dublaj ve Altyazılı Film izle.",
+    "fileSize": 12144,
+    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "language": "tr",
     "tvTypes": [
       "Movie"
     ],
-    "version": 1,
-    "internalName": "AltiYuzAltmisAltiFilmIzle",
-    "description": "🆕 feroxx 03.04.2026 666FilmIzle - Türkçe Dublaj ve Altyazılı Film izle.",
-    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/AltiYuzAltmisAltiFilmIzle.cs3",
-    "name": "AltiYuzAltmisAltiFilmIzle"
+    "iconUrl": "https://www.google.com/s2/favicons?domain=666filmizle.site&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-67e1c3be1e544fae485397f19b9a2e24aa115aeefe77dacf04e5c5582c3475a6"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaAnimeleri.cs3",
@@ -1255,7 +1257,8 @@
     "jarUrl": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/Twitch.jar",
     "description": "🆕 ramazansancar 03.04.2026 Watch livestreams from Twitch",
     "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/Twitch.cs3",
-    "name": "Twitch"
+    "name": "Twitch",
+    "language": "tr"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
@@ -1845,7 +1848,7 @@
       "kerimmkirac"
     ],
     "description": "🔴 Kraptor123 12.07.2026 Asya Fanatikleri, asya dizilerini izleme imkanı sunar. Kore dizileri izle, asyafanatikleri kore dizileri, tayvan dizileri izle, çin dizileri izle, anime izle.",
-    "fileSize": 27470,
+    "fileSize": 28598,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -1853,7 +1856,7 @@
     ],
     "iconUrl": "https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png",
     "apiVersion": 1,
-    "fileHash": "sha256-5e2496c585082d26f870ddfade3491adfea919197815823f243ad856ccf23528"
+    "fileHash": "sha256-65e9260e4266b065895d6c5ff03ca8751021176cd20a2f031c8eb6d6cab12910"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaMinik.cs3",
@@ -1865,7 +1868,7 @@
       "kraptor"
     ],
     "description": "🔴 Kraptor123 12.07.2026 Asyaminik - En Güncel Asya Dizileri Burada!",
-    "fileSize": 26133,
+    "fileSize": 27275,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -1873,7 +1876,7 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaminik.com/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-8e774cd4fc718135422f7a6f0abed7c02b623c15636a2ce54cdd16041738d291"
+    "fileHash": "sha256-0e58fec26c38a4fc3cd6ead6507f5059c4c03ab0f3a295e3a40f8f9edd2dda66"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/BirAsyaDizi.cs3",
@@ -1924,7 +1927,7 @@
       "kerimmkirac"
     ],
     "description": "🔴 Kraptor123 12.07.2026 Asya'nın en iyi Çin ve Kore dizilerini ve filmlerini keşfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kültürüne hemen adım atın!",
-    "fileSize": 38662,
+    "fileSize": 39796,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -1932,7 +1935,7 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diziasya.com&size=32",
     "apiVersion": 1,
-    "fileHash": "sha256-74e175d973f7fb6c134961e60725fc6cb1a3a5b14906db810b1273348308ee9a"
+    "fileHash": "sha256-4368a98b141603d9db6f80cdf3f68f9a6b365b23a9c733d6fbed55f9ef43993a"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziFilmORG.cs3",
@@ -1990,7 +1993,7 @@
       "ByAyzen"
     ],
     "description": "🔴 Kraptor123 01.08.2026 DiziPal Orijinal.",
-    "fileSize": 159768,
+    "fileSize": 160865,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -1998,7 +2001,7 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-9279d7f8ec394d36b5459a4e9af10dcc769e43396d1077bb668bd459e99427f2"
+    "fileHash": "sha256-39f7d88afedf0f91fa6285cd200f229a0563fecfb3dee6808b091af901987518"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziWatch.cs3",
@@ -2031,7 +2034,7 @@
       "ByAyzen"
     ],
     "description": "🔴 Kraptor123 12.07.2026 Diziyo ile Yabancı Dizi, Film, Anime, Çizgi-Film izle.",
-    "fileSize": 35555,
+    "fileSize": 36750,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2039,7 +2042,7 @@
     ],
     "iconUrl": "https://i.imgur.com/zQYsL6Z.png",
     "apiVersion": 1,
-    "fileHash": "sha256-f8ca005e0ec770e0f14349edee6b07a46de4150b3f57ca568c8766f733ab6dd0"
+    "fileHash": "sha256-2fd00b01979aec233433cf0030320dd03a4b9881dbe8cec4c8908b3ea67ec8f0"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmEkseni.cs3",
@@ -2152,7 +2155,7 @@
       "kraptor"
     ],
     "description": "🔴 Kraptor123 06.07.2026 Vpn Gerekli! Dünyanın tüm ülkelerinden ücretsiz çevrimiçi TV.",
-    "fileSize": 16732,
+    "fileSize": 17904,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2160,7 +2163,7 @@
     ],
     "iconUrl": "https://www.giniko.com/images/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-60986c28eac0470ff2625d50b87f916b164892fd64b8efc27e858d25c69fe87a"
+    "fileHash": "sha256-74d715346d47a7c0706e464c81fbec9cde1a758c1e7afebea839da1d68820ae9"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HDFilmDelisi.cs3",
@@ -2231,7 +2234,7 @@
       "kraptor"
     ],
     "description": "🔴 Kraptor123 12.07.2026 Kick, canlı yayın yapılan bir platformdur. Daha gevşek kuralları ve yayıncılara daha fazla kazanç sağlamasıyla bilinir. Platform, yayıncılardan sadece %5 kesinti yapar ve bu oran diğer yayın platformlarına göre en düşük kesintilerden biridir.",
-    "fileSize": 39380,
+    "fileSize": 40505,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2239,7 +2242,7 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kick.com&size=48",
     "apiVersion": 1,
-    "fileHash": "sha256-eca623be4117e35e37a1deee61c5792a009aa6b33775456e96126a4ede43577f"
+    "fileHash": "sha256-28c407d966543b9729551a1dd7599f2ecf8d58b83c896cf64ae394749b80dd6f"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KraptorPlus.cs3",
@@ -2254,7 +2257,7 @@
       "Megix"
     ],
     "description": "🔴 Kraptor123 25.07.2026 Bir çok sitenin birleştiği toplama eklenti.",
-    "fileSize": 622636,
+    "fileSize": 622317,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2267,7 +2270,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
     "apiVersion": 1,
-    "fileHash": "sha256-af4cdc95194e08aa07bd80f64ba452d66fe6ce01d4cfba1b5239723026595b02"
+    "fileHash": "sha256-2e9b8fa4fe721128da485ee79391ab8f4c320807e74745296462fa75aa11a6e4"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/MirrorVerse.cs3",
@@ -2387,7 +2390,7 @@
       "kraptor"
     ],
     "description": "🔴 Kraptor123 12.07.2026 Yerli ve yabancı film izle! Türkçe Dublaj ve Alt Yazılı Seçenekleriyle full hd film izlemek için En çok tercih edilen adres!",
-    "fileSize": 26806,
+    "fileSize": 27908,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2395,7 +2398,7 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://sinezy.fit&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-ecf7f08a7320e6a73ae62315bd8d79e7da644f002ad3a846acf76c1c89336d32"
+    "fileHash": "sha256-4c99a833692c5945f4985b5a4dfdd39bbad36e508e0a155cb30ed71077111c54"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TrAnimeIzle.cs3",
@@ -2488,7 +2491,7 @@
       "kraptor"
     ],
     "description": "🔴 Kraptor123 09.07.2026 Türk sinemasının unutulmaz filmler bu adreste.",
-    "fileSize": 20768,
+    "fileSize": 22326,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2496,7 +2499,7 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yesilcamtv.com.tr&size=64",
     "apiVersion": 1,
-    "fileHash": "sha256-f02428285c8a9ca3dc63b8299a5f50b15b9ee816321483184891be9d5a5182e6"
+    "fileHash": "sha256-062e14cb3ad9238f9560a178e8f4b1093933afdc13dc66c79aa21dcb5d27e3f0"
   },
   {
     "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/FilmBOL.cs3",
@@ -2508,7 +2511,7 @@
       "ByAyzen"
     ],
     "description": "🆕 ByAyzen 03.04.2026 Ücretli Hesabınız Yoksa Kullanamazsınız! Cookie Gerekli Cookie Ne Bilmiyorsanız Araştırınız.",
-    "fileSize": 25974,
+    "fileSize": 26128,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
     "language": "tr",
     "tvTypes": [
@@ -2516,7 +2519,8 @@
       "TvSeries"
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmbol.org/&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileHash": "sha256-10b47d7d5e9b7eff155f3fce5fbd93c3498f5e7e9711d84d4aab4a0f2ae96bf8"
   },
   {
     "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/Koredizi.cs3",
@@ -2525,17 +2529,18 @@
     "name": "Koredizi",
     "internalName": "Koredizi",
     "authors": [
-      "com.byayzen"
+      "ByAyzen"
     ],
     "description": "🆕 ByAyzen 03.04.2026 Koredizi ile yoğun bir günün ardından soluklanıp kısa dizilerle dünyanıza renk katabilirsiniz.",
-    "fileSize": 26214,
+    "fileSize": 26392,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
     "language": "tr",
     "tvTypes": [
       "AsianDrama"
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://koredizi.com/&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileHash": "sha256-4ed2fe7205a7a769e0863b06552fcd8d4a997c652346d8225e217fe6fa1dbccc"
   },
   {
     "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/M3UPlayer.cs3",
@@ -2547,14 +2552,15 @@
       "ByAyzen"
     ],
     "description": "🆕 ByAyzen 03.04.2026 M3UPlayer bir m3u oynatıcısıdır. İçerisinde hiç bir M3U dosyasını barındırmaz! Ayarlar butonuna tıklayarak kendiniz ekleyebilirsiniz.",
-    "fileSize": 91269,
+    "fileSize": 91964,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
     "language": "tr",
     "tvTypes": [
       "Live"
     ],
     "iconUrl": "https://i.imgur.com/BsS4wRT.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileHash": "sha256-b70a88b3ed309391a5dc48f49c22321b418535f670034595940a5941ea7d3ed9"
   },
   {
     "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/Torrential.cs3",
@@ -2566,14 +2572,15 @@
       "ByAyzen"
     ],
     "description": "🆕 ByAyzen 03.04.2026 Torrential eklentisi sürekli geliştirilebilir bir torrent ve debrid oynatıcı eklentisidir. Mevcut kaynaklar arasından Torrentio ve Comet kullanılmaktadır.",
-    "fileSize": 166219,
+    "fileSize": 166562,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
     "language": "tr",
     "tvTypes": [
       "Movie"
     ],
     "iconUrl": "https://i.imgur.com/cEOwdKR.png",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileHash": "sha256-d9aa73ac93c9dd0698913868203d2631fa32e6f3a60c7ffcb045206a9ec32ad7"
   },
   {
     "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/Vavoo.cs3",
@@ -2592,7 +2599,8 @@
       "Movie"
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://vavoo.to/&size=128",
-    "apiVersion": 1
+    "apiVersion": 1,
+    "fileHash": "sha256-ef74ff67abbd39a8ab5055eefa765ff7fde7ff4308b75e4e9285c5f078edfa45"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/WFilmizle.cs3",
@@ -2604,7 +2612,7 @@
       "ByAyzen"
     ],
     "description": "🔴 Kraptor123 15.07.2026 Yerli ve yabancı film izle, Türkçe dublaj ve altyazı seçenekleriyle en yeni ve unutulmamış olan filmleri Full HD kalitesinde online izleyebilirsiniz.",
-    "fileSize": 59870,
+    "fileSize": 59836,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
     "tvTypes": [
@@ -2612,7 +2620,7 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://wfilmizle.bar&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-f0077b866d51ec0a3f5ab070046a70dfc1e27e66bb3bc346fcdce492e4664e0c"
+    "fileHash": "sha256-9c9073f5da2421fdffa28262d3acfa153cd3bc9ebe1feba352cf4899d9025a67"
   },
   {
     "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/Syncler.cs3",
@@ -2624,7 +2632,7 @@
       "ByAyzen"
     ],
     "description": "🆕 ByAyzen 14.05.2026 Deneysel Senkronizasyon eklentisi.",
-    "fileSize": 52405,
+    "fileSize": 92362,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
     "language": "tr",
     "tvTypes": [
@@ -2632,7 +2640,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yandex.com.tr",
     "apiVersion": 1,
-    "fileHash": "sha256-05550f59eb353cd9f78733fd41cc281a81228a77d5eb7cfa753ff47ee5460a06"
+    "fileHash": "sha256-e94e277f93e174d10dca5c1dd10edcc0042e68acb294e76a48ada6f22d97f723"
   },
   {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dizipod.cs3",
