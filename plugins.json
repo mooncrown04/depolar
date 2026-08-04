@@ -1122,44 +1122,6 @@
     "name": "IzleAI"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 18682,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "patr0n"
-    ],
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "version": 2,
-    "internalName": "powerDizi",
-    "description": "🆕 ramazansancar 03.04.2026 powerDizi",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/powerDizi.cs3",
-    "name": "powerDizi"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 18675,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "patr0n"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 3,
-    "internalName": "powerSinema",
-    "description": "🆕 ramazansancar 03.04.2026 powerSinema",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/powerSinema.cs3",
-    "name": "powerSinema"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=roketdizi.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
