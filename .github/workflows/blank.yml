@@ -26,7 +26,6 @@ jobs:
         run: npm install node-fetch@2
 
       # --- 1. ADIM: PLUGINS.JSON OLUŞTURUCU (NODE.JS) ---
-      # Yedekli ve akıllı kıyaslama mantığıyla güncellenmiştir
       - name: Plugins JSON Guncelle
         run: |
           node - <<'NODE'
@@ -65,7 +64,6 @@ jobs:
             const mergedMap = new Map();
             const today = new Date().toLocaleDateString('tr-TR');
 
-            // 1. Önce mevcut plugins.json dosyasını hafızaya (yedek olarak) alıyoruz
             if (fs.existsSync('plugins.json')) {
               try {
                 const oldContent = JSON.parse(fs.readFileSync('plugins.json', 'utf8'));
@@ -75,7 +73,6 @@ jobs:
               } catch (e) { console.log("Eski dosya okunamadı."); }
             }
 
-            // 2. Dıştaki repoları tek tek tarıyoruz
             for (const url of urls) {
               try {
                 const res = await fetch(url);
@@ -91,31 +88,32 @@ jobs:
                   if (!remote.language && !remote.lang) remote.language = "tr";
 
                   if (!existing) {
-                    // Eklenti listede hiç yoksa -> YEPYENİ
                     remote.description = `🆕 ${repoOwner} ${today} ${(remote.description || '')}`;
                     mergedMap.set(key, remote);
                   } else {
                     const vRemote = normalizeVersion(remote.version);
                     const vExisting = normalizeVersion(existing.version);
 
-                    // Eklenti var ama versiyonu değişmiş/yükselmiş -> GÜNCELLENDİ
                     if (vRemote !== vExisting) {
                       let cleanDesc = (remote.description || '').replace(/^(🔴|🆕).*?\d{2}\.\d{2}\.\d{4}/g, '').trim();
                       remote.description = `🔴 ${repoOwner} ${today} ${cleanDesc}`;
                       mergedMap.set(key, remote);
+                    } else {
+                      // Versiyon değişmediyse eskideki etiket ve tarihi koru ki 2 ay boyunca silinmesin
+                      remote.description = existing.description;
+                      mergedMap.set(key, remote);
                     }
-                    // Versiyonu aynıysa 'existing' (eski veri) olduğu gibi korunur, dokunulmaz.
                   }
                 }
               } catch (e) { console.error(`${url} hatası: ${e.message}`); }
             }
 
-            // 3. Son hali dosyaya kaydediyoruz
             fs.writeFileSync('plugins.json', JSON.stringify(Array.from(mergedMap.values()), null, 2));
           })();
           NODE
 
       # --- 2. ADIM: README TABLO OLUŞTURUCU (PYTHON) ---
+      # 60 gün (2 ay) kontrolü eklenmiştir
       - name: README.md Guncelle
         shell: python
         run: |
@@ -146,10 +144,23 @@ jobs:
           for p in sorted(plugins, key=lambda x: x.get('name','').lower()):
               name = p.get('name','Unknown')
               desc = p.get('description', '')
-              marker = "🔴" if "🔴" in desc else ("🆕" if "🆕" in desc else "⚪")
               
+              # Tarihi ve etiketi açıklama metninden buluyoruz
               date_match = re.search(r'\d{2}\.\d{2}\.\d{4}', desc)
               date_str = date_match.group(0) if date_match else "—"
+              
+              marker = "⚪"
+              if date_match:
+                  try:
+                      item_date = datetime.strptime(date_str, "%d.%m.%Y").replace(tzinfo=now.tzinfo)
+                      # 60 gün (2 ay) geçip geçmediğini kontrol ediyoruz
+                      if (now - item_date).days <= 60:
+                          if "🔴" in desc:
+                              marker = "🔴"
+                          elif "🆕" in desc:
+                              marker = "🆕"
+                  except Exception:
+                      pass
               
               lang_val = str(p.get("language") or p.get("lang") or "tr").lower().split('-')[0]
               flag_url = FLAGS.get(lang_val, "https://flagcdn.com/w20/un.png")
@@ -183,4 +194,4 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add plugins.json README.md
-          git diff --staged --quiet || (git commit -m "Update: Smart update check applied" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
+          git diff --staged --quiet || (git commit -m "Update: 2-month retention for tags applied" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
