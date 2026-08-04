@@ -46,6 +46,14 @@ jobs:
             'https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/plugins.json'
           ];
 
+          // --- BELİRLİ KAYNAKTAN İSTENMEYEN ÖZEL EKLENTİLER ---
+          // Hangi kaynaktan hangi eklentinin gelmeyeceğini buraya yazıyoruz
+          const specificBlacklist = [
+            { owner: "ramazansancar", name: "powerdizi" },
+            { owner: "ramazansancar", name: "powersinema" }
+          ];
+          -------------------------------------------------------
+
           function normalizeVersion(v) {
             return String(v || '0.0.0').replace(/^v/i, '').trim();
           }
@@ -83,6 +91,15 @@ jobs:
                 for (const remote of remotePlugins) {
                   if (Array.isArray(remote.tvTypes) && remote.tvTypes.includes('NSFW')) continue;
                   
+                  const pluginName = (remote.name || "").toLowerCase().trim();
+                  
+                  // Belirli kaynak + belirli eklenti eşleşiyorsa bu eklentiyi atla ama kaynağın diğer eklentilerine dokunma
+                  const isBlocked = specificBlacklist.some(b => 
+                    b.owner.toLowerCase() === repoOwner.toLowerCase() && 
+                    b.name.toLowerCase() === pluginName
+                  );
+                  if (isBlocked) continue;
+
                   const key = getStandardKey(remote);
                   const existing = mergedMap.get(key);
                   if (!remote.language && !remote.lang) remote.language = "tr";
@@ -99,7 +116,6 @@ jobs:
                       remote.description = `🔴 ${repoOwner} ${today} ${cleanDesc}`;
                       mergedMap.set(key, remote);
                     } else {
-                      // Versiyon değişmediyse eskideki etiket ve tarihi koru ki 2 ay boyunca silinmesin
                       remote.description = existing.description;
                       mergedMap.set(key, remote);
                     }
@@ -113,7 +129,6 @@ jobs:
           NODE
 
       # --- 2. ADIM: README TABLO OLUŞTURUCU (PYTHON) ---
-      # 60 gün (2 ay) kontrolü eklenmiştir
       - name: README.md Guncelle
         shell: python
         run: |
@@ -145,7 +160,6 @@ jobs:
               name = p.get('name','Unknown')
               desc = p.get('description', '')
               
-              # Tarihi ve etiketi açıklama metninden buluyoruz
               date_match = re.search(r'\d{2}\.\d{2}\.\d{4}', desc)
               date_str = date_match.group(0) if date_match else "—"
               
@@ -153,7 +167,6 @@ jobs:
               if date_match:
                   try:
                       item_date = datetime.strptime(date_str, "%d.%m.%Y").replace(tzinfo=now.tzinfo)
-                      # 60 gün (2 ay) geçip geçmediğini kontrol ediyoruz
                       if (now - item_date).days <= 60:
                           if "🔴" in desc:
                               marker = "🔴"
@@ -194,4 +207,4 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add plugins.json README.md
-          git diff --staged --quiet || (git commit -m "Update: 2-month retention for tags applied" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
+          git diff --staged --quiet || (git commit -m "Update: Specific plugins filtered out from ramazansancar" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
