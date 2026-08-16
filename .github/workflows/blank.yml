@@ -32,7 +32,8 @@ jobs:
           const fetch = require('node-fetch');
           const fs = require('fs');
 
-          const urls = [  
+          const urls = [
+            'https://raw.githubusercontent.com/ctnkyaumt/cstest/refs/heads/builds/plugins.json',
             'https://raw.githubusercontent.com/patr0nq/cstestAddons/refs/heads/builds/plugins.json',
             'https://raw.githubusercontent.com/caca1403/cloudstream-cagi-eklenti/refs/heads/main/plugins.json',
             'https://raw.githubusercontent.com/marrem/cs-Kekik/builds/plugins.json',
