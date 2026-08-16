@@ -1,32 +1,4 @@
-name: Eklenti ve README Yoneticisi
-
-on:
-  schedule:
-    - cron: '30 20 * * *'
-  workflow_dispatch:
-
-jobs:
-  build-and-update:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Depoyu Klonla
-        uses: actions/checkout@v4
-
-      - name: Node.js Kurulumu
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-      
-      - name: Python Kurulumu
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-
-      - name: Bağımlılıkları Kur
-        run: npm install node-fetch@2
-
-      # --- 1. ADIM: PLUGINS.JSON OLUŞTURUCU (NODE.JS) ---
-      - name: Plugins JSON Guncelle
+- name: Plugins JSON Guncelle
         run: |
           node - <<'NODE'
           const fetch = require('node-fetch');
@@ -47,7 +19,6 @@ jobs:
             'https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/plugins.json'
           ];
 
-          // İstenmeyen özel eklentiler (İsim veya internalName bazlı)
           const specificBlacklist = [
             { owner: "ramazansancar", name: "powerdizi" },
             { owner: "ramazansancar", name: "powersinema" }
@@ -75,7 +46,6 @@ jobs:
               try {
                 const oldContent = JSON.parse(fs.readFileSync('plugins.json', 'utf8'));
                 for (const p of oldContent) {
-                  // Eğer eski dosyada kalmışlarsa hafızaya hiç almayalım
                   const pName = (p.name || "").toLowerCase().trim();
                   const pInternal = (p.internalName || "").toLowerCase().trim();
                   const isOldBlocked = specificBlacklist.some(b => 
@@ -99,10 +69,16 @@ jobs:
                 for (const remote of remotePlugins) {
                   if (Array.isArray(remote.tvTypes) && remote.tvTypes.includes('NSFW')) continue;
                   
+                  // Sadece .cs3 uzantılı dosya barındıran veya url'si .cs3 içeren eklentileri kabul et
+                  const pluginUrl = remote.url || remote.downloadUrl || "";
+                  if (pluginUrl && !pluginUrl.endsWith('.cs3')) {
+                    // Eğer .cs3 ile bitmiyorsa ve eski listede varsa eskisini koru, yoksa atla
+                    continue;
+                  }
+
                   const pluginName = (remote.name || "").toLowerCase().trim();
                   const pluginInternal = (remote.internalName || "").toLowerCase().trim();
                   
-                  // Belirli kaynak + belirli eklenti eşleşiyorsa atla
                   const isBlocked = specificBlacklist.some(b => 
                     b.owner.toLowerCase() === repoOwner.toLowerCase() && 
                     (b.name.toLowerCase() === pluginName || b.name.toLowerCase() === pluginInternal)
@@ -125,8 +101,8 @@ jobs:
                       remote.description = `🔴 ${repoOwner} ${today} ${cleanDesc}`;
                       mergedMap.set(key, remote);
                     } else {
-                      remote.description = existing.description;
-                      mergedMap.set(key, remote);
+                      // Sürüm aynıysa eskini koru (değişmesin)
+                      mergedMap.set(key, existing);
                     }
                   }
                 }
@@ -136,84 +112,3 @@ jobs:
             fs.writeFileSync('plugins.json', JSON.stringify(Array.from(mergedMap.values()), null, 2));
           })();
           NODE
-
-      # --- 2. ADIM: README TABLO OLUŞTURUCU (PYTHON) ---
-      - name: README.md Guncelle
-        shell: python
-        run: |
-          import json, re
-          from datetime import datetime, timedelta, timezone
-          from pathlib import Path
-
-          OWNER = "MoOnCrOwN"
-          OWNER_AVATAR = "https://st5.depositphotos.com/1041725/67731/v/380/depositphotos_677319750-stock-illustration-ararat-mountain-illustration-vector-white.jpg"
-          OWNER_PROFILE = "https://github.com/mooncrown04"
-          
-          FLAGS = {
-              "tr": "https://flagcdn.com/w20/tr.png",
-              "en": "https://flagcdn.com/w20/gb.png",
-              "de": "https://flagcdn.com/w20/de.png",
-              "us": "https://flagcdn.com/w20/us.png",
-              "hi": "https://flagcdn.com/w20/in.png"
-          }
-          
-          now = datetime.now(timezone(timedelta(hours=3)))
-          full_date = now.strftime("%d.%m.%Y %H:%M")
-
-          if not Path("plugins.json").exists(): exit(0)
-          with open("plugins.json", encoding="utf-8") as f:
-              plugins = json.load(f)
-
-          rows = []
-          for p in sorted(plugins, key=lambda x: x.get('name','').lower()):
-              name = p.get('name','Unknown')
-              desc = p.get('description', '')
-              
-              date_match = re.search(r'\d{2}\.\d{2}\.\d{4}', desc)
-              date_str = date_match.group(0) if date_match else "—"
-              
-              marker = "⚪"
-              if date_match:
-                  try:
-                      item_date = datetime.strptime(date_str, "%d.%m.%Y").replace(tzinfo=now.tzinfo)
-                      if (now - item_date).days <= 60:
-                          if "🔴" in desc:
-                              marker = "🔴"
-                          elif "🆕" in desc:
-                              marker = "🆕"
-                  except Exception:
-                      pass
-              
-              lang_val = str(p.get("language") or p.get("lang") or "tr").lower().split('-')[0]
-              flag_url = FLAGS.get(lang_val, "https://flagcdn.com/w20/un.png")
-              country_tag = f'<img src="{flag_url}" width="20" alt="{lang_val}">'
-              
-              icon = p.get("iconUrl") or p.get("icon") or ""
-              img_tag = f'<img src="{icon}" width="30" style="border-radius:4px;">' if icon and "%size%" not in icon else "—"
-              
-              owner_match = re.search(r'(?:🆕 |🔴 )(.*?) \d', desc)
-              repo_name = owner_match.group(1) if owner_match else "Bilinmiyor"
-
-              rows.append(f"| {img_tag} | **{name}** | {date_str} | {marker} | `{repo_name}` | {country_tag} |")
-
-          header = (
-              f"### Son Güncelleme: {full_date}\n\n"
-              f"### Toplam Eklenti: `{len(plugins)}` \n\n"
-              f"---\n### Depo Sahibi:\n"
-              f"[<img src='{OWNER_AVATAR}' width='48' style='border-radius:50%;'>]({OWNER_PROFILE})  \n"
-              f"**[{OWNER}]({OWNER_PROFILE})**\n\n"
-              f"---\n## 📦 Eklenti Listesi\n\n"
-              f"| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |\n"
-              f"|:----:|:------------|:------|:------|:-------|:----:|\n"
-          )
-          Path("README.md").write_text(header + "\n".join(rows), encoding="utf-8")
-
-      # --- 3. ADIM: DEĞİŞİKLİKLERİ KAYDET ---
-      - name: Commit and Push
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
-          git add plugins.json README.md
-          git diff --staged --quiet || (git commit -m "Update: Strict blacklist for powerDizi and powerSinema" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
