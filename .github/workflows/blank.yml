@@ -25,12 +25,13 @@ jobs:
       - name: Bağımlılıkları Kur
         run: npm install node-fetch@2
 
-      # --- 1. ADIM: PLUGINS.JSON OLUŞTURUCU (NODE.JS) ---
-      - name: Plugins JSON Guncelle
+      # --- 1. ADIM: .CS3 DOSYALARini İNDİR VE PLUGINS.JSON GÜNCELLE (NODE.JS) ---
+      - name: Pluginleri Indir ve JSON Guncelle
         run: |
           node - <<'NODE'
           const fetch = require('node-fetch');
           const fs = require('fs');
+          const path = require('path');
 
           const urls = [
             'https://raw.githubusercontent.com/ctnkyaumt/cstest/refs/heads/builds/plugins.json',
@@ -51,6 +52,11 @@ jobs:
             { owner: "ramazansancar", name: "powerdizi" },
             { owner: "ramazansancar", name: "powersinema" }
           ];
+
+          const PLUGIN_DIR = 'plugins';
+          if (!fs.existsSync(PLUGIN_DIR)) {
+            fs.mkdirSync(PLUGIN_DIR, { recursive: true });
+          }
 
           function normalizeVersion(v) {
             return String(v || '0.0.0').replace(/^v/i, '').trim();
@@ -98,8 +104,8 @@ jobs:
                   if (Array.isArray(remote.tvTypes) && remote.tvTypes.includes('NSFW')) continue;
                   
                   const pluginUrl = remote.url || remote.downloadUrl || "";
-                  if (pluginUrl && !pluginUrl.endsWith('.cs3')) {
-                    continue;
+                  if (!pluginUrl || !pluginUrl.endsWith('.cs3')) {
+                    continue; // Sadece .cs3 uzantılılar işleme alınır
                   }
 
                   const pluginName = (remote.name || "").toLowerCase().trim();
@@ -114,6 +120,37 @@ jobs:
                   const key = getStandardKey(remote);
                   const existing = mergedMap.get(key);
                   if (!remote.language && !remote.lang) remote.language = "tr";
+
+                  // .cs3 dosyasını yerel depoya indir
+                  const fileName = path.basename(pluginUrl);
+                  const localFilePath = path.join(PLUGIN_DIR, fileName);
+                  
+                  let shouldDownload = true;
+                  if (existing && existing.version === remote.version && fs.existsSync(localFilePath)) {
+                    shouldDownload = false; // Sürüm değişmediyse ve dosya zaten varsa tekrar indirme
+                  }
+
+                  if (shouldDownload) {
+                    try {
+                      const fileRes = await fetch(pluginUrl);
+                      if (fileRes.ok) {
+                        const buffer = await fileRes.buffer();
+                        fs.writeFileSync(localFilePath, buffer);
+                      }
+                    } catch (err) {
+                      console.error(`${fileName} indirilemedi: ${err.message}`);
+                      if (fs.existsSync(localFilePath)) {
+                        // İndirme başarısız olursa ama eskiden varsa eski dosyayı koru
+                        shouldDownload = false;
+                      }
+                    }
+                  }
+
+                  // plugins.json içindeki URL'yi kendi raw GitHub bağlantınıza yönlendir
+                  const githubRepoUser = "mooncrown04"; // Kendi kullanıcı adınız
+                  const githubRepoName = "depolar";    // Kendi deponuzun adı
+                  remote.url = `https://raw.githubusercontent.com/${githubRepoUser}/${githubRepoName}/main/plugins/${fileName}`;
+                  remote.downloadUrl = remote.url;
 
                   if (!existing) {
                     remote.description = `🆕 ${repoOwner} ${today} ${(remote.description || '')}`;
@@ -209,12 +246,12 @@ jobs:
           )
           Path("README.md").write_text(header + "\n".join(rows), encoding="utf-8")
 
-      # --- 3. ADIM: DEĞİŞİKLİKLERİ KAYDET ---
+      # --- 3. ADIM: DEĞİŞİKLİKLERİ VE DOSYALARI KAYDET ---
       - name: Commit and Push
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
-          git add plugins.json README.md
-          git diff --staged --quiet || (git commit -m "Update: Strict blacklist and .cs3 checks" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
+          git add plugins.json README.md plugins/
+          git diff --staged --quiet || (git commit -m "Update: Download .cs3 files locally and update plugins.json" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
