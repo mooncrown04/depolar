@@ -19,7 +19,7 @@
     "name": "YTPatron"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AnimeciX.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AnimeciX.cs3",
     "status": 1,
     "version": 88,
     "name": "AnimeciX",
@@ -39,10 +39,11 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://animecix.net&size=16",
     "apiVersion": 1,
-    "fileHash": "sha256-bfcf2394b782cff98c985f1b62c78daf538d44518506e5590c1edbd5b65dad38"
+    "fileHash": "sha256-bfcf2394b782cff98c985f1b62c78daf538d44518506e5590c1edbd5b65dad38",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AnimeciX.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/BelgeselX.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/BelgeselX.cs3",
     "status": 1,
     "version": 41,
     "name": "BelgeselX",
@@ -60,7 +61,8 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=belgeselx.com",
     "apiVersion": 1,
-    "fileHash": "sha256-b0b22502633e8c4a5e12e871e4339884538c841b1554f0680152e809863f0274"
+    "fileHash": "sha256-b0b22502633e8c4a5e12e871e4339884538c841b1554f0680152e809863f0274",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/BelgeselX.cs3"
   },
   {
     "iconUrl": "https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg",
@@ -77,11 +79,12 @@
     "version": 4,
     "internalName": "CanliTv",
     "description": "🔴 Sertel392 16.08.2026 Ulusal kanalları bu eklentide izleyebilirsiniz.",
-    "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/CanliTv.cs3",
-    "name": "CanliTv"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CanliTv.cs3",
+    "name": "CanliTv",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CanliTv.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/CizgiMax.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CizgiMax.cs3",
     "status": 1,
     "version": 36,
     "name": "CizgiMax",
@@ -99,10 +102,11 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgimax.online",
     "apiVersion": 1,
-    "fileHash": "sha256-de4dfece844a4224e487a087bd3c00b8ee5fe4e2c2c537a345541431a70cf17d"
+    "fileHash": "sha256-de4dfece844a4224e487a087bd3c00b8ee5fe4e2c2c537a345541431a70cf17d",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CizgiMax.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Ddizi.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Ddizi.cs3",
     "status": 1,
     "version": 19,
     "name": "Ddizi",
@@ -119,10 +123,11 @@
     ],
     "iconUrl": "https://www.ddizi.im/images/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-4e20618c5b65b5ee28f58db98889d48d1245d06f9ee5028663d8d66988c9abf8"
+    "fileHash": "sha256-4e20618c5b65b5ee28f58db98889d48d1245d06f9ee5028663d8d66988c9abf8",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Ddizi.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziBox.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziBox.cs3",
     "status": 1,
     "version": 37,
     "name": "DiziBox",
@@ -141,10 +146,11 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.dizibox.de&size=16",
     "apiVersion": 1,
-    "fileHash": "sha256-b794027e91ef844b33acba4a5e1bf0dbd8112e74ddf787525264bfbeff8263a3"
+    "fileHash": "sha256-b794027e91ef844b33acba4a5e1bf0dbd8112e74ddf787525264bfbeff8263a3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziBox.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziKorea.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziKorea.cs3",
     "status": 1,
     "version": 35,
     "name": "DiziKorea",
@@ -163,10 +169,11 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://dizikorea.pw&size=16",
     "apiVersion": 1,
-    "fileHash": "sha256-2e28cc85ae623c6f78b5769a0dff96d20cf9d92d3d1b31080a549ac0b226c631"
+    "fileHash": "sha256-2e28cc85ae623c6f78b5769a0dff96d20cf9d92d3d1b31080a549ac0b226c631",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziKorea.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Dizilla.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Dizilla.cs3",
     "status": 1,
     "version": 111,
     "name": "Dizilla",
@@ -184,10 +191,11 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=https://dizilla.to",
     "apiVersion": 1,
-    "fileHash": "sha256-aab334fad3a465dc2eef948b2883f2e5a1b05e33eeac2ec66ebc7dea728c7c08"
+    "fileHash": "sha256-aab334fad3a465dc2eef948b2883f2e5a1b05e33eeac2ec66ebc7dea728c7c08",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Dizilla.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziMom.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziMom.cs3",
     "status": 1,
     "version": 61,
     "name": "DiziMom",
@@ -204,10 +212,11 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.dizimom.mom&size=32",
     "apiVersion": 1,
-    "fileHash": "sha256-d0f2af2b7be8e19197841e6aa678ec7009ab8411ac168cfdd155427841ab6752"
+    "fileHash": "sha256-d0f2af2b7be8e19197841e6aa678ec7009ab8411ac168cfdd155427841ab6752",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziMom.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziPal.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziPal.cs3",
     "status": 1,
     "version": 89,
     "name": "DiziPal",
@@ -226,10 +235,11 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal.im/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-d6bc9075369fed694b9a7bb28e0a78c4ac4467c59c60209c1bcc7389d5465bfe"
+    "fileHash": "sha256-d6bc9075369fed694b9a7bb28e0a78c4ac4467c59c60209c1bcc7389d5465bfe",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziPal.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/DiziYou.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziYou.cs3",
     "status": 1,
     "version": 49,
     "name": "DiziYou",
@@ -246,7 +256,8 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.diziyou.co",
     "apiVersion": 1,
-    "fileHash": "sha256-1a7141db7f680117b40182318bd1771e90c20c0729d0ced98f7a5a5039aeb8a4"
+    "fileHash": "sha256-1a7141db7f680117b40182318bd1771e90c20c0729d0ced98f7a5a5039aeb8a4",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziYou.cs3"
   },
   {
     "iconUrl": "https://filmbip.com/uploads/favicon/original/favicon.webp",
@@ -269,7 +280,7 @@
     "name": "FilmBip"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmMakinesi.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FilmMakinesi.cs3",
     "status": 1,
     "version": 70,
     "name": "FilmMakinesi",
@@ -289,10 +300,11 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmmakinesi.tv&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-124d53af9cfdcc80ac15a47904588d24faa8b91726866da923bf24b8bec0711e"
+    "fileHash": "sha256-124d53af9cfdcc80ac15a47904588d24faa8b91726866da923bf24b8bec0711e",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FilmMakinesi.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FilmModu.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FilmModu.cs3",
     "status": 1,
     "version": 41,
     "name": "FilmModu",
@@ -309,7 +321,8 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmmodu.one/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-df5a77df4fbef0f01493579a95698f89d769df3e501bf752be7ae98b12dc0072"
+    "fileHash": "sha256-df5a77df4fbef0f01493579a95698f89d769df3e501bf752be7ae98b12dc0072",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FilmModu.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilm.pro&sz=%size%",
@@ -328,11 +341,12 @@
     "version": 14,
     "internalName": "FullHDFilm",
     "description": "🔴 ramazansancar 16.08.2026 Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/FullHDFilm.cs3",
-    "name": "FullHDFilm"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FullHDFilm.cs3",
+    "name": "FullHDFilm",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FullHDFilm.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/FullHDFilmizlesene.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FullHDFilmizlesene.cs3",
     "status": 1,
     "version": 72,
     "name": "FullHDFilmizlesene",
@@ -350,10 +364,11 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.fullhdfilmizlesene.de",
     "apiVersion": 1,
-    "fileHash": "sha256-1256e6bb9d3d6ef56355441a3d2580e957a153d56abc4eaad1513bc6d95e3f31"
+    "fileHash": "sha256-1256e6bb9d3d6ef56355441a3d2580e957a153d56abc4eaad1513bc6d95e3f31",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FullHDFilmizlesene.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HDFilmCehennemi.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/HDFilmCehennemi.cs3",
     "status": 1,
     "version": 97,
     "name": "HDFilmCehennemi",
@@ -371,10 +386,11 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=http://hdfilmcehennemi.nl",
     "apiVersion": 1,
-    "fileHash": "sha256-7669977387863e756c7333bbcd8becef8e92e912bf177d2525050002c19d6b87"
+    "fileHash": "sha256-7669977387863e756c7333bbcd8becef8e92e912bf177d2525050002c19d6b87",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/HDFilmCehennemi.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/InatBox.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/InatBox.cs3",
     "status": 2,
     "version": 57,
     "name": "InatBox",
@@ -395,10 +411,11 @@
     ],
     "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
     "apiVersion": 1,
-    "fileHash": "sha256-e4dcc3c3d9171289dcfbebe7d43f80a8cdf4ca8f8a9b346c69c1fa2b1be193dd"
+    "fileHash": "sha256-e4dcc3c3d9171289dcfbebe7d43f80a8cdf4ca8f8a9b346c69c1fa2b1be193dd",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/InatBox.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/JetFilmizle.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/JetFilmizle.cs3",
     "status": 1,
     "version": 62,
     "name": "JetFilmizle",
@@ -416,7 +433,8 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jetfilmizle.de&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-d7fc84ffc1500df0bfdea07cc41f3d710a583cb590156285a91bad4291b8c8a6"
+    "fileHash": "sha256-d7fc84ffc1500df0bfdea07cc41f3d710a583cb590156285a91bad4291b8c8a6",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/JetFilmizle.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.koreanturk.com&sz=%size%",
@@ -438,7 +456,7 @@
     "name": "KoreanTurk"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/KultFilmler.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/KultFilmler.cs3",
     "status": 1,
     "version": 31,
     "name": "KultFilmler",
@@ -456,7 +474,8 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kultfilmler.net&size=32",
     "apiVersion": 1,
-    "fileHash": "sha256-6ebae096018715eb7cc09dbffab497cc980c76ad9414e4f28499676e89dad26e"
+    "fileHash": "sha256-6ebae096018715eb7cc09dbffab497cc980c76ad9414e4f28499676e89dad26e",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/KultFilmler.cs3"
   },
   {
     "iconUrl": "https://netfree2.cc/mobile/img/nf2/icon_x192.png",
@@ -480,7 +499,7 @@
     "name": "NetflixMirror"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RareFilmm.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/RareFilmm.cs3",
     "status": 1,
     "version": 20,
     "name": "RareFilmm",
@@ -497,10 +516,11 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://rarefilmm.com&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-23ec3a3a6ab5751a1d1bccd9af8544e97db5c544b1fa752db87b0b04f8b8838a"
+    "fileHash": "sha256-23ec3a3a6ab5751a1d1bccd9af8544e97db5c544b1fa752db87b0b04f8b8838a",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/RareFilmm.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/RecTV.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/RecTV.cs3",
     "status": 1,
     "version": 43,
     "name": "RecTV",
@@ -519,10 +539,11 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rectvapk.cc&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b912d3254b9b8f3e22c39ca3b15948520be9c4c9c953a6c314d787eb26c06101"
+    "fileHash": "sha256-b912d3254b9b8f3e22c39ca3b15948520be9c4c9c953a6c314d787eb26c06101",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/RecTV.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SetFilmIzle.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SetFilmIzle.cs3",
     "status": 1,
     "version": 42,
     "name": "SetFilmIzle",
@@ -541,10 +562,11 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.setfilmizle.uk/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-0924b29d367baf9bce40363b48d209614ef5c64368d82ce9370d2b59a3376437"
+    "fileHash": "sha256-0924b29d367baf9bce40363b48d209614ef5c64368d82ce9370d2b59a3376437",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SetFilmIzle.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SezonlukDizi.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SezonlukDizi.cs3",
     "status": 1,
     "version": 40,
     "name": "SezonlukDizi",
@@ -562,10 +584,11 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sezonlukdizi6.com",
     "apiVersion": 1,
-    "fileHash": "sha256-2b29896fd95003779fc9bf3216aa89bd7029eefad01c4ac4fc6006d7b1f98dd1"
+    "fileHash": "sha256-2b29896fd95003779fc9bf3216aa89bd7029eefad01c4ac4fc6006d7b1f98dd1",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SezonlukDizi.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SinemaCX.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SinemaCX.cs3",
     "status": 1,
     "version": 35,
     "name": "SinemaCX",
@@ -582,7 +605,8 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.sinema.gg/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-c59a3a99f4fe10638bb0ebebbb3a71902fd93289048826c2e55ff08982d7186f"
+    "fileHash": "sha256-c59a3a99f4fe10638bb0ebebbb3a71902fd93289048826c2e55ff08982d7186f",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SinemaCX.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz&sz=%size%",
@@ -619,8 +643,9 @@
     "version": 1,
     "internalName": "TLCTR",
     "description": "🔴 ramazansancar 16.08.2026 TLC TV dizi ve programlarını takip etmek için ziyaret edin. TLC TV dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/TLCTR.cs3",
-    "name": "TLCTR"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/TLCTR.cs3",
+    "name": "TLCTR",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/TLCTR.cs3"
   },
   {
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/TRanimaci.cs3",
@@ -663,7 +688,7 @@
     "fileHash": "sha256-6d01026fa4978b7642d336924eeb5e1a788e8bd4047be1d3a4d5ae7426764600"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TurkAnime.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/TurkAnime.cs3",
     "status": 1,
     "version": 34,
     "name": "TurkAnime",
@@ -682,7 +707,8 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.turkanime.co&size=64",
     "apiVersion": 1,
-    "fileHash": "sha256-803ec847f9c03ae85ee7f1c5587c943a790bf97113f0e37de4ebae7f65d736c9"
+    "fileHash": "sha256-803ec847f9c03ae85ee7f1c5587c943a790bf97113f0e37de4ebae7f65d736c9",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/TurkAnime.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=ugurfilm7.com&sz=%size%",
@@ -719,11 +745,12 @@
     "version": 0,
     "internalName": "Watch2Movies",
     "description": "🔴 ramazansancar 16.08.2026 !!! YAPIM AŞAMASINDA !!! Watch2Movies is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series. You can also Download full movies from Watch2Movies and watch it later if you want.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/Watch2Movies.cs3",
-    "name": "Watch2Movies"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Watch2Movies.cs3",
+    "name": "Watch2Movies",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Watch2Movies.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/WebteIzle.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/WebteIzle.cs3",
     "status": 0,
     "version": 53,
     "name": "WebteIzle",
@@ -741,7 +768,8 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webteizle1.xyz&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-00baa649d28dd4ececb8fbe1f7490ba01a68ef473ab478eff8b8620daa486333"
+    "fileHash": "sha256-00baa649d28dd4ececb8fbe1f7490ba01a68ef473ab478eff8b8620daa486333",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/WebteIzle.cs3"
   },
   {
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/AltiYuzAltmisAltiFilmIzle.cs3",
@@ -764,7 +792,7 @@
     "fileHash": "sha256-67e1c3be1e544fae485397f19b9a2e24aa115aeefe77dacf04e5c5582c3475a6"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaAnimeleri.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AsyaAnimeleri.cs3",
     "status": 1,
     "version": 24,
     "name": "AsyaAnimeleri",
@@ -781,7 +809,8 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaanimeleri.top/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-8c8413367c14e21b8b2efa33ba2df4e4b9ef57b447a753f8fc930c1053153a7e"
+    "fileHash": "sha256-8c8413367c14e21b8b2efa33ba2df4e4b9ef57b447a753f8fc930c1053153a7e",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AsyaAnimeleri.cs3"
   },
   {
     "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/DiziPalOriginal.cs3",
@@ -806,7 +835,7 @@
     "fileHash": "sha256-995086944c934b24640cf1e8087f72dcea37981bf7b0a83527f0148a32458f5e"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/SineWix.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SineWix.cs3",
     "status": 1,
     "version": 33,
     "name": "SineWix",
@@ -828,7 +857,8 @@
     ],
     "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
     "apiVersion": 1,
-    "fileHash": "sha256-8155d0c87480fd1c28da228acea89a6c79c13a546a8df49cf5063a54f7922772"
+    "fileHash": "sha256-8155d0c87480fd1c28da228acea89a6c79c13a546a8df49cf5063a54f7922772",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SineWix.cs3"
   },
   {
     "iconUrl": "https://www.4kfilmizleme.net/wp-content/uploads/2022/09/4kfilmizlemefavicon-1.png",
@@ -887,7 +917,7 @@
     "name": "4KFilmIzlesene"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/AsyaWatch.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AsyaWatch.cs3",
     "status": 1,
     "version": 41,
     "name": "AsyaWatch",
@@ -904,7 +934,8 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=asyawatch.com",
     "apiVersion": 1,
-    "fileHash": "sha256-75f4ef6430827a2ee5e28041afbd2fde295ede04c5f862cae219a7a4035a8dc7"
+    "fileHash": "sha256-75f4ef6430827a2ee5e28041afbd2fde295ede04c5f862cae219a7a4035a8dc7",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AsyaWatch.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
@@ -1044,7 +1075,7 @@
     "name": "GolgeTV"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/HDFilmizle.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/HDFilmizle.cs3",
     "status": 1,
     "version": 25,
     "name": "HDFilmizle",
@@ -1061,7 +1092,8 @@
     ],
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hdfilmizle.life/rally-caps/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-72ce2862c4b8042753d3445f4063b7a9ee06d5b9e40768108579c4de34d8ccb3"
+    "fileHash": "sha256-72ce2862c4b8042753d3445f4063b7a9ee06d5b9e40768108579c4de34d8ccb3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/HDFilmizle.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmsitesi.net&sz=%size%",
@@ -1182,7 +1214,7 @@
     "name": "TurkSCanliTV"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/TvDiziler.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/TvDiziler.cs3",
     "status": 1,
     "version": 18,
     "name": "TvDiziler",
@@ -1199,7 +1231,8 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tvdiziler.cc&size=16",
     "apiVersion": 1,
-    "fileHash": "sha256-f844e8b349462cb5407a6f219fb1894bb7582853adaf49ddfe8267e98139de0d"
+    "fileHash": "sha256-f844e8b349462cb5407a6f219fb1894bb7582853adaf49ddfe8267e98139de0d",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/TvDiziler.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=twitch.tv&sz=%size%",
@@ -1262,7 +1295,7 @@
     "name": "WFilmİzle"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YabanciDizi.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YabanciDizi.cs3",
     "status": 1,
     "version": 18,
     "name": "YabanciDizi",
@@ -1279,10 +1312,11 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yabancidizi.so/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-e45d6136e1124ec6af22fdf28a5dbce413d6cab9a3395a9885987c3fdcf34596"
+    "fileHash": "sha256-e45d6136e1124ec6af22fdf28a5dbce413d6cab9a3395a9885987c3fdcf34596",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YabanciDizi.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Youtube.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Youtube.cs3",
     "status": 1,
     "version": 39,
     "name": "Youtube",
@@ -1304,10 +1338,11 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-31d16f3cac9ca336a7eb9cdb8016056076e2cf9a4add728006f8a19dca7348dc"
+    "fileHash": "sha256-31d16f3cac9ca336a7eb9cdb8016056076e2cf9a4add728006f8a19dca7348dc",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Youtube.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/YTS.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YTS.cs3",
     "status": 1,
     "version": 42,
     "name": "YTS",
@@ -1326,7 +1361,8 @@
     ],
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-3c2ca3d9f30ad017cfc56e044bf38980ddf98b4426be77e1c6ce1cb3487706b2"
+    "fileHash": "sha256-3c2ca3d9f30ad017cfc56e044bf38980ddf98b4426be77e1c6ce1cb3487706b2",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YTS.cs3"
   },
   {
     "iconUrl": "https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png",
@@ -1348,7 +1384,7 @@
     "name": "YerelDiziler"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/CizgiveDizi.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CizgiveDizi.cs3",
     "status": 1,
     "version": 50,
     "name": "CizgiveDizi",
@@ -1366,10 +1402,11 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgivedizi.com",
     "apiVersion": 1,
-    "fileHash": "sha256-55a7c1ed00e6306037dda5c0bcb1b05a4acab5ce746a00bd17b79133ab27dae7"
+    "fileHash": "sha256-55a7c1ed00e6306037dda5c0bcb1b05a4acab5ce746a00bd17b79133ab27dae7",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CizgiveDizi.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/WebDramaTurkey.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/WebDramaTurkey.cs3",
     "status": 1,
     "version": 39,
     "name": "WebDramaTurkey",
@@ -1388,7 +1425,8 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40",
     "apiVersion": 1,
-    "fileHash": "sha256-521be83f28cd701dbb8f2afa19056a9b80858ca53134fbb807be43423fa9b5c5"
+    "fileHash": "sha256-521be83f28cd701dbb8f2afa19056a9b80858ca53134fbb807be43423fa9b5c5",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/WebDramaTurkey.cs3"
   },
   {
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/New_qBittorrent_Logo.svg/2048px-New_qBittorrent_Logo.svg.png",
