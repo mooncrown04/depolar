@@ -2950,10 +2950,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png",
-    "fileHash": "sha256-eaf2f625cc4becce2832d2add09868b6ff57944ffed02e2cb5cc99d50282810d",
+    "fileHash": "sha256-d6edca23a6988b31c0cad42016b55da6ed05be16e6b69a61ddce5fa6f03d9b75",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
-    "fileSize": 384348,
+    "fileSize": 388217,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2961,13 +2961,11 @@
     ],
     "tvTypes": [
       "TvSeries",
-      "Movie",
-      "Anime",
-      "Live"
+      "Movie"
     ],
-    "version": 35,
+    "version": 37,
     "internalName": "plt-stream",
-    "description": "🆕 pltmustafa 17.08.2026 plt-stream - Birden fazla siteden içerik sağlayan bir eklenti",
+    "description": "🔴 pltmustafa 17.08.2026 plt-stream - Birden fazla siteden içerik sağlayan bir eklenti",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/plt-stream.cs3",
     "name": "plt-stream",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/plt-stream.cs3"
