@@ -1,4 +1,4 @@
-### Son Güncelleme: 18.08.2026 14:23
+### Son Güncelleme: 18.08.2026 14:47
 
 ### Toplam Eklenti: `142` 
 
@@ -33,7 +33,7 @@
 | <img src="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" width="30" style="border-radius:4px;"> | **CanliTv** | 18.08.2026 | 🔴 | `Sertel392` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **CizgiMax** | 18.08.2026 | 🔴 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://cizgivedizi.com/Logo.png" width="30" style="border-radius:4px;"> | **CizgiVeDizi** | 18.08.2026 | 🔴 | `Sertel392` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://img.icons8.com/color/512/cloud-sync.png" width="30" style="border-radius:4px;"> | **Cloud-Sync** | 17.08.2026 | 🆕 | `pltmustafa` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://img.icons8.com/color/512/cloud-sync.png" width="30" style="border-radius:4px;"> | **Cloud-Sync** | 18.08.2026 | 🔴 | `pltmustafa` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **Ddizi** | 18.08.2026 | 🔴 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.ddizi.im/images/logo.png" width="30" style="border-radius:4px;"> | **DDizi - Latte** | 03.04.2026 | ⚪ | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=diziasia.com" width="30" style="border-radius:4px;"> | **DiziAsia** | 27.07.2026 | 🔴 | `Kraptor123` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -103,7 +103,7 @@
 | <img src="https://netfree2.cc/mobile/img/nf2/icon_x192.png" width="30" style="border-radius:4px;"> | **NetflixMirror** | 04.04.2026 | ⚪ | `ramazansancar` | <img src="https://flagcdn.com/w20/in.png" width="20" alt="hi"> |
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.onepacetr.net/&size=128" width="30" style="border-radius:4px;"> | **OnePaceTr** | 15.07.2026 | 🔴 | `Kraptor123` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openani.me/&size=24" width="30" style="border-radius:4px;"> | **OpenAnime** | 15.07.2026 | 🔴 | `Kraptor123` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png" width="30" style="border-radius:4px;"> | **plt-stream** | 17.08.2026 | 🔴 | `pltmustafa` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png" width="30" style="border-radius:4px;"> | **plt-stream** | 18.08.2026 | 🔴 | `pltmustafa` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powerdizi.png" width="30" style="border-radius:4px;"> | **powerboard Dizi - Latte** | 03.04.2026 | ⚪ | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powersinema.png" width="30" style="border-radius:4px;"> | **powerboard Sinema - Latte** | 03.04.2026 | ⚪ | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg" width="30" style="border-radius:4px;"> | **Puhu** | 03.04.2026 | ⚪ | `Sertel392` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |

@@ -2870,10 +2870,10 @@
   },
   {
     "iconUrl": "https://img.icons8.com/color/512/cloud-sync.png",
-    "fileHash": "sha256-3a19debc6ada3f48719aeeac7755e9f2dd8ece35e9756753d5222561efacbecf",
+    "fileHash": "sha256-f60ed9a28aa0bc7c9883a259bab796088cc707b6539065cd73daf2c67a571bc2",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
-    "fileSize": 126407,
+    "fileSize": 119292,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2882,19 +2882,19 @@
     "tvTypes": [
       "All"
     ],
-    "version": 11,
+    "version": 12,
     "internalName": "Cloud-Sync",
-    "description": "🆕 pltmustafa 17.08.2026 Cloud sync plugin for Cloudstream - syncs bookmarks, settings, extensions, watch history across devices",
+    "description": "🔴 pltmustafa 18.08.2026 Cloud sync plugin for Cloudstream - syncs bookmarks, settings, extensions, watch history across devices",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Cloud-Sync.cs3",
     "name": "Cloud-Sync",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Cloud-Sync.cs3"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png",
-    "fileHash": "sha256-d6edca23a6988b31c0cad42016b55da6ed05be16e6b69a61ddce5fa6f03d9b75",
+    "fileHash": "sha256-66858f8e954820c2fa3906ce8a90853a85d2ba9c2f88cf87acddd5870fe6dffd",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
-    "fileSize": 388217,
+    "fileSize": 411831,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2904,9 +2904,9 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 37,
+    "version": 38,
     "internalName": "plt-stream",
-    "description": "🔴 pltmustafa 17.08.2026 plt-stream - Birden fazla siteden içerik sağlayan bir eklenti",
+    "description": "🔴 pltmustafa 18.08.2026 plt-stream - Birden fazla siteden içerik sağlayan bir eklenti",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/plt-stream.cs3",
     "name": "plt-stream",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/plt-stream.cs3"
