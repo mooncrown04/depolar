@@ -34,25 +34,29 @@ jobs:
           const path = require('path');
 
           const urls = [
+		    'https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/builds/plugins.json',
             'https://raw.githubusercontent.com/pltmustafa/plt-stream/builds/plugins.json',
             'https://raw.githubusercontent.com/ctnkyaumt/cstest/refs/heads/builds/plugins.json',
             'https://raw.githubusercontent.com/patr0nq/cstestAddons/refs/heads/builds/plugins.json',
             'https://raw.githubusercontent.com/caca1403/cloudstream-cagi-eklenti/refs/heads/main/plugins.json',
             'https://raw.githubusercontent.com/marrem/cs-Kekik/builds/plugins.json',
             'https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/plugins.json',
-            // 'https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/plugins.json',
             'https://raw.githubusercontent.com/sarapcanagii/Pitipitii/builds/plugins.json',
             'https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/plugins.json',
             'https://raw.githubusercontent.com/Sertel392/Makotogecici/main/plugins.json',
             'https://raw.githubusercontent.com/GitLatte/Sinetech/builds/plugins.json',
-            // 'https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/plugins.json',
             'https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/plugins.json'
           ];
 
           const specificBlacklist = [
             { owner: "ramazansancar", name: "GolgeTV" },
-             { owner: "ramazansancar", name: "powerdizi" },
+            { owner: "ramazansancar", name: "powerdizi" },
             { owner: "ramazansancar", name: "powersinema" }
+          ];
+
+          // BURAYA SADECE İSTEDİKLERİNİZİ EKLEYİN (Boş kalırsa hepsini alır)
+          const allowedPlugins = [
+            // { owner: "SaurabhKaperwan", name: "Bollyflix" }
           ];
 
           const PLUGIN_DIR = 'plugins';
@@ -89,7 +93,6 @@ jobs:
                     (b.name.toLowerCase() === pName || b.name.toLowerCase() === pInternal)
                   );
                   if (isOldBlocked) continue;
-
                   mergedMap.set(getStandardKey(p), p);
                 }
               } catch (e) { console.log("Eski dosya okunamadı veya boş."); }
@@ -106,18 +109,26 @@ jobs:
                   if (Array.isArray(remote.tvTypes) && remote.tvTypes.includes('NSFW')) continue;
                   
                   const pluginUrl = remote.url || remote.downloadUrl || "";
-                  if (!pluginUrl || !pluginUrl.endsWith('.cs3')) {
-                    continue;
-                  }
+                  if (!pluginUrl || !pluginUrl.endsWith('.cs3')) continue;
 
                   const pluginName = (remote.name || "").toLowerCase().trim();
                   const pluginInternal = (remote.internalName || "").toLowerCase().trim();
                   
+                  // Kara Liste Kontrolü
                   const isBlocked = specificBlacklist.some(b => 
                     b.owner.toLowerCase() === repoOwner.toLowerCase() && 
                     (b.name.toLowerCase() === pluginName || b.name.toLowerCase() === pluginInternal)
                   );
                   if (isBlocked) continue;
+
+                  // Beyaz Liste Kontrolü
+                  if (allowedPlugins.length > 0) {
+                    const isAllowed = allowedPlugins.some(a => 
+                      a.owner.toLowerCase() === repoOwner.toLowerCase() && 
+                      (a.name.toLowerCase() === pluginName || a.name.toLowerCase() === pluginInternal)
+                    );
+                    if (!isAllowed) continue;
+                  }
 
                   const key = getStandardKey(remote);
                   const existing = mergedMap.get(key);
@@ -140,9 +151,7 @@ jobs:
                       }
                     } catch (err) {
                       console.error(`${fileName} indirilemedi: ${err.message}`);
-                      if (fs.existsSync(localFilePath)) {
-                        shouldDownload = false;
-                      }
+                      if (fs.existsSync(localFilePath)) shouldDownload = false;
                     }
                   }
 
@@ -157,7 +166,6 @@ jobs:
                   } else {
                     const vRemote = normalizeVersion(remote.version);
                     const vExisting = normalizeVersion(existing.version);
-
                     if (vRemote !== vExisting) {
                       let cleanDesc = (remote.description || '').replace(/^(🔴|🆕).*?\d{2}\.\d{2}\.\d{4}/g, '').trim();
                       remote.description = `🔴 ${repoOwner} ${today} ${cleanDesc}`;
@@ -169,7 +177,6 @@ jobs:
                 }
               } catch (e) { console.error(`${url} hatası: ${e.message}`); }
             }
-
             fs.writeFileSync('plugins.json', JSON.stringify(Array.from(mergedMap.values()), null, 2));
           })();
           NODE
@@ -185,14 +192,7 @@ jobs:
           OWNER = "MoOnCrOwN"
           OWNER_AVATAR = "https://st5.depositphotos.com/1041725/67731/v/380/depositphotos_677319750-stock-illustration-ararat-mountain-illustration-vector-white.jpg"
           OWNER_PROFILE = "https://github.com/mooncrown04"
-          
-          FLAGS = {
-              "tr": "https://flagcdn.com/w20/tr.png",
-              "en": "https://flagcdn.com/w20/gb.png",
-              "de": "https://flagcdn.com/w20/de.png",
-              "us": "https://flagcdn.com/w20/us.png",
-              "hi": "https://flagcdn.com/w20/in.png"
-          }
+          FLAGS = {"tr": "https://flagcdn.com/w20/tr.png", "en": "https://flagcdn.com/w20/gb.png", "de": "https://flagcdn.com/w20/de.png", "us": "https://flagcdn.com/w20/us.png", "hi": "https://flagcdn.com/w20/in.png"}
           
           now = datetime.now(timezone(timedelta(hours=3)))
           full_date = now.strftime("%d.%m.%Y %H:%M")
@@ -205,47 +205,29 @@ jobs:
           for p in sorted(plugins, key=lambda x: x.get('name','').lower()):
               name = p.get('name','Unknown')
               desc = p.get('description', '')
-              
               date_match = re.search(r'\d{2}\.\d{2}\.\d{4}', desc)
               date_str = date_match.group(0) if date_match else "—"
-              
               marker = "⚪"
               if date_match:
                   try:
                       item_date = datetime.strptime(date_str, "%d.%m.%Y").replace(tzinfo=now.tzinfo)
                       if (now - item_date).days <= 60:
-                          if "🔴" in desc:
-                              marker = "🔴"
-                          elif "🆕" in desc:
-                              marker = "🆕"
-                  except Exception:
-                      pass
+                          if "🔴" in desc: marker = "🔴"
+                          elif "🆕" in desc: marker = "🆕"
+                  except: pass
               
               lang_val = str(p.get("language") or p.get("lang") or "tr").lower().split('-')[0]
               flag_url = FLAGS.get(lang_val, "https://flagcdn.com/w20/un.png")
               country_tag = f'<img src="{flag_url}" width="20" alt="{lang_val}">'
-              
               icon = p.get("iconUrl") or p.get("icon") or ""
               img_tag = f'<img src="{icon}" width="30" style="border-radius:4px;">' if icon and "%size%" not in icon else "—"
-              
               owner_match = re.search(r'(?:🆕 |🔴 )(.*?) \d', desc)
               repo_name = owner_match.group(1) if owner_match else "Bilinmiyor"
-
               rows.append(f"| {img_tag} | **{name}** | {date_str} | {marker} | `{repo_name}` | {country_tag} |")
 
-          header = (
-              f"### Son Güncelleme: {full_date}\n\n"
-              f"### Toplam Eklenti: `{len(plugins)}` \n\n"
-              f"---\n### Depo Sahibi:\n"
-              f"[<img src='{OWNER_AVATAR}' width='48' style='border-radius:50%;'>]({OWNER_PROFILE})  \n"
-              f"**[{OWNER}]({OWNER_PROFILE})**\n\n"
-              f"---\n## 📦 Eklenti Listesi\n\n"
-              f"| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |\n"
-              f"|:----:|:------------|:------|:------|:-------|:----:|\n"
-          )
+          header = (f"### Son Güncelleme: {full_date}\n\n### Toplam Eklenti: `{len(plugins)}` \n\n---\n### Depo Sahibi:\n[<img src='{OWNER_AVATAR}' width='48' style='border-radius:50%;'>]({OWNER_PROFILE})  \n**[{OWNER}]({OWNER_PROFILE})**\n\n---\n## 📦 Eklenti Listesi\n\n| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |\n|:----:|:------------|:------|:------|:-------|:----:|\n")
           Path("README.md").write_text(header + "\n".join(rows), encoding="utf-8")
 
-      # --- 3. ADIM: DEĞİŞİKLİKLERİ VE DOSYALARI KAYDET ---
       - name: Commit and Push
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
