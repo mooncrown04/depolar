@@ -35,6 +35,7 @@ jobs:
 
           const urls = [
             'https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/builds/plugins.json',
+            'https://raw.githubusercontent.com/patr0nq/patr0n-cs/refs/heads/builds/plugins.json',
             'https://raw.githubusercontent.com/pltmustafa/plt-stream/builds/plugins.json',
             'https://raw.githubusercontent.com/ctnkyaumt/cstest/refs/heads/builds/plugins.json',
             'https://raw.githubusercontent.com/patr0nq/cstestAddons/refs/heads/builds/plugins.json',
