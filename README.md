@@ -1,6 +1,6 @@
-### Son Güncelleme: 18.08.2026 15:35
+### Son Güncelleme: 18.08.2026 15:43
 
-### Toplam Eklenti: `148` 
+### Toplam Eklenti: `142` 
 
 ---
 ### Depo Sahibi:
@@ -32,7 +32,6 @@
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16" width="30" style="border-radius:4px;"> | **BirAsyaDizi** | 03.04.2026 | ⚪ | `Kraptor123` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/master/Bollyflix/icon.png" width="30" style="border-radius:4px;"> | **Bollyflix** | 18.08.2026 | 🆕 | `SaurabhKaperwan` | <img src="https://flagcdn.com/w20/in.png" width="20" alt="hi"> |
 | <img src="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" width="30" style="border-radius:4px;"> | **CanliTv** | 18.08.2026 | 🔴 | `Sertel392` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png" width="30" style="border-radius:4px;"> | **CineStream** | 18.08.2026 | 🆕 | `SaurabhKaperwan` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
 | — | **CizgiMax** | 18.08.2026 | 🔴 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://cizgivedizi.com/Logo.png" width="30" style="border-radius:4px;"> | **CizgiVeDizi** | 18.08.2026 | 🔴 | `Sertel392` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://img.icons8.com/color/512/cloud-sync.png" width="30" style="border-radius:4px;"> | **Cloud-Sync** | 18.08.2026 | 🔴 | `pltmustafa` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -76,7 +75,6 @@
 | — | **FullHDFilmizlesene** | 18.08.2026 | 🔴 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **FullHDFilmİzlede** | 03.04.2026 | ⚪ | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fullhdizle.one/&size=48" width="30" style="border-radius:4px;"> | **FullHDIzle** | 03.04.2026 | ⚪ | `Kraptor123` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/GDIndex/icon.ico" width="30" style="border-radius:4px;"> | **GDIndex** | 18.08.2026 | 🆕 | `SaurabhKaperwan` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
 | <img src="https://www.giniko.com/images/favicon.ico" width="30" style="border-radius:4px;"> | **GinikoCanli** | 06.07.2026 | 🔴 | `Kraptor123` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/gofilm.png" width="30" style="border-radius:4px;"> | **GoFilmIzle - Latte** | 03.04.2026 | ⚪ | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **HDFilmCehennemi** | 18.08.2026 | 🔴 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -99,14 +97,11 @@
 | <img src="https://www.4kfilmizleme.net/wp-content/uploads/2022/09/4kfilmizlemefavicon-1.png" width="30" style="border-radius:4px;"> | **kısakod:kraptorcs** | 03.04.2026 | ⚪ | `Kraptor123` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://i.imgur.com/BsS4wRT.png" width="30" style="border-radius:4px;"> | **M3UPlayer** | 03.04.2026 | ⚪ | `ByAyzen` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Kraptor123/cs-kraptor/refs/heads/master/.github/icons/logo/mirrorverseicon.png" width="30" style="border-radius:4px;"> | **MirrorVerse** | 15.07.2026 | 🔴 | `Kraptor123` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/MoviesDrive/icon.png" width="30" style="border-radius:4px;"> | **MoviesDrive** | 18.08.2026 | 🆕 | `SaurabhKaperwan` | <img src="https://flagcdn.com/w20/in.png" width="20" alt="hi"> |
-| <img src="https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Moviesmod/icon.png" width="30" style="border-radius:4px;"> | **Moviesmod** | 18.08.2026 | 🆕 | `SaurabhKaperwan` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png" width="30" style="border-radius:4px;"> | **myway TV - Latte** | 03.04.2026 | ⚪ | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzikkanallari.png" width="30" style="border-radius:4px;"> | **Müzik TV ve Radyo - Latte** | 03.04.2026 | ⚪ | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **NeonSpor** | 03.04.2026 | ⚪ | `sarapcanagii` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://netfree2.cc/mobile/img/nf2/icon_x192.png" width="30" style="border-radius:4px;"> | **NetflixMirror** | 04.04.2026 | ⚪ | `ramazansancar` | <img src="https://flagcdn.com/w20/in.png" width="20" alt="hi"> |
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.onepacetr.net/&size=128" width="30" style="border-radius:4px;"> | **OnePaceTr** | 15.07.2026 | 🔴 | `Kraptor123` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://raw.githubusercontent.com/SaurabhKaperwan/CSX/master/OnlineMoviesHinditProvider/icon.png" width="30" style="border-radius:4px;"> | **OnlineMoviesHinditProvider** | 18.08.2026 | 🆕 | `SaurabhKaperwan` | <img src="https://flagcdn.com/w20/in.png" width="20" alt="hi"> |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openani.me/&size=24" width="30" style="border-radius:4px;"> | **OpenAnime** | 15.07.2026 | 🔴 | `Kraptor123` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png" width="30" style="border-radius:4px;"> | **plt-stream** | 18.08.2026 | 🔴 | `pltmustafa` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powerdizi.png" width="30" style="border-radius:4px;"> | **powerboard Dizi - Latte** | 03.04.2026 | ⚪ | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -142,7 +137,6 @@
 | — | **UgurFilm** | 19.07.2026 | 🔴 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://vavoo.to/&size=128" width="30" style="border-radius:4px;"> | **Vavoo** | 03.04.2026 | ⚪ | `ByAyzen` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **vavooSpor** | 03.04.2026 | ⚪ | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/VegaMovies/icon.jpg" width="30" style="border-radius:4px;"> | **VegaMovies** | 18.08.2026 | 🆕 | `SaurabhKaperwan` | <img src="https://flagcdn.com/w20/in.png" width="20" alt="hi"> |
 | <img src="https://cdn-icons-png.flaticon.com/512/8634/8634073.png" width="30" style="border-radius:4px;"> | **VizyonHub** | 10.08.2026 | 🔴 | `caca1403` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **Watch2Movies** | 18.08.2026 | 🔴 | `ramazansancar` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
 | <img src="https://webdramaturkey.org/public/static/logo.webp?v=1.0.19" width="30" style="border-radius:4px;"> | **WebDramaTurkey** | 18.08.2026 | 🔴 | `Sertel392` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
