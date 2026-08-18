@@ -1,6 +1,6 @@
-### Son Güncelleme: 18.08.2026 14:47
+### Son Güncelleme: 18.08.2026 14:52
 
-### Toplam Eklenti: `142` 
+### Toplam Eklenti: `141` 
 
 ---
 ### Depo Sahibi:
@@ -76,7 +76,6 @@
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fullhdizle.one/&size=48" width="30" style="border-radius:4px;"> | **FullHDIzle** | 03.04.2026 | ⚪ | `Kraptor123` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.giniko.com/images/favicon.ico" width="30" style="border-radius:4px;"> | **GinikoCanli** | 06.07.2026 | 🔴 | `Kraptor123` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/gofilm.png" width="30" style="border-radius:4px;"> | **GoFilmIzle - Latte** | 03.04.2026 | ⚪ | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://www.apkdelisi.net/wp-content/uploads/2022/03/golge-tv-reklamsiz-mod-apk-canli-tv-apkdelisi-0.jpg" width="30" style="border-radius:4px;"> | **GolgeTV** | 03.04.2026 | ⚪ | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **HDFilmCehennemi** | 18.08.2026 | 🔴 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hdfilmdelisi.one/&size=128" width="30" style="border-radius:4px;"> | **HDFilmDelisi** | 15.07.2026 | 🔴 | `Kraptor123` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **HDFilmIzle** | 18.08.2026 | 🔴 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
