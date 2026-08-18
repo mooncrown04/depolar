@@ -19,49 +19,46 @@
     "name": "YTPatron"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AnimeciX.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 23052,
     "status": 1,
-    "version": 88,
-    "name": "AnimeciX",
-    "internalName": "AnimeciX",
+    "language": "tr",
     "authors": [
-      "kraptor",
-      "ByAyzen",
+      "keyiflerolsun",
       "inatchii",
       "JustRelaxable"
     ],
-    "description": "🔴 Kraptor123 18.08.2026 AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
-    "fileSize": 172055,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "language": "tr",
     "tvTypes": [
       "Anime"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://animecix.net&size=16",
-    "apiVersion": 1,
-    "fileHash": "sha256-bfcf2394b782cff98c985f1b62c78daf538d44518506e5590c1edbd5b65dad38",
+    "version": 11,
+    "internalName": "AnimeciX",
+    "description": "🔴 ramazansancar 18.08.2026 AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AnimeciX.cs3",
+    "name": "AnimeciX",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AnimeciX.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/BelgeselX.cs3",
-    "status": 1,
-    "version": 41,
-    "name": "BelgeselX",
-    "internalName": "BelgeselX",
-    "authors": [
-      "kraptor",
-      "ByAyzen"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
-    "fileSize": 50644,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "language": "tr",
-    "tvTypes": [
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=belgeselx.com",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-b0b22502633e8c4a5e12e871e4339884538c841b1554f0680152e809863f0274",
+    "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "keyiflerolsun",
+      "JustRelaxable",
+      "nikyokki"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 8,
+    "internalName": "BelgeselX",
+    "description": "🔴 Sertel392 18.08.2026 En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/BelgeselX.cs3",
+    "name": "BelgeselX",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/BelgeselX.cs3"
   },
   {
@@ -84,179 +81,164 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CanliTv.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CizgiMax.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 18499,
     "status": 1,
-    "version": 36,
-    "name": "CizgiMax",
-    "internalName": "CizgiMax",
-    "authors": [
-      "kraptor",
-      "ByAyzen"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
-    "fileSize": 47522,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
+    "authors": [
+      "keyiflerolsun"
+    ],
     "tvTypes": [
       "Cartoon"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgimax.online",
-    "apiVersion": 1,
-    "fileHash": "sha256-de4dfece844a4224e487a087bd3c00b8ee5fe4e2c2c537a345541431a70cf17d",
+    "version": 6,
+    "internalName": "CizgiMax",
+    "description": "🔴 ramazansancar 18.08.2026 ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CizgiMax.cs3",
+    "name": "CizgiMax",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CizgiMax.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Ddizi.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.ddizi.im&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 14682,
     "status": 1,
-    "version": 19,
-    "name": "Ddizi",
-    "internalName": "Ddizi",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 Ddizi, dizi izle, dizi seyret, yerli dizi izle, canlı dizi, türk dizi izle, dizi izle full, diziizle, eski diziler.",
-    "fileSize": 36196,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
+    "authors": [
+      "keyiflerolsun"
+    ],
     "tvTypes": [
       "TvSeries"
     ],
-    "iconUrl": "https://www.ddizi.im/images/logo.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-4e20618c5b65b5ee28f58db98889d48d1245d06f9ee5028663d8d66988c9abf8",
+    "version": 1,
+    "internalName": "Ddizi",
+    "description": "🔴 ramazansancar 18.08.2026 DDizi.im için Cloudstream eklentisi",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Ddizi.cs3",
+    "name": "Ddizi",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Ddizi.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziBox.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
     "status": 1,
-    "version": 37,
-    "name": "DiziBox",
-    "internalName": "DiziBox",
-    "authors": [
-      "kraptor",
-      "kerimmkirac",
-      "ByAyzen"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
-    "fileSize": 41155,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
+    "authors": [
+      "Makoto Tokioki"
+    ],
     "tvTypes": [
       "TvSeries"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.dizibox.de&size=16",
-    "apiVersion": 1,
-    "fileHash": "sha256-b794027e91ef844b33acba4a5e1bf0dbd8112e74ddf787525264bfbeff8263a3",
+    "version": 3,
+    "internalName": "DiziBox",
+    "description": "🔴 Sertel392 18.08.2026 DiziBox Full",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziBox.cs3",
+    "name": "DiziBox",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziBox.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziKorea.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 18650,
     "status": 1,
-    "version": 35,
-    "name": "DiziKorea",
-    "internalName": "DiziKorea",
-    "authors": [
-      "Kerimmkirac",
-      "kraptor",
-      "ByAyzen"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 Kore Dizileri izle, Dizikorea size en yeni ve güncel romantik komedi, okul tarzında ki Kore Asya Dizilerini Full HD Türkçe Altyazılı izleme şansı verir.",
-    "fileSize": 74416,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
+    "authors": [
+      "keyiflerolsun"
+    ],
     "tvTypes": [
       "AsianDrama"
     ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://dizikorea.pw&size=16",
-    "apiVersion": 1,
-    "fileHash": "sha256-2e28cc85ae623c6f78b5769a0dff96d20cf9d92d3d1b31080a549ac0b226c631",
+    "version": 7,
+    "internalName": "DiziKorea",
+    "description": "🔴 ramazansancar 18.08.2026 En Güncel Kore Dizileri izleme Sitesi",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziKorea.cs3",
+    "name": "DiziKorea",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziKorea.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Dizilla.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 24418,
     "status": 1,
-    "version": 111,
-    "name": "Dizilla",
-    "internalName": "Dizilla",
-    "authors": [
-      "kraptor",
-      "kerimmkirac"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 1080p yabancı dizi izle. Türkçe altyazılı veya dublaj seçenekleriyle 1080p çözünürlükte yabancı dizilere anında ulaş. Popüler dizileri kesintisiz izle.",
-    "fileSize": 150195,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
+    "authors": [
+      "keyiflerolsun"
+    ],
     "tvTypes": [
       "TvSeries"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=https://dizilla.to",
-    "apiVersion": 1,
-    "fileHash": "sha256-aab334fad3a465dc2eef948b2883f2e5a1b05e33eeac2ec66ebc7dea728c7c08",
+    "version": 17,
+    "internalName": "Dizilla",
+    "description": "🔴 ramazansancar 18.08.2026 Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Dizilla.cs3",
+    "name": "Dizilla",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Dizilla.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziMom.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.tv&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 29296,
     "status": 1,
-    "version": 61,
-    "name": "DiziMom",
-    "internalName": "DiziMom",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-    "fileSize": 55291,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
+    "authors": [
+      "keyiflerolsun"
+    ],
     "tvTypes": [
       "TvSeries"
     ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.dizimom.mom&size=32",
-    "apiVersion": 1,
-    "fileHash": "sha256-d0f2af2b7be8e19197841e6aa678ec7009ab8411ac168cfdd155427841ab6752",
+    "version": 20,
+    "internalName": "DiziMom",
+    "description": "🔴 ramazansancar 18.08.2026 Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziMom.cs3",
+    "name": "DiziMom",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziMom.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziPal.cs3",
-    "status": 1,
-    "version": 89,
-    "name": "DiziPal",
-    "internalName": "DiziPal",
-    "authors": [
-      "kraptor",
-      "ByAyzen"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 En yeni dizileri güvenli ve hızlı şekilde sunar.",
-    "fileSize": 38248,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal.im/&size=128",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-d6bc9075369fed694b9a7bb28e0a78c4ac4467c59c60209c1bcc7389d5465bfe",
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 18652,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "keyiflerolsun",
+      "muratcesmecioglu"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "version": 40,
+    "internalName": "DiziPal",
+    "description": "🔴 ramazansancar 18.08.2026 en yeni dizileri güvenli ve hızlı şekilde sunar.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziPal.cs3",
+    "name": "DiziPal",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziPal.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziYou.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 14241,
     "status": 1,
-    "version": 49,
-    "name": "DiziYou",
-    "internalName": "DiziYou",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
-    "fileSize": 57068,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
+    "authors": [
+      "keyiflerolsun"
+    ],
     "tvTypes": [
       "TvSeries"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.diziyou.co",
-    "apiVersion": 1,
-    "fileHash": "sha256-1a7141db7f680117b40182318bd1771e90c20c0729d0ced98f7a5a5039aeb8a4",
+    "version": 15,
+    "internalName": "DiziYou",
+    "description": "🔴 ramazansancar 18.08.2026 Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziYou.cs3",
+    "name": "DiziYou",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziYou.cs3"
   },
   {
@@ -280,48 +262,44 @@
     "name": "FilmBip"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FilmMakinesi.cs3",
-    "status": 1,
-    "version": 70,
-    "name": "FilmMakinesi",
-    "internalName": "FilmMakinesi",
-    "authors": [
-      "kraptor",
-      "usdogu",
-      "nikyokki"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
-    "fileSize": 82344,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmmakinesi.tv&size=128",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-124d53af9cfdcc80ac15a47904588d24faa8b91726866da923bf24b8bec0711e",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FilmMakinesi.cs3"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FilmModu.cs3",
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 21505,
     "status": 1,
-    "version": 41,
-    "name": "FilmModu",
-    "internalName": "FilmModu",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
-    "fileSize": 29718,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
+    "authors": [
+      "keyiflerolsun",
+      "usdogu"
+    ],
     "tvTypes": [
       "Movie"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmmodu.one/&size=128",
+    "version": 10,
+    "internalName": "FilmMakinesi",
+    "description": "🔴 ramazansancar 18.08.2026 Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FilmMakinesi.cs3",
+    "name": "FilmMakinesi",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FilmMakinesi.cs3"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-df5a77df4fbef0f01493579a95698f89d769df3e501bf752be7ae98b12dc0072",
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 14791,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "keyiflerolsun"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 12,
+    "internalName": "FilmModu",
+    "description": "🔴 ramazansancar 18.08.2026 Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FilmModu.cs3",
+    "name": "FilmModu",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FilmModu.cs3"
   },
   {
@@ -346,94 +324,86 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FullHDFilm.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FullHDFilmizlesene.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 29554,
     "status": 1,
-    "version": 72,
-    "name": "FullHDFilmizlesene",
-    "internalName": "FullHDFilmizlesene",
-    "authors": [
-      "kraptor",
-      "ByAyzen"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-    "fileSize": 145777,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
+    "authors": [
+      "keyiflerolsun"
+    ],
     "tvTypes": [
       "Movie"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=www.fullhdfilmizlesene.de",
-    "apiVersion": 1,
-    "fileHash": "sha256-1256e6bb9d3d6ef56355441a3d2580e957a153d56abc4eaad1513bc6d95e3f31",
+    "version": 7,
+    "internalName": "FullHDFilmizlesene",
+    "description": "🔴 ramazansancar 18.08.2026 Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FullHDFilmizlesene.cs3",
+    "name": "FullHDFilmizlesene",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FullHDFilmizlesene.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/HDFilmCehennemi.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 28128,
     "status": 1,
-    "version": 97,
-    "name": "HDFilmCehennemi",
-    "internalName": "HDFilmCehennemi",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 HDFilmCehennemi - Türkiye'nin en hızlı hd film izleme sitesi. Tek ve gerçek HDFilmCehennemi sitesi.",
-    "fileSize": 77589,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
+    "authors": [
+      "hexated",
+      "keyiflerolsun"
+    ],
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=http://hdfilmcehennemi.nl",
-    "apiVersion": 1,
-    "fileHash": "sha256-7669977387863e756c7333bbcd8becef8e92e912bf177d2525050002c19d6b87",
+    "version": 25,
+    "internalName": "HDFilmCehennemi",
+    "description": "🔴 ramazansancar 18.08.2026 Türkiye'nin en hızlı hd film izleme sitesi",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/HDFilmCehennemi.cs3",
+    "name": "HDFilmCehennemi",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/HDFilmCehennemi.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/InatBox.cs3",
-    "status": 2,
-    "version": 57,
-    "name": "InatBox",
-    "internalName": "InatBox",
-    "authors": [
-      "Eagle",
-      "kraptor",
-      "JustRelaxable"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 Bu eklenti düzenli güncelleme almayacaktır!",
-    "fileSize": 57821,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+    "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+    "status": 1,
     "language": "tr",
+    "authors": [
+      "JustRelaxable",
+      "keyiflerolsun"
+    ],
     "tvTypes": [
       "Movie",
       "TvSeries",
       "Live"
     ],
-    "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-e4dcc3c3d9171289dcfbebe7d43f80a8cdf4ca8f8a9b346c69c1fa2b1be193dd",
+    "version": 15,
+    "internalName": "InatBox",
+    "description": "🔴 Sertel392 18.08.2026 İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/InatBox.cs3",
+    "name": "InatBox",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/InatBox.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/JetFilmizle.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
     "status": 1,
-    "version": 62,
-    "name": "JetFilmizle",
-    "internalName": "JetFilmizle",
-    "authors": [
-      "kraptor",
-      "ByAyzen"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-    "fileSize": 64329,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
+    "authors": [
+      "Makoto Tokioki"
+    ],
     "tvTypes": [
       "Movie"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jetfilmizle.de&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-d7fc84ffc1500df0bfdea07cc41f3d710a583cb590156285a91bad4291b8c8a6",
+    "version": 1,
+    "internalName": "JetFilmizle",
+    "description": "🔴 Sertel392 18.08.2026 JetFilmizle içerikleri",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/JetFilmizle.cs3",
+    "name": "JetFilmizle",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/JetFilmizle.cs3"
   },
   {
@@ -456,25 +426,24 @@
     "name": "KoreanTurk"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/KultFilmler.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 18992,
     "status": 1,
-    "version": 31,
-    "name": "KultFilmler",
-    "internalName": "KultFilmler",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
-    "fileSize": 31282,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
+    "authors": [
+      "keyiflerolsun"
+    ],
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://kultfilmler.net&size=32",
-    "apiVersion": 1,
-    "fileHash": "sha256-6ebae096018715eb7cc09dbffab497cc980c76ad9414e4f28499676e89dad26e",
+    "version": 9,
+    "internalName": "KultFilmler",
+    "description": "🔴 ramazansancar 18.08.2026 Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/KultFilmler.cs3",
+    "name": "KultFilmler",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/KultFilmler.cs3"
   },
   {
@@ -499,113 +468,108 @@
     "name": "NetflixMirror"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/RareFilmm.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 14727,
     "status": 1,
-    "version": 20,
-    "name": "RareFilmm",
-    "internalName": "RareFilmm",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 The Cave of Forgotten Films",
-    "fileSize": 35376,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "en",
+    "authors": [
+      "keyiflerolsun"
+    ],
     "tvTypes": [
       "Movie"
     ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://rarefilmm.com&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-23ec3a3a6ab5751a1d1bccd9af8544e97db5c544b1fa752db87b0b04f8b8838a",
+    "version": 1,
+    "internalName": "RareFilmm",
+    "description": "🔴 ramazansancar 18.08.2026 The Cave of Forgotten Films",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/RareFilmm.cs3",
+    "name": "RareFilmm",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/RareFilmm.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/RecTV.cs3",
+    "iconUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frectv.org.tr%2Fwp-content%2Fuploads%2F2024%2F11%2Frectv-modified.webp&f=1&nofb=1&ipt=243a15ba76473d64233d0a6be6c338aa6a15f4ced36db7b11c9a4f924b036e9d",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
     "status": 1,
-    "version": 43,
-    "name": "RecTV",
-    "internalName": "RecTV",
-    "authors": [
-      "Eagle"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 RecTV,Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
-    "fileSize": 71232,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
+    "authors": [
+      "keyiflerolsun",
+      "yusiqo",
+      "JustRelaxable"
+    ],
     "tvTypes": [
       "Movie",
       "Live",
       "TvSeries"
     ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rectvapk.cc&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-b912d3254b9b8f3e22c39ca3b15948520be9c4c9c953a6c314d787eb26c06101",
+    "version": 1,
+    "internalName": "RecTV",
+    "description": "🔴 Sertel392 18.08.2026 RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/RecTV.cs3",
+    "name": "RecTV",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/RecTV.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SetFilmIzle.cs3",
-    "status": 1,
-    "version": 42,
-    "name": "SetFilmIzle",
-    "internalName": "SetFilmIzle",
-    "authors": [
-      "kraptor",
-      "kerimmkirac",
-      "ByAyzen"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
-    "fileSize": 69963,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.setfilmizle.uk/&size=128",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.de&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-0924b29d367baf9bce40363b48d209614ef5c64368d82ce9370d2b59a3376437",
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 21659,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "keyiflerolsun"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 11,
+    "internalName": "SetFilmIzle",
+    "description": "🔴 ramazansancar 18.08.2026 Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SetFilmIzle.cs3",
+    "name": "SetFilmIzle",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SetFilmIzle.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SezonlukDizi.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 22155,
     "status": 1,
-    "version": 40,
-    "name": "SezonlukDizi",
-    "internalName": "SezonlukDizi",
-    "authors": [
-      "kraptor",
-      "kerimmkirac"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
-    "fileSize": 103378,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
+    "authors": [
+      "keyiflerolsun",
+      "JustRelaxable"
+    ],
     "tvTypes": [
       "TvSeries"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sezonlukdizi6.com",
-    "apiVersion": 1,
-    "fileHash": "sha256-2b29896fd95003779fc9bf3216aa89bd7029eefad01c4ac4fc6006d7b1f98dd1",
+    "version": 6,
+    "internalName": "SezonlukDizi",
+    "description": "🔴 ramazansancar 18.08.2026 Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SezonlukDizi.cs3",
+    "name": "SezonlukDizi",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SezonlukDizi.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SinemaCX.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 14671,
     "status": 1,
-    "version": 35,
-    "name": "SinemaCX",
-    "internalName": "SinemaCX",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
-    "fileSize": 27438,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
+    "authors": [
+      "keyiflerolsun"
+    ],
     "tvTypes": [
       "Movie"
     ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.sinema.gg/&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-c59a3a99f4fe10638bb0ebebbb3a71902fd93289048826c2e55ff08982d7186f",
+    "version": 10,
+    "internalName": "SinemaCX",
+    "description": "🔴 ramazansancar 18.08.2026 Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SinemaCX.cs3",
+    "name": "SinemaCX",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SinemaCX.cs3"
   },
   {
@@ -688,26 +652,23 @@
     "fileHash": "sha256-6d01026fa4978b7642d336924eeb5e1a788e8bd4047be1d3a4d5ae7426764600"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/TurkAnime.cs3",
-    "status": 1,
-    "version": 34,
-    "name": "TurkAnime",
-    "internalName": "TurkAnime",
-    "authors": [
-      "kraptor",
-      "ByAyzen"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
-    "fileSize": 71561,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "language": "tr",
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie"
-    ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.turkanime.co&size=64",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.co&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-803ec847f9c03ae85ee7f1c5587c943a790bf97113f0e37de4ebae7f65d736c9",
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 16384,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "keyiflerolsun"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "version": 2,
+    "internalName": "TurkAnime",
+    "description": "🔴 ramazansancar 18.08.2026 Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/TurkAnime.cs3",
+    "name": "TurkAnime",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/TurkAnime.cs3"
   },
   {
@@ -750,25 +711,23 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Watch2Movies.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/WebteIzle.cs3",
-    "status": 0,
-    "version": 53,
-    "name": "WebteIzle",
-    "internalName": "WebteIzle",
-    "authors": [
-      "kraptor",
-      "ByAyzen"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
-    "fileSize": 67576,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle2.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 22423,
+    "status": 1,
     "language": "tr",
+    "authors": [
+      "keyiflerolsun"
+    ],
     "tvTypes": [
       "Movie"
     ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webteizle1.xyz&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-00baa649d28dd4ececb8fbe1f7490ba01a68ef473ab478eff8b8620daa486333",
+    "version": 24,
+    "internalName": "WebteIzle",
+    "description": "🔴 ramazansancar 18.08.2026 Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/WebteIzle.cs3",
+    "name": "WebteIzle",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/WebteIzle.cs3"
   },
   {
@@ -792,24 +751,22 @@
     "fileHash": "sha256-67e1c3be1e544fae485397f19b9a2e24aa115aeefe77dacf04e5c5582c3475a6"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AsyaAnimeleri.cs3",
+    "iconUrl": "https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
     "status": 1,
-    "version": 24,
-    "name": "AsyaAnimeleri",
-    "internalName": "AsyaAnimeleri",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 Asya Animeleri – Anime izle | Donghua izle | Animeler | Donghuantr | Türkanime | Donghua Anime, Türkçe Altyazılı Anime izle , Türkçe Anime, animeizle.",
-    "fileSize": 33744,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
+    "authors": [
+      "Makoto Tokioki"
+    ],
     "tvTypes": [
       "Anime"
     ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaanimeleri.top/&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-8c8413367c14e21b8b2efa33ba2df4e4b9ef57b447a753f8fc930c1053153a7e",
+    "version": 2,
+    "internalName": "AsyaAnimeleri",
+    "description": "🔴 Sertel392 18.08.2026 AsyaAnimeleri.top",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AsyaAnimeleri.cs3",
+    "name": "AsyaAnimeleri",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AsyaAnimeleri.cs3"
   },
   {
@@ -835,29 +792,24 @@
     "fileHash": "sha256-995086944c934b24640cf1e8087f72dcea37981bf7b0a83527f0148a32458f5e"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SineWix.cs3",
-    "status": 1,
-    "version": 33,
-    "name": "SineWix",
-    "internalName": "SineWix",
-    "authors": [
-      "kraptor",
-      "ByAyzen"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
-    "fileSize": 77299,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+    "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+    "status": 3,
     "language": "tr",
+    "authors": [
+      "Makoto Tokioki"
+    ],
     "tvTypes": [
       "Movie",
       "TvSeries",
-      "Anime",
-      "AsianDrama",
-      "Cartoon"
+      "Anime"
     ],
-    "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
-    "apiVersion": 1,
-    "fileHash": "sha256-8155d0c87480fd1c28da228acea89a6c79c13a546a8df49cf5063a54f7922772",
+    "version": 16,
+    "internalName": "SineWix",
+    "description": "🔴 Sertel392 18.08.2026 Sinewix | Ücretsiz Film - Dizi - Anime İzleme Uygulaması.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SineWix.cs3",
+    "name": "SineWix",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SineWix.cs3"
   },
   {
@@ -917,24 +869,24 @@
     "name": "4KFilmIzlesene"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AsyaWatch.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
     "status": 1,
-    "version": 41,
-    "name": "AsyaWatch",
-    "internalName": "AsyaWatch",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 Kore, Çin ve Japon dizilerini tek tıkla HD ve Türkçe altyazılı izle. En güncel Asya dizileri, unutulmaz Asya filmleri ve web dramalar seni bekliyor.",
-    "fileSize": 72067,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
+    "authors": [
+      "Makoto Tokioki"
+    ],
     "tvTypes": [
+      "Movie",
+      "TvSeries",
       "AsianDrama"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=asyawatch.com",
-    "apiVersion": 1,
-    "fileHash": "sha256-75f4ef6430827a2ee5e28041afbd2fde295ede04c5f862cae219a7a4035a8dc7",
+    "version": 1,
+    "internalName": "AsyaWatch",
+    "description": "🔴 Sertel392 18.08.2026 AsyaWatch.com",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AsyaWatch.cs3",
+    "name": "AsyaWatch",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AsyaWatch.cs3"
   },
   {
@@ -1075,25 +1027,25 @@
     "name": "GolgeTV"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/HDFilmizle.cs3",
-    "status": 1,
-    "version": 25,
-    "name": "HDFilmizle",
-    "internalName": "HDFilmizle",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 En yeni ve popüler filmleri 1080p kalitesinde Türkçe dublaj altyazılı izle. Aksiyon, macera, komedi, dram ve daha fazlası film izle sayfamızda.",
-    "fileSize": 61436,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hdfilmizle.life/rally-caps/&size=128",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-72ce2862c4b8042753d3445f4063b7a9ee06d5b9e40768108579c4de34d8ccb3",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/HDFilmizle.cs3"
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 27428,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "nikyokki"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 2,
+    "internalName": "HDFilmIzle",
+    "description": "🔴 ramazansancar 18.08.2026 HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabancı filmlerle Türkçe dublaj veya Altyazı olarak kesintisiz film izlemenin tadını çıkarın.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/HDFilmIzle.cs3",
+    "name": "HDFilmIzle",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/HDFilmIzle.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmsitesi.net&sz=%size%",
@@ -1214,24 +1166,23 @@
     "name": "TurkSCanliTV"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/TvDiziler.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tvdiziler.cc&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 26655,
     "status": 1,
-    "version": 18,
-    "name": "TvDiziler",
-    "internalName": "TvDiziler",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 Tv Diziler Ücretsiz yerli dizi izleme sitesi en popüler dizileri tek parça hd kalitesiyle ve reklamsız bedava olarak buradan tv dizileri izleyin.",
-    "fileSize": 36773,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
+    "authors": [
+      "nikyokki"
+    ],
     "tvTypes": [
       "TvSeries"
     ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tvdiziler.cc&size=16",
-    "apiVersion": 1,
-    "fileHash": "sha256-f844e8b349462cb5407a6f219fb1894bb7582853adaf49ddfe8267e98139de0d",
+    "version": 1,
+    "internalName": "TvDiziler",
+    "description": "🔴 ramazansancar 18.08.2026 Ücretsiz yerli dizi izleme sitesi en popüler dizileri tek parça hd kalitesiyle ve reklamsız bedava olarak buradan tv dizileri izleyin.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/TvDiziler.cs3",
+    "name": "TvDiziler",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/TvDiziler.cs3"
   },
   {
@@ -1295,73 +1246,67 @@
     "name": "WFilmİzle"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YabanciDizi.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.tv&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 42426,
     "status": 1,
-    "version": 18,
-    "name": "YabanciDizi",
-    "internalName": "YabanciDizi",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
-    "fileSize": 41044,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
     "language": "tr",
+    "authors": [
+      "nikyokki"
+    ],
     "tvTypes": [
       "TvSeries"
     ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yabancidizi.so/&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-e45d6136e1124ec6af22fdf28a5dbce413d6cab9a3395a9885987c3fdcf34596",
+    "version": 3,
+    "internalName": "YabanciDizi",
+    "description": "🔴 ramazansancar 18.08.2026 Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YabanciDizi.cs3",
+    "name": "YabanciDizi",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YabanciDizi.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Youtube.cs3",
-    "status": 1,
-    "version": 39,
-    "name": "Youtube",
-    "internalName": "Youtube",
-    "authors": [
-      "Eagle",
-      "ByAyzen",
-      "kraptor"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 Youtube",
-    "fileSize": 109126,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "Live",
-      "Music",
-      "TvSeries"
-    ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-31d16f3cac9ca336a7eb9cdb8016056076e2cf9a4add728006f8a19dca7348dc",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Youtube.cs3"
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 14115,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "Cloudburst",
+      "keyiflerolsun"
+    ],
+    "tvTypes": [
+      "Others"
+    ],
+    "version": 6,
+    "internalName": "YouTube",
+    "description": "🔴 ramazansancar 18.08.2026 YouTube, izlediğiniz videolarla önerilerini iyileştirir. İlginizi çekebilecek içeriklerle dolu bir akış oluşturmak için video izlemeye başlayın.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YouTube.cs3",
+    "name": "YouTube",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YouTube.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YTS.cs3",
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/main/yts.png",
+    "jarFileSize": 75905,
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
+    "fileSize": 15868,
     "status": 1,
-    "version": 42,
-    "name": "YTS",
-    "internalName": "YTS",
+    "language": "en",
     "authors": [
-      "kraptor",
-      "Phisher98",
-      "ByAyzen"
+      "Phisher98"
     ],
-    "description": "🔴 Kraptor123 18.08.2026 YTS Filmleri 4K Desteği Otomatik altyazı ve film açıklaması (Torrent)",
-    "fileSize": 92937,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "language": "tr",
     "tvTypes": [
+      "Movie",
       "Torrent"
     ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-3c2ca3d9f30ad017cfc56e044bf38980ddf98b4426be77e1c6ce1cb3487706b2",
+    "version": 5,
+    "internalName": "YTS",
+    "jarUrl": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/YTS.jar",
+    "description": "🔴 ramazansancar 18.08.2026 YTS Movies 4K Support (Torrent)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YTS.cs3",
+    "name": "YTS",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YTS.cs3"
   },
   {
@@ -1384,48 +1329,44 @@
     "name": "YerelDiziler"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CizgiveDizi.cs3",
-    "status": 1,
-    "version": 50,
-    "name": "CizgiveDizi",
-    "internalName": "CizgiveDizi",
-    "authors": [
-      "kraptor",
-      "ByAyzen"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
-    "fileSize": 43325,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "language": "tr",
-    "tvTypes": [
-      "Cartoon"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgivedizi.com",
+    "iconUrl": "https://cizgivedizi.com/Logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-55a7c1ed00e6306037dda5c0bcb1b05a4acab5ce746a00bd17b79133ab27dae7",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CizgiveDizi.cs3"
+    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "tvTypes": [
+      "Cartoon, TvSeries"
+    ],
+    "version": 3,
+    "internalName": "CizgiVeDizi",
+    "description": "🔴 Sertel392 18.08.2026 Popüler çizgi film ve dizilerin Türkçe güncel kaynağı.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CizgiVeDizi.cs3",
+    "name": "CizgiVeDizi",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CizgiVeDizi.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/WebDramaTurkey.cs3",
-    "status": 1,
-    "version": 39,
-    "name": "WebDramaTurkey",
-    "internalName": "WebDramaTurkey",
-    "authors": [
-      "kraptor",
-      "kerimmkirac",
-      "ByAyzen"
-    ],
-    "description": "🔴 Kraptor123 18.08.2026 Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler",
-    "fileSize": 55096,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "language": "tr",
-    "tvTypes": [
-      "AsianDrama"
-    ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40",
+    "iconUrl": "https://webdramaturkey.org/public/static/logo.webp?v=1.0.19",
     "apiVersion": 1,
-    "fileHash": "sha256-521be83f28cd701dbb8f2afa19056a9b80858ca53134fbb807be43423fa9b5c5",
+    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "tvTypes": [
+      "AsianDrama",
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "version": 2,
+    "internalName": "WebDramaTurkey",
+    "description": "🔴 Sertel392 18.08.2026 Asya içeriklerinin tek adresi.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/WebDramaTurkey.cs3",
+    "name": "WebDramaTurkey",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/WebDramaTurkey.cs3"
   },
   {
