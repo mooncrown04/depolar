@@ -56,7 +56,7 @@ jobs:
 
           // BURAYA SADECE İSTEDİKLERİNİZİ EKLEYİN (Boş kalırsa hepsini alır)
           const allowedPlugins = [
-            // { owner: "SaurabhKaperwan", name: "Bollyflix" }
+             { owner: "SaurabhKaperwan", name: "Bollyflix" }
           ];
 
           const PLUGIN_DIR = 'plugins';
