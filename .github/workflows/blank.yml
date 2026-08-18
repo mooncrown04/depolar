@@ -50,7 +50,8 @@ jobs:
           ];
 
           const specificBlacklist = [
-            { owner: "ramazansancar", name: "powerdizi" },
+            { owner: "ramazansancar", name: "GolgeTV" },
+             { owner: "ramazansancar", name: "powerdizi" },
             { owner: "ramazansancar", name: "powersinema" }
           ];
 
