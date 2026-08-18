@@ -45,7 +45,7 @@ jobs:
             'https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/plugins.json',
             'https://raw.githubusercontent.com/Sertel392/Makotogecici/main/plugins.json',
             'https://raw.githubusercontent.com/GitLatte/Sinetech/builds/plugins.json',
-            'https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/plugins.json',
+          //  'https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/plugins.json',
             'https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/plugins.json'
           ];
 
