@@ -1,32 +1,4 @@
-name: Eklenti ve README Yoneticisi
-
-on:
-  schedule:
-    - cron: '30 20 * * *'
-  workflow_dispatch:
-
-jobs:
-  build-and-update:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Depoyu Klonla
-        uses: actions/checkout@v4
-
-      - name: Node.js Kurulumu
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-      
-      - name: Python Kurulumu
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-
-      - name: Bağımlılıkları Kur
-        run: npm install node-fetch@2
-
-      # --- 1. ADIM: .CS3 DOSYALARini İNDİR VE PLUGINS.JSON GÜNCELLE (NODE.JS) ---
-      - name: Pluginleri Indir ve JSON Guncelle
+- name: Pluginleri Indir ve JSON Guncelle
         run: |
           node - <<'NODE'
           const fetch = require('node-fetch');
@@ -40,12 +12,12 @@ jobs:
             'https://raw.githubusercontent.com/caca1403/cloudstream-cagi-eklenti/refs/heads/main/plugins.json',
             'https://raw.githubusercontent.com/marrem/cs-Kekik/builds/plugins.json',
             'https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/plugins.json',
-           // 'https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/plugins.json',
+            // 'https://raw.githubusercontent.com/Kraptor123/cs-kekikanime/builds/plugins.json', -> Sildiğiniz kaynak
             'https://raw.githubusercontent.com/sarapcanagii/Pitipitii/builds/plugins.json',
             'https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/plugins.json',
             'https://raw.githubusercontent.com/Sertel392/Makotogecici/main/plugins.json',
             'https://raw.githubusercontent.com/GitLatte/Sinetech/builds/plugins.json',
-          //  'https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/plugins.json',
+            // 'https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/plugins.json', -> Sildiğiniz kaynak
             'https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/plugins.json'
           ];
 
@@ -77,6 +49,7 @@ jobs:
             const mergedMap = new Map();
             const today = new Date().toLocaleDateString('tr-TR');
 
+            // 1. ÖNCE MEVCUT PLUGINS.JSON DOSYASINI OKU VE HAFIZAYA AL (SİLİNMESİNİ ÖNLER)
             if (fs.existsSync('plugins.json')) {
               try {
                 const oldContent = JSON.parse(fs.readFileSync('plugins.json', 'utf8'));
@@ -89,11 +62,13 @@ jobs:
                   );
                   if (isOldBlocked) continue;
 
+                  // Eski kayıtları anahtarlarıyla birlikte haritaya atıyoruz
                   mergedMap.set(getStandardKey(p), p);
                 }
-              } catch (e) { console.log("Eski dosya okunamadı."); }
+              } catch (e) { console.log("Eski dosya okunamadı veya boş."); }
             }
 
+            // 2. AKTİF URL'LERİ TARA VE GÜNCELLEMELERİ İŞLE
             for (const url of urls) {
               try {
                 const res = await fetch(url);
@@ -106,7 +81,7 @@ jobs:
                   
                   const pluginUrl = remote.url || remote.downloadUrl || "";
                   if (!pluginUrl || !pluginUrl.endsWith('.cs3')) {
-                    continue; // Sadece .cs3 uzantılılar işleme alınır
+                    continue;
                   }
 
                   const pluginName = (remote.name || "").toLowerCase().trim();
@@ -122,13 +97,13 @@ jobs:
                   const existing = mergedMap.get(key);
                   if (!remote.language && !remote.lang) remote.language = "tr";
 
-                  // .cs3 dosyasını yerel depoya indir
                   const fileName = path.basename(pluginUrl);
                   const localFilePath = path.join(PLUGIN_DIR, fileName);
                   
                   let shouldDownload = true;
-                  if (existing && existing.version === remote.version && fs.existsSync(localFilePath)) {
-                    shouldDownload = false; // Sürüm değişmediyse ve dosya zaten varsa tekrar indirme
+                  // Eğer versiyon değişmediyse ve yerelde dosya zaten varsa tekrar indirme
+                  if (existing && normalizeVersion(existing.version) === normalizeVersion(remote.version) && fs.existsSync(localFilePath)) {
+                    shouldDownload = false;
                   }
 
                   if (shouldDownload) {
@@ -141,15 +116,14 @@ jobs:
                     } catch (err) {
                       console.error(`${fileName} indirilemedi: ${err.message}`);
                       if (fs.existsSync(localFilePath)) {
-                        // İndirme başarısız olursa ama eskiden varsa eski dosyayı koru
                         shouldDownload = false;
                       }
                     }
                   }
 
-                  // plugins.json içindeki URL'yi kendi raw GitHub bağlantınıza yönlendir
-                  const githubRepoUser = "mooncrown04"; // Kendi kullanıcı adınız
-                  const githubRepoName = "depolar";    // Kendi deponuzun adı
+                  // URL'leri kendi deponuza yönlendir
+                  const githubRepoUser = "mooncrown04";
+                  const githubRepoName = "depolar";
                   remote.url = `https://raw.githubusercontent.com/${githubRepoUser}/${githubRepoName}/main/plugins/${fileName}`;
                   remote.downloadUrl = remote.url;
 
@@ -165,6 +139,7 @@ jobs:
                       remote.description = `🔴 ${repoOwner} ${today} ${cleanDesc}`;
                       mergedMap.set(key, remote);
                     } else {
+                      // Versiyon aynıysa, eskiden kalan veriyi (veya açıklama/sahip bilgisini) koru
                       mergedMap.set(key, existing);
                     }
                   }
@@ -172,87 +147,7 @@ jobs:
               } catch (e) { console.error(`${url} hatası: ${e.message}`); }
             }
 
+            // Son hali diske yaz
             fs.writeFileSync('plugins.json', JSON.stringify(Array.from(mergedMap.values()), null, 2));
           })();
           NODE
-
-      # --- 2. ADIM: README TABLO OLUŞTURUCU (PYTHON) ---
-      - name: README.md Guncelle
-        shell: python
-        run: |
-          import json, re
-          from datetime import datetime, timedelta, timezone
-          from pathlib import Path
-
-          OWNER = "MoOnCrOwN"
-          OWNER_AVATAR = "https://st5.depositphotos.com/1041725/67731/v/380/depositphotos_677319750-stock-illustration-ararat-mountain-illustration-vector-white.jpg"
-          OWNER_PROFILE = "https://github.com/mooncrown04"
-          
-          FLAGS = {
-              "tr": "https://flagcdn.com/w20/tr.png",
-              "en": "https://flagcdn.com/w20/gb.png",
-              "de": "https://flagcdn.com/w20/de.png",
-              "us": "https://flagcdn.com/w20/us.png",
-              "hi": "https://flagcdn.com/w20/in.png"
-          }
-          
-          now = datetime.now(timezone(timedelta(hours=3)))
-          full_date = now.strftime("%d.%m.%Y %H:%M")
-
-          if not Path("plugins.json").exists(): exit(0)
-          with open("plugins.json", encoding="utf-8") as f:
-              plugins = json.load(f)
-
-          rows = []
-          for p in sorted(plugins, key=lambda x: x.get('name','').lower()):
-              name = p.get('name','Unknown')
-              desc = p.get('description', '')
-              
-              date_match = re.search(r'\d{2}\.\d{2}\.\d{4}', desc)
-              date_str = date_match.group(0) if date_match else "—"
-              
-              marker = "⚪"
-              if date_match:
-                  try:
-                      item_date = datetime.strptime(date_str, "%d.%m.%Y").replace(tzinfo=now.tzinfo)
-                      if (now - item_date).days <= 60:
-                          if "🔴" in desc:
-                              marker = "🔴"
-                          elif "🆕" in desc:
-                              marker = "🆕"
-                  except Exception:
-                      pass
-              
-              lang_val = str(p.get("language") or p.get("lang") or "tr").lower().split('-')[0]
-              flag_url = FLAGS.get(lang_val, "https://flagcdn.com/w20/un.png")
-              country_tag = f'<img src="{flag_url}" width="20" alt="{lang_val}">'
-              
-              icon = p.get("iconUrl") or p.get("icon") or ""
-              img_tag = f'<img src="{icon}" width="30" style="border-radius:4px;">' if icon and "%size%" not in icon else "—"
-              
-              owner_match = re.search(r'(?:🆕 |🔴 )(.*?) \d', desc)
-              repo_name = owner_match.group(1) if owner_match else "Bilinmiyor"
-
-              rows.append(f"| {img_tag} | **{name}** | {date_str} | {marker} | `{repo_name}` | {country_tag} |")
-
-          header = (
-              f"### Son Güncelleme: {full_date}\n\n"
-              f"### Toplam Eklenti: `{len(plugins)}` \n\n"
-              f"---\n### Depo Sahibi:\n"
-              f"[<img src='{OWNER_AVATAR}' width='48' style='border-radius:50%;'>]({OWNER_PROFILE})  \n"
-              f"**[{OWNER}]({OWNER_PROFILE})**\n\n"
-              f"---\n## 📦 Eklenti Listesi\n\n"
-              f"| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |\n"
-              f"|:----:|:------------|:------|:------|:-------|:----:|\n"
-          )
-          Path("README.md").write_text(header + "\n".join(rows), encoding="utf-8")
-
-      # --- 3. ADIM: DEĞİŞİKLİKLERİ VE DOSYALARI KAYDET ---
-      - name: Commit and Push
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
-          git add plugins.json README.md plugins/
-          git diff --staged --quiet || (git commit -m "Update: Download .cs3 files locally and update plugins.json" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
