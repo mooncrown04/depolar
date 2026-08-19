@@ -1,6 +1,7 @@
-### Son Güncelleme: 19.08.2026 18:38
+### Son Güncelleme: 19.08.2026 18:57
 
-### Toplam Eklenti: `141` 
+### Toplam Eklenti: `141`
+### 🆕 Yeni Eklentiler: `5` | 🔴 Güncellenenler: `81`
 
 ---
 ### Depo Sahibi:
