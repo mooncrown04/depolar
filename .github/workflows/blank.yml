@@ -214,6 +214,7 @@ jobs:
           FLAGS = {"tr": "https://flagcdn.com/w20/tr.png", "en": "https://flagcdn.com/w20/gb.png", "de": "https://flagcdn.com/w20/de.png", "us": "https://flagcdn.com/w20/us.png", "hi": "https://flagcdn.com/w20/in.png"}
           
           now = datetime.now(timezone(timedelta(hours=3)))
+          today_str = now.strftime("%d.%m.%Y")
           full_date = now.strftime("%d.%m.%Y %H:%M")
 
           if not Path("plugins.json").exists(): exit(0)
@@ -221,6 +222,8 @@ jobs:
               plugins = json.load(f)
 
           rows = []
+          today_news = []
+          today_updates = []
           new_count = 0
           updated_count = 0
 
@@ -230,9 +233,18 @@ jobs:
               date_match = re.search(r'\d{2}\.\d{2}\.\d{4}', desc)
               date_str = date_match.group(0) if date_match else "—"
               marker = "⚪"
+              
               if date_match:
                   try:
                       item_date = datetime.strptime(date_str, "%d.%m.%Y").replace(tzinfo=now.tzinfo)
+                      
+                      # Bugün yapılan ekleme/güncellemeleri ayrıca topla
+                      if date_str == today_str:
+                          if "🆕" in desc:
+                              today_news.append(name)
+                          elif "🔴" in desc:
+                              today_updates.append(name)
+
                       if (now - item_date).days <= 60:
                           if "🔴" in desc: 
                               marker = "🔴"
@@ -251,11 +263,30 @@ jobs:
               repo_name = owner_match.group(1) if owner_match else "Bilinmiyor"
               rows.append(f"| {img_tag} | **{name}** | {date_str} | {marker} | `{repo_name}` | {country_tag} |")
 
+          # Bugünkü hareketler için özet blok oluşturma
+          daily_summary = ""
+          if today_news or today_updates:
+              news_str = ", ".join([f"`{x}`" for x in today_news]) if today_news else "Yok"
+              updates_str = ", ".join([f"`{x}`" for x in today_updates]) if today_updates else "Yok"
+              daily_summary = (
+                  f"> 🚀 **Bugünkü Güncelleme Özeti ({today_str})**\n>\n"
+                  f"> * 🆕 **Yeni Eklenenler:** {news_str}\n"
+                  f"> * 🔴 **Güncellenenler:** {updates_str}\n\n"
+                  f"---\n"
+              )
+          else:
+              daily_summary = (
+                  f"> 📌 **Bugünkü Güncelleme Özeti ({today_str})**: Bugün yeni eklenen veya güncellenen eklenti bulunmuyor.\n\n"
+                  f"---\n"
+              )
+
           header = (
               f"### Son Güncelleme: {full_date}\n\n"
               f"### Toplam Eklenti: `{len(plugins)}`\n"
               f"### 🆕 Yeni Eklentiler: `{new_count}` | 🔴 Güncellenenler: `{updated_count}`\n\n"
-              f"---\n### Depo Sahibi:\n"
+              f"---\n"
+              f"{daily_summary}"
+              f"### Depo Sahibi:\n"
               f"[<img src='{OWNER_AVATAR}' width='48' style='border-radius:50%;'>]({OWNER_PROFILE})  \n"
               f"**[{OWNER}]({OWNER_PROFILE})**\n\n"
               f"---\n## 📦 Eklenti Listesi\n\n"
