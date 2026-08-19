@@ -25,7 +25,7 @@ jobs:
       - name: Bağımlılıkları Kur
         run: npm install node-fetch@2
 
-      # --- 1. ADIM: .CS3 DOSYALARini İNDİR VE PLUGINS.JSON GÜNCELLE (NODE.JS) ---
+      # --- 1. ADIM: .CS3 DOSYALARINI İNDİR VE PLUGINS.JSON GÜNCELLE (NODE.JS) ---
       - name: Pluginleri Indir ve JSON Guncelle
         run: |
           node - <<'NODE'
@@ -55,7 +55,6 @@ jobs:
             { owner: "ramazansancar", name: "powersinema" }
           ];
 
-          // BURAYA SADECE İSTEDİKLERİNİZİ EKLEYİN (Boş kalırsa hepsini alır)
           const allowedPlugins = [
              { owner: "SaurabhKaperwan", name: "Bollyflix" }
           ];
@@ -115,14 +114,12 @@ jobs:
                   const pluginName = (remote.name || "").toLowerCase().trim();
                   const pluginInternal = (remote.internalName || "").toLowerCase().trim();
                   
-                  // Kara Liste Kontrolü
                   const isBlocked = specificBlacklist.some(b => 
                     b.owner.toLowerCase() === repoOwner.toLowerCase() && 
                     (b.name.toLowerCase() === pluginName || b.name.toLowerCase() === pluginInternal)
                   );
                   if (isBlocked) continue;
 
-                  // Beyaz Liste Kontrolü
                   if (allowedPlugins.length > 0) {
                     const isAllowed = allowedPlugins.some(a => 
                       a.owner.toLowerCase() === repoOwner.toLowerCase() && 
@@ -203,6 +200,9 @@ jobs:
               plugins = json.load(f)
 
           rows = []
+          new_count = 0
+          updated_count = 0
+
           for p in sorted(plugins, key=lambda x: x.get('name','').lower()):
               name = p.get('name','Unknown')
               desc = p.get('description', '')
@@ -213,8 +213,12 @@ jobs:
                   try:
                       item_date = datetime.strptime(date_str, "%d.%m.%Y").replace(tzinfo=now.tzinfo)
                       if (now - item_date).days <= 60:
-                          if "🔴" in desc: marker = "🔴"
-                          elif "🆕" in desc: marker = "🆕"
+                          if "🔴" in desc: 
+                              marker = "🔴"
+                              updated_count += 1
+                          elif "🆕" in desc: 
+                              marker = "🆕"
+                              new_count += 1
                   except: pass
               
               lang_val = str(p.get("language") or p.get("lang") or "tr").lower().split('-')[0]
@@ -226,7 +230,17 @@ jobs:
               repo_name = owner_match.group(1) if owner_match else "Bilinmiyor"
               rows.append(f"| {img_tag} | **{name}** | {date_str} | {marker} | `{repo_name}` | {country_tag} |")
 
-          header = (f"### Son Güncelleme: {full_date}\n\n### Toplam Eklenti: `{len(plugins)}` \n\n---\n### Depo Sahibi:\n[<img src='{OWNER_AVATAR}' width='48' style='border-radius:50%;'>]({OWNER_PROFILE})  \n**[{OWNER}]({OWNER_PROFILE})**\n\n---\n## 📦 Eklenti Listesi\n\n| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |\n|:----:|:------------|:------|:------|:-------|:----:|\n")
+          header = (
+              f"### Son Güncelleme: {full_date}\n\n"
+              f"### Toplam Eklenti: `{len(plugins)}`\n"
+              f"### 🆕 Yeni Eklentiler: `{new_count}` | 🔴 Güncellenenler: `{updated_count}`\n\n"
+              f"---\n### Depo Sahibi:\n"
+              f"[<img src='{OWNER_AVATAR}' width='48' style='border-radius:50%;'>]({OWNER_PROFILE})  \n"
+              f"**[{OWNER}]({OWNER_PROFILE})**\n\n"
+              f"---\n## 📦 Eklenti Listesi\n\n"
+              f"| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |\n"
+              f"|:----:|:------------|:------|:------|:-------|:----:|\n"
+          )
           Path("README.md").write_text(header + "\n".join(rows), encoding="utf-8")
 
       - name: Commit and Push
@@ -236,4 +250,4 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add plugins.json README.md plugins/
-          git diff --staged --quiet || (git commit -m "Update: Download .cs3 files locally and update plugins.json" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
+          git diff --staged --quiet || (git commit -m "Auto-update: plugins and README [skip ci]" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
