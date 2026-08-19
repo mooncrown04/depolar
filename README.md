@@ -1,13 +1,14 @@
-### Son Güncelleme: 19.08.2026 19:34
+### Son Güncelleme: 19.08.2026 19:43
 
 ### Toplam Eklenti: `145`
-### 🆕 Yeni Eklentiler: `9` | 🔴 Güncellenenler: `84`
 
----
 > 🚀 **Bugünkü Güncelleme Özeti (19.08.2026)**
 >
-> * 🆕 **Yeni Eklenenler:** `Cloud-Sync`, `plt-party`, `Test`, `WebdramaTurkey2`
-> * 🔴 **Güncellenenler:** `AnimeciX`, `AsyaAnimeleri`, `AsyaWatch`, `BelgeselX`, `CanliTv`, `CizgiMax`, `Ddizi`, `DiziBox`, `DiziKorea`, `Dizilla`, `DiziMom`, `DiziPal`, `DiziPalOriginal`, `DiziYou`, `FilmBip`, `FilmMakinesi`, `FilmModu`, `FullHDFilm`, `FullHDFilmizlesene`, `HDFilmCehennemi`, `InatBox`, `JetFilmizle`, `KoreanTurk`, `KultFilmler`, `NetflixMirror`, `plt-stream`, `RareFilmm`, `RecTV`, `SetFilmIzle`, `SezonlukDizi`, `SinemaCX`, `SineWix`, `SuperFilmGeldi`, `TLCTR`, `TRasyalog`, `TurkAnime`, `UgurFilm`, `Watch2Movies`, `WebteIzle`
+> * 🆕 **Yeni Eklenenler:** `Cloud-Sync` (*pltmustafa*), `plt-party` (*pltmustafa*), `Test` (*ctnkyaumt*), `WebdramaTurkey2` (*patr0nq*)
+> * 🔴 **Güncellenenler:** `AnimeciX` (*ramazansancar*), `AsyaAnimeleri` (*Sertel392*), `AsyaWatch` (*Sertel392*), `BelgeselX` (*Sertel392*), `CanliTv` (*Sertel392*), `CizgiMax` (*ramazansancar*), `Ddizi` (*ramazansancar*), `DiziBox` (*Sertel392*), `DiziKorea` (*ramazansancar*), `Dizilla` (*ramazansancar*), `DiziMom` (*ramazansancar*), `DiziPal` (*ramazansancar*), `DiziPalOriginal` (*feroxx*), `DiziYou` (*ramazansancar*), `FilmBip` (*patr0nq*), `FilmMakinesi` (*ramazansancar*), `FilmModu` (*ramazansancar*), `FullHDFilm` (*ramazansancar*), `FullHDFilmizlesene` (*ramazansancar*), `HDFilmCehennemi` (*ramazansancar*), `InatBox` (*Sertel392*), `JetFilmizle` (*Sertel392*), `KoreanTurk` (*ramazansancar*), `KultFilmler` (*ramazansancar*), `NetflixMirror` (*ramazansancar*), `plt-stream` (*pltmustafa*), `RareFilmm` (*ramazansancar*), `RecTV` (*Sertel392*), `SetFilmIzle` (*ramazansancar*), `SezonlukDizi` (*ramazansancar*), `SinemaCX` (*ramazansancar*), `SineWix` (*Sertel392*), `SuperFilmGeldi` (*ramazansancar*), `TLCTR` (*ramazansancar*), `TRasyalog` (*feroxx*), `TurkAnime` (*ramazansancar*), `UgurFilm` (*ramazansancar*), `Watch2Movies` (*ramazansancar*), `WebteIzle` (*ramazansancar*)
+
+### 📊 Son 60 Günlük Durum Özeti
+### 🆕 Yeni Eklentiler: `9` | 🔴 Güncellenenler: `84`
 
 ---
 ### Depo Sahibi:
