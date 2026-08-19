@@ -1,7 +1,13 @@
-### Son Güncelleme: 19.08.2026 19:23
+### Son Güncelleme: 19.08.2026 19:34
 
 ### Toplam Eklenti: `145`
 ### 🆕 Yeni Eklentiler: `9` | 🔴 Güncellenenler: `84`
+
+---
+> 🚀 **Bugünkü Güncelleme Özeti (19.08.2026)**
+>
+> * 🆕 **Yeni Eklenenler:** `Cloud-Sync`, `plt-party`, `Test`, `WebdramaTurkey2`
+> * 🔴 **Güncellenenler:** `AnimeciX`, `AsyaAnimeleri`, `AsyaWatch`, `BelgeselX`, `CanliTv`, `CizgiMax`, `Ddizi`, `DiziBox`, `DiziKorea`, `Dizilla`, `DiziMom`, `DiziPal`, `DiziPalOriginal`, `DiziYou`, `FilmBip`, `FilmMakinesi`, `FilmModu`, `FullHDFilm`, `FullHDFilmizlesene`, `HDFilmCehennemi`, `InatBox`, `JetFilmizle`, `KoreanTurk`, `KultFilmler`, `NetflixMirror`, `plt-stream`, `RareFilmm`, `RecTV`, `SetFilmIzle`, `SezonlukDizi`, `SinemaCX`, `SineWix`, `SuperFilmGeldi`, `TLCTR`, `TRasyalog`, `TurkAnime`, `UgurFilm`, `Watch2Movies`, `WebteIzle`
 
 ---
 ### Depo Sahibi:
