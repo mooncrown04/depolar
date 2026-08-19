@@ -1,6 +1,6 @@
-### Son Güncelleme: 19.08.2026 18:22
+### Son Güncelleme: 19.08.2026 18:38
 
-### Toplam Eklenti: `142` 
+### Toplam Eklenti: `141` 
 
 ---
 ### Depo Sahibi:
@@ -34,7 +34,6 @@
 | <img src="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" width="30" style="border-radius:4px;"> | **CanliTv** | 18.08.2026 | 🔴 | `Sertel392` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **CizgiMax** | 18.08.2026 | 🔴 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://cizgivedizi.com/Logo.png" width="30" style="border-radius:4px;"> | **CizgiVeDizi** | 18.08.2026 | 🔴 | `Sertel392` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://img.icons8.com/color/512/cloud-sync.png" width="30" style="border-radius:4px;"> | **Cloud-Sync** | 18.08.2026 | 🔴 | `pltmustafa` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **Ddizi** | 18.08.2026 | 🔴 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.ddizi.im/images/logo.png" width="30" style="border-radius:4px;"> | **DDizi - Latte** | 03.04.2026 | ⚪ | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=diziasia.com" width="30" style="border-radius:4px;"> | **DiziAsia** | 27.07.2026 | 🔴 | `Kraptor123` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
