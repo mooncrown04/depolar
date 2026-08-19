@@ -206,6 +206,7 @@ jobs:
         run: |
           import json, re
           from datetime import datetime, timedelta, timezone
+          from collections import defaultdict
           from pathlib import Path
 
           OWNER = "MoOnCrOwN"
@@ -222,8 +223,8 @@ jobs:
               plugins = json.load(f)
 
           rows = []
-          today_news = []
-          today_updates = []
+          today_news_dict = defaultdict(list)
+          today_updates_dict = defaultdict(list)
           new_count = 0
           updated_count = 0
 
@@ -241,12 +242,12 @@ jobs:
                   try:
                       item_date = datetime.strptime(date_str, "%d.%m.%Y").replace(tzinfo=now.tzinfo)
                       
-                      # Bugün yapılan ekleme ve güncellemeler (depo adıyla birlikte)
+                      # Bugün yapılan ekleme ve güncellemeleri depo sahibine göre grupla
                       if date_str == today_str:
                           if "🆕" in desc:
-                              today_news.append(f"`{name}` (*{repo_name}*)")
+                              today_news_dict[repo_name].append(name)
                           elif "🔴" in desc:
-                              today_updates.append(f"`{name}` (*{repo_name}*)")
+                              today_updates_dict[repo_name].append(name)
 
                       # Son 60 günlük genel istatistikler
                       if (now - item_date).days <= 60:
@@ -265,14 +266,24 @@ jobs:
               img_tag = f'<img src="{icon}" width="30" style="border-radius:4px;">' if icon and "%size%" not in icon else "—"
               rows.append(f"| {img_tag} | **{name}** | {date_str} | {marker} | `{repo_name}` | {country_tag} |")
 
+          # Depo sahibine göre gruplanmış metinleri oluşturma fonksiyonu
+          def format_grouped_list(data_dict):
+              if not data_dict:
+                  return "Yok"
+              lines = []
+              for repo in sorted(data_dict.keys()):
+                  plugins_joined = ", ".join([f"`{n}`" for n in sorted(data_dict[repo])])
+                  lines.append(f"  * **{repo}:** {plugins_joined}")
+              return "\n" + "\n".join(lines)
+
           # Bugünkü Güncelleme Özeti Bloğu
-          if today_news or today_updates:
-              news_str = ", ".join(today_news) if today_news else "Yok"
-              updates_str = ", ".join(today_updates) if today_updates else "Yok"
+          if today_news_dict or today_updates_dict:
+              news_formatted = format_grouped_list(today_news_dict)
+              updates_formatted = format_grouped_list(today_updates_dict)
               daily_summary = (
                   f"> 🚀 **Bugünkü Güncelleme Özeti ({today_str})**\n>\n"
-                  f"> * 🆕 **Yeni Eklenenler:** {news_str}\n"
-                  f"> * 🔴 **Güncellenenler:** {updates_str}\n\n"
+                  f"> * 🆕 **Yeni Eklenenler:**{news_formatted}\n>\n"
+                  f"> * 🔴 **Güncellenenler:**{updates_formatted}\n\n"
               )
           else:
               daily_summary = (
