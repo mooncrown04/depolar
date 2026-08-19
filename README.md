@@ -1,4 +1,4 @@
-### Son Güncelleme: 19.08.2026 19:18
+### Son Güncelleme: 19.08.2026 19:23
 
 ### Toplam Eklenti: `145`
 ### 🆕 Yeni Eklentiler: `9` | 🔴 Güncellenenler: `84`
