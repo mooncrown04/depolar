@@ -232,19 +232,23 @@ jobs:
               desc = p.get('description', '')
               date_match = re.search(r'\d{2}\.\d{2}\.\d{4}', desc)
               date_str = date_match.group(0) if date_match else "—"
-              marker = "⚪"
               
+              owner_match = re.search(r'(?:🆕 |🔴 )(.*?) \d', desc)
+              repo_name = owner_match.group(1) if owner_match else "Bilinmiyor"
+              
+              marker = "⚪"
               if date_match:
                   try:
                       item_date = datetime.strptime(date_str, "%d.%m.%Y").replace(tzinfo=now.tzinfo)
                       
-                      # Bugün yapılan ekleme/güncellemeleri ayrıca topla
+                      # Bugün yapılan ekleme ve güncellemeler (depo adıyla birlikte)
                       if date_str == today_str:
                           if "🆕" in desc:
-                              today_news.append(name)
+                              today_news.append(f"`{name}` (*{repo_name}*)")
                           elif "🔴" in desc:
-                              today_updates.append(name)
+                              today_updates.append(f"`{name}` (*{repo_name}*)")
 
+                      # Son 60 günlük genel istatistikler
                       if (now - item_date).days <= 60:
                           if "🔴" in desc: 
                               marker = "🔴"
@@ -259,34 +263,29 @@ jobs:
               country_tag = f'<img src="{flag_url}" width="20" alt="{lang_val}">'
               icon = p.get("iconUrl") or p.get("icon") or ""
               img_tag = f'<img src="{icon}" width="30" style="border-radius:4px;">' if icon and "%size%" not in icon else "—"
-              owner_match = re.search(r'(?:🆕 |🔴 )(.*?) \d', desc)
-              repo_name = owner_match.group(1) if owner_match else "Bilinmiyor"
               rows.append(f"| {img_tag} | **{name}** | {date_str} | {marker} | `{repo_name}` | {country_tag} |")
 
-          # Bugünkü hareketler için özet blok oluşturma
-          daily_summary = ""
+          # Bugünkü Güncelleme Özeti Bloğu
           if today_news or today_updates:
-              news_str = ", ".join([f"`{x}`" for x in today_news]) if today_news else "Yok"
-              updates_str = ", ".join([f"`{x}`" for x in today_updates]) if today_updates else "Yok"
+              news_str = ", ".join(today_news) if today_news else "Yok"
+              updates_str = ", ".join(today_updates) if today_updates else "Yok"
               daily_summary = (
                   f"> 🚀 **Bugünkü Güncelleme Özeti ({today_str})**\n>\n"
                   f"> * 🆕 **Yeni Eklenenler:** {news_str}\n"
                   f"> * 🔴 **Güncellenenler:** {updates_str}\n\n"
-                  f"---\n"
               )
           else:
               daily_summary = (
                   f"> 📌 **Bugünkü Güncelleme Özeti ({today_str})**: Bugün yeni eklenen veya güncellenen eklenti bulunmuyor.\n\n"
-                  f"---\n"
               )
 
           header = (
               f"### Son Güncelleme: {full_date}\n\n"
-              f"### Toplam Eklenti: `{len(plugins)}`\n"
-              f"### 🆕 Yeni Eklentiler: `{new_count}` | 🔴 Güncellenenler: `{updated_count}`\n\n"
-              f"---\n"
+              f"### Toplam Eklenti: `{len(plugins)}`\n\n"
               f"{daily_summary}"
-              f"### Depo Sahibi:\n"
+              f"### 📊 Son 60 Günlük Durum Özeti\n"
+              f"### 🆕 Yeni Eklentiler: `{new_count}` | 🔴 Güncellenenler: `{updated_count}`\n\n"
+              f"---\n### Depo Sahibi:\n"
               f"[<img src='{OWNER_AVATAR}' width='48' style='border-radius:50%;'>]({OWNER_PROFILE})  \n"
               f"**[{OWNER}]({OWNER_PROFILE})**\n\n"
               f"---\n## 📦 Eklenti Listesi\n\n"
