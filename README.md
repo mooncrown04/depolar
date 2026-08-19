@@ -1,11 +1,20 @@
-### Son Güncelleme: 19.08.2026 19:43
+### Son Güncelleme: 19.08.2026 20:01
 
 ### Toplam Eklenti: `145`
 
 > 🚀 **Bugünkü Güncelleme Özeti (19.08.2026)**
 >
-> * 🆕 **Yeni Eklenenler:** `Cloud-Sync` (*pltmustafa*), `plt-party` (*pltmustafa*), `Test` (*ctnkyaumt*), `WebdramaTurkey2` (*patr0nq*)
-> * 🔴 **Güncellenenler:** `AnimeciX` (*ramazansancar*), `AsyaAnimeleri` (*Sertel392*), `AsyaWatch` (*Sertel392*), `BelgeselX` (*Sertel392*), `CanliTv` (*Sertel392*), `CizgiMax` (*ramazansancar*), `Ddizi` (*ramazansancar*), `DiziBox` (*Sertel392*), `DiziKorea` (*ramazansancar*), `Dizilla` (*ramazansancar*), `DiziMom` (*ramazansancar*), `DiziPal` (*ramazansancar*), `DiziPalOriginal` (*feroxx*), `DiziYou` (*ramazansancar*), `FilmBip` (*patr0nq*), `FilmMakinesi` (*ramazansancar*), `FilmModu` (*ramazansancar*), `FullHDFilm` (*ramazansancar*), `FullHDFilmizlesene` (*ramazansancar*), `HDFilmCehennemi` (*ramazansancar*), `InatBox` (*Sertel392*), `JetFilmizle` (*Sertel392*), `KoreanTurk` (*ramazansancar*), `KultFilmler` (*ramazansancar*), `NetflixMirror` (*ramazansancar*), `plt-stream` (*pltmustafa*), `RareFilmm` (*ramazansancar*), `RecTV` (*Sertel392*), `SetFilmIzle` (*ramazansancar*), `SezonlukDizi` (*ramazansancar*), `SinemaCX` (*ramazansancar*), `SineWix` (*Sertel392*), `SuperFilmGeldi` (*ramazansancar*), `TLCTR` (*ramazansancar*), `TRasyalog` (*feroxx*), `TurkAnime` (*ramazansancar*), `UgurFilm` (*ramazansancar*), `Watch2Movies` (*ramazansancar*), `WebteIzle` (*ramazansancar*)
+> * 🆕 **Yeni Eklenenler:**
+  * **ctnkyaumt:** `Test`
+  * **patr0nq:** `WebdramaTurkey2`
+  * **pltmustafa:** `Cloud-Sync`, `plt-party`
+>
+> * 🔴 **Güncellenenler:**
+  * **Sertel392:** `AsyaAnimeleri`, `AsyaWatch`, `BelgeselX`, `CanliTv`, `DiziBox`, `InatBox`, `JetFilmizle`, `RecTV`, `SineWix`
+  * **feroxx:** `DiziPalOriginal`, `TRasyalog`
+  * **patr0nq:** `FilmBip`
+  * **pltmustafa:** `plt-stream`
+  * **ramazansancar:** `AnimeciX`, `CizgiMax`, `Ddizi`, `DiziKorea`, `DiziMom`, `DiziPal`, `DiziYou`, `Dizilla`, `FilmMakinesi`, `FilmModu`, `FullHDFilm`, `FullHDFilmizlesene`, `HDFilmCehennemi`, `KoreanTurk`, `KultFilmler`, `NetflixMirror`, `RareFilmm`, `SetFilmIzle`, `SezonlukDizi`, `SinemaCX`, `SuperFilmGeldi`, `TLCTR`, `TurkAnime`, `UgurFilm`, `Watch2Movies`, `WebteIzle`
 
 ### 📊 Son 60 Günlük Durum Özeti
 ### 🆕 Yeni Eklentiler: `9` | 🔴 Güncellenenler: `84`
