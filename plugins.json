@@ -2849,27 +2849,6 @@
     "fileHash": "sha256-e34f0b6b4212279098f08c615a264788ee95f7b8d4a3181fbd6682d59687b381"
   },
   {
-    "iconUrl": "https://img.icons8.com/color/512/cloud-sync.png",
-    "fileHash": "sha256-f60ed9a28aa0bc7c9883a259bab796088cc707b6539065cd73daf2c67a571bc2",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
-    "fileSize": 119292,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "pltmustafa"
-    ],
-    "tvTypes": [
-      "All"
-    ],
-    "version": 12,
-    "internalName": "Cloud-Sync",
-    "description": "🔴 pltmustafa 18.08.2026 Cloud sync plugin for Cloudstream - syncs bookmarks, settings, extensions, watch history across devices",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Cloud-Sync.cs3",
-    "name": "Cloud-Sync",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Cloud-Sync.cs3"
-  },
-  {
     "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png",
     "fileHash": "sha256-66858f8e954820c2fa3906ce8a90853a85d2ba9c2f88cf87acddd5870fe6dffd",
     "apiVersion": 1,
