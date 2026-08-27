@@ -246,7 +246,7 @@ jobs:
                           elif "🔴" in desc:
                               today_updates_dict[repo_name].append(name)
 
-                      if (now - item_date).days <= 60:
+                      if (now - item_date).days <= 15:
                           if "🔴" in desc: 
                               marker = "🔴"
                               updated_count += 1
@@ -290,7 +290,7 @@ jobs:
               f"### Son Güncelleme: {full_date}\n\n"
               f"### Toplam Eklenti: `{len(plugins)}`\n\n"
               f"{daily_summary}"
-              f"### 📊 Son 60 Günlük Durum Özeti\n"
+              f"### 📊 Son 15 Günlük Durum Özeti\n"
               f"{stats_line}\n\n"
               f"---\n### Depo Sahibi:\n"
               f"[<img src='{OWNER_AVATAR}' width='48' style='border-radius:50%;'>]({OWNER_PROFILE})  \n"
