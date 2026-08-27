@@ -15,8 +15,9 @@
     "version": 1,
     "internalName": "YTPatron",
     "description": "🆕 patr0nq 03.04.2026 ",
-    "url": "https://raw.githubusercontent.com/patr0nq/cstestAddons/builds/YTPatron.cs3",
-    "name": "YTPatron"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/YTPatron.cs3",
+    "name": "YTPatron",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/YTPatron.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
@@ -257,9 +258,9 @@
     "version": 11,
     "internalName": "FilmBip",
     "description": "🔴 patr0nq 19.08.2026 Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Filmbip heryerde seninle!",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FilmBip.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/FilmBip.cs3",
     "name": "FilmBip",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FilmBip.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/FilmBip.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
@@ -615,7 +616,7 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/TLCTR.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/TRanimaci.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/maarrem/TRanimaci.cs3",
     "status": 1,
     "version": 17,
     "name": "TRanimaci",
@@ -632,7 +633,8 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=tranimaci.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-a086854cc34837d053c8b028b0c895a859a014534fffb359a2446520e084a7ac"
+    "fileHash": "sha256-a086854cc34837d053c8b028b0c895a859a014534fffb359a2446520e084a7ac",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/maarrem/TRanimaci.cs3"
   },
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/TRasyalog.cs3",
@@ -736,7 +738,7 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/WebteIzle.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/AltiYuzAltmisAltiFilmIzle.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/AltiYuzAltmisAltiFilmIzle.cs3",
     "status": 1,
     "version": 1,
     "name": "AltiYuzAltmisAltiFilmIzle",
@@ -753,7 +755,8 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=666filmizle.site&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-67e1c3be1e544fae485397f19b9a2e24aa115aeefe77dacf04e5c5582c3475a6"
+    "fileHash": "sha256-67e1c3be1e544fae485397f19b9a2e24aa115aeefe77dacf04e5c5582c3475a6",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/AltiYuzAltmisAltiFilmIzle.cs3"
   },
   {
     "iconUrl": "https://asyaanimeleri.top/wp-content/uploads/2021/08/Asya-animeleri-12-e1629130525708.png",
@@ -834,8 +837,9 @@
     "version": 5,
     "internalName": "4KFilmIzlesene",
     "description": "🆕 ramazansancar 03.04.2026 En yeni ve sorunsuz ⚡  Full HD Film izle keyfi her yerde sizinle ! 4K ve 1080p online film izleme farkıyla 4KFilmizlesene&amp;#039;nin Tadını Çıkart.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/4KFilmIzlesene.cs3",
-    "name": "4KFilmIzlesene"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/4KFilmIzlesene.cs3",
+    "name": "4KFilmIzlesene",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/4KFilmIzlesene.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=%size%",
@@ -876,8 +880,9 @@
     "version": 9,
     "internalName": "DiziGom",
     "description": "🔴 ramazansancar 19.05.2026 Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/DiziGom.cs3",
-    "name": "DiziGom"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/DiziGom.cs3",
+    "name": "DiziGom",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/DiziGom.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.net&sz=%size%",
@@ -896,8 +901,9 @@
     "version": 16,
     "internalName": "DiziMag",
     "description": "🔴 ramazansancar 02.06.2026 En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/DiziMag.cs3",
-    "name": "DiziMag"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/DiziMag.cs3",
+    "name": "DiziMag",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/DiziMag.cs3"
   },
   {
     "iconUrl": "https://www.dmax.com.tr/favicon.ico",
@@ -915,8 +921,9 @@
     "version": 1,
     "internalName": "DMax",
     "description": "🆕 ramazansancar 03.04.2026 DMAX dizi ve programlarını takip etmek için ziyaret edin. DMAX dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/DMax.cs3",
-    "name": "DMax"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/DMax.cs3",
+    "name": "DMax",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/DMax.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmizlesene.plus&sz=%size%",
@@ -934,8 +941,9 @@
     "version": 2,
     "internalName": "Filmİzlesene",
     "description": "🆕 ramazansancar 03.04.2026 Filmizlesene ile hızlı film izleme fırsatını yakala, en yeni ve iyi filmleri Full HD 1080p kalitesiyle online ve bedava izle",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/Filmİzlesene.cs3",
-    "name": "Filmİzlesene"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/Filmİzlesene.cs3",
+    "name": "Filmİzlesene",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/Filmİzlesene.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmkovasi.tv&sz=%size%",
@@ -953,8 +961,9 @@
     "version": 3,
     "internalName": "FilmKovasi",
     "description": "🆕 ramazansancar 03.04.2026 Film Kovasi ⚡ ile en güncel ve sorunsuz Full HD Film izle keyfi her yerde seninle! 1080p online film izleme ayrıcalığıyla Film Kovası'nın Tadını Çıkarın.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/FilmKovasi.cs3",
-    "name": "FilmKovasi"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/FilmKovasi.cs3",
+    "name": "FilmKovasi",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/FilmKovasi.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilmizlede.net&sz=%size%",
@@ -972,8 +981,9 @@
     "version": 2,
     "internalName": "FullHDFilmİzlede",
     "description": "🆕 ramazansancar 03.04.2026 En güncel ve popüler filmleri Full HD kalitesinde, Türkçe altyazılı veya Türkçe dublaj seçenekleriyle izleyebileceğiniz tek adres! Sinema tutkunları için en özel film deneyimini yaşamak için fullhdfilmizlede.net",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/FullHDFilmİzlede.cs3",
-    "name": "FullHDFilmİzlede"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/FullHDFilmİzlede.cs3",
+    "name": "FullHDFilmİzlede",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/FullHDFilmİzlede.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=%size%",
@@ -1013,8 +1023,9 @@
     "version": 12,
     "internalName": "HDFilmSitesi",
     "description": "🆕 ramazansancar 03.04.2026 Film izle, Hdfilmsitesi ile Online 1080p ve 4K kalite Full HD Filmlere Türkçe Dublaj ve Altyazılı olarak Reklamsız Kesintisiz HD Film izle.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/HDFilmSitesi.cs3",
-    "name": "HDFilmSitesi"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/HDFilmSitesi.cs3",
+    "name": "HDFilmSitesi",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/HDFilmSitesi.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
@@ -1032,8 +1043,9 @@
     "version": 3,
     "internalName": "iptvSevenler",
     "description": "🆕 ramazansancar 03.04.2026 iptvSevenler",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/iptvSevenler.cs3",
-    "name": "iptvSevenler"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/iptvSevenler.cs3",
+    "name": "iptvSevenler",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/iptvSevenler.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=720pizle.ai&sz=%size%",
@@ -1051,8 +1063,9 @@
     "version": 6,
     "internalName": "IzleAI",
     "description": "🆕 ramazansancar 03.04.2026 1080P yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleri ile Türkiye'nin en geniş film arşivi 720pizle Full hd film izle.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/IzleAI.cs3",
-    "name": "IzleAI"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/IzleAI.cs3",
+    "name": "IzleAI",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/IzleAI.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=roketdizi.co&sz=%size%",
@@ -1071,8 +1084,9 @@
     "version": 9,
     "internalName": "RoketDizi",
     "description": "🆕 ramazansancar 03.04.2026 Türkiye'nin en tatlış yabancı dizi izleme sitesi. Türkçe dublaj, altyazılı, eski ve yeni yabancı dizilerin yanı sıra kore (asya) dizileri izleyebilirsiniz.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/RoketDizi.cs3",
-    "name": "RoketDizi"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/RoketDizi.cs3",
+    "name": "RoketDizi",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/RoketDizi.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tafdi.info&sz=%size%",
@@ -1090,8 +1104,9 @@
     "version": 2,
     "internalName": "Tafdi",
     "description": "🆕 ramazansancar 03.04.2026 Türkçe altyazılı film izle, full hd olarak film izlemenin keyfini çıkarın. Türkiyenin en büyük film izleme platformu tafdi kalitesiyle sizlerle.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/Tafdi.cs3",
-    "name": "Tafdi"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/Tafdi.cs3",
+    "name": "Tafdi",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/Tafdi.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
@@ -1111,8 +1126,9 @@
     "version": 6,
     "internalName": "TurkSCanliTV",
     "description": "🆕 ramazansancar 03.04.2026 TurkS Canlı TV",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/TurkSCanliTV.cs3",
-    "name": "TurkSCanliTV"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/TurkSCanliTV.cs3",
+    "name": "TurkSCanliTV",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/TurkSCanliTV.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tvdiziler.cc&sz=%size%",
@@ -1151,9 +1167,10 @@
     "internalName": "Twitch",
     "jarUrl": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/Twitch.jar",
     "description": "🆕 ramazansancar 03.04.2026 Watch livestreams from Twitch",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/Twitch.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/Twitch.cs3",
     "name": "Twitch",
-    "language": "tr"
+    "language": "tr",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/Twitch.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
@@ -1171,8 +1188,9 @@
     "version": 2,
     "internalName": "vavooSpor",
     "description": "🆕 ramazansancar 03.04.2026 vavooSpor",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/vavooSpor.cs3",
-    "name": "vavooSpor"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/vavooSpor.cs3",
+    "name": "vavooSpor",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/vavooSpor.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=wfilmizle.my&sz=%size%",
@@ -1191,8 +1209,9 @@
     "version": 3,
     "internalName": "WFilmİzle",
     "description": "🆕 ramazansancar 03.04.2026 Aile Filmleri izle, Yerli ve yabancı en yeni Aile filmlerini Full HD 1080p görüntü kalitesiyle Türkçe Dublaj ve Türkçe Altyazı seçenekleriyle izleyin.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/WFilmİzle.cs3",
-    "name": "WFilmİzle"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/WFilmİzle.cs3",
+    "name": "WFilmİzle",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/WFilmİzle.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.tv&sz=%size%",
@@ -1274,8 +1293,9 @@
     "version": 14,
     "internalName": "YerelDiziler",
     "description": "🆕 Sertel392 03.04.2026 Bu eklentide yerel dizileri güncel şekilde bulabilirsiniz",
-    "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/YerelDiziler.cs3",
-    "name": "YerelDiziler"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/YerelDiziler.cs3",
+    "name": "YerelDiziler",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/YerelDiziler.cs3"
   },
   {
     "iconUrl": "https://cizgivedizi.com/Logo.png",
@@ -1334,8 +1354,9 @@
     "version": 2,
     "internalName": "TorrentFilm",
     "description": "🆕 Sertel392 03.04.2026 Türkçe altyazılı torrentleri buradan 4K kalitesinde izleyebilirsiniz.",
-    "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/TorrentFilm.cs3",
-    "name": "TorrentFilm"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/TorrentFilm.cs3",
+    "name": "TorrentFilm",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/TorrentFilm.cs3"
   },
   {
     "iconUrl": "https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png",
@@ -1352,8 +1373,9 @@
     "version": 1,
     "internalName": "YerelProgramlar",
     "description": "🆕 Sertel392 03.04.2026 Yerel programları güncel şekilde bulabilirsiniz",
-    "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/YerelProgramlar.cs3",
-    "name": "YerelProgramlar"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/YerelProgramlar.cs3",
+    "name": "YerelProgramlar",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/YerelProgramlar.cs3"
   },
   {
     "iconUrl": "https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png",
@@ -1370,8 +1392,9 @@
     "version": 1,
     "internalName": "Kanal 7",
     "description": "🆕 Sertel392 03.04.2026 Hint, Pakistan ve Türk dizilerinin adresi",
-    "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/Kanal 7.cs3",
-    "name": "Kanal 7"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/Kanal 7.cs3",
+    "name": "Kanal 7",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/Kanal 7.cs3"
   },
   {
     "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
@@ -1388,8 +1411,9 @@
     "version": 1,
     "internalName": "Puhu",
     "description": "🆕 Sertel392 03.04.2026 Puhu",
-    "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/Puhu.cs3",
-    "name": "Puhu"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/Puhu.cs3",
+    "name": "Puhu",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/Puhu.cs3"
   },
   {
     "iconUrl": "https://asyafilmizlesene.org/wp-content/uploads/2022/09/rsm.png",
@@ -1406,8 +1430,9 @@
     "version": 2,
     "internalName": "AsyaFilmIzlesene",
     "description": "🆕 Sertel392 03.04.2026 Hint, Kore Filmleri",
-    "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/AsyaFilmIzlesene.cs3",
-    "name": "AsyaFilmIzlesene"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/AsyaFilmIzlesene.cs3",
+    "name": "AsyaFilmIzlesene",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/AsyaFilmIzlesene.cs3"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/aniworld.png",
@@ -1429,8 +1454,9 @@
     "version": 4,
     "internalName": "AniworldMC",
     "description": "🆕 GitLatte 03.04.2026 Sinetech.tr Forum @Memetcandal`ın isteği üzerine Aniworld eklentisinin Hexated isimli depodan alınıp güncellenmiş halidir. Altyazılı veya dublajlı olarak anime izleyebilirsiniz. Türkçe içerikler yoktur.",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/AniworldMC.cs3",
-    "name": "AniworldMC"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/AniworldMC.cs3",
+    "name": "AniworldMC",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/AniworldMC.cs3"
   },
   {
     "iconUrl": "https://www.ddizi.im/images/logo.png",
@@ -1449,8 +1475,9 @@
     "version": 4,
     "internalName": "DDizi - Latte",
     "description": "🆕 GitLatte 03.04.2026 Ddizi, dizi izle, dizi seyret, ddizi.im - Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz dizi izleme sitesi.",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DDizi - Latte.cs3",
-    "name": "DDizi - Latte"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/DDizi - Latte.cs3",
+    "name": "DDizi - Latte",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/DDizi - Latte.cs3"
   },
   {
     "iconUrl": "https://dizifun3.com/images/data/darklogo.png",
@@ -1470,8 +1497,9 @@
     "version": 5,
     "internalName": "DiziFun - Latte",
     "description": "🆕 GitLatte 03.04.2026 Dizifun, yabancı dizi - film, yerli dizi - film , türkçe dublaj , türkçe altyazılı ve anime dizi - film izlemeniz için sizinledir.",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/DiziFun - Latte.cs3",
-    "name": "DiziFun - Latte"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/DiziFun - Latte.cs3",
+    "name": "DiziFun - Latte",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/DiziFun - Latte.cs3"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/gofilm.png",
@@ -1489,8 +1517,9 @@
     "version": 3,
     "internalName": "GoFilmIzle - Latte",
     "description": "🆕 GitLatte 03.04.2026 GoFilmizle | Yerli ve Yabancı Full HD Film izleme Sitesi - Diziler çalışmaz.",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/GoFilmIzle - Latte.cs3",
-    "name": "GoFilmIzle - Latte"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/GoFilmIzle - Latte.cs3",
+    "name": "GoFilmIzle - Latte",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/GoFilmIzle - Latte.cs3"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/kick.png",
@@ -1510,8 +1539,9 @@
     "version": 3,
     "internalName": "KICK Türkiye - Latte",
     "description": "🆕 GitLatte 03.04.2026 Kick'teki Türkçe canlı yayınlar ve popüler yayıncıları canlı izleyin. Arayın, bulun  ve izlemeye devam edin.",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/KICK Türkiye - Latte.cs3",
-    "name": "KICK Türkiye - Latte"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/KICK Türkiye - Latte.cs3",
+    "name": "KICK Türkiye - Latte",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/KICK Türkiye - Latte.cs3"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/mywaytv.png",
@@ -1532,8 +1562,9 @@
     "version": 3,
     "internalName": "myway TV - Latte",
     "description": "🆕 GitLatte 03.04.2026 Sinetech.tr Forum myway canlı tv listesi",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/myway TV - Latte.cs3",
-    "name": "myway TV - Latte"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/myway TV - Latte.cs3",
+    "name": "myway TV - Latte",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/myway TV - Latte.cs3"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzikkanallari.png",
@@ -1552,8 +1583,9 @@
     "version": 3,
     "internalName": "Müzik TV ve Radyo - Latte",
     "description": "🆕 GitLatte 03.04.2026 Müzik Kanallarına özel canlı tv eklentisidir.",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/Müzik TV ve Radyo - Latte.cs3",
-    "name": "Müzik TV ve Radyo - Latte"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/Müzik TV ve Radyo - Latte.cs3",
+    "name": "Müzik TV ve Radyo - Latte",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/Müzik TV ve Radyo - Latte.cs3"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powerdizi.png",
@@ -1573,8 +1605,9 @@
     "version": 6,
     "internalName": "powerboard Dizi - Latte",
     "description": "🆕 GitLatte 03.04.2026 powerboard`un yabancı dizi arşivi",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/powerboard Dizi - Latte.cs3",
-    "name": "powerboard Dizi - Latte"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/powerboard Dizi - Latte.cs3",
+    "name": "powerboard Dizi - Latte",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/powerboard Dizi - Latte.cs3"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powersinema.png",
@@ -1594,8 +1627,9 @@
     "version": 5,
     "internalName": "powerboard Sinema - Latte",
     "description": "🆕 GitLatte 03.04.2026 powerboard`un sinema arşivi",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/powerboard Sinema - Latte.cs3",
-    "name": "powerboard Sinema - Latte"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/powerboard Sinema - Latte.cs3",
+    "name": "powerboard Sinema - Latte",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/powerboard Sinema - Latte.cs3"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/bahcesitv.png",
@@ -1615,8 +1649,9 @@
     "version": 3,
     "internalName": "Tv Bahçesi - Latte",
     "description": "🆕 GitLatte 03.04.2026 TvGarden televizyon listesi. @keyiflerolsun Canlı TV eklentisinden yararlanılmıştır.",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/Tv Bahçesi - Latte.cs3",
-    "name": "Tv Bahçesi - Latte"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/Tv Bahçesi - Latte.cs3",
+    "name": "Tv Bahçesi - Latte",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/Tv Bahçesi - Latte.cs3"
   },
   {
     "iconUrl": "https://webdramaturkey.org/public/static/logo.webp?v=2.1.8",
@@ -1638,8 +1673,9 @@
     "version": 3,
     "internalName": "WebDramaTurkey - Latte",
     "description": "🆕 GitLatte 03.04.2026 Kore, Çin ve Japon yapımı filmleri Web Drama Turkey üzerinden Türkçe altyazılı olarak izleyebilirsiniz. Kore filmi izle, Çin filmi izle, Asya filmleri izle.",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/WebDramaTurkey - Latte.cs3",
-    "name": "WebDramaTurkey - Latte"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/WebDramaTurkey - Latte.cs3",
+    "name": "WebDramaTurkey - Latte",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/WebDramaTurkey - Latte.cs3"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/Latte%20Tube/latte-tube.png",
@@ -1657,11 +1693,12 @@
     "version": 1,
     "internalName": "YouTube Özel - Latte",
     "description": "🆕 GitLatte 03.04.2026 Youtube 7/24 içeriklerinden derlemeler içerir. Orijinal youtube ile oynatılarak kullanılmaktadır. Bu konuda @feroxx`un geliştirdiği youtube extractor için teşekkürler.",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/YouTube Özel - Latte.cs3",
-    "name": "YouTube Özel - Latte"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/YouTube Özel - Latte.cs3",
+    "name": "YouTube Özel - Latte",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/YouTube Özel - Latte.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/FilmBOL.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/FilmBOL.cs3",
     "status": 1,
     "version": 4,
     "name": "FilmBOL",
@@ -1679,10 +1716,11 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmbol.org/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-10b47d7d5e9b7eff155f3fce5fbd93c3498f5e7e9711d84d4aab4a0f2ae96bf8"
+    "fileHash": "sha256-10b47d7d5e9b7eff155f3fce5fbd93c3498f5e7e9711d84d4aab4a0f2ae96bf8",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/FilmBOL.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/Koredizi.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/Koredizi.cs3",
     "status": 1,
     "version": 3,
     "name": "Koredizi",
@@ -1699,10 +1737,11 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://koredizi.com/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-4ed2fe7205a7a769e0863b06552fcd8d4a997c652346d8225e217fe6fa1dbccc"
+    "fileHash": "sha256-4ed2fe7205a7a769e0863b06552fcd8d4a997c652346d8225e217fe6fa1dbccc",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/Koredizi.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/M3UPlayer.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/M3UPlayer.cs3",
     "status": 1,
     "version": 12,
     "name": "M3UPlayer",
@@ -1719,10 +1758,11 @@
     ],
     "iconUrl": "https://i.imgur.com/BsS4wRT.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b70a88b3ed309391a5dc48f49c22321b418535f670034595940a5941ea7d3ed9"
+    "fileHash": "sha256-b70a88b3ed309391a5dc48f49c22321b418535f670034595940a5941ea7d3ed9",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/M3UPlayer.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/Torrential.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/Torrential.cs3",
     "status": 1,
     "version": 6,
     "name": "Torrential",
@@ -1739,10 +1779,11 @@
     ],
     "iconUrl": "https://i.imgur.com/cEOwdKR.png",
     "apiVersion": 1,
-    "fileHash": "sha256-d9aa73ac93c9dd0698913868203d2631fa32e6f3a60c7ffcb045206a9ec32ad7"
+    "fileHash": "sha256-d9aa73ac93c9dd0698913868203d2631fa32e6f3a60c7ffcb045206a9ec32ad7",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/Torrential.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/Vavoo.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/Vavoo.cs3",
     "status": 1,
     "version": 1,
     "name": "Vavoo",
@@ -1759,10 +1800,11 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://vavoo.to/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-ef74ff67abbd39a8ab5055eefa765ff7fde7ff4308b75e4e9285c5f078edfa45"
+    "fileHash": "sha256-ef74ff67abbd39a8ab5055eefa765ff7fde7ff4308b75e4e9285c5f078edfa45",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/Vavoo.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/Syncler.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/Syncler.cs3",
     "status": 1,
     "version": 1,
     "name": "Syncler",
@@ -1779,7 +1821,8 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yandex.com.tr",
     "apiVersion": 1,
-    "fileHash": "sha256-e94e277f93e174d10dca5c1dd10edcc0042e68acb294e76a48ada6f22d97f723"
+    "fileHash": "sha256-e94e277f93e174d10dca5c1dd10edcc0042e68acb294e76a48ada6f22d97f723",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/Syncler.cs3"
   },
   {
     "url": "https://raw.githubusercontent.com/caca1403/cloudstream-cagi-eklenti/main/dist/AnimeSiteleri-release.cs3?v=48",
@@ -1894,7 +1937,7 @@
     "fileHash": "sha256-059a3e148c4c25ae834ad091735fefe5b350e29ee80ae527d09a60101970e2e8"
   },
   {
-    "url": "https://raw.githubusercontent.com/ctnkyaumt/cstest/builds/EnglishW.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/EnglishW.cs3",
     "status": 1,
     "version": 10,
     "name": "EnglishW",
@@ -1912,10 +1955,11 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org",
     "apiVersion": 1,
-    "fileHash": "sha256-480a0d00f6aab93b56f5b16af239e7ebdfe9dfb77e3ecdb0686f7adf8340de88"
+    "fileHash": "sha256-480a0d00f6aab93b56f5b16af239e7ebdfe9dfb77e3ecdb0686f7adf8340de88",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/EnglishW.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/ctnkyaumt/cstest/builds/Filmmirasım.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/Filmmirasım.cs3",
     "status": 1,
     "version": 4,
     "name": "Filmmirasım",
@@ -1932,10 +1976,11 @@
     ],
     "iconUrl": "https://filmmirasim.ktb.gov.tr/favicon-r.png",
     "apiVersion": 1,
-    "fileHash": "sha256-68abdea39a7739549d4e8432946f07c7b9e3943554a8228476b8c2928108ea46"
+    "fileHash": "sha256-68abdea39a7739549d4e8432946f07c7b9e3943554a8228476b8c2928108ea46",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/Filmmirasım.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/TurkishW.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/TurkishW.cs3",
     "status": 1,
     "version": 9,
     "name": "TurkishW",
@@ -1960,7 +2005,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org",
     "apiVersion": 1,
     "fileHash": "sha256-ab26d8aafc82233a72d5376c88315166390fc2965679e2ae5d49e9726a5fc8c2",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/TurkishW.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/TurkishW.cs3"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png",
@@ -1981,12 +2026,12 @@
     "version": 47,
     "internalName": "plt-stream",
     "description": "🔴 pltmustafa 23.08.2026 plt-stream - Birden fazla siteden içerik sağlayan bir eklenti",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/plt-stream.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/plt-stream.cs3",
     "name": "plt-stream",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/plt-stream.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/plt-stream.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Bollyflix.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SaurabhKaperwan/Bollyflix.cs3",
     "status": 1,
     "version": 33,
     "name": "Bollyflix",
@@ -2007,7 +2052,7 @@
     "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/master/Bollyflix/icon.png",
     "apiVersion": 1,
     "fileHash": "sha256-507b486b195b98903b0cec0fca811c27fdff6cf200f6f94a662c64dd8abe0e59",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Bollyflix.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SaurabhKaperwan/Bollyflix.cs3"
   },
   {
     "iconUrl": "https://img.icons8.com/color/512/cloud-sync.png",
@@ -2026,9 +2071,9 @@
     "version": 12,
     "internalName": "Cloud-Sync",
     "description": "🆕 pltmustafa 19.08.2026 Cloud sync plugin for Cloudstream - syncs bookmarks, settings, extensions, watch history across devices",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Cloud-Sync.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/Cloud-Sync.cs3",
     "name": "Cloud-Sync",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Cloud-Sync.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/Cloud-Sync.cs3"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png",
@@ -2047,9 +2092,9 @@
     "version": 5,
     "internalName": "plt-party",
     "description": "🔴 pltmustafa 20.08.2026 plt-party - Sevdiklerinizle senkronize bir şekilde izlemenizi sağlar.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/plt-party.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/plt-party.cs3",
     "name": "plt-party",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/plt-party.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/plt-party.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://webdramaturkey2.com&sz=%size%",
@@ -2070,12 +2115,12 @@
     "version": 1,
     "internalName": "WebdramaTurkey2",
     "description": "🆕 patr0nq 19.08.2026 WebdramaTurkey2 İçerikleri",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/WebdramaTurkey2.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/WebdramaTurkey2.cs3",
     "name": "WebdramaTurkey2",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/WebdramaTurkey2.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/WebdramaTurkey2.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Test.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/Test.cs3",
     "status": 1,
     "version": 1,
     "name": "Test",
@@ -2095,7 +2140,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org",
     "apiVersion": 1,
     "fileHash": "sha256-eeb906e77f5c432578f308cfc0f9102f1aa9f417004ffd9445f330c2b7deee19",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Test.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/Test.cs3"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png",
@@ -2114,12 +2159,12 @@
     "version": 3,
     "internalName": "plt-tv",
     "description": "🔴 pltmustafa 23.08.2026 plt-tv - M3U/M3U8 çalma listeleri ve canlı TV yayınlarını oynatıcı eklentisi",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/plt-tv.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/plt-tv.cs3",
     "name": "plt-tv",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/plt-tv.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/plt-tv.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Animeler.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Animeler.cs3",
     "status": 1,
     "version": 41,
     "name": "Animeler",
@@ -2139,10 +2184,10 @@
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeler.pw/&size=128",
     "apiVersion": 1,
     "fileHash": "sha256-221372bc17e3a7b96514ed9dbfe2d631027712970f7573ba29a43bd1c9ba2e4c",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Animeler.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Animeler.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Animely.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Animely.cs3",
     "status": 1,
     "version": 4,
     "name": "Animely",
@@ -2163,10 +2208,10 @@
     "iconUrl": "https://play-lh.googleusercontent.com/BIE1R3FVOpIoCPxkx3Erfuw5sVc5wVIbeHAcRuTUGesuvc1S1Cr6KYumGVbn7xABuLc=w240-h480",
     "apiVersion": 1,
     "fileHash": "sha256-ff272f0caeb3ae79ded86e10826ff5e89f1b61f0227a45e14d825107b3be4cb9",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Animely.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Animely.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AnimPow.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AnimPow.cs3",
     "status": 1,
     "version": 7,
     "name": "AnimPow",
@@ -2184,10 +2229,10 @@
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animpow.com/&size=128",
     "apiVersion": 1,
     "fileHash": "sha256-57ab29e68b7e44673ece4049b15a20c064074560da56bdc4d4afac781f035275",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AnimPow.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AnimPow.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Anizium.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Anizium.cs3",
     "status": 1,
     "version": 25,
     "name": "Anizium",
@@ -2207,10 +2252,10 @@
     "iconUrl": "https://anizium.co/assets/images/logo.png",
     "apiVersion": 1,
     "fileHash": "sha256-8ae8ce4c9e53f6c95530d0ffb8070c8469f4c1d8ea93247f2ef28d6dc7e351fb",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Anizium.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Anizium.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AsyaFanatiklerim.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AsyaFanatiklerim.cs3",
     "status": 1,
     "version": 22,
     "name": "AsyaFanatiklerim",
@@ -2229,10 +2274,10 @@
     "iconUrl": "https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png",
     "apiVersion": 1,
     "fileHash": "sha256-65e9260e4266b065895d6c5ff03ca8751021176cd20a2f031c8eb6d6cab12910",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AsyaFanatiklerim.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AsyaFanatiklerim.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AsyaMinik.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AsyaMinik.cs3",
     "status": 0,
     "version": 17,
     "name": "AsyaMinik",
@@ -2250,10 +2295,10 @@
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaminik.com/&size=128",
     "apiVersion": 1,
     "fileHash": "sha256-4a72eff8d5fa0cfa866f6bdcc11de28772fc023d559a692b2c72c09c9638d6cb",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AsyaMinik.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AsyaMinik.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziAsia.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziAsia.cs3",
     "status": 1,
     "version": 20,
     "name": "DiziAsia",
@@ -2271,10 +2316,10 @@
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=diziasia.com",
     "apiVersion": 1,
     "fileHash": "sha256-3ef24a02d63c5d5aab53a20a4d2435221d45790c8c75005c6ab17ca2cca40a29",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziAsia.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziAsia.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziAsya.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziAsya.cs3",
     "status": 1,
     "version": 27,
     "name": "DiziAsya",
@@ -2292,10 +2337,10 @@
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diziasya.com&size=32",
     "apiVersion": 1,
     "fileHash": "sha256-4368a98b141603d9db6f80cdf3f68f9a6b365b23a9c733d6fbed55f9ef43993a",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziAsya.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziAsya.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziFilmORG.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziFilmORG.cs3",
     "status": 1,
     "version": 22,
     "name": "DiziFilmORG",
@@ -2314,10 +2359,10 @@
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizifilm.org/dizi/breaking-bad/sezon-1/bolum-2&size=128",
     "apiVersion": 1,
     "fileHash": "sha256-0909b046ced602df5d59d4d469a87acb3481f68b34fb461f1828d1546a6fda6c",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziFilmORG.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziFilmORG.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Dizigecesi.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Dizigecesi.cs3",
     "status": 1,
     "version": 4,
     "name": "Dizigecesi",
@@ -2336,10 +2381,10 @@
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizigecesi.com/tr&size=128",
     "apiVersion": 1,
     "fileHash": "sha256-d4bf1c4d02c4c2d04aee0182865ad93ff932b1cebb162ee5c75769caed4ff822",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Dizigecesi.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Dizigecesi.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziLife.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziLife.cs3",
     "status": 1,
     "version": 58,
     "name": "DiziLife",
@@ -2360,10 +2405,10 @@
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dizi18.life",
     "apiVersion": 1,
     "fileHash": "sha256-4028b03eb80e9b60183f45401b49d5c253162e11dd279747b98e4ba5dbff5ea3",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziLife.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziLife.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziPalOrijinal.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziPalOrijinal.cs3",
     "status": 1,
     "version": 45,
     "name": "DiziPalOrijinal",
@@ -2383,10 +2428,10 @@
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
     "apiVersion": 1,
     "fileHash": "sha256-676a6380e361598442b8da658761d03d53b39a66456a916e7508d5d47971e82e",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziPalOrijinal.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziPalOrijinal.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Dizipod.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Dizipod.cs3",
     "status": 1,
     "version": 12,
     "name": "Dizipod",
@@ -2408,10 +2453,10 @@
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipod.com&size=128",
     "apiVersion": 1,
     "fileHash": "sha256-64c82bbd92dda72ea00e666e7488ae876d4f456ec5144347071e2616ae58d2c5",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Dizipod.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Dizipod.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziYo.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziYo.cs3",
     "status": 1,
     "version": 74,
     "name": "DiziYo",
@@ -2430,10 +2475,10 @@
     "iconUrl": "https://i.imgur.com/zQYsL6Z.png",
     "apiVersion": 1,
     "fileHash": "sha256-2fd00b01979aec233433cf0030320dd03a4b9881dbe8cec4c8908b3ea67ec8f0",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziYo.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziYo.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DramaDizilerim.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DramaDizilerim.cs3",
     "status": 1,
     "version": 3,
     "name": "DramaDizilerim",
@@ -2451,10 +2496,10 @@
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dramadizilerim.com",
     "apiVersion": 1,
     "fileHash": "sha256-38936f72e0f14bfb61886b24747fc25584f31911b7990acda7e7e2ee179059cd",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DramaDizilerim.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DramaDizilerim.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FilmEkseni.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/FilmEkseni.cs3",
     "status": 1,
     "version": 50,
     "name": "FilmEkseni",
@@ -2473,10 +2518,10 @@
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmekseni.net/&size=128",
     "apiVersion": 1,
     "fileHash": "sha256-b14d8915a8d72bd25590037be0f1a74946ec755995ed3896a452f3b547a1b3f2",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FilmEkseni.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/FilmEkseni.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FilmHane.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/FilmHane.cs3",
     "status": 1,
     "version": 43,
     "name": "FilmHane",
@@ -2494,11 +2539,11 @@
     "iconUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE",
     "apiVersion": 1,
     "fileHash": "sha256-02df47ed1de0d7771432f726955de1cb4b6078f3e7d7437d632cebbe0c6af676",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FilmHane.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/FilmHane.cs3",
     "description": "🆕 aytzey 27.08.2026 "
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Filmzal.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Filmzal.cs3",
     "status": 1,
     "version": 16,
     "name": "Filmzal",
@@ -2516,10 +2561,10 @@
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmzal.me/&size=128",
     "apiVersion": 1,
     "fileHash": "sha256-fad36234a9273e3660d41979e369c3898753e4e566b28ab6a1c61d1bcfdf0c5c",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Filmzal.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Filmzal.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GinikoCanli.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/GinikoCanli.cs3",
     "status": 1,
     "version": 15,
     "name": "GinikoCanli",
@@ -2537,10 +2582,10 @@
     "iconUrl": "https://www.giniko.com/images/favicon.ico",
     "apiVersion": 1,
     "fileHash": "sha256-74d715346d47a7c0706e464c81fbec9cde1a758c1e7afebea839da1d68820ae9",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GinikoCanli.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/GinikoCanli.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/HDFilmDelisi.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/HDFilmDelisi.cs3",
     "status": 1,
     "version": 18,
     "name": "HDFilmDelisi",
@@ -2558,10 +2603,10 @@
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hdfilmdelisi.one/&size=128",
     "apiVersion": 1,
     "fileHash": "sha256-96dfb25c05dc3825bc2b1f9d87b70a9692abdfbea871f65c3cea19f77870a75d",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/HDFilmDelisi.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/HDFilmDelisi.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/KickTR.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/KickTR.cs3",
     "status": 1,
     "version": 17,
     "name": "KickTR",
@@ -2580,10 +2625,10 @@
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kick.com&size=48",
     "apiVersion": 1,
     "fileHash": "sha256-28c407d966543b9729551a1dd7599f2ecf8d58b83c896cf64ae394749b80dd6f",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/KickTR.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/KickTR.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/KraptorPlus.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/KraptorPlus.cs3",
     "status": 1,
     "version": 86,
     "name": "KraptorPlus",
@@ -2609,10 +2654,10 @@
     "iconUrl": "https://raw.githubusercontent.com/aytzey/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
     "apiVersion": 1,
     "fileHash": "sha256-13c887884db38914ddd63d92df5965f2f950ca6b15b0a4aac989a4a048f6e746",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/KraptorPlus.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/KraptorPlus.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/MirrorVerse.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/MirrorVerse.cs3",
     "status": 1,
     "version": 38,
     "name": "MirrorVerse",
@@ -2633,10 +2678,10 @@
     "iconUrl": "https://raw.githubusercontent.com/aytzey/cs-kraptor/refs/heads/master/.github/icons/logo/mirrorverseicon.png",
     "apiVersion": 1,
     "fileHash": "sha256-575a767a7dda111c69b83ca35f996d220b422e6488734c3209c7b320e5fc982a",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/MirrorVerse.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/MirrorVerse.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/OnePaceTr.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/OnePaceTr.cs3",
     "status": 1,
     "version": 13,
     "name": "OnePaceTr",
@@ -2654,10 +2699,10 @@
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.onepacetr.net/&size=128",
     "apiVersion": 1,
     "fileHash": "sha256-b5261b29c0eb30c144252579fcafeb723cedd1032df89265d92fefee398ffe19",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/OnePaceTr.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/OnePaceTr.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/OpenAnime.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/OpenAnime.cs3",
     "status": 1,
     "version": 28,
     "name": "OpenAnime",
@@ -2677,10 +2722,10 @@
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openani.me/&size=24",
     "apiVersion": 1,
     "fileHash": "sha256-49114c1d6b31b21491f7d93383601e3cbceec9fa960978efe09ee67baa488e0f",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/OpenAnime.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/OpenAnime.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SeiCode.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/SeiCode.cs3",
     "status": 1,
     "version": 25,
     "name": "SeiCode",
@@ -2700,10 +2745,10 @@
     "iconUrl": "https://seicode.net/favicon.png",
     "apiVersion": 1,
     "fileHash": "sha256-42f7c9672c0d4d104acfdfb374bcfade2a09b375b217e876299aba182907604d",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SeiCode.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/SeiCode.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SelcukFlix.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/SelcukFlix.cs3",
     "status": 1,
     "version": 49,
     "name": "SelcukFlix",
@@ -2722,10 +2767,10 @@
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=selcukflix.com",
     "apiVersion": 1,
     "fileHash": "sha256-4d77eace4b9b109141cb910b3aaa387cc39e78155d53a473e80ca36d94a94aee",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SelcukFlix.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/SelcukFlix.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sinezy.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Sinezy.cs3",
     "status": 1,
     "version": 40,
     "name": "Sinezy",
@@ -2743,10 +2788,10 @@
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://sinezy.fit&size=128",
     "apiVersion": 1,
     "fileHash": "sha256-4c99a833692c5945f4985b5a4dfdd39bbad36e508e0a155cb30ed71077111c54",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sinezy.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Sinezy.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/TrAnimeIzle.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/TrAnimeIzle.cs3",
     "status": 1,
     "version": 15,
     "name": "TrAnimeIzle",
@@ -2764,10 +2809,10 @@
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.tranimeizle.io/&size=128",
     "apiVersion": 1,
     "fileHash": "sha256-60004911f1d3104d68363371eca10ea21db0bc77ff9cea7b18eb38e0fb1d38b0",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/TrAnimeIzle.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/TrAnimeIzle.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Turkdizileri.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Turkdizileri.cs3",
     "status": 1,
     "version": 33,
     "name": "Turkdizileri",
@@ -2785,10 +2830,10 @@
     "iconUrl": "https://i.imgur.com/Cff8v6J.png",
     "apiVersion": 1,
     "fileHash": "sha256-516a65f7709c43d4861242b5c9c82565766e4e7f989ac8dbf4c35a1e10aa4e60",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Turkdizileri.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Turkdizileri.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/WFilmizle.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/WFilmizle.cs3",
     "status": 1,
     "version": 23,
     "name": "WFilmizle",
@@ -2806,10 +2851,10 @@
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://wfilmizle.bar&size=128",
     "apiVersion": 1,
     "fileHash": "sha256-9c9073f5da2421fdffa28262d3acfa153cd3bc9ebe1feba352cf4899d9025a67",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/WFilmizle.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/WFilmizle.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YeniKaynak.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/YeniKaynak.cs3",
     "status": 1,
     "version": 11,
     "name": "YeniKaynak",
@@ -2829,10 +2874,10 @@
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.yenikaynak.com/&size=16",
     "apiVersion": 1,
     "fileHash": "sha256-d4663850949c70fb2f14dabd8bfacb7848465439cc22251a4d6f891a350b76b6",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YeniKaynak.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/YeniKaynak.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YesilCamTv.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/YesilCamTv.cs3",
     "status": 1,
     "version": 9,
     "name": "YesilCamTv",
@@ -2850,6 +2895,6 @@
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yesilcamtv.com.tr&size=64",
     "apiVersion": 1,
     "fileHash": "sha256-062e14cb3ad9238f9560a178e8f4b1093933afdc13dc66c79aa21dcb5d27e3f0",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YesilCamTv.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/YesilCamTv.cs3"
   }
 ]
