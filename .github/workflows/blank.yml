@@ -31,7 +31,7 @@ jobs:
       - name: Bağımlılıkları Kur
         run: npm install node-fetch@2
 
-      # --- 1. ADIM: .CS3 DOSYALARINI İNDİR VE PLUGINS.JSON GÜNCELLE (NODE.JS) ---
+      # --- 1. ADIM: .CS3 DOSYALARINI İNDİR VE PLUGINS.JSON / BACKUP-PLUGINS.JSON GÜNCELLE (NODE.JS) ---
       - name: Pluginleri Indir ve JSON Guncelle
         run: |
           node - <<'NODE'
@@ -137,7 +137,6 @@ jobs:
                       const buffer = await fileRes.buffer();
                       fs.writeFileSync(localFilePath, buffer);
                     } else {
-                      // Kaynak dosya indirilemezse ama yerelde zaten varsa, silinmemesi için koruma
                       if (fs.existsSync(localFilePath)) shouldDownload = false;
                     }
                   } catch (err) {
@@ -148,6 +147,8 @@ jobs:
 
                 const githubRepoUser = "mooncrown04";
                 const githubRepoName = "depolar";
+                
+                // plugins.json için kendi deponuzdaki raw linki atıyoruz
                 remote.url = `https://raw.githubusercontent.com/${githubRepoUser}/${githubRepoName}/main/plugins/${repoOwner}/${fileName}`;
                 remote.downloadUrl = remote.url;
 
@@ -198,13 +199,27 @@ jobs:
             }
 
             const finalPluginsArray = Array.from(mergedMap.values());
-            const finalJsonString = JSON.stringify(finalPluginsArray, null, 2);
-
+            
             // 1. Ana plugins.json dosyasını kaydet
-            fs.writeFileSync('plugins.json', finalJsonString);
+            fs.writeFileSync('plugins.json', JSON.stringify(finalPluginsArray, null, 2));
 
-            // 2. Ekstra Güvenlik Yedekleme Dosyası Oluştur (backup-plugins.json)
-            fs.writeFileSync('backup-plugins.json', finalJsonString);
+            // 2. backup-plugins.json için nesnelerin içindeki URL'leri yerel .cs3 dosya yollarına tam olarak çevir
+            const backupPluginsArray = finalPluginsArray.map(plugin => {
+              const clone = { ...plugin };
+              // Depo sahibini açıklama metninden veya URL yapısından bulup klasör yolunu ayarlıyoruz
+              const match = clone.description && clone.description.match(/(?:🆕|🔴)\s+([^\s]+)/);
+              const owner = match ? match[1] : "Bilinmiyor";
+              
+              if (clone.url && clone.url.endsWith('.cs3')) {
+                const fileName = path.basename(clone.url);
+                const localCs3Url = `https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/${owner}/${fileName}`;
+                clone.url = localCs3Url;
+                clone.downloadUrl = localCs3Url;
+              }
+              return clone;
+            });
+
+            fs.writeFileSync('backup-plugins.json', JSON.stringify(backupPluginsArray, null, 2));
           })();
           NODE
 
@@ -318,4 +333,4 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add plugins.json backup-plugins.json README.md plugins/
-          git diff --staged --quiet || (git commit -m "Auto-update: plugins, backup and README" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
+          git diff --staged --quiet || (git commit -m "Auto-update: plugins, backup-plugins and README" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
