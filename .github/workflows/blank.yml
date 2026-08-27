@@ -1,4 +1,204 @@
-# --- 2. ADIM: README TABLO OLUŞTURUCU (PYTHON) ---
+name: Eklenti ve README Yoneticisi
+
+on:
+  schedule:
+    - cron: '30 20 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/**'
+      - 'plugins.json'
+
+jobs:
+  build-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Depoyu Klonla
+        uses: actions/checkout@v4
+
+      - name: Node.js Kurulumu
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      
+      - name: Python Kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Bağımlılıkları Kur
+        run: npm install node-fetch@2
+
+      # --- 1. ADIM: .CS3 DOSYALARINI İNDİR VE PLUGINS.JSON GÜNCELLE (NODE.JS) ---
+      - name: Pluginleri Indir ve JSON Guncelle
+        run: |
+          node - <<'NODE'
+          const fetch = require('node-fetch');
+          const fs = require('fs');
+          const path = require('path');
+
+          const urls = [
+            'https://raw.githubusercontent.com/pltmustafa/plt-stream/builds/plugins.json',
+            'https://raw.githubusercontent.com/patr0nq/patr0n-cs/refs/heads/builds/plugins.json',         
+            'https://raw.githubusercontent.com/ctnkyaumt/cstest/refs/heads/builds/plugins.json',
+            'https://raw.githubusercontent.com/patr0nq/cstestAddons/refs/heads/builds/plugins.json',
+            'https://raw.githubusercontent.com/caca1403/cloudstream-cagi-eklenti/refs/heads/main/plugins.json',
+            'https://raw.githubusercontent.com/marrem/cs-Kekik/builds/plugins.json',
+            'https://raw.githubusercontent.com/feroxx/Kekik-cloudstream/builds/plugins.json',
+            'https://raw.githubusercontent.com/aytzey/cs-kraptor/refs/heads/builds/plugins.json',
+            'https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/plugins.json',
+            'https://raw.githubusercontent.com/Sertel392/Makotogecici/main/plugins.json',
+            'https://raw.githubusercontent.com/GitLatte/Sinetech/builds/plugins.json',
+            'https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/plugins.json'
+          ];
+
+          const selectiveUrls = [
+            {
+              url: 'https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/builds/plugins.json',
+              allowedPlugins: [
+                { owner: "SaurabhKaperwan", name: "Bollyflix" }
+              ]
+            }
+          ];
+
+          const specificBlacklist = [
+            { owner: "ramazansancar", name: "GolgeTV" },
+            { owner: "ramazansancar", name: "powerdizi" },
+            { owner: "ramazansancar", name: "powersinema" }
+          ];
+
+          const PLUGIN_DIR = 'plugins';
+          if (!fs.existsSync(PLUGIN_DIR)) {
+            fs.mkdirSync(PLUGIN_DIR, { recursive: true });
+          }
+
+          function normalizeVersion(v) {
+            return String(v || '0.0.0').replace(/^v/i, '').trim();
+          }
+
+          function getStandardKey(p) {
+            const raw = p.name || p.id || "";
+            return raw.toLowerCase().replace(/\s+/g, '').replace(/i/g, 'ı').trim();
+          }
+
+          function getRepoOwner(url) {
+            const match = url.match(/githubusercontent\.com\/([^/]+)/);
+            return match ? match[1] : "Unknown";
+          }
+
+          async function processPlugins(targetUrl, isSelective, allowedList, mergedMap, today) {
+            try {
+              const res = await fetch(targetUrl);
+              if (!res.ok) return;
+              const remotePlugins = await res.json();
+              const repoOwner = getRepoOwner(targetUrl);
+
+              for (const remote of remotePlugins) {
+                if (Array.isArray(remote.tvTypes) && remote.tvTypes.includes('NSFW')) continue;
+                
+                const pluginUrl = remote.url || remote.downloadUrl || "";
+                if (!pluginUrl || !pluginUrl.endsWith('.cs3')) continue;
+
+                const pluginName = (remote.name || "").toLowerCase().trim();
+                const pluginInternal = (remote.internalName || "").toLowerCase().trim();
+                
+                const isBlocked = specificBlacklist.some(b => 
+                  b.owner.toLowerCase() === repoOwner.toLowerCase() && 
+                  (b.name.toLowerCase() === pluginName || b.name.toLowerCase() === pluginInternal)
+                );
+                if (isBlocked) continue;
+
+                if (isSelective) {
+                  const isAllowed = allowedList.some(a => 
+                    a.owner.toLowerCase() === repoOwner.toLowerCase() && 
+                    (a.name.toLowerCase() === pluginName || a.name.toLowerCase() === pluginInternal)
+                  );
+                  if (!isAllowed) continue;
+                }
+
+                const key = getStandardKey(remote);
+                const existing = mergedMap.get(key);
+                if (!remote.language && !remote.lang) remote.language = "tr";
+
+                const fileName = path.basename(pluginUrl);
+                const localFilePath = path.join(PLUGIN_DIR, fileName);
+                
+                let shouldDownload = true;
+                if (existing && normalizeVersion(existing.version) === normalizeVersion(remote.version) && fs.existsSync(localFilePath)) {
+                  shouldDownload = false;
+                }
+
+                if (shouldDownload) {
+                  try {
+                    const fileRes = await fetch(pluginUrl);
+                    if (fileRes.ok) {
+                      const buffer = await fileRes.buffer();
+                      fs.writeFileSync(localFilePath, buffer);
+                    }
+                  } catch (err) {
+                    console.error(`${fileName} indirilemedi: ${err.message}`);
+                    if (fs.existsSync(localFilePath)) shouldDownload = false;
+                  }
+                }
+
+                const githubRepoUser = "mooncrown04";
+                const githubRepoName = "depolar";
+                remote.url = `https://raw.githubusercontent.com/${githubRepoUser}/${githubRepoName}/main/plugins/${fileName}`;
+                remote.downloadUrl = remote.url;
+
+                if (!existing) {
+                  remote.description = `🆕 ${repoOwner} ${today} ${(remote.description || '')}`;
+                  mergedMap.set(key, remote);
+                } else {
+                  const vRemote = normalizeVersion(remote.version);
+                  const vExisting = normalizeVersion(existing.version);
+                  if (vRemote !== vExisting) {
+                    let cleanDesc = (remote.description || '').replace(/^(🔴|🆕).*?\d{2}\.\d{2}\.\d{4}/g, '').trim();
+                    remote.description = `🔴 ${repoOwner} ${today} ${cleanDesc}`;
+                    mergedMap.set(key, remote);
+                  } else {
+                    mergedMap.set(key, existing);
+                  }
+                }
+              }
+            } catch (e) { console.error(`${targetUrl} hatası: ${e.message}`); }
+          }
+
+          (async () => {
+            const mergedMap = new Map();
+            const today = new Date().toLocaleDateString('tr-TR');
+
+            if (fs.existsSync('plugins.json')) {
+              try {
+                const oldContent = JSON.parse(fs.readFileSync('plugins.json', 'utf8'));
+                for (const p of oldContent) {
+                  const pName = (p.name || "").toLowerCase().trim();
+                  const pInternal = (p.internalName || "").toLowerCase().trim();
+                  const isOldBlocked = specificBlacklist.some(b => 
+                    b.owner.toLowerCase() === "ramazansancar" && 
+                    (b.name.toLowerCase() === pName || b.name.toLowerCase() === pInternal)
+                  );
+                  if (isOldBlocked) continue;
+                  mergedMap.set(getStandardKey(p), p);
+                }
+              } catch (e) { console.log("Eski dosya okunamadı veya boş."); }
+            }
+
+            for (const url of urls) {
+              await processPlugins(url, false, [], mergedMap, today);
+            }
+
+            for (const item of selectiveUrls) {
+              await processPlugins(item.url, true, item.allowedPlugins, mergedMap, today);
+            }
+
+            fs.writeFileSync('plugins.json', JSON.stringify(Array.from(mergedMap.values()), null, 2));
+          })();
+          NODE
+
+      # --- 2. ADIM: README TABLO OLUŞTURUCU (PYTHON) ---
       - name: README.md Guncelle
         shell: python
         run: |
@@ -98,3 +298,12 @@
               f"|:----:|:------------|:------|:------|:-------|:----:|\n"
           )
           Path("README.md").write_text(header + "\n".join(rows), encoding="utf-8")
+
+      - name: Commit and Push
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add plugins.json README.md plugins/
+          git diff --staged --quiet || (git commit -m "Auto-update: plugins and README" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
