@@ -284,12 +284,14 @@ jobs:
                   f"> 📌 **Bugünkü Güncelleme Özeti ({today_str})**: Bugün yeni eklenen veya güncellenen eklenti bulunmuyor.\n\n"
               )
 
+          stats_line = "🆕 Yeni Eklentiler: " + str(new_count) + " &nbsp;|&nbsp; 🔴 Güncellenenler: " + str(updated_count)
+
           header = (
               f"### Son Güncelleme: {full_date}\n\n"
               f"### Toplam Eklenti: `{len(plugins)}`\n\n"
               f"{daily_summary}"
               f"### 📊 Son 60 Günlük Durum Özeti\n"
-              f"🆕 Yeni Eklentiler: `{new_count}`&nbsp;&nbsp;|&nbsp;&nbsp;🔴 Güncellenenler: `{updated_count}`\n\n"
+              f"{stats_line}\n\n"
               f"---\n### Depo Sahibi:\n"
               f"[<img src='{OWNER_AVATAR}' width='48' style='border-radius:50%;'>]({OWNER_PROFILE})  \n"
               f"**[{OWNER}]({OWNER_PROFILE})**\n\n"
