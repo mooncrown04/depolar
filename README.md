@@ -1,4 +1,4 @@
-### Son Güncelleme: 27.08.2026 15:37
+### Son Güncelleme: 27.08.2026 16:06
 
 ### Toplam Eklenti: `136`
 
@@ -13,7 +13,7 @@
   * **ramazansancar:** `AnimeciX`, `CizgiMax`, `Ddizi`, `DiziKorea`, `DiziMom`, `DiziPal`, `DiziYou`, `Dizilla`, `FilmMakinesi`, `FilmModu`, `FullHDFilm`, `FullHDFilmizlesene`, `HDFilmCehennemi`, `HDFilmIzle`, `KoreanTurk`, `KultFilmler`, `NetflixMirror`, `RareFilmm`, `SetFilmIzle`, `SezonlukDizi`, `SinemaCX`, `SuperFilmGeldi`, `TLCTR`, `TurkAnime`, `TvDiziler`, `UgurFilm`, `Watch2Movies`, `WebteIzle`, `YTS`, `YabanciDizi`, `YouTube`
 
 ### 📊 Son 60 Günlük Durum Özeti
-### 🆕 Yeni Eklentiler: `39` | 🔴 Güncellenenler: `54`
+🆕 Yeni Eklentiler: `39` | 🔴 Güncellenenler: `54`
 
 ---
 ### Depo Sahibi:
