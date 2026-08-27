@@ -294,10 +294,8 @@ jobs:
               f"### Son Güncelleme: {full_date}\n\n"
               f"### Toplam Eklenti: `{len(plugins)}`\n\n"
               f"{daily_summary}"
-              summary_text = (
-              "### 📊 Son 60 Günlük Durum Özeti\n"
-              f"### 🆕 Yeni Eklentiler: `{new_count}` | 🔴 Güncellenenler: `{updated_count}`\n\n")
-              print(summary_text)
+              f"### 📊 Son 60 Günlük Durum Özeti\n"
+              f"### 🆕 Yeni Eklentiler: `{new_count}` | 🔴 Güncellenenler: `{updated_count}`\n\n"
               f"---\n### Depo Sahibi:\n"
               f"[<img src='{OWNER_AVATAR}' width='48' style='border-radius:50%;'>]({OWNER_PROFILE})  \n"
               f"**[{OWNER}]({OWNER_PROFILE})**\n\n"
