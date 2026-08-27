@@ -290,7 +290,7 @@ jobs:
                   f"> 📌 **Bugünkü Güncelleme Özeti ({today_str})**: Bugün yeni eklenen veya güncellenen eklenti bulunmuyor.\n\n"
               )
 
-         header = (
+              header = (
               f"### Son Güncelleme: {full_date}\n\n"
               f"### Toplam Eklenti: `{len(plugins)}`\n\n"
               f"{daily_summary}"
