@@ -1,4 +1,4 @@
-### Son Güncelleme: 27.08.2026 16:15
+### Son Güncelleme: 27.08.2026 16:21
 
 ### Toplam Eklenti: `136`
 
@@ -12,8 +12,8 @@
   * **feroxx:** `DiziPalOriginal`, `TRasyalog`
   * **ramazansancar:** `AnimeciX`, `CizgiMax`, `Ddizi`, `DiziKorea`, `DiziMom`, `DiziPal`, `DiziYou`, `Dizilla`, `FilmMakinesi`, `FilmModu`, `FullHDFilm`, `FullHDFilmizlesene`, `HDFilmCehennemi`, `HDFilmIzle`, `KoreanTurk`, `KultFilmler`, `NetflixMirror`, `RareFilmm`, `SetFilmIzle`, `SezonlukDizi`, `SinemaCX`, `SuperFilmGeldi`, `TLCTR`, `TurkAnime`, `TvDiziler`, `UgurFilm`, `Watch2Movies`, `WebteIzle`, `YTS`, `YabanciDizi`, `YouTube`
 
-### 📊 Son 60 Günlük Durum Özeti
-🆕 Yeni Eklentiler: 39 &nbsp;|&nbsp; 🔴 Güncellenenler: 54
+### 📊 Son 15 Günlük Durum Özeti
+🆕 Yeni Eklentiler: 39 &nbsp;|&nbsp; 🔴 Güncellenenler: 49
 
 ---
 ### Depo Sahibi:
@@ -30,7 +30,7 @@
 | — | **AnimeciX** | 27.08.2026 | 🔴 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeler.pw/&size=128" width="30" style="border-radius:4px;"> | **Animeler** | 27.08.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://play-lh.googleusercontent.com/BIE1R3FVOpIoCPxkx3Erfuw5sVc5wVIbeHAcRuTUGesuvc1S1Cr6KYumGVbn7xABuLc=w240-h480" width="30" style="border-radius:4px;"> | **Animely** | 27.08.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://cdn-icons-png.flaticon.com/512/2281/2281832.png" width="30" style="border-radius:4px;"> | **AnimeSiteleri** | 14.07.2026 | 🔴 | `caca1403` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://cdn-icons-png.flaticon.com/512/2281/2281832.png" width="30" style="border-radius:4px;"> | **AnimeSiteleri** | 14.07.2026 | ⚪ | `caca1403` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animpow.com/&size=128" width="30" style="border-radius:4px;"> | **AnimPow** | 27.08.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/aniworld.png" width="30" style="border-radius:4px;"> | **AniworldMC** | 03.04.2026 | ⚪ | `GitLatte` | <img src="https://flagcdn.com/w20/de.png" width="20" alt="de"> |
 | <img src="https://anizium.co/assets/images/logo.png" width="30" style="border-radius:4px;"> | **Anizium** | 27.08.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -39,7 +39,7 @@
 | <img src="https://asyafilmizlesene.org/wp-content/uploads/2022/09/rsm.png" width="30" style="border-radius:4px;"> | **AsyaFilmIzlesene** | 03.04.2026 | ⚪ | `Sertel392` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaminik.com/&size=128" width="30" style="border-radius:4px;"> | **AsyaMinik** | 27.08.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **AsyaWatch** | 27.08.2026 | 🔴 | `Sertel392` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://images.unsplash.com/photo-1500485035595-cbe6f645feb1?w=512&q=80" width="30" style="border-radius:4px;"> | **BelgeselProvider** | 30.07.2026 | 🔴 | `caca1403` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://images.unsplash.com/photo-1500485035595-cbe6f645feb1?w=512&q=80" width="30" style="border-radius:4px;"> | **BelgeselProvider** | 30.07.2026 | ⚪ | `caca1403` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **BelgeselX** | 27.08.2026 | 🔴 | `Sertel392` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/master/Bollyflix/icon.png" width="30" style="border-radius:4px;"> | **Bollyflix** | 18.08.2026 | 🆕 | `SaurabhKaperwan` | <img src="https://flagcdn.com/w20/in.png" width="20" alt="hi"> |
 | <img src="https://img.freepik.com/premium-vector/tv-television-logo-live-streaming-design_332533-53.jpg" width="30" style="border-radius:4px;"> | **CanliTv** | 27.08.2026 | 🔴 | `Sertel392` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -52,7 +52,7 @@
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diziasya.com&size=32" width="30" style="border-radius:4px;"> | **DiziAsya** | 27.08.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **DiziBox** | 27.08.2026 | 🔴 | `Sertel392` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizifilm.org/dizi/breaking-bad/sezon-1/bolum-2&size=128" width="30" style="border-radius:4px;"> | **DiziFilmORG** | 27.08.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://cdn-icons-png.flaticon.com/512/3163/3163478.png" width="30" style="border-radius:4px;"> | **DiziFilmSiteleri** | 10.08.2026 | 🔴 | `caca1403` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://cdn-icons-png.flaticon.com/512/3163/3163478.png" width="30" style="border-radius:4px;"> | **DiziFilmSiteleri** | 10.08.2026 | ⚪ | `caca1403` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://dizifun3.com/images/data/darklogo.png" width="30" style="border-radius:4px;"> | **DiziFun - Latte** | 03.04.2026 | ⚪ | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizigecesi.com/tr&size=128" width="30" style="border-radius:4px;"> | **Dizigecesi** | 27.08.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **DiziGom** | 19.05.2026 | ⚪ | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -126,7 +126,7 @@
 | — | **SuperFilmGeldi** | 27.08.2026 | 🔴 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=yandex.com.tr" width="30" style="border-radius:4px;"> | **Syncler** | 14.05.2026 | ⚪ | `ByAyzen` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **Tafdi** | 03.04.2026 | ⚪ | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://cdn-icons-png.flaticon.com/512/3075/3075908.png" width="30" style="border-radius:4px;"> | **TelevizyonEklentileri** | 30.07.2026 | 🔴 | `caca1403` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://cdn-icons-png.flaticon.com/512/3075/3075908.png" width="30" style="border-radius:4px;"> | **TelevizyonEklentileri** | 30.07.2026 | ⚪ | `caca1403` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org" width="30" style="border-radius:4px;"> | **Test** | 19.08.2026 | 🆕 | `ctnkyaumt` | <img src="https://flagcdn.com/w20/un.png" width="20" alt="un"> |
 | <img src="https://www.tlctv.com.tr/favicon.ico" width="30" style="border-radius:4px;"> | **TLCTR** | 27.08.2026 | 🔴 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/New_qBittorrent_Logo.svg/2048px-New_qBittorrent_Logo.svg.png" width="30" style="border-radius:4px;"> | **TorrentFilm** | 03.04.2026 | ⚪ | `Sertel392` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -144,7 +144,7 @@
 | — | **UgurFilm** | 27.08.2026 | 🔴 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://vavoo.to/&size=128" width="30" style="border-radius:4px;"> | **Vavoo** | 03.04.2026 | ⚪ | `ByAyzen` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **vavooSpor** | 03.04.2026 | ⚪ | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://cdn-icons-png.flaticon.com/512/8634/8634073.png" width="30" style="border-radius:4px;"> | **VizyonHub** | 10.08.2026 | 🔴 | `caca1403` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://cdn-icons-png.flaticon.com/512/8634/8634073.png" width="30" style="border-radius:4px;"> | **VizyonHub** | 10.08.2026 | ⚪ | `caca1403` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **Watch2Movies** | 27.08.2026 | 🔴 | `ramazansancar` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
 | <img src="https://webdramaturkey.org/public/static/logo.webp?v=1.0.19" width="30" style="border-radius:4px;"> | **WebDramaTurkey** | 27.08.2026 | 🔴 | `Sertel392` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://webdramaturkey.org/public/static/logo.webp?v=2.1.8" width="30" style="border-radius:4px;"> | **WebDramaTurkey - Latte** | 03.04.2026 | ⚪ | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
