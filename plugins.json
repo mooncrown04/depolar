@@ -991,7 +991,7 @@
     ],
     "version": 2,
     "internalName": "HDFilmIzle",
-    "description": "🔴 ramazansancar 18.08.2026 HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabancı filmlerle Türkçe dublaj veya Altyazı olarak kesintisiz film izlemenin tadını çıkarın.",
+    "description": "🔴 ramazansancar 27.08.2026 HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabancı filmlerle Türkçe dublaj veya Altyazı olarak kesintisiz film izlemenin tadını çıkarın.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/HDFilmIzle.cs3",
     "name": "HDFilmIzle",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/HDFilmIzle.cs3"
@@ -1129,7 +1129,7 @@
     ],
     "version": 1,
     "internalName": "TvDiziler",
-    "description": "🔴 ramazansancar 18.08.2026 Ücretsiz yerli dizi izleme sitesi en popüler dizileri tek parça hd kalitesiyle ve reklamsız bedava olarak buradan tv dizileri izleyin.",
+    "description": "🔴 ramazansancar 27.08.2026 Ücretsiz yerli dizi izleme sitesi en popüler dizileri tek parça hd kalitesiyle ve reklamsız bedava olarak buradan tv dizileri izleyin.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/TvDiziler.cs3",
     "name": "TvDiziler",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/TvDiziler.cs3"
@@ -1209,7 +1209,7 @@
     ],
     "version": 3,
     "internalName": "YabanciDizi",
-    "description": "🔴 ramazansancar 18.08.2026 Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
+    "description": "🔴 ramazansancar 27.08.2026 Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YabanciDizi.cs3",
     "name": "YabanciDizi",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YabanciDizi.cs3"
@@ -1230,7 +1230,7 @@
     ],
     "version": 6,
     "internalName": "YouTube",
-    "description": "🔴 ramazansancar 18.08.2026 YouTube, izlediğiniz videolarla önerilerini iyileştirir. İlginizi çekebilecek içeriklerle dolu bir akış oluşturmak için video izlemeye başlayın.",
+    "description": "🔴 ramazansancar 27.08.2026 YouTube, izlediğiniz videolarla önerilerini iyileştirir. İlginizi çekebilecek içeriklerle dolu bir akış oluşturmak için video izlemeye başlayın.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YouTube.cs3",
     "name": "YouTube",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YouTube.cs3"
@@ -1253,7 +1253,7 @@
     "version": 5,
     "internalName": "YTS",
     "jarUrl": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/YTS.jar",
-    "description": "🔴 ramazansancar 18.08.2026 YTS Movies 4K Support (Torrent)",
+    "description": "🔴 ramazansancar 27.08.2026 YTS Movies 4K Support (Torrent)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YTS.cs3",
     "name": "YTS",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YTS.cs3"
@@ -1291,7 +1291,7 @@
     ],
     "version": 3,
     "internalName": "CizgiVeDizi",
-    "description": "🔴 Sertel392 18.08.2026 Popüler çizgi film ve dizilerin Türkçe güncel kaynağı.",
+    "description": "🔴 Sertel392 27.08.2026 Popüler çizgi film ve dizilerin Türkçe güncel kaynağı.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CizgiVeDizi.cs3",
     "name": "CizgiVeDizi",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CizgiVeDizi.cs3"
@@ -1313,7 +1313,7 @@
     ],
     "version": 2,
     "internalName": "WebDramaTurkey",
-    "description": "🔴 Sertel392 18.08.2026 Asya içeriklerinin tek adresi.",
+    "description": "🔴 Sertel392 27.08.2026 Asya içeriklerinin tek adresi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/WebDramaTurkey.cs3",
     "name": "WebDramaTurkey",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/WebDramaTurkey.cs3"
@@ -2117,5 +2117,739 @@
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/plt-tv.cs3",
     "name": "plt-tv",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/plt-tv.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Animeler.cs3",
+    "status": 1,
+    "version": 41,
+    "name": "Animeler",
+    "internalName": "Animeler",
+    "authors": [
+      "kraptor",
+      "ByAyzen",
+      "kerimmkirac"
+    ],
+    "description": "🆕 aytzey 27.08.2026 HD kalitesinde ücretsiz anime izle! Animeler.me, en yeni ve popüler anime serilerini Türkçe altyazılı ve dublajlı olarak sunar. Favori animelerini hemen keşfet!",
+    "fileSize": 52348,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Anime"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeler.pw/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-221372bc17e3a7b96514ed9dbfe2d631027712970f7573ba29a43bd1c9ba2e4c",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Animeler.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Animely.cs3",
+    "status": 1,
+    "version": 4,
+    "name": "Animely",
+    "internalName": "Animely",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 27.08.2026 Animely ile en sevdiğiniz animeleri Türkçe altyazılı olarak HD kalitede izleyin. Güncel sezon animeleri, klasikler ve çok daha fazlası. Hemen ücretsiz hesap oluşturun ve anime dünyasına katılın. Binlerce bölüm anime içeriğiyle sizleri bekliyor!",
+    "fileSize": 40161,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://play-lh.googleusercontent.com/BIE1R3FVOpIoCPxkx3Erfuw5sVc5wVIbeHAcRuTUGesuvc1S1Cr6KYumGVbn7xABuLc=w240-h480",
+    "apiVersion": 1,
+    "fileHash": "sha256-ff272f0caeb3ae79ded86e10826ff5e89f1b61f0227a45e14d825107b3be4cb9",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Animely.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AnimPow.cs3",
+    "status": 1,
+    "version": 7,
+    "name": "AnimPow",
+    "internalName": "AnimPow",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 27.08.2026 AnimPow da binlerce güncel animeyi reklamsız, 1080p HD kalitesinde Türkçe altyazılı olarak ücretsiz izle! Yeni üyelere 1 haftalık 4K Video Plus anime sistemi denemesi bedava.",
+    "fileSize": 77372,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Anime"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animpow.com/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-57ab29e68b7e44673ece4049b15a20c064074560da56bdc4d4afac781f035275",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AnimPow.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Anizium.cs3",
+    "status": 1,
+    "version": 25,
+    "name": "Anizium",
+    "internalName": "Anizium",
+    "authors": [
+      "kerimmkirac",
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 27.08.2026 Anizium ile dünyada ilk ve tek 4K Türkçe dublaj platformunda anime keyfini yaşa. En yeni animeleri İngilizce altyazı ve dublaj seçenekleriyle 1080p ve 4K kalitesinde HD izle.",
+    "fileSize": 80371,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "AnimeMovie",
+      "Anime"
+    ],
+    "iconUrl": "https://anizium.co/assets/images/logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-8ae8ce4c9e53f6c95530d0ffb8070c8469f4c1d8ea93247f2ef28d6dc7e351fb",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Anizium.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AsyaFanatiklerim.cs3",
+    "status": 1,
+    "version": 22,
+    "name": "AsyaFanatiklerim",
+    "internalName": "AsyaFanatiklerim",
+    "authors": [
+      "kraptor",
+      "kerimmkirac"
+    ],
+    "description": "🆕 aytzey 27.08.2026 Asya Fanatikleri, asya dizilerini izleme imkanı sunar. Kore dizileri izle, asyafanatikleri kore dizileri, tayvan dizileri izle, çin dizileri izle, anime izle.",
+    "fileSize": 28598,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "iconUrl": "https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-65e9260e4266b065895d6c5ff03ca8751021176cd20a2f031c8eb6d6cab12910",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AsyaFanatiklerim.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AsyaMinik.cs3",
+    "status": 0,
+    "version": 17,
+    "name": "AsyaMinik",
+    "internalName": "AsyaMinik",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "🆕 aytzey 27.08.2026 Asyaminik - En Güncel Asya Dizileri Burada!",
+    "fileSize": 27275,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaminik.com/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-4a72eff8d5fa0cfa866f6bdcc11de28772fc023d559a692b2c72c09c9638d6cb",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/AsyaMinik.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziAsia.cs3",
+    "status": 1,
+    "version": 20,
+    "name": "DiziAsia",
+    "internalName": "DiziAsia",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "description": "🆕 aytzey 27.08.2026 DiziAsia - Asya Dizileri İzle",
+    "fileSize": 25718,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=diziasia.com",
+    "apiVersion": 1,
+    "fileHash": "sha256-3ef24a02d63c5d5aab53a20a4d2435221d45790c8c75005c6ab17ca2cca40a29",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziAsia.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziAsya.cs3",
+    "status": 1,
+    "version": 27,
+    "name": "DiziAsya",
+    "internalName": "DiziAsya",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "description": "🆕 aytzey 27.08.2026 Asya'nın en iyi Çin ve Kore dizilerini ve filmlerini keşfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kültürüne hemen adım atın!",
+    "fileSize": 39796,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diziasya.com&size=32",
+    "apiVersion": 1,
+    "fileHash": "sha256-4368a98b141603d9db6f80cdf3f68f9a6b365b23a9c733d6fbed55f9ef43993a",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziAsya.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziFilmORG.cs3",
+    "status": 1,
+    "version": 22,
+    "name": "DiziFilmORG",
+    "internalName": "DiziFilmORG",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 27.08.2026 En yeni ve popüler yerli yabancı filmleri Türkçe dublaj ve altyazılı seçeneklerle Full HD kalitede, tek parça ve kesintisiz Dizifilm.org’da izle.",
+    "fileSize": 76756,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizifilm.org/dizi/breaking-bad/sezon-1/bolum-2&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-0909b046ced602df5d59d4d469a87acb3481f68b34fb461f1828d1546a6fda6c",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziFilmORG.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Dizigecesi.cs3",
+    "status": 1,
+    "version": 4,
+    "name": "Dizigecesi",
+    "internalName": "Dizigecesi",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 27.08.2026 Dizigecesi ile yüksek kalitede Türkçe altyazılı yabancı dizileri kesintisiz ve reklamsız izleyebilirsiniz. Yabancı dizi izle, yabancı film izle, yabancı diziler, yabancı filmler.",
+    "fileSize": 59170,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizigecesi.com/tr&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-d4bf1c4d02c4c2d04aee0182865ad93ff932b1cebb162ee5c75769caed4ff822",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Dizigecesi.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziLife.cs3",
+    "status": 1,
+    "version": 58,
+    "name": "DiziLife",
+    "internalName": "DiziLife",
+    "authors": [
+      "kerimmkirac",
+      "kraptor",
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 27.08.2026 Dizilife yabancı dizi ve film izlemek için tasarlanmış bir platformdur. Tüm dünyadan yerli/yabancı bütün dizileri ve filmleri ücretsiz ve donmadan izleyebilirsiniz.",
+    "fileSize": 82740,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dizi18.life",
+    "apiVersion": 1,
+    "fileHash": "sha256-4028b03eb80e9b60183f45401b49d5c253162e11dd279747b98e4ba5dbff5ea3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziLife.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziPalOrijinal.cs3",
+    "status": 1,
+    "version": 45,
+    "name": "DiziPalOrijinal",
+    "internalName": "DiziPalOrijinal",
+    "authors": [
+      "kraptor",
+      "kerimmkirac",
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 27.08.2026 DiziPal Orijinal.",
+    "fileSize": 160865,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal932.com&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-676a6380e361598442b8da658761d03d53b39a66456a916e7508d5d47971e82e",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziPalOrijinal.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Dizipod.cs3",
+    "status": 1,
+    "version": 12,
+    "name": "Dizipod",
+    "internalName": "Dizipod",
+    "authors": [
+      "kraptor",
+      "ByAyzen ",
+      "kerimmkirac"
+    ],
+    "description": "🆕 aytzey 27.08.2026 Güncel diziler, son eklenen yabancı dizileri bu sayfadan takip edebilirsiniz. Son eklenen yabancı dizileri donmadan izlemek için bizi takip etmeye devam edin.",
+    "fileSize": 79339,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "AsianDrama"
+    ],
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipod.com&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-64c82bbd92dda72ea00e666e7488ae876d4f456ec5144347071e2616ae58d2c5",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Dizipod.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziYo.cs3",
+    "status": 1,
+    "version": 74,
+    "name": "DiziYo",
+    "internalName": "DiziYo",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 27.08.2026 Diziyo ile Yabancı Dizi, Film, Anime, Çizgi-Film izle.",
+    "fileSize": 36750,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "iconUrl": "https://i.imgur.com/zQYsL6Z.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-2fd00b01979aec233433cf0030320dd03a4b9881dbe8cec4c8908b3ea67ec8f0",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DiziYo.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DramaDizilerim.cs3",
+    "status": 1,
+    "version": 3,
+    "name": "DramaDizilerim",
+    "internalName": "DramaDizilerim",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "🆕 aytzey 27.08.2026 Shorts formatında en popüler Kore dizileri, Çin dizileri, Asya dizileri ve drama içerikleri.",
+    "fileSize": 23825,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dramadizilerim.com",
+    "apiVersion": 1,
+    "fileHash": "sha256-38936f72e0f14bfb61886b24747fc25584f31911b7990acda7e7e2ee179059cd",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/DramaDizilerim.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FilmEkseni.cs3",
+    "status": 1,
+    "version": 50,
+    "name": "FilmEkseni",
+    "internalName": "FilmEkseni",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 27.08.2026 Film Ekseni ⚡ Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
+    "fileSize": 71994,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmekseni.net/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-b14d8915a8d72bd25590037be0f1a74946ec755995ed3896a452f3b547a1b3f2",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FilmEkseni.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FilmHane.cs3",
+    "status": 1,
+    "version": 43,
+    "name": "FilmHane",
+    "internalName": "FilmHane",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "fileSize": 60857,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbK_Pe3vpG-yUVt1NvckDpaD6COLDitImrBUnHfAVA4fawhijE",
+    "apiVersion": 1,
+    "fileHash": "sha256-02df47ed1de0d7771432f726955de1cb4b6078f3e7d7437d632cebbe0c6af676",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/FilmHane.cs3",
+    "description": "🆕 aytzey 27.08.2026 "
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Filmzal.cs3",
+    "status": 1,
+    "version": 16,
+    "name": "Filmzal",
+    "internalName": "Filmzal",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "🆕 aytzey 27.08.2026 Filmzal: HD Film izle, Tv-Seriallar - HD Film izle, Azerbaycanca Dublaj film izle, Türkçe Dublaj Film İzle",
+    "fileSize": 38536,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "az",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmzal.me/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-fad36234a9273e3660d41979e369c3898753e4e566b28ab6a1c61d1bcfdf0c5c",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Filmzal.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GinikoCanli.cs3",
+    "status": 1,
+    "version": 15,
+    "name": "GinikoCanli",
+    "internalName": "GinikoCanli",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "🆕 aytzey 27.08.2026 Vpn Gerekli! Dünyanın tüm ülkelerinden ücretsiz çevrimiçi TV.",
+    "fileSize": 17904,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://www.giniko.com/images/favicon.ico",
+    "apiVersion": 1,
+    "fileHash": "sha256-74d715346d47a7c0706e464c81fbec9cde1a758c1e7afebea839da1d68820ae9",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GinikoCanli.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/HDFilmDelisi.cs3",
+    "status": 1,
+    "version": 18,
+    "name": "HDFilmDelisi",
+    "internalName": "HDFilmDelisi",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 27.08.2026 En yeni ve popüler filmleri Türkçe dublaj ve altyazı seçenekleriyle Full HD kalitede izleyin. Binlerce film tek tıkla sizlerle!",
+    "fileSize": 85336,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hdfilmdelisi.one/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-96dfb25c05dc3825bc2b1f9d87b70a9692abdfbea871f65c3cea19f77870a75d",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/HDFilmDelisi.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/KickTR.cs3",
+    "status": 1,
+    "version": 17,
+    "name": "KickTR",
+    "internalName": "KickTR",
+    "authors": [
+      "ByAyzen",
+      "kraptor"
+    ],
+    "description": "🆕 aytzey 27.08.2026 Kick, canlı yayın yapılan bir platformdur. Daha gevşek kuralları ve yayıncılara daha fazla kazanç sağlamasıyla bilinir. Platform, yayıncılardan sadece %5 kesinti yapar ve bu oran diğer yayın platformlarına göre en düşük kesintilerden biridir.",
+    "fileSize": 40505,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kick.com&size=48",
+    "apiVersion": 1,
+    "fileHash": "sha256-28c407d966543b9729551a1dd7599f2ecf8d58b83c896cf64ae394749b80dd6f",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/KickTR.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/KraptorPlus.cs3",
+    "status": 1,
+    "version": 86,
+    "name": "KraptorPlus",
+    "internalName": "KraptorPlus",
+    "authors": [
+      "kraptor",
+      "Phisher98",
+      "ByAyzen",
+      "Megix"
+    ],
+    "description": "🆕 aytzey 27.08.2026 Bir çok sitenin birleştiği toplama eklenti.",
+    "fileSize": 628224,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Anime",
+      "Cartoon",
+      "AsianDrama",
+      "AnimeMovie"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/aytzey/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-13c887884db38914ddd63d92df5965f2f950ca6b15b0a4aac989a4a048f6e746",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/KraptorPlus.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/MirrorVerse.cs3",
+    "status": 1,
+    "version": 38,
+    "name": "MirrorVerse",
+    "internalName": "MirrorVerse",
+    "authors": [
+      "kraptor",
+      "NivinCNC",
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 27.08.2026 Netflix, Disney+ ve Primevideo eklentileri tek bir eklentide kendisi bir eklenti degildir bu 3 eklentiyi kurar, tüm eklentilerde altyazı netflixde dublaj desteği var.",
+    "fileSize": 140093,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/aytzey/cs-kraptor/refs/heads/master/.github/icons/logo/mirrorverseicon.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-575a767a7dda111c69b83ca35f996d220b422e6488734c3209c7b320e5fc982a",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/MirrorVerse.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/OnePaceTr.cs3",
+    "status": 1,
+    "version": 13,
+    "name": "OnePaceTr",
+    "internalName": "OnePaceTr",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "🆕 aytzey 27.08.2026 One Pace türkçe altyazılı izleme platformu.",
+    "fileSize": 31609,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Anime"
+    ],
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.onepacetr.net/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-b5261b29c0eb30c144252579fcafeb723cedd1032df89265d92fefee398ffe19",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/OnePaceTr.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/OpenAnime.cs3",
+    "status": 1,
+    "version": 28,
+    "name": "OpenAnime",
+    "internalName": "OpenAnime",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 27.08.2026 Anime izleme deneyiminizi zenginleştiren, hızlı ve etkileyici özelliklerle donatılmış, şık bir tasarıma sahip anime platformu. Anime izleme deneyiminiz, kolaylaştırıldı.",
+    "fileSize": 75097,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openani.me/&size=24",
+    "apiVersion": 1,
+    "fileHash": "sha256-49114c1d6b31b21491f7d93383601e3cbceec9fa960978efe09ee67baa488e0f",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/OpenAnime.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SeiCode.cs3",
+    "status": 1,
+    "version": 25,
+    "name": "SeiCode",
+    "internalName": "SeiCode",
+    "authors": [
+      "kraptor",
+      "ByAyzen",
+      "kerimmkirac"
+    ],
+    "description": "🆕 aytzey 27.08.2026 Seicode ile en yeni animeler keşfedin!",
+    "fileSize": 40330,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Anime"
+    ],
+    "iconUrl": "https://seicode.net/favicon.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-42f7c9672c0d4d104acfdfb374bcfade2a09b375b217e876299aba182907604d",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SeiCode.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SelcukFlix.cs3",
+    "status": 1,
+    "version": 49,
+    "name": "SelcukFlix",
+    "internalName": "SelcukFlix",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "description": "🆕 aytzey 27.08.2026 Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
+    "fileSize": 66970,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=selcukflix.com",
+    "apiVersion": 1,
+    "fileHash": "sha256-4d77eace4b9b109141cb910b3aaa387cc39e78155d53a473e80ca36d94a94aee",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/SelcukFlix.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sinezy.cs3",
+    "status": 1,
+    "version": 40,
+    "name": "Sinezy",
+    "internalName": "Sinezy",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "🆕 aytzey 27.08.2026 Yerli ve yabancı film izle! Türkçe Dublaj ve Alt Yazılı Seçenekleriyle full hd film izlemek için En çok tercih edilen adres!",
+    "fileSize": 27908,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://sinezy.fit&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-4c99a833692c5945f4985b5a4dfdd39bbad36e508e0a155cb30ed71077111c54",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sinezy.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/TrAnimeIzle.cs3",
+    "status": 1,
+    "version": 15,
+    "name": "TrAnimeIzle",
+    "internalName": "TrAnimeIzle",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "🆕 aytzey 27.08.2026 Anime izle, Anime tv, birbirinden farklı ve güzel animeleri keyifle seyredebileceğiniz Türk anime severlerin en popüler türkçe anime izleme sitesidir.",
+    "fileSize": 70894,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Anime"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.tranimeizle.io/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-60004911f1d3104d68363371eca10ea21db0bc77ff9cea7b18eb38e0fb1d38b0",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/TrAnimeIzle.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Turkdizileri.cs3",
+    "status": 1,
+    "version": 33,
+    "name": "Turkdizileri",
+    "internalName": "Turkdizileri",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 27.08.2026 TRT1, Showtv, Kanal D ve daha fazla site tek bir eklentide birleşiyor.",
+    "fileSize": 166804,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://i.imgur.com/Cff8v6J.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-516a65f7709c43d4861242b5c9c82565766e4e7f989ac8dbf4c35a1e10aa4e60",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Turkdizileri.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/WFilmizle.cs3",
+    "status": 1,
+    "version": 23,
+    "name": "WFilmizle",
+    "internalName": "WFilmizle",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 27.08.2026 Yerli ve yabancı film izle, Türkçe dublaj ve altyazı seçenekleriyle en yeni ve unutulmamış olan filmleri Full HD kalitesinde online izleyebilirsiniz.",
+    "fileSize": 59836,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://wfilmizle.bar&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-9c9073f5da2421fdffa28262d3acfa153cd3bc9ebe1feba352cf4899d9025a67",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/WFilmizle.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YeniKaynak.cs3",
+    "status": 1,
+    "version": 11,
+    "name": "YeniKaynak",
+    "internalName": "YeniKaynak",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 27.08.2026 İran Sinemasının Yeni Adresi - İran Filmleri, İran Dizileri, İslami Filmler, Dini Filmler, Dini Sinema, İslami Diziler,...",
+    "fileSize": 29282,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.yenikaynak.com/&size=16",
+    "apiVersion": 1,
+    "fileHash": "sha256-d4663850949c70fb2f14dabd8bfacb7848465439cc22251a4d6f891a350b76b6",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YeniKaynak.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YesilCamTv.cs3",
+    "status": 1,
+    "version": 9,
+    "name": "YesilCamTv",
+    "internalName": "YesilCamTv",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "🆕 aytzey 27.08.2026 Türk sinemasının unutulmaz filmler bu adreste.",
+    "fileSize": 22326,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://yesilcamtv.com.tr&size=64",
+    "apiVersion": 1,
+    "fileHash": "sha256-062e14cb3ad9238f9560a178e8f4b1093933afdc13dc66c79aa21dcb5d27e3f0",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/YesilCamTv.cs3"
   }
 ]
