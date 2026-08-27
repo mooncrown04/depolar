@@ -31,7 +31,7 @@ jobs:
       - name: Bağımlılıkları Kur
         run: npm install node-fetch@2
 
-      # --- 1. ADIM: .CS3 DOSYALARINI İNDİR VE PLUGINS.JSON GÜNCELLE (NODE.JS) ---
+      # --- 1. ADIM: .CS3 DOSYALARINI SAHİBİNİN KLASÖRÜNE İNDİR VE PLUGINS.JSON GÜNCELLE (NODE.JS) ---
       - name: Pluginleri Indir ve JSON Guncelle
         run: |
           node - <<'NODE'
@@ -68,11 +68,6 @@ jobs:
             { owner: "ramazansancar", name: "powerdizi" },
             { owner: "ramazansancar", name: "powersinema" }
           ];
-
-          const PLUGIN_DIR = 'plugins';
-          if (!fs.existsSync(PLUGIN_DIR)) {
-            fs.mkdirSync(PLUGIN_DIR, { recursive: true });
-          }
 
           function normalizeVersion(v) {
             return String(v || '0.0.0').replace(/^v/i, '').trim();
@@ -122,8 +117,14 @@ jobs:
                 const existing = mergedMap.get(key);
                 if (!remote.language && !remote.lang) remote.language = "tr";
 
+                // Her depo sahibi için ayrı klasör oluşturma (plugins/depo_sahibi)
+                const ownerDir = path.join('plugins', repoOwner);
+                if (!fs.existsSync(ownerDir)) {
+                  fs.mkdirSync(ownerDir, { recursive: true });
+                }
+
                 const fileName = path.basename(pluginUrl);
-                const localFilePath = path.join(PLUGIN_DIR, fileName);
+                const localFilePath = path.join(ownerDir, fileName);
                 
                 let shouldDownload = true;
                 if (existing && normalizeVersion(existing.version) === normalizeVersion(remote.version) && fs.existsSync(localFilePath)) {
@@ -145,7 +146,8 @@ jobs:
 
                 const githubRepoUser = "mooncrown04";
                 const githubRepoName = "depolar";
-                remote.url = `https://raw.githubusercontent.com/${githubRepoUser}/${githubRepoName}/main/plugins/${fileName}`;
+                // URL'yi yeni alt klasör yapısına göre güncelle
+                remote.url = `https://raw.githubusercontent.com/${githubRepoUser}/${githubRepoName}/main/plugins/${repoOwner}/${fileName}`;
                 remote.downloadUrl = remote.url;
 
                 if (!existing) {
@@ -246,6 +248,7 @@ jobs:
                           elif "🔴" in desc:
                               today_updates_dict[repo_name].append(name)
 
+                      # Son 15 günlük genel istatistikler ve ikonlar
                       if (now - item_date).days <= 15:
                           if "🔴" in desc: 
                               marker = "🔴"
