@@ -2009,10 +2009,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png",
-    "fileHash": "sha256-f848b0c33ad4a2578a570e2992fa2d0d38bc6b23b5a06f4f2e10af669a2aa2d6",
+    "fileHash": "sha256-82055fbb2dc3c3cf2c8957e120304122a400c529f129f71b494da621fd809885",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
-    "fileSize": 498214,
+    "fileSize": 500661,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2023,7 +2023,7 @@
       "Movie",
       "Documentary"
     ],
-    "version": 50,
+    "version": 51,
     "internalName": "plt-stream",
     "description": "🔴 pltmustafa 29.08.2026 plt-stream - Birden fazla siteden içerik sağlayan bir eklenti",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/plt-stream.cs3",
