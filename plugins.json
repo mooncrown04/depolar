@@ -782,7 +782,7 @@
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/DiziPalOriginal.cs3",
     "status": 1,
-    "version": 85,
+    "version": 86,
     "name": "DiziPalOriginal",
     "internalName": "DiziPalOriginal",
     "authors": [
@@ -790,7 +790,7 @@
       "muratcesmecioglu"
     ],
     "description": "🔴 feroxx 02.09.2026 en yeni dizileri güvenli ve hızlı şekilde sunar.",
-    "fileSize": 25010,
+    "fileSize": 25014,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
     "tvTypes": [
@@ -799,7 +799,7 @@
     ],
     "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
     "apiVersion": 1,
-    "fileHash": "sha256-ecfa458d41d6d472cfd1275bc4dac38229f1f8ea49aa24153fb15828edf55630",
+    "fileHash": "sha256-c12d0f05dbda11d93e89796adcec655e4e282d9161ec1394e567c44c15c64240",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/DiziPalOriginal.cs3"
   },
   {
@@ -1969,10 +1969,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png",
-    "fileHash": "sha256-58f73f0216486eabf62f3ad51ae1700c60586c94368142a1b113fbb03f310cc8",
+    "fileHash": "sha256-736cbd58bc614483ae22893eca1914d9552aa1e5b7ce045c00f3ec082ad9dae6",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
-    "fileSize": 508130,
+    "fileSize": 515481,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1983,9 +1983,9 @@
       "Movie",
       "Documentary"
     ],
-    "version": 52,
+    "version": 53,
     "internalName": "plt-stream",
-    "description": "🔴 pltmustafa 01.09.2026 plt-stream - Birden fazla siteden içerik sağlayan bir eklenti",
+    "description": "🔴 pltmustafa 02.09.2026 plt-stream - Birden fazla siteden içerik sağlayan bir eklenti",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/plt-stream.cs3",
     "name": "plt-stream",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/plt-stream.cs3"
@@ -2037,10 +2037,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon_party.png",
-    "fileHash": "sha256-925ce634693ec21a3fd5be166fdc41da9d3cbe76890bd525175ea617f4bc1079",
+    "fileHash": "sha256-e90a8c6ba00760f15308462ed67b5e342e429d6ba6738e12376aadd17951a552",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
-    "fileSize": 77317,
+    "fileSize": 77525,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -2049,9 +2049,9 @@
     "tvTypes": [
       "All"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "plt-party",
-    "description": "🔴 pltmustafa 01.09.2026 plt-party - Sevdiklerinizle senkronize bir şekilde izlemenizi sağlar.",
+    "description": "🔴 pltmustafa 02.09.2026 plt-party - Sevdiklerinizle senkronize bir şekilde izlemenizi sağlar.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/plt-party.cs3",
     "name": "plt-party",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/plt-party.cs3"
