@@ -62,6 +62,12 @@ jobs:
               allowedPlugins: [
                 { owner: "SaurabhKaperwan", name: "Bollyflix" }
               ]
+            },
+              {
+              url: 'https://raw.githubusercontent.com/dcenhance/dcext/main/plugins.json',
+              allowedPlugins: [
+                { owner: "dcenhance", name: "CS3MProvider" }
+              ]
             }
           ];
 
