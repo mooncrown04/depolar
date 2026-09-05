@@ -2969,7 +2969,7 @@
     "iconUrl": "https://raw.githubusercontent.com/dcenhance/dcext/main/assets/CS3M.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/dcenhance/dcext",
-    "fileSize": 6048788,
+    "fileSize": 6148527,
     "status": 1,
     "language": "en",
     "authors": [
@@ -2978,14 +2978,14 @@
     "tvTypes": [
       "Others"
     ],
-    "version": 735,
+    "version": 739,
     "internalName": "CS3MProvider",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/dcenhance/CS3MProvider.cs3",
     "name": "CS3M",
-    "description": "🆕 dcenhance 05.09.2026 CloudStream customization with themes, player tools, and private Syncplay watch parties",
-    "versionCode": 735,
-    "versionInt": 735,
-    "sha256": "64cdc8674ffe71c3a232b1c9d00f0d101fd2a2ac7699f0ed39e2188ba51f7f39",
+    "description": "🔴 dcenhance 05.09.2026 CloudStream customization with themes, player tools, and private Syncplay watch parties",
+    "versionCode": 739,
+    "versionInt": 739,
+    "sha256": "5a2a7f8c0ed16564074fd26cbe0ec891755172abf7c83c4cb8ec4cee27614a6b",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/dcenhance/CS3MProvider.cs3"
   }
 ]
