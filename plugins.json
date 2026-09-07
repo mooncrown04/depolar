@@ -266,14 +266,14 @@
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/FilmMakinesi.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "FilmMakinesi",
     "internalName": "FilmMakinesi",
     "authors": [
       "blackhope01"
     ],
     "description": "🔴 blackhope01 07.09.2026 Film Makinesi ile en yeni ve güncel filmleri Full HD kalite farkı ile izleyebilirsiniz. Film izle denildiğinde akla gelen en kaliteli film sitesi.",
-    "fileSize": 37414,
+    "fileSize": 35734,
     "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
     "language": "tr",
     "tvTypes": [
@@ -282,7 +282,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.filmmakinesi.to&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-05ca975ab3f029f28d52c2e332d7189d5c1a861143f2efb86a3b6db4760a8019",
+    "fileHash": "sha256-8367b606ae3fbeccddb7432747187c19b1f6a20343807e3fdf11967fb558ba0c",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/FilmMakinesi.cs3"
   },
   {
@@ -2439,14 +2439,14 @@
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DramaDizilerim.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "DramaDizilerim",
     "internalName": "DramaDizilerim",
     "authors": [
       "blackhope01"
     ],
-    "description": "🔴 blackhope01 06.09.2026 En popüler NetShort, DramaBox, ReelShort ve FreeReels kısa dizilerini Türkçe dublaj ve altyazı seçenekleriyle Full HD kalitede ücretsiz ve reklamsız izleyin.",
-    "fileSize": 39042,
+    "description": "🔴 blackhope01 07.09.2026 En popüler NetShort, DramaBox, ReelShort ve FreeReels kısa dizilerini Türkçe dublaj ve altyazı seçenekleriyle Full HD kalitede ücretsiz ve reklamsız izleyin.",
+    "fileSize": 32980,
     "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
     "language": "tr",
     "tvTypes": [
@@ -2454,7 +2454,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dramadizilerim.com&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-6a3ad668a60a9df1eb25087567b2a84546c93a9187c7fd22d5f708d8e2d21f86",
+    "fileHash": "sha256-923b17087497bb3cfc1bffe9bb066bf96addd5de87715c7496502026eb038925",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DramaDizilerim.cs3"
   },
   {
@@ -3534,5 +3534,158 @@
     "apiVersion": 1,
     "fileHash": "sha256-42b506a5ec91851fb3b0cd655b174e45151b7aaedd03298ada749e38b845e47b",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/ZbahisTV.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CricifyProvider.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "CricifyProvider",
+    "internalName": "CricifyProvider",
+    "authors": [
+      "NivinCNC"
+    ],
+    "description": "🆕 Wiojelt 07.09.2026 CNCVerse kaynaklı CricifyProvider canlı yayın paketi · izinli harici derleme",
+    "fileSize": 103016,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "language": "en",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-1f223766f7ab77a22b249efe4b2d039e680c2b6b8524931e92b7fa4a6987232d",
+    "externalPath": "external/CNCVerse/CricifyProvider.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CricifyProvider.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "GolgeTV",
+    "internalName": "GolgeTV",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "🆕 Wiojelt 07.09.2026 GölgeTV spor kanalları ve alternatif yayınlar",
+    "fileSize": 146979,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://golgetv.com/favicon.ico",
+    "apiVersion": 1,
+    "fileHash": "sha256-ae75a4505a7709631725b152e84432cba37893aeb59f9930e4687ccd41a38258",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/JestYayin.cs3",
+    "status": 3,
+    "version": 2,
+    "name": "JestYayin",
+    "internalName": "JestYayin",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "🆕 Wiojelt 07.09.2026 JestYayin canlı maçlar ve spor kanalları",
+    "fileSize": 142935,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://www.jestyayin970.com/logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-ec8a0f1c86bb4d6c0b5c6c01f5ba1b7dd1e03030a481ffc6b2c5455163df8794",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/JestYayin.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/LivXowProvider.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "LivXowProvider",
+    "internalName": "LivXowProvider",
+    "authors": [
+      "NivinCNC"
+    ],
+    "description": "🆕 Wiojelt 07.09.2026 CNCVerse kaynaklı LivXowProvider canlı yayın paketi · izinli harici derleme",
+    "fileSize": 112856,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "language": "en",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-f2a0c1991155f28efc2fe3ef255d3d76752818cc633cd762bd0b46636e530dc6",
+    "externalPath": "external/CNCVerse/LivXowProvider.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/LivXowProvider.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/PlayZTVProvider.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "PlayZTVProvider",
+    "internalName": "PlayZTVProvider",
+    "authors": [
+      "NivinCNC"
+    ],
+    "description": "🆕 Wiojelt 07.09.2026 CNCVerse kaynaklı PlayZTVProvider canlı yayın paketi · izinli harici derleme",
+    "fileSize": 97677,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "language": "en",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-80e4656cdab5f70f4384adef3a46f9cd1f0e37755c577faa348dd5cba6ad8c90",
+    "externalPath": "external/CNCVerse/PlayZTVProvider.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/PlayZTVProvider.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/SportzxProvider.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "SportzxProvider",
+    "internalName": "SportzxProvider",
+    "authors": [
+      "NivinCNC"
+    ],
+    "description": "🆕 Wiojelt 07.09.2026 CNCVerse kaynaklı SportzxProvider canlı yayın paketi · izinli harici derleme",
+    "fileSize": 110106,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "language": "en",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-094a5af60e39a0c837856e92e3e1c9c74dd968cdc9bc995b853f5f588d5ab834",
+    "externalPath": "external/CNCVerse/SportzxProvider.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/SportzxProvider.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DiziBal.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "DiziBal",
+    "internalName": "DiziBal",
+    "authors": [
+      "blackhope01"
+    ],
+    "description": "🆕 blackhope01 07.09.2026 En popüler yabancı dizileri yeni bölümleriyle takip edin. HBO, Netflix, Apple TV+ yapımları Türkçe altyazılı olarak dizibaL'da!",
+    "fileSize": 32983,
+    "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizibal.org&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-245d130231bacd666c5c5ac904b12f0b9e1ea1e47e6e69d57aa7e46fbc97f7a2",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DiziBal.cs3"
   }
 ]
