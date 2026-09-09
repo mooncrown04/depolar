@@ -1958,7 +1958,7 @@
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/TurkishW.cs3",
     "status": 1,
-    "version": 11,
+    "version": 13,
     "name": "TurkishW",
     "internalName": "TurkishW",
     "authors": [
@@ -1969,7 +1969,7 @@
       "nikyokki"
     ],
     "description": "🔴 ctnkyaumt 09.09.2026 Tek arama sonucu (TurkishW); bir içeriğe girince tüm kaynaklardan linkleri toplar. Film, Dizi, Anime + Canlı TV.",
-    "fileSize": 355005,
+    "fileSize": 375011,
     "repositoryUrl": "https://github.com/ctnkyaumt/cstest",
     "language": "tr",
     "tvTypes": [
@@ -1980,7 +1980,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org",
     "apiVersion": 1,
-    "fileHash": "sha256-b793eeef563dbf851166cd8ae26f0ec0c76bb715201554bbef95d1718c9b89ff",
+    "fileHash": "sha256-9344e44199e75fa66b92705551bb65678f6d518cc88a5cc461f0e53e4f84dd16",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/TurkishW.cs3"
   },
   {
