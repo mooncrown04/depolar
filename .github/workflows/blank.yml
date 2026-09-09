@@ -58,9 +58,9 @@ jobs:
 
           const selectiveUrls = [
             {
-              url: 'https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/builds/plugins.json',
+              url: 'https://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/refs/heads/builds/plugins.json',
               allowedPlugins: [
-                { owner: "SaurabhKaperwan", name: "Bollyflix" }
+                { owner: "CakesTwix", name: "SyncPlugin" }
               ]
             },
               {
