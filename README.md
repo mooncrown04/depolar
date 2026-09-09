@@ -1,6 +1,6 @@
-### Son Güncelleme: 09.09.2026 18:55
+### Son Güncelleme: 09.09.2026 19:43
 
-### Toplam Eklenti: `176`
+### Toplam Eklenti: `175`
 
 > 🚀 **Bugünkü Güncelleme Özeti (09.09.2026)**
 >
@@ -49,7 +49,6 @@
 | — | **BelgeselX** | 09.09.2026 | 🔴 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BetmatikTV.png" width="30" style="border-radius:4px;"> | **BetmatikTV** | 07.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BeyazElma.png" width="30" style="border-radius:4px;"> | **BeyazElma** | 07.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/master/Bollyflix/icon.png" width="30" style="border-radius:4px;"> | **Bollyflix** | 18.08.2026 | ⚪ | `SaurabhKaperwan` | <img src="https://flagcdn.com/w20/in.png" width="20" alt="hi"> |
 | — | **BronzeCloudSports** | 04.09.2026 | 🆕 | `murattunc05` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **CanliTV** | 09.09.2026 | 🔴 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/murattunc05/cloudstream-turkish/master/CineStream/icon.png" width="30" style="border-radius:4px;"> | **CineStream** | 04.09.2026 | 🆕 | `murattunc05` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |

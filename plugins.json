@@ -3659,6 +3659,26 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DiziBal.cs3"
   },
   {
+    "fileHash": "sha256-9308dbab730cf5a2a9daf756eae593d48d6484b82a164356400223095e5fcbb3",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/CakesTwix/cloudstream-extensions-uk",
+    "fileSize": 95384,
+    "status": 1,
+    "language": "uk",
+    "authors": [
+      "CakesTwix"
+    ],
+    "tvTypes": [
+      "Others"
+    ],
+    "version": 3,
+    "internalName": "SyncPlugin",
+    "description": "🆕 CakesTwix 09.09.2026 Синхронізація CloudStream між пристроями (закладки, продовження перегляду, налаштування, пошук, розширення). Працює з власним сервером CloudStream Sync Server.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CakesTwix/SyncPlugin.cs3",
+    "name": "SyncPlugin",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CakesTwix/SyncPlugin.cs3"
+  },
+  {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3",
     "status": 1,
     "version": 3,
@@ -3678,25 +3698,5 @@
     "apiVersion": 1,
     "fileHash": "sha256-f96b427cdb502af30591437dd4c9fd6620b96b3054fb57cebf853b1a9b69ff37",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3"
-  },
-  {
-    "fileHash": "sha256-9308dbab730cf5a2a9daf756eae593d48d6484b82a164356400223095e5fcbb3",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/CakesTwix/cloudstream-extensions-uk",
-    "fileSize": 95384,
-    "status": 1,
-    "language": "uk",
-    "authors": [
-      "CakesTwix"
-    ],
-    "tvTypes": [
-      "Others"
-    ],
-    "version": 3,
-    "internalName": "SyncPlugin",
-    "description": "🆕 CakesTwix 09.09.2026 Синхронізація CloudStream між пристроями (закладки, продовження перегляду, налаштування, пошук, розширення). Працює з власним сервером CloudStream Sync Server.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CakesTwix/SyncPlugin.cs3",
-    "name": "SyncPlugin",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CakesTwix/SyncPlugin.cs3"
   }
 ]
