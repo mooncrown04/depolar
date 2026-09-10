@@ -73,7 +73,7 @@ jobs:
           ];
 
           const specificBlacklist = [
-            { owner: "GitLatte", name: "YouTube Özel - Latte" },
+            { owner: "GitLatte", name: "YouTube \u00d6zel - Latte" },
             { owner: "ramazansancar", name: "GolgeTV" },
             { owner: "ramazansancar", name: "powerdizi" },
             { owner: "ramazansancar", name: "powersinema" }
