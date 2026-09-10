@@ -1,11 +1,11 @@
-### Son Güncelleme: 10.09.2026 14:24
+### Son Güncelleme: 10.09.2026 14:28
 
-### Toplam Eklenti: `173`
+### Toplam Eklenti: `172`
 
 > 🚀 **Bugünkü Güncelleme Özeti (10.09.2026)**
 >
 > * 🆕 **Yeni Eklenenler:**
-  * **Wiojelt:** `00 · TurkSpor'a destek ol ☕`, `CNCVerseDisneyPlus`, `CNCVerseHotstar`, `CNCVerseNetflix`, `CNCVersePrimeVideo`, `CineSimkl`, `CineTmdb`, `ClipBox`, `DDiziAlternatif`, `DiziBol`, `DiziBoxAlternatif`, `DiziFilmIzle`, `DiziRella`, `FilmIzzle`, `FlixNetwork`, `GolgeTV`, `HDFilmCehennemiAlternatif`, `HDFilmIzleInk`, `HDFilmIzleVip`, `HDFilmizleBest`, `InternetArchive`, `LiderFilmIzle`, `MovieBoxProvider`, `NetFilmizle`, `Sinemakolik`, `TrDiziIzle`
+  * **Wiojelt:** `CNCVerseDisneyPlus`, `CNCVerseHotstar`, `CNCVerseNetflix`, `CNCVersePrimeVideo`, `CineSimkl`, `CineTmdb`, `ClipBox`, `DDiziAlternatif`, `DiziBol`, `DiziBoxAlternatif`, `DiziFilmIzle`, `DiziRella`, `FilmIzzle`, `FlixNetwork`, `GolgeTV`, `HDFilmCehennemiAlternatif`, `HDFilmIzleInk`, `HDFilmIzleVip`, `HDFilmizleBest`, `InternetArchive`, `LiderFilmIzle`, `MovieBoxProvider`, `NetFilmizle`, `Sinemakolik`, `TrDiziIzle`
   * **manitux-app:** `SetFilm`
 >
 > * 🔴 **Güncellenenler:**
@@ -16,7 +16,7 @@
   * **ramazansancar:** `AnimeciX`, `BelgeselX`, `CanliTV`, `CizgiMax`, `Ddizi`, `DiziBox`, `DiziKorea`, `DiziPal`, `DiziYou`, `Dizilla`, `FilmModu`, `FullHDFilm`, `FullHDFilmizlesene`, `HDFilmCehennemi`, `InatBox`, `KoreanTurk`, `KultFilmler`, `NetflixMirror`, `RareFilmm`, `RecTV`, `SetFilmIzle`, `SineWix`, `SinemaCX`, `SuperFilmGeldi`, `TLCTR`, `TurkAnime`, `UgurFilm`, `Watch2Movies`, `YabanciDizi`
 
 ### 📊 Son 15 Günlük Durum Özeti
-🆕 Yeni Eklentiler: 52 &nbsp;|&nbsp; 🔴 Güncellenenler: 74
+🆕 Yeni Eklentiler: 51 &nbsp;|&nbsp; 🔴 Güncellenenler: 74
 
 ---
 ### Depo Sahibi:
@@ -28,7 +28,6 @@
 
 | İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
 |:----:|:------------|:------|:------|:-------|:----:|
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/support-qr.png" width="30" style="border-radius:4px;"> | **00 · TurkSpor'a destek ol ☕** | 10.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **4KFilmIzlesene** | 03.04.2026 | ⚪ | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/AltiYuzAltmisAltiFilmIzle.png" width="30" style="border-radius:4px;"> | **AltiYuzAltmisAltiFilmIzle** | 10.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **AnimeciX** | 10.09.2026 | 🔴 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
