@@ -3159,5 +3159,27 @@
     "apiVersion": 1,
     "fileHash": "sha256-f96b427cdb502af30591437dd4c9fd6620b96b3054fb57cebf853b1a9b69ff37",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.ltd&sz=%size%",
+    "fileHash": "sha256-5343bf1c0a5db32acda294b7b93bdc3b719a426362827de62f5c417e5b49cafb",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/manitux-app/cs-plugins",
+    "fileSize": 71713,
+    "status": 3,
+    "language": "tr",
+    "authors": [
+      "manitux"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 2,
+    "internalName": "SetFilm",
+    "description": "🆕 manitux-app 10.09.2026 Setfilmizle ile en yeni filmleri ve yabancı dizileri 1080p Full HD kalitesinde, Türkçe dublaj veya altyazılı seçenekleriyle donmadan izleyin. Üyelik gerektirmeden, kesintisiz film keyfi sizi bekliyor.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/manitux-app/SetFilm.cs3",
+    "name": "SetFilm",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/manitux-app/SetFilm.cs3"
   }
 ]

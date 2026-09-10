@@ -1,11 +1,12 @@
-### Son Güncelleme: 10.09.2026 10:53
+### Son Güncelleme: 10.09.2026 13:13
 
-### Toplam Eklenti: `149`
+### Toplam Eklenti: `150`
 
 > 🚀 **Bugünkü Güncelleme Özeti (10.09.2026)**
 >
 > * 🆕 **Yeni Eklenenler:**
   * **Wiojelt:** `GolgeTV`
+  * **manitux-app:** `SetFilm`
 >
 > * 🔴 **Güncellenenler:**
   * **blackhope01:** `DiziMom`, `FilmMakinesi`, `JetFilmizle`, `SezonlukDizi`, `Webteizle`
@@ -13,7 +14,7 @@
   * **ramazansancar:** `AnimeciX`, `BelgeselX`, `CanliTV`, `CizgiMax`, `Ddizi`, `DiziBox`, `DiziKorea`, `DiziPal`, `DiziYou`, `Dizilla`, `FilmModu`, `FullHDFilm`, `FullHDFilmizlesene`, `HDFilmCehennemi`, `InatBox`, `KoreanTurk`, `KultFilmler`, `NetflixMirror`, `RareFilmm`, `RecTV`, `SetFilmIzle`, `SineWix`, `SinemaCX`, `SuperFilmGeldi`, `TLCTR`, `TurkAnime`, `UgurFilm`, `Watch2Movies`
 
 ### 📊 Son 15 Günlük Durum Özeti
-🆕 Yeni Eklentiler: 29 &nbsp;|&nbsp; 🔴 Güncellenenler: 71
+🆕 Yeni Eklentiler: 30 &nbsp;|&nbsp; 🔴 Güncellenenler: 71
 
 ---
 ### Depo Sahibi:
@@ -127,6 +128,7 @@
 | — | **RoketDizi** | 03.04.2026 | ⚪ | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://selcukflix.co/assets/favicon/favicon-32x32.png" width="30" style="border-radius:4px;"> | **SelcukFlix** | 08.09.2026 | 🔴 | `feroxx` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/SelcukSports.png" width="30" style="border-radius:4px;"> | **SelcukSports** | 07.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **SetFilm** | 10.09.2026 | 🆕 | `manitux-app` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **SetFilmIzle** | 10.09.2026 | 🔴 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **SezonlukDizi** | 10.09.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **SinemaCX** | 10.09.2026 | 🔴 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
