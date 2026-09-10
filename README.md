@@ -1,6 +1,6 @@
-### Son Güncelleme: 10.09.2026 14:14
+### Son Güncelleme: 10.09.2026 14:19
 
-### Toplam Eklenti: `174`
+### Toplam Eklenti: `173`
 
 > 🚀 **Bugünkü Güncelleme Özeti (10.09.2026)**
 >
@@ -198,7 +198,6 @@
 | <img src="https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png" width="30" style="border-radius:4px;"> | **YerelDiziler** | 03.04.2026 | ⚪ | `Sertel392` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png" width="30" style="border-radius:4px;"> | **YerelProgramlar** | 03.04.2026 | ⚪ | `Sertel392` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **YouTube** | 06.09.2026 | 🔴 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/Latte%20Tube/latte-tube.png" width="30" style="border-radius:4px;"> | **YouTube Özel - Latte** | 03.04.2026 | ⚪ | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **YTPatron** | 03.04.2026 | ⚪ | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/phisher98/TVVVV/main/yts.png" width="30" style="border-radius:4px;"> | **YTS** | 06.09.2026 | 🔴 | `ramazansancar` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ZbahisTV.png" width="30" style="border-radius:4px;"> | **ZbahisTV** | 07.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
