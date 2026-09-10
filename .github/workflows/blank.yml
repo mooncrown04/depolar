@@ -73,6 +73,8 @@ jobs:
           ];
 
           const specificBlacklist = [
+            { owner: "Wiojelt", name: "00 · TurkSpor'a destek ol ☕" },
+            { owner: "GitLatte", name: "YouTube Özel - Latte" },
             { owner: "ramazansancar", name: "GolgeTV" },
             { owner: "ramazansancar", name: "powerdizi" },
             { owner: "ramazansancar", name: "powersinema" }
