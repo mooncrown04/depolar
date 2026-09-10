@@ -3099,27 +3099,6 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CakesTwix/SyncPlugin.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3",
-    "status": 1,
-    "version": 3,
-    "name": "GolgeTV",
-    "internalName": "GolgeTV",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "🆕 Wiojelt 10.09.2026 GölgeTV spor kanalları ve alternatif yayınlar",
-    "fileSize": 146713,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://golgetv.com/favicon.ico",
-    "apiVersion": 1,
-    "fileHash": "sha256-f96b427cdb502af30591437dd4c9fd6620b96b3054fb57cebf853b1a9b69ff37",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.ltd&sz=%size%",
     "fileHash": "sha256-5343bf1c0a5db32acda294b7b93bdc3b719a426362827de62f5c417e5b49cafb",
     "apiVersion": 1,
@@ -3140,5 +3119,26 @@
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/manitux-app/SetFilm.cs3",
     "name": "SetFilm",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/manitux-app/SetFilm.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3",
+    "status": 1,
+    "version": 3,
+    "name": "GolgeTV",
+    "internalName": "GolgeTV",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "🆕 Wiojelt 10.09.2026 GölgeTV spor kanalları ve alternatif yayınlar",
+    "fileSize": 146713,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://golgetv.com/favicon.ico",
+    "apiVersion": 1,
+    "fileHash": "sha256-f96b427cdb502af30591437dd4c9fd6620b96b3054fb57cebf853b1a9b69ff37",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3"
   }
 ]
