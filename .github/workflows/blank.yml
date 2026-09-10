@@ -156,7 +156,6 @@ jobs:
                 const githubRepoUser = "mooncrown04";
                 const githubRepoName = "depolar";
                 
-                // plugins.json için kendi deponuzdaki raw linki atıyoruz
                 remote.url = `https://raw.githubusercontent.com/${githubRepoUser}/${githubRepoName}/main/plugins/${repoOwner}/${fileName}`;
                 remote.downloadUrl = remote.url;
 
@@ -211,10 +210,24 @@ jobs:
             // 1. Ana plugins.json dosyasını kaydet
             fs.writeFileSync('plugins.json', JSON.stringify(finalPluginsArray, null, 2));
 
-            // 2. backup-plugins.json için nesnelerin içindeki URL'leri yerel .cs3 dosya yollarına tam olarak çevir
-            const backupPluginsArray = finalPluginsArray.map(plugin => {
+            // 2. BACKUP-PLUGINS.JSON İÇİN KALICI YEDEKLEME YÖNETİMİ
+            const backupMap = new Map();
+
+            // Eğer daha önceden oluşturulmuş bir backup-plugins.json varsa önce onu yüklüyoruz ki eksilenler kaybolmasın
+            if (fs.existsSync('backup-plugins.json')) {
+              try {
+                const oldBackupContent = JSON.parse(fs.readFileSync('backup-plugins.json', 'utf8'));
+                for (const bp of oldBackupContent) {
+                  backupMap.set(getStandardKey(bp), bp);
+                }
+              } catch (e) {
+                console.log("Eski backup-plugins.json okunamadı veya boş.");
+              }
+            }
+
+            // Güncel plugins.json listesindekileri işleyip yedek haritasına (güncel haliyle) işliyoruz
+            for (const plugin of finalPluginsArray) {
               const clone = { ...plugin };
-              // Depo sahibini açıklama metninden veya URL yapısından bulup klasör yolunu ayarlıyoruz
               const match = clone.description && clone.description.match(/(?:🆕|🔴)\s+([^\s]+)/);
               const owner = match ? match[1] : "Bilinmiyor";
               
@@ -224,10 +237,12 @@ jobs:
                 clone.url = localCs3Url;
                 clone.downloadUrl = localCs3Url;
               }
-              return clone;
-            });
+              backupMap.set(getStandardKey(clone), clone);
+            }
 
-            fs.writeFileSync('backup-plugins.json', JSON.stringify(backupPluginsArray, null, 2));
+            // Dış kaynaklardan anlık olarak gelmese bile yedekte önceden kalanlar silinmeden korunmuş olur
+            const finalBackupArray = Array.from(backupMap.values());
+            fs.writeFileSync('backup-plugins.json', JSON.stringify(finalBackupArray, null, 2));
           })();
           NODE
 
