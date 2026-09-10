@@ -1672,25 +1672,7 @@
     "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/WebDramaTurkey - Latte.cs3",
     "name": "WebDramaTurkey - Latte"
   },
-  {
-    "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/Latte%20Tube/latte-tube.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/GitLatte/Sinetech",
-    "fileSize": 13644,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "GitLatte"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
-    "version": 1,
-    "internalName": "YouTube Özel - Latte",
-    "description": "🆕 GitLatte 03.04.2026 Youtube 7/24 içeriklerinden derlemeler içerir. Orijinal youtube ile oynatılarak kullanılmaktadır. Bu konuda @feroxx`un geliştirdiği youtube extractor için teşekkürler.",
-    "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/YouTube Özel - Latte.cs3",
-    "name": "YouTube Özel - Latte"
-  },
+
   {
     "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/FilmBOL.cs3",
     "status": 1,
