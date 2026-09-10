@@ -1672,6 +1672,7 @@
     "url": "https://raw.githubusercontent.com/GitLatte/Sinetech/builds/WebDramaTurkey - Latte.cs3",
     "name": "WebDramaTurkey - Latte"
   },
+
   {
     "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/FilmBOL.cs3",
     "status": 1,
@@ -2402,6 +2403,7 @@
     "sha256": "e33a8e3b6227d32e237e61b7ad6c327bffaa7f0b44141b29c6790eba386f25c5",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/dcenhance/CS3MProvider.cs3"
   },
+
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/ArdaSpor.cs3",
     "status": 3,
@@ -3882,27 +3884,6 @@
     "apiVersion": 1,
     "fileHash": "sha256-9833cc880f76153f13f337dab355df610d6540cc7e4b88c6e828a85ed0a90872",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TrDiziIzle.cs3"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSporDestek.cs3",
-    "status": 1,
-    "version": 3,
-    "name": "00 · TurkSpor'a destek ol ☕",
-    "internalName": "TurkSporDestek",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "🆕 Wiojelt 10.09.2026 TurkSpor’a destek ol ☕ · @wiojelt · made with ♥",
-    "fileSize": 79138,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "language": "tr",
-    "tvTypes": [
-      "Others"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/support-qr.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-b8a3491acc9dbb02668fa265f0a80378965039a7267885e4e36a81e05ce00286",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSporDestek.cs3"
   },
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3",
