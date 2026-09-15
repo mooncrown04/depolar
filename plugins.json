@@ -3630,27 +3630,7 @@
     "fileHash": "sha256-9833cc880f76153f13f337dab355df610d6540cc7e4b88c6e828a85ed0a90872",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TrDiziIzle.cs3"
   },
-  {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSinemaDestek.cs3",
-    "status": 1,
-    "version": 1,
-    "name": "00 · TurkSinema'ya destek ol ☕",
-    "internalName": "TurkSinemaDestek",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "🆕 Wiojelt 11.09.2026 TurkSinema’ya destek ol ☕ · @wiojelt · made with ♥",
-    "fileSize": 4414,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Others"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/support-qr.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-aad0b8245ee3dfdf7fa0f0129cedf49eb8b5be476e56b2de678a9400fdae3744",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSinemaDestek.cs3"
-  },
+  
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Dizipod.cs3",
     "status": 1,
