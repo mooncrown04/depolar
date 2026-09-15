@@ -19,168 +19,175 @@
     "name": "YTPatron"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
+    "iconUrl": "https://anm.cx/favicon.ico",
+    "fileHash": "sha256-771b9c8394acb18a9e29ce08c3203736cd22f726e66670734e14cc8b452e87d3",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 23052,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 26299,
     "status": 1,
     "language": "tr",
     "authors": [
-      "keyiflerolsun",
-      "inatchii",
-      "JustRelaxable"
+      "MRC"
     ],
     "tvTypes": [
       "Anime"
     ],
-    "version": 11,
+    "version": 1,
     "internalName": "AnimeciX",
-    "description": "🔴 ramazansancar 14.09.2026 AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/AnimeciX.cs3",
+    "description": "🔴 lepotane 15.09.2026 AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeciX.cs3",
     "name": "AnimeciX",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/AnimeciX.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeciX.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
+    "fileHash": "sha256-6c9a9115dcc79f0b86ba85850ac84322d02f99d3312b2d76879cad724ae43bf8",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 20191,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 30860,
     "status": 1,
     "language": "tr",
     "authors": [
-      "keyiflerolsun",
-      "JustRelaxable"
+      "MRC"
     ],
     "tvTypes": [
       "Documentary"
     ],
-    "version": 5,
+    "version": 1,
     "internalName": "BelgeselX",
-    "description": "🔴 ramazansancar 14.09.2026 En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/BelgeselX.cs3",
+    "description": "🔴 lepotane 15.09.2026 En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/BelgeselX.cs3",
     "name": "BelgeselX",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/BelgeselX.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/BelgeselX.cs3"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 18683,
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/CanliTV.cs3",
     "status": 1,
-    "language": "tr",
+    "version": 10,
+    "name": "CanliTV",
+    "internalName": "CanliTV",
     "authors": [
       "Adippe",
       "keyiflerolsun"
     ],
+    "description": "🔴 feroxx 15.09.2026 Canlı TV",
+    "fileSize": 20480,
+    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "language": "tr",
     "tvTypes": [
       "Live"
     ],
-    "version": 7,
-    "internalName": "CanliTV",
-    "description": "🔴 ramazansancar 14.09.2026 Canlı TV",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/CanliTV.cs3",
-    "name": "CanliTV",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/CanliTV.cs3"
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-d4e8de61fd99275ecda7a2c1a53da5b1643cfa42e8f6bba0c32383b722de14db",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/CanliTV.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
+    "fileHash": "sha256-feee584d14a0d2f9459bd4bdd3ca70824459a55de81af0577c80cdcedaf24d81",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 18499,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 35177,
     "status": 1,
     "language": "tr",
     "authors": [
-      "keyiflerolsun"
+      "MRC"
     ],
     "tvTypes": [
-      "Cartoon"
+      "Cartoon",
+      "Anime",
+      "Movie"
     ],
-    "version": 6,
+    "version": 1,
     "internalName": "CizgiMax",
-    "description": "🔴 ramazansancar 14.09.2026 ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/CizgiMax.cs3",
+    "description": "🔴 lepotane 15.09.2026 ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/CizgiMax.cs3",
     "name": "CizgiMax",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/CizgiMax.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/CizgiMax.cs3"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.ddizi.im&sz=%size%",
+    "iconUrl": "https://www.ddizi.im/favicon.ico",
+    "fileHash": "sha256-a382b09c409c956328a9fdf0c59955187e9d38acd4f6b24c7d272dd2ad5c947c",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 14682,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 20120,
     "status": 1,
     "language": "tr",
     "authors": [
-      "keyiflerolsun"
+      "MRC"
     ],
     "tvTypes": [
       "TvSeries"
     ],
     "version": 1,
-    "internalName": "Ddizi",
-    "description": "🔴 ramazansancar 14.09.2026 DDizi.im için Cloudstream eklentisi",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/Ddizi.cs3",
-    "name": "Ddizi",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/Ddizi.cs3"
+    "internalName": "DDizi",
+    "description": "🔴 lepotane 15.09.2026 DDizi.im için Cloudstream eklentisi.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DDizi.cs3",
+    "name": "DDizi",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DDizi.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
+    "fileHash": "sha256-88e3cc32a4d64f48e3c1e679fe60796663a08522e5edb4ddf1cc9c07ec7109b3",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 22547,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 25179,
     "status": 1,
     "language": "tr",
     "authors": [
-      "keyiflerolsun"
+      "MRC"
     ],
     "tvTypes": [
-      "TvSeries"
+      "Movie"
     ],
-    "version": 7,
+    "version": 1,
     "internalName": "DiziBox",
-    "description": "🔴 ramazansancar 14.09.2026 Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/DiziBox.cs3",
+    "description": "🔴 lepotane 15.09.2026 Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site..",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziBox.cs3",
     "name": "DiziBox",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/DiziBox.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziBox.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
+    "fileHash": "sha256-9dbd8acca1f8e649d9761ba0b7041b24461cb1b6c2459d0be0d7693343dacabf",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 18650,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 23452,
     "status": 1,
     "language": "tr",
     "authors": [
-      "keyiflerolsun"
+      "MRC"
     ],
     "tvTypes": [
       "AsianDrama"
     ],
-    "version": 7,
+    "version": 1,
     "internalName": "DiziKorea",
-    "description": "🔴 ramazansancar 14.09.2026 En Güncel Kore Dizileri izleme Sitesi",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/DiziKorea.cs3",
+    "description": "🔴 lepotane 15.09.2026 En Güncel Kore Dizileri izleme Sitesi",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziKorea.cs3",
     "name": "DiziKorea",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/DiziKorea.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziKorea.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
+    "fileHash": "sha256-81993807e4e044d85484c61d02e8f0b5f44d23898aab8592b39e335a2a76baab",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 24418,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 36192,
     "status": 1,
     "language": "tr",
     "authors": [
-      "keyiflerolsun"
+      "MRC"
     ],
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 17,
+    "version": 1,
     "internalName": "Dizilla",
-    "description": "🔴 ramazansancar 14.09.2026 Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/Dizilla.cs3",
+    "description": "🔴 lepotane 15.09.2026 Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Dizilla.cs3",
     "name": "Dizilla",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/Dizilla.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Dizilla.cs3"
   },
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DiziMom.cs3",
@@ -191,7 +198,7 @@
     "authors": [
       "blackhope01"
     ],
-    "description": "🔴 blackhope01 14.09.2026 Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
+    "description": "🔴 blackhope01 15.09.2026 Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
     "fileSize": 26748,
     "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
     "language": "tr",
@@ -205,46 +212,47 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DiziMom.cs3"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal1541.com&sz=%size%",
+    "fileHash": "sha256-9995c78c21a93f5d120147cd02a1e09d952fc2ef48b763f3508fc29adc383e7d",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 18652,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 25261,
     "status": 1,
     "language": "tr",
     "authors": [
-      "keyiflerolsun",
-      "muratcesmecioglu"
+      "MRC"
     ],
     "tvTypes": [
       "TvSeries",
       "Movie"
     ],
-    "version": 40,
+    "version": 1,
     "internalName": "DiziPal",
-    "description": "🔴 ramazansancar 14.09.2026 en yeni dizileri güvenli ve hızlı şekilde sunar.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/DiziPal.cs3",
+    "description": "🔴 lepotane 15.09.2026 DiziPal - Güncel domain (dizipal1541.com) - en yeni dizileri güvenli ve hızlı şekilde sunar.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziPal.cs3",
     "name": "DiziPal",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/DiziPal.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziPal.cs3"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.co&sz=%size%",
+    "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
+    "fileHash": "sha256-a85afd784325cf4364ac62a697f2552efc3eea440ea1b72a389dbae3290b6956",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 14241,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 17180,
     "status": 1,
     "language": "tr",
     "authors": [
-      "keyiflerolsun"
+      "MRC"
     ],
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 15,
+    "version": 1,
     "internalName": "DiziYou",
-    "description": "🔴 ramazansancar 14.09.2026 Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/DiziYou.cs3",
+    "description": "🔴 lepotane 15.09.2026 Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziYou.cs3",
     "name": "DiziYou",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/DiziYou.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziYou.cs3"
   },
   {
     "iconUrl": "https://filmbip.com/uploads/favicon/original/favicon.webp",
@@ -275,7 +283,7 @@
     "authors": [
       "blackhope01"
     ],
-    "description": "🔴 blackhope01 14.09.2026 Film Makinesi ile en yeni ve güncel filmleri Full HD kalite farkı ile izleyebilirsiniz. Film izle denildiğinde akla gelen en kaliteli film sitesi.",
+    "description": "🔴 blackhope01 15.09.2026 Film Makinesi ile en yeni ve güncel filmleri Full HD kalite farkı ile izleyebilirsiniz. Film izle denildiğinde akla gelen en kaliteli film sitesi.",
     "fileSize": 35734,
     "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
     "language": "tr",
@@ -289,110 +297,113 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/FilmMakinesi.cs3"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.filmmodu17.com&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=filmmodu.one",
+    "fileHash": "sha256-e1212b16adf0e11c2842160964e3e778baf58e6fda9288ea6b080bbedca699ea",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 14791,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 18856,
     "status": 1,
     "language": "tr",
     "authors": [
-      "keyiflerolsun"
+      "MRC"
     ],
     "tvTypes": [
       "Movie"
     ],
-    "version": 12,
+    "version": 2,
     "internalName": "FilmModu",
-    "description": "🔴 ramazansancar 14.09.2026 Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/FilmModu.cs3",
+    "description": "🔴 lepotane 15.09.2026 1080p film izleme keyfi (MRC)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FilmModu.cs3",
     "name": "FilmModu",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/FilmModu.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FilmModu.cs3"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilm.pro&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 20831,
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/FullHDFilm.cs3",
     "status": 1,
-    "language": "tr",
+    "version": 36,
+    "name": "FullHDFilm",
+    "internalName": "FullHDFilm",
     "authors": [
       "keyiflerolsun"
     ],
+    "description": "🔴 feroxx 15.09.2026 Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
+    "fileSize": 28171,
+    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "language": "tr",
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "version": 14,
-    "internalName": "FullHDFilm",
-    "description": "🔴 ramazansancar 14.09.2026 Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/FullHDFilm.cs3",
-    "name": "FullHDFilm",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/FullHDFilm.cs3"
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilm.us&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-83de6f5e436bc671aef7925683ffa870a8f8264513d032e23e64b2d0d59515a4",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/FullHDFilm.cs3"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
+    "iconUrl": "https://www.fullhdfilmizlesene.now/favicon.ico",
+    "fileHash": "sha256-88447ae6bac20e1aa0386c9219d6c778ea9652c540b4cb7df04daeb6e1d6c3c9",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 29554,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 21643,
     "status": 1,
     "language": "tr",
     "authors": [
-      "keyiflerolsun"
+      "MRC"
     ],
     "tvTypes": [
       "Movie"
     ],
-    "version": 7,
+    "version": 1,
     "internalName": "FullHDFilmizlesene",
-    "description": "🔴 ramazansancar 14.09.2026 Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/FullHDFilmizlesene.cs3",
+    "description": "🔴 lepotane 15.09.2026 FullHDFilmizlesene Turkce Film Saglayicisi",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FullHDFilmizlesene.cs3",
     "name": "FullHDFilmizlesene",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/FullHDFilmizlesene.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FullHDFilmizlesene.cs3"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hdfilmcehennemi.nl",
+    "fileHash": "sha256-dc6489c8c366ec388edc83cd45f0f399a756d9c6a84b5410c48ad76ad9fa9e3a",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 28128,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 31037,
     "status": 1,
     "language": "tr",
     "authors": [
-      "hexated",
-      "keyiflerolsun"
+      "MRC"
     ],
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "version": 25,
+    "version": 6,
     "internalName": "HDFilmCehennemi",
-    "description": "🔴 ramazansancar 14.09.2026 Türkiye'nin en hızlı hd film izleme sitesi",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/HDFilmCehennemi.cs3",
+    "description": "🔴 lepotane 15.09.2026 Türkiye'nin en hızlı HD film izleme sitesi (MRC)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/HDFilmCehennemi.cs3",
     "name": "HDFilmCehennemi",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/HDFilmCehennemi.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/HDFilmCehennemi.cs3"
   },
   {
-    "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 29342,
-    "status": 3,
-    "language": "tr",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/InatBox.cs3",
+    "status": 1,
+    "version": 59,
+    "name": "InatBox",
+    "internalName": "InatBox",
     "authors": [
-      "JustRelaxable",
-      "keyiflerolsun"
+      "Dr.Octagon"
     ],
+    "description": "🔴 aytzey 15.09.2026 Güncel sunucu protokolü ve saat eşitleme desteği.",
+    "fileSize": 49715,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
     "tvTypes": [
       "Movie",
       "TvSeries",
       "Live"
     ],
-    "version": 21,
-    "internalName": "InatBox",
-    "description": "🔴 ramazansancar 14.09.2026 İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/InatBox.cs3",
-    "name": "InatBox",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/InatBox.cs3"
+    "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-40af752b91c04549bf7785bf5fc523b975b79af1b1f3477803c30c78dd36e664",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/InatBox.cs3"
   },
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/JetFilmizle.cs3",
@@ -403,7 +414,7 @@
     "authors": [
       "blackhope01"
     ],
-    "description": "🔴 blackhope01 14.09.2026 En yeni yerli ve yabancı yapımları Full HD kalitede film izle. Türkçe dublaj ve altyazı seçenekleriyle sunulan ödüllü sinema eserlerini JetFilmizle hızıyla keşfedin.",
+    "description": "🔴 blackhope01 15.09.2026 En yeni yerli ve yabancı yapımları Full HD kalitede film izle. Türkçe dublaj ve altyazı seçenekleriyle sunulan ödüllü sinema eserlerini JetFilmizle hızıyla keşfedin.",
     "fileSize": 41722,
     "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
     "language": "tr",
@@ -417,10 +428,10 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/JetFilmizle.cs3"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.koreanturk.com&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=koreanturk.com&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 12216,
+    "repositoryUrl": "https://github.com/patr0nq/patr0n-cs",
+    "fileSize": 13072,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -429,39 +440,40 @@
     "tvTypes": [
       "AsianDrama"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "KoreanTurk",
-    "description": "🔴 ramazansancar 14.09.2026 Güney Kore sevdalılarının vazgeçemediği ve Türkiye'nin en çok ziyaret edilen Güney Kore Portalı; Koreantürk'e hoşgeldiniz!",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/KoreanTurk.cs3",
+    "description": "🔴 patr0nq 15.09.2026 Güney Kore sevdalılarının vazgeçemediği ve Türkiye'nin en çok ziyaret edilen Güney Kore Portalı; Koreantürk'e hoşgeldiniz!",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/KoreanTurk.cs3",
     "name": "KoreanTurk",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/KoreanTurk.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/KoreanTurk.cs3"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.com&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=kultfilmler.net",
+    "fileHash": "sha256-87b1ba73b55db5f7aaa155b64be639e9f846252d3a53c51eb3aecb2499a131cb",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 18992,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 19703,
     "status": 1,
     "language": "tr",
     "authors": [
-      "keyiflerolsun"
+      "MRC"
     ],
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "version": 9,
+    "version": 2,
     "internalName": "KultFilmler",
-    "description": "🔴 ramazansancar 14.09.2026 Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/KultFilmler.cs3",
+    "description": "🔴 lepotane 15.09.2026 Seçkin kült film ve dizi arşivi (MRC)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/KultFilmler.cs3",
     "name": "KultFilmler",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/KultFilmler.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/KultFilmler.cs3"
   },
   {
     "iconUrl": "https://netfree2.cc/mobile/img/nf2/icon_x192.png",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 36948,
+    "repositoryUrl": "https://github.com/patr0nq/patr0n-cs",
+    "fileSize": 45128,
     "status": 1,
     "language": "hi",
     "authors": [
@@ -472,78 +484,78 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 9,
+    "version": 32,
     "internalName": "NetflixMirror",
-    "description": "🔴 ramazansancar 14.09.2026 Netflix, PrimeVideo Content in Multiple Languages",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/NetflixMirror.cs3",
+    "description": "🔴 patr0nq 15.09.2026 Netflix, PrimeVideo Content in Multiple Languages",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/NetflixMirror.cs3",
     "name": "NetflixMirror",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/NetflixMirror.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/NetflixMirror.cs3"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rarefilmm.com",
+    "fileHash": "sha256-310be9bf53ce414f12e18c17a1e9ed464f0a01e3a240d3b7ae3a54d734e3cae8",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 14727,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 13596,
     "status": 1,
-    "language": "en",
+    "language": "tr",
     "authors": [
-      "keyiflerolsun"
+      "MRC"
     ],
     "tvTypes": [
       "Movie"
     ],
-    "version": 1,
+    "version": 3,
     "internalName": "RareFilmm",
-    "description": "🔴 ramazansancar 14.09.2026 The Cave of Forgotten Films",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/RareFilmm.cs3",
+    "description": "🔴 lepotane 15.09.2026 Unutulmaz nadir filmler arsivi (MRC)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/RareFilmm.cs3",
     "name": "RareFilmm",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/RareFilmm.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/RareFilmm.cs3"
   },
   {
-    "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 20989,
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/RecTV.cs3",
     "status": 1,
-    "language": "tr",
+    "version": 43,
+    "name": "RecTV",
+    "internalName": "RecTV",
     "authors": [
-      "keyiflerolsun",
-      "yusiqo",
-      "inatchii",
-      "JustRelaxable"
+      "Eagle"
     ],
+    "description": "🔴 aytzey 15.09.2026 RecTV,Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
+    "fileSize": 71232,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
     "tvTypes": [
       "Movie",
       "Live",
       "TvSeries"
     ],
-    "version": 77,
-    "internalName": "RecTV",
-    "description": "🔴 ramazansancar 14.09.2026 RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/RecTV.cs3",
-    "name": "RecTV",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/RecTV.cs3"
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rectvapk.cc&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-b912d3254b9b8f3e22c39ca3b15948520be9c4c9c953a6c314d787eb26c06101",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/RecTV.cs3"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.de&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.uk&sz=%size%",
+    "fileHash": "sha256-1bd4129e36814fc4325d58a70dedebba2aca466a222b9c4ef05a17423c75e251",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 21659,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 28025,
     "status": 1,
     "language": "tr",
     "authors": [
-      "keyiflerolsun"
+      "MRC"
     ],
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "version": 11,
+    "version": 1,
     "internalName": "SetFilmIzle",
-    "description": "🔴 ramazansancar 14.09.2026 Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/SetFilmIzle.cs3",
+    "description": "🔴 lepotane 15.09.2026 Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/SetFilmIzle.cs3",
     "name": "SetFilmIzle",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/SetFilmIzle.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/SetFilmIzle.cs3"
   },
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/SezonlukDizi.cs3",
@@ -554,7 +566,7 @@
     "authors": [
       "blackhope01"
     ],
-    "description": "🔴 blackhope01 14.09.2026 Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
+    "description": "🔴 blackhope01 15.09.2026 Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
     "fileSize": 31821,
     "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
     "language": "tr",
@@ -567,30 +579,31 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/SezonlukDizi.cs3"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sinema.gg",
+    "fileHash": "sha256-b5e5690ce84dc4c01e635dc7aca167b369b99fdbfb67318dc009ce57115917d9",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 14671,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 16945,
     "status": 1,
     "language": "tr",
     "authors": [
-      "keyiflerolsun"
+      "MRC"
     ],
     "tvTypes": [
       "Movie"
     ],
-    "version": 10,
+    "version": 2,
     "internalName": "SinemaCX",
-    "description": "🔴 ramazansancar 14.09.2026 Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/SinemaCX.cs3",
+    "description": "🔴 lepotane 15.09.2026 Türkçe dublaj HD yabancı filmler (MRC)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/SinemaCX.cs3",
     "name": "SinemaCX",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/SinemaCX.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/SinemaCX.cs3"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.biz&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.info&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 18311,
+    "repositoryUrl": "https://github.com/patr0nq/patr0n-cs",
+    "fileSize": 19882,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -599,32 +612,32 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 15,
+    "version": 22,
     "internalName": "SuperFilmGeldi",
-    "description": "🔴 ramazansancar 14.09.2026 Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/SuperFilmGeldi.cs3",
+    "description": "🔴 patr0nq 15.09.2026 Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/SuperFilmGeldi.cs3",
     "name": "SuperFilmGeldi",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/SuperFilmGeldi.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/SuperFilmGeldi.cs3"
   },
   {
-    "iconUrl": "https://www.tlctv.com.tr/favicon.ico",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 13259,
+    "repositoryUrl": "https://github.com/patr0nq/patr0n-cs",
+    "fileSize": 14080,
     "status": 1,
     "language": "tr",
     "authors": [
-      "nikyokki"
+      "keyiflerolsun"
     ],
     "tvTypes": [
-      "TvSeries"
+      "Movie"
     ],
-    "version": 1,
-    "internalName": "TLCTR",
-    "description": "🔴 ramazansancar 14.09.2026 TLC TV dizi ve programlarını takip etmek için ziyaret edin. TLC TV dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/TLCTR.cs3",
-    "name": "TLCTR",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/TLCTR.cs3"
+    "version": 19,
+    "internalName": "TLCtr",
+    "description": "🔴 patr0nq 15.09.2026 TLC tr",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/TLCtr.cs3",
+    "name": "TLCtr",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/TLCtr.cs3"
   },
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/TRanimaci.cs3",
@@ -636,7 +649,7 @@
       "keyiflerolsun",
       "patr0n"
     ],
-    "description": "🔴 feroxx 14.09.2026 TRanimeci - Türkiye'nin Online Anime izleme sitesi.",
+    "description": "🔴 feroxx 15.09.2026 TRanimeci - Türkiye'nin Online Anime izleme sitesi.",
     "fileSize": 16863,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
@@ -649,51 +662,52 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/TRanimaci.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/TRasyalog.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=%size%",
+    "fileHash": "sha256-1c6caddfe47d1fa1b4c1c04d785c138f496f0d9cd8c05bf72464ea6d5fbb1c23",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 15361,
     "status": 1,
-    "version": 65,
-    "name": "TRasyalog",
-    "internalName": "TRasyalog",
-    "authors": [
-      "keyiflerolsun"
-    ],
-    "description": "🔴 feroxx 14.09.2026 TRasyalog izleme sitesi.",
-    "fileSize": 15594,
-    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
+    "authors": [
+      "MRC"
+    ],
     "tvTypes": [
       "TvSeries"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-6d01026fa4978b7642d336924eeb5e1a788e8bd4047be1d3a4d5ae7426764600",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/TRasyalog.cs3"
+    "version": 1,
+    "internalName": "TRasyalog",
+    "description": "🔴 lepotane 15.09.2026 TRasyalog izleme sitesi.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/TRasyalog.cs3",
+    "name": "TRasyalog",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/TRasyalog.cs3"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.co&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.tranimeizle.io&sz=%size%",
+    "fileHash": "sha256-7caf34043f4462a4376ab8ec3105c6e2af2533555d1b480a28e0193071cf6aed",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 16384,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 22715,
     "status": 1,
     "language": "tr",
     "authors": [
-      "keyiflerolsun"
+      "MRC"
     ],
     "tvTypes": [
       "Anime"
     ],
-    "version": 2,
+    "version": 1,
     "internalName": "TurkAnime",
-    "description": "🔴 ramazansancar 14.09.2026 Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/TurkAnime.cs3",
+    "description": "🔴 lepotane 15.09.2026 Tranimeizle - Türkçe altyazılı anime izleme sitesi.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/TurkAnime.cs3",
     "name": "TurkAnime",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/TurkAnime.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/TurkAnime.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=ugurfilm7.com&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 21738,
+    "repositoryUrl": "https://github.com/patr0nq/patr0n-cs",
+    "fileSize": 23781,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -702,54 +716,56 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 6,
+    "version": 13,
     "internalName": "UgurFilm",
-    "description": "🔴 ramazansancar 14.09.2026 Yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleriyle 720p ve 1080p HD kalitesinde film izle - Uğur Film full hd film izle.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/UgurFilm.cs3",
+    "description": "🔴 patr0nq 15.09.2026 Yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleriyle 720p ve 1080p HD kalitesinde film izle - Uğur Film full hd film izle.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/UgurFilm.cs3",
     "name": "UgurFilm",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/UgurFilm.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/UgurFilm.cs3"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=watch2movies.net&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=movies2watch.watch&sz=%size%",
+    "fileHash": "sha256-ab0bf54247c4915ee95bc587101ab34790555f71f1608d9a09b37eaae4fa75bf",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 18386,
-    "status": 3,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 24613,
+    "status": 1,
     "language": "en",
     "authors": [
-      "keyiflerolsun"
+      "MRC"
     ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 0,
-    "internalName": "Watch2Movies",
-    "description": "🔴 ramazansancar 14.09.2026 !!! YAPIM AŞAMASINDA !!! Watch2Movies is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series. You can also Download full movies from Watch2Movies and watch it later if you want.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/Watch2Movies.cs3",
-    "name": "Watch2Movies",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/Watch2Movies.cs3"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/Webteizle.cs3",
-    "status": 1,
-    "version": 1,
-    "name": "Webteizle",
-    "internalName": "Webteizle",
-    "authors": [
-      "blackhope01"
-    ],
-    "description": "🔴 blackhope01 14.09.2026 Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
-    "fileSize": 28924,
-    "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
-    "language": "tr",
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
+    "version": 1,
+    "internalName": "Watch2Movies",
+    "description": "🔴 lepotane 15.09.2026 Movies2Watch is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Watch2Movies.cs3",
+    "name": "Watch2Movies",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Watch2Movies.cs3"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://webteizle3.xyz&sz=%size%",
+    "fileHash": "sha256-d7d661c10c6f881b89c6403981c457f701b651eb2da5f73c0c4b5940aa57d477",
     "apiVersion": 1,
-    "fileHash": "sha256-163fc89b68c30065cdfdf4afc027167fad047c92e7e6b3025a7e1716ed670e78",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/Webteizle.cs3"
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 29009,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "Webteizle",
+    "description": "🔴 lepotane 15.09.2026 Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Webteizle.cs3",
+    "name": "Webteizle",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Webteizle.cs3"
   },
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/AltiYuzAltmisAltiFilmIzle.cs3",
@@ -786,23 +802,24 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=%size%",
+    "fileHash": "sha256-18be136f35552f87970482f897abdd0d7c9610159a03314eb4a1af5e10991b97",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/patr0nq/patr0n-cs",
-    "fileSize": 13845,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 13893,
     "status": 1,
     "language": "tr",
     "authors": [
-      "patr0n"
+      "MRC"
     ],
     "tvTypes": [
       "Anime"
     ],
     "version": 1,
     "internalName": "AsyaAnimeleri",
-    "description": "🔴 patr0nq 14.09.2026 Asya Animeleri - Anime izle, Donghua izle, Türkçe Altyazılı Anime izle.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/AsyaAnimeleri.cs3",
+    "description": "🔴 lepotane 15.09.2026 Asya Animeleri - Anime izle, Donghua izle, Türkçe Altyazılı Anime izle.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AsyaAnimeleri.cs3",
     "name": "AsyaAnimeleri",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/AsyaAnimeleri.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AsyaAnimeleri.cs3"
   },
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/DiziPalOriginal.cs3",
@@ -814,7 +831,7 @@
       "keyiflerolsun",
       "muratcesmecioglu"
     ],
-    "description": "🔴 feroxx 14.09.2026 en yeni dizileri güvenli ve hızlı şekilde sunar.",
+    "description": "🔴 feroxx 15.09.2026 en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "fileSize": 25009,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
@@ -828,27 +845,27 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/DiziPalOriginal.cs3"
   },
   {
-    "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.sinewix.com/&sz=%size%",
+    "fileHash": "sha256-aec30608cd5d177ed00d44678e71ac2b5ee2540268d61a871c13c769a481fa74",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 25329,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 30468,
     "status": 1,
     "language": "tr",
     "authors": [
-      "keyiflerolsun",
-      "yusiqo"
+      "MRC"
     ],
     "tvTypes": [
       "Movie",
       "TvSeries",
       "Anime"
     ],
-    "version": 12,
+    "version": 1,
     "internalName": "SineWix",
-    "description": "🔴 ramazansancar 14.09.2026 Sinewix | Ücretsiz Film - Dizi - Anime İzleme Uygulaması.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/SineWix.cs3",
+    "description": "🔴 lepotane 15.09.2026 SineWix | Film - Dizi - Anime İzleme Uygulaması",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/SineWix.cs3",
     "name": "SineWix",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/SineWix.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/SineWix.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.4kfilmizlesene.org&sz=%size%",
@@ -871,64 +888,67 @@
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=%size%",
+    "fileHash": "sha256-a1d33ada088536df500e8fdb83ec93d62e24502d3a09d783a2ffd76c493a978d",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 28875,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 32284,
     "status": 1,
     "language": "tr",
     "authors": [
-      "nikyokki"
-    ],
-    "tvTypes": [
-      "Movie, TvSeries"
-    ],
-    "version": 2,
-    "internalName": "AsyaWatch",
-    "description": "🔴 ramazansancar 09.09.2026 Asyawatch",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/AsyaWatch.cs3",
-    "name": "AsyaWatch",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/AsyaWatch.cs3"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 17818,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "nikyokki",
-      "ramazansancar"
+      "MRC"
     ],
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "version": 9,
-    "internalName": "DiziGom",
-    "description": "🔴 ramazansancar 19.05.2026 Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/DiziGom.cs3",
-    "name": "DiziGom"
+    "version": 1,
+    "internalName": "AsyaWatch",
+    "description": "🔴 lepotane 15.09.2026 Asyawatch",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AsyaWatch.cs3",
+    "name": "AsyaWatch",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AsyaWatch.cs3"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.net&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
+    "fileHash": "sha256-06ba077b1aab065d0fbcfc59697821b2b4678e386e8ede7b553523f79e854dde",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 26646,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 15219,
     "status": 1,
     "language": "tr",
     "authors": [
-      "nikyokki",
-      "kerimmkirac"
+      "MRC"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 1,
+    "internalName": "DiziGom",
+    "description": "🔴 lepotane 15.09.2026 Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziGom.cs3",
+    "name": "DiziGom",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziGom.cs3"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.net&sz=%size%",
+    "fileHash": "sha256-8b2d9ee0d7102d35183934b8d4b1f3f68f0f0ea7408e49a950595748511e30bf",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 48210,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
     ],
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 16,
+    "version": 1,
     "internalName": "DiziMag",
-    "description": "🔴 ramazansancar 02.06.2026 En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/DiziMag.cs3",
-    "name": "DiziMag"
+    "description": "🔴 lepotane 15.09.2026 En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziMag.cs3",
+    "name": "DiziMag",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziMag.cs3"
   },
   {
     "iconUrl": "https://www.dmax.com.tr/favicon.ico",
@@ -1007,25 +1027,25 @@
     "name": "FullHDFilmİzlede"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.to&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 27428,
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/HDFilmizle.cs3",
     "status": 1,
-    "language": "tr",
+    "version": 26,
+    "name": "HDFilmizle",
+    "internalName": "HDFilmizle",
     "authors": [
-      "nikyokki"
+      "ByAyzen"
     ],
+    "description": "🔴 aytzey 15.09.2026 En yeni ve popüler filmleri 1080p kalitesinde Türkçe dublaj altyazılı izle. Aksiyon, macera, komedi, dram ve daha fazlası film izle sayfamızda.",
+    "fileSize": 61447,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
     "tvTypes": [
-      "Movie",
-      "TvSeries"
+      "Movie"
     ],
-    "version": 2,
-    "internalName": "HDFilmIzle",
-    "description": "🔴 ramazansancar 06.09.2026 HDFilmizle ile Full HD izle, 1080p kalitede Yerli ve Yabancı filmlerle Türkçe dublaj veya Altyazı olarak kesintisiz film izlemenin tadını çıkarın.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/HDFilmIzle.cs3",
-    "name": "HDFilmIzle",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/HDFilmIzle.cs3"
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hdfilmizle.life/rally-caps/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-58256f572dffe1859ceeac6ca3b75333685e5065f8b40a8934f3ac1a2ee7adde",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/HDFilmizle.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmsitesi.net&sz=%size%",
@@ -1146,24 +1166,25 @@
     "name": "TurkSCanliTV"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tvdiziler.cc&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tvdiziler.tv&sz=%size%",
+    "fileHash": "sha256-74d4975a9138fc9a2d4dff987aea032113d78e87a40215d146fbfcd32a685680",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 26655,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 27515,
     "status": 1,
     "language": "tr",
     "authors": [
-      "nikyokki"
+      "MRC"
     ],
     "tvTypes": [
       "TvSeries"
     ],
     "version": 1,
     "internalName": "TvDiziler",
-    "description": "🔴 ramazansancar 06.09.2026 Ücretsiz yerli dizi izleme sitesi en popüler dizileri tek parça hd kalitesiyle ve reklamsız bedava olarak buradan tv dizileri izleyin.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/TvDiziler.cs3",
+    "description": "🔴 lepotane 15.09.2026 TvDiziler - Yerli diziler, Türkçe dublaj/altyazılı bölümler.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/TvDiziler.cs3",
     "name": "TvDiziler",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/TvDiziler.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/TvDiziler.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=twitch.tv&sz=%size%",
@@ -1226,68 +1247,74 @@
     "name": "WFilmİzle"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.tv&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.news&sz=%size%",
+    "fileHash": "sha256-e7d3d695634b764d6dcb368d52d5201aa6e54cd515dbc0a0ff970e178ccc4a94",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 42426,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 48129,
     "status": 1,
     "language": "tr",
     "authors": [
-      "nikyokki"
+      "MRC"
     ],
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 3,
+    "version": 1,
     "internalName": "YabanciDizi",
-    "description": "🔴 ramazansancar 14.09.2026 Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/YabanciDizi.cs3",
+    "description": "🔴 lepotane 15.09.2026 Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/YabanciDizi.cs3",
     "name": "YabanciDizi",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/YabanciDizi.cs3"
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/YabanciDizi.cs3"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=youtube.com&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 14115,
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Youtube.cs3",
     "status": 1,
+    "version": 39,
+    "name": "Youtube",
+    "internalName": "Youtube",
+    "authors": [
+      "Eagle",
+      "ByAyzen",
+      "kraptor"
+    ],
+    "description": "🔴 aytzey 15.09.2026 Youtube",
+    "fileSize": 109126,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
     "language": "tr",
-    "authors": [
-      "Cloudburst",
-      "keyiflerolsun"
-    ],
-    "tvTypes": [
-      "Others"
-    ],
-    "version": 6,
-    "internalName": "YouTube",
-    "description": "🔴 ramazansancar 06.09.2026 YouTube, izlediğiniz videolarla önerilerini iyileştirir. İlginizi çekebilecek içeriklerle dolu bir akış oluşturmak için video izlemeye başlayın.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/YouTube.cs3",
-    "name": "YouTube",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/YouTube.cs3"
-  },
-  {
-    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/main/yts.png",
-    "jarFileSize": 75905,
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 15868,
-    "status": 1,
-    "language": "en",
-    "authors": [
-      "Phisher98"
-    ],
     "tvTypes": [
       "Movie",
+      "Live",
+      "Music",
+      "TvSeries"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-31d16f3cac9ca336a7eb9cdb8016056076e2cf9a4add728006f8a19dca7348dc",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Youtube.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/YTS.cs3",
+    "status": 1,
+    "version": 43,
+    "name": "YTS",
+    "internalName": "YTS",
+    "authors": [
+      "kraptor",
+      "Phisher98",
+      "ByAyzen"
+    ],
+    "description": "🔴 aytzey 15.09.2026 YTS Filmleri 4K Desteği Otomatik altyazı ve film açıklaması (Torrent)",
+    "fileSize": 92944,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
       "Torrent"
     ],
-    "version": 5,
-    "internalName": "YTS",
-    "jarUrl": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/YTS.jar",
-    "description": "🔴 ramazansancar 06.09.2026 YTS Movies 4K Support (Torrent)",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/YTS.cs3",
-    "name": "YTS",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/YTS.cs3"
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-0069f5a4db566f9e6bfe022ce6cdeae6437076fa759389c10ccb8d4b3b631dad",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/YTS.cs3"
   },
   {
     "iconUrl": "https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png",
@@ -1309,45 +1336,49 @@
     "name": "YerelDiziler"
   },
   {
-    "iconUrl": "https://cizgivedizi.com/Logo.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/CizgiveDizi.cs3",
     "status": 1,
-    "language": "tr",
+    "version": 51,
+    "name": "CizgiveDizi",
+    "internalName": "CizgiveDizi",
     "authors": [
-      "Makoto Tokioki"
+      "kraptor",
+      "ByAyzen"
     ],
+    "description": "🔴 aytzey 15.09.2026 Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
+    "fileSize": 43326,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
     "tvTypes": [
-      "Cartoon, TvSeries"
+      "Cartoon"
     ],
-    "version": 3,
-    "internalName": "CizgiVeDizi",
-    "description": "🔴 Sertel392 06.09.2026 Popüler çizgi film ve dizilerin Türkçe güncel kaynağı.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/CizgiVeDizi.cs3",
-    "name": "CizgiVeDizi",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/CizgiVeDizi.cs3"
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgivedizi.com",
+    "apiVersion": 1,
+    "fileHash": "sha256-c78df1d332c622bda7e5bad05be8dc9230039c50cd56abee566fbdd3965f5556",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/CizgiveDizi.cs3"
   },
   {
-    "iconUrl": "https://webdramaturkey.org/public/static/logo.webp?v=1.0.19",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/WebDramaTurkey.cs3",
     "status": 1,
-    "language": "tr",
-    "authors": [
-      "Makoto Tokioki"
-    ],
-    "tvTypes": [
-      "AsianDrama",
-      "Movie",
-      "TvSeries",
-      "Anime"
-    ],
-    "version": 2,
-    "internalName": "WebDramaTurkey",
-    "description": "🔴 Sertel392 06.09.2026 Asya içeriklerinin tek adresi.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/WebDramaTurkey.cs3",
+    "version": 40,
     "name": "WebDramaTurkey",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/WebDramaTurkey.cs3"
+    "internalName": "WebDramaTurkey",
+    "authors": [
+      "kraptor",
+      "kerimmkirac",
+      "ByAyzen"
+    ],
+    "description": "🔴 aytzey 15.09.2026 Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler",
+    "fileSize": 55103,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40",
+    "apiVersion": 1,
+    "fileHash": "sha256-96141e92bcd0a3ff547008a78c20fbbfc65e2ecd6ed70ef28117857dd39edeaa",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/WebDramaTurkey.cs3"
   },
   {
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/New_qBittorrent_Logo.svg/2048px-New_qBittorrent_Logo.svg.png",
@@ -1952,7 +1983,7 @@
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/TurkishW.cs3",
     "status": 1,
-    "version": 20,
+    "version": 26,
     "name": "TurkishW",
     "internalName": "TurkishW",
     "authors": [
@@ -1962,8 +1993,8 @@
       "kerimmkirac",
       "nikyokki"
     ],
-    "description": "🔴 ctnkyaumt 14.09.2026 Tek arama sonucu (TurkishW); bir içeriğe girince tüm kaynaklardan linkleri toplar. Film, Dizi, Anime + Canlı TV.",
-    "fileSize": 403483,
+    "description": "🔴 ctnkyaumt 15.09.2026 Tek arama sonucu (TurkishW); bir içeriğe girince tüm kaynaklardan linkleri toplar. Film, Dizi, Anime + Canlı TV.",
+    "fileSize": 407896,
     "repositoryUrl": "https://github.com/ctnkyaumt/cstest",
     "language": "tr",
     "tvTypes": [
@@ -1974,7 +2005,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org",
     "apiVersion": 1,
-    "fileHash": "sha256-8eb42f481716c0f5e066c2379a12b80f418a625316294111fdeaa0920d62184b",
+    "fileHash": "sha256-a01920556c92f6977176adad30d4110405c41bf3f23378a54c2ee620f570b743",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/TurkishW.cs3"
   },
   {
@@ -2118,7 +2149,7 @@
     "authors": [
       "blackhope01"
     ],
-    "description": "🔴 blackhope01 06.09.2026 Dizi.life Türkçe dizi/film izleme platformu — yabancı diziler, yeni filmler, son bölümler.",
+    "description": "🔴 blackhope01 15.09.2026 Dizi.life Türkçe dizi/film izleme platformu — yabancı diziler, yeni filmler, son bölümler.",
     "fileSize": 17212,
     "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
     "language": "tr",
@@ -2132,26 +2163,26 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DiziLife.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DiziYo.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.diziyo.so&sz=%size%",
+    "fileHash": "sha256-ff5b813ba1e63de5bcf0ba6a353df6c1094d6e394bd74a17e282477f9d807d38",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 29008,
     "status": 1,
-    "version": 1,
-    "name": "DiziYo",
-    "internalName": "DiziYo",
-    "authors": [
-      "blackhope01"
-    ],
-    "description": "🔴 blackhope01 06.09.2026 Yeni film, dizi, anime ve bölümleri keşfet; güncel trendleri, sıralamaları ve yayın takvimini incele.",
-    "fileSize": 28760,
-    "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
     "language": "tr",
+    "authors": [
+      "MRC"
+    ],
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.diziyo.so&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-9dacc67b13830d30c0412b4430b1bf8476cd7ca98e02fe848cc3818c7982f0aa",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DiziYo.cs3"
+    "version": 1,
+    "internalName": "DiziYo",
+    "description": "🔴 lepotane 15.09.2026 Yeni film, dizi, anime ve bölümleri keşfet; güncel trendleri, sıralamaları ve yayın takvimini incele.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziYo.cs3",
+    "name": "DiziYo",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziYo.cs3"
   },
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DramaDizilerim.cs3",
@@ -2162,7 +2193,7 @@
     "authors": [
       "blackhope01"
     ],
-    "description": "🔴 blackhope01 07.09.2026 En popüler NetShort, DramaBox, ReelShort ve FreeReels kısa dizilerini Türkçe dublaj ve altyazı seçenekleriyle Full HD kalitede ücretsiz ve reklamsız izleyin.",
+    "description": "🔴 blackhope01 15.09.2026 En popüler NetShort, DramaBox, ReelShort ve FreeReels kısa dizilerini Türkçe dublaj ve altyazı seçenekleriyle Full HD kalitede ücretsiz ve reklamsız izleyin.",
     "fileSize": 32980,
     "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
     "language": "tr",
@@ -2175,26 +2206,26 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DramaDizilerim.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/FilmEkseni.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.filmekseni.vip&sz=%size%",
+    "fileHash": "sha256-0d0e489d1df291d665762dd58154cd9e36cb1268e1a23d975c643f12a37101ed",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 39358,
     "status": 1,
-    "version": 1,
-    "name": "FilmEkseni",
-    "internalName": "FilmEkseni",
-    "authors": [
-      "blackhope01"
-    ],
-    "description": "🔴 blackhope01 06.09.2026 Film Ekseni Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
-    "fileSize": 39502,
-    "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
     "language": "tr",
+    "authors": [
+      "MRC"
+    ],
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.filmekseni.vip&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-7c891b320aa438c66ca7ffbdd8176777caaf4d5da488aa4c6ac39fbb4aedbdf7",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/FilmEkseni.cs3"
+    "version": 1,
+    "internalName": "FilmEkseni",
+    "description": "🔴 lepotane 15.09.2026 Film Ekseni Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FilmEkseni.cs3",
+    "name": "FilmEkseni",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FilmEkseni.cs3"
   },
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/FilmHane.cs3",
@@ -2205,7 +2236,7 @@
     "authors": [
       "blackhope01"
     ],
-    "description": "🔴 blackhope01 06.09.2026 Trend olan tüm yabancı yerli filmleri Hd ve 720p 1080p kalitesinde kesintisiz indirmeden izleyebilirsiniz, Online film sitemizde Türkçe dublaj olarak izleyebilirsiniz.",
+    "description": "🔴 blackhope01 15.09.2026 Trend olan tüm yabancı yerli filmleri Hd ve 720p 1080p kalitesinde kesintisiz indirmeden izleyebilirsiniz, Online film sitemizde Türkçe dublaj olarak izleyebilirsiniz.",
     "fileSize": 22379,
     "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
     "language": "tr",
@@ -2219,48 +2250,47 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/FilmHane.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/HDFilmDelisi.cs3",
-    "status": 1,
-    "version": 1,
-    "name": "HDFilmDelisi",
-    "internalName": "HDFilmDelisi",
-    "authors": [
-      "patr0n"
-    ],
-    "description": "🔴 feroxx 14.09.2026 HD Film Delisi - Türkçe Filmler",
-    "fileSize": 64395,
-    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmdelisi.com&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hdfilmdelisi.one",
+    "fileHash": "sha256-00e9ffc889ea283b9e83f084e60d328b5cbc04d23efd5a62d4744751d4f9ea29",
     "apiVersion": 1,
-    "fileHash": "sha256-20329159ede070b4f6535bb501c5d4276262247574f27ef9740cdf2ab7175a95",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/HDFilmDelisi.cs3"
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 16248,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 5,
+    "internalName": "HDFilmDelisi",
+    "description": "🔴 lepotane 15.09.2026 Dublaj ve altyazılı HD filmler (MRC)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/HDFilmDelisi.cs3",
+    "name": "HDFilmDelisi",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/HDFilmDelisi.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/SelcukFlix.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%",
+    "fileHash": "sha256-608affcf0eaf2f5902681408c5140f0fb5dd0024ffb65fdb09e21a78b8fd9ccc",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 32264,
     "status": 1,
-    "version": 2,
-    "name": "SelcukFlix",
-    "internalName": "SelcukFlix",
-    "authors": [
-      "patr0n"
-    ],
-    "description": "🔴 feroxx 12.09.2026 SelcukFlix eklentisi.",
-    "fileSize": 33998,
-    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
+    "authors": [
+      "MRC"
+    ],
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "iconUrl": "https://selcukflix.co/assets/favicon/favicon-32x32.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-835fd32012016c56acc786a48b2188899708212995931e48d602ef3f0f808b20",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/SelcukFlix.cs3"
+    "version": 2,
+    "internalName": "SelcukFlix",
+    "description": "🔴 lepotane 15.09.2026 Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/SelcukFlix.cs3",
+    "name": "SelcukFlix",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/SelcukFlix.cs3"
   },
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/LoveFilm.cs3",
@@ -2823,25 +2853,25 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/StreamEast.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Streamed.cs3",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://streamed.pk/&size=128",
+    "fileHash": "sha256-86bc59510296246e5ae492424a5119753ab4b3683186969ff56f3a4f4b596962",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 33147,
     "status": 1,
-    "version": 3,
-    "name": "Streamed",
-    "internalName": "Streamed",
+    "language": "en",
     "authors": [
-      "Wiojelt"
+      "MRC"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 🟢 Kaynak: Streamed • @Kraptor123 | @kekikanime · Futbol, Basketbol, Tenis, Kriket, Dövüş ve daha fazlası.",
-    "fileSize": 97805,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "language": "tr",
     "tvTypes": [
       "Live"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Streamed.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-43f2a9e2485a8ce38ad7261badfea185928cf3ca20f05ce30e717309fb513b8c",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Streamed.cs3"
+    "version": 1,
+    "internalName": "Streamed",
+    "description": "🔴 lepotane 15.09.2026 Streamed ile Canlı Spor Yayınlarını İzleyebilirsiniz.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Streamed.cs3",
+    "name": "Streamed",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Streamed.cs3"
   },
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TRGoals.cs3",
@@ -3037,27 +3067,27 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/SportzxProvider.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DiziBal.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizibal.org&sz=128",
+    "fileHash": "sha256-80730a3f0bbf9db53f9996f7c356c27bf065e9c627ae56c8e0567b569f592711",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 33211,
     "status": 1,
-    "version": 1,
-    "name": "DiziBal",
-    "internalName": "DiziBal",
-    "authors": [
-      "blackhope01"
-    ],
-    "description": "🔴 blackhope01 14.09.2026 En popüler yabancı dizileri yeni bölümleriyle takip edin. HBO, Netflix, Apple TV+ yapımları Türkçe altyazılı olarak dizibaL'da!",
-    "fileSize": 32983,
-    "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
     "language": "tr",
+    "authors": [
+      "MRC"
+    ],
     "tvTypes": [
       "Movie",
       "TvSeries",
       "Anime"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizibal.org&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-245d130231bacd666c5c5ac904b12f0b9e1ea1e47e6e69d57aa7e46fbc97f7a2",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DiziBal.cs3"
+    "version": 1,
+    "internalName": "DiziBal",
+    "description": "🔴 lepotane 15.09.2026 En popüler yabancı dizileri yeni bölümleriyle takip edin. HBO, Netflix, Apple TV+ yapımları Türkçe altyazılı olarak dizibaL'da!",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziBal.cs3",
+    "name": "DiziBal",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziBal.cs3"
   },
   {
     "fileHash": "sha256-9308dbab730cf5a2a9daf756eae593d48d6484b82a164356400223095e5fcbb3",
@@ -3366,37 +3396,27 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DDiziAlternatif.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DiziBol.cs3",
-    "status": 3,
-    "version": 7,
-    "name": "DiziBol",
-    "internalName": "DiziBol",
-    "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
-    ],
-    "description": "🆕 Wiojelt 10.09.2026 DiziBol · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 58113,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.org&sz=128",
+    "fileHash": "sha256-3ca31d0d65232a0acc02b7cecd6b9e2d9660698a6ec25300b9944961427f1c7a",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 33223,
+    "status": 1,
     "language": "tr",
+    "authors": [
+      "MRC"
+    ],
     "tvTypes": [
       "Movie",
       "TvSeries",
-      "Anime",
-      "Documentary"
+      "Anime"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.com&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-51cced6e9f06663e30f877ae18d3bfe25b6bbb6f12d76475a3104b3b0214fd45",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DiziBol.cs3"
+    "version": 1,
+    "internalName": "DiziBol",
+    "description": "🔴 lepotane 15.09.2026 En popüler yabancı dizileri yeni bölümleriyle takip edin. HBO, Netflix, Apple TV+ yapımları Türkçe altyazılı olarak dizibaL'da!",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziBol.cs3",
+    "name": "DiziBol",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziBol.cs3"
   },
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DiziBoxAlternatif.cs3",
@@ -3905,26 +3925,29 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSinemaDestek.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/DiziPod.cs3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Dizipod.cs3",
     "status": 1,
-    "version": 3,
-    "name": "DiziPod",
-    "internalName": "DiziPod",
+    "version": 13,
+    "name": "Dizipod",
+    "internalName": "Dizipod",
     "authors": [
-      "patr0n"
+      "kraptor",
+      "ByAyzen ",
+      "kerimmkirac"
     ],
-    "description": "🆕 feroxx 12.09.2026 Yabancı dizi ve film izleme platformu. Altyazılı yabancı dizi ve film izle.",
-    "fileSize": 23522,
-    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
+    "description": "🔴 aytzey 15.09.2026 Güncel diziler, son eklenen yabancı dizileri bu sayfadan takip edebilirsiniz. Son eklenen yabancı dizileri donmadan izlemek için bizi takip etmeye devam edin.",
+    "fileSize": 79347,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
     "language": "tr",
     "tvTypes": [
+      "Movie",
       "TvSeries",
-      "Movie"
+      "AsianDrama"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipod.com&sz=%size%",
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipod.com&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-c4be7b192eec30ffc084f8df86e30f0ccc59270e58fe7dc99b989677963224f5",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/DiziPod.cs3"
+    "fileHash": "sha256-46a17cad52f187a76f004b82b4f9cbf915e5bcb3d132640db233477d40df2eca",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Dizipod.cs3"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/dcenhance/dcext/main/assets/CS3M.png",
@@ -3950,36 +3973,27 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/dcenhance/CS3MProvider.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Anizium.cs3",
-    "status": 3,
-    "version": 1,
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Anizium.cs3",
+    "status": 1,
+    "version": 26,
     "name": "Anizium",
     "internalName": "Anizium",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "kerimmkirac",
+      "ByAyzen"
     ],
-    "description": "🆕 Wiojelt 13.09.2026 Anizium · TurkSinema ayrı sağlayıcı paketi (4K & 2K Dublajlı Anime)",
-    "fileSize": 48916,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "description": "🔴 aytzey 15.09.2026 Anizium ile dünyada ilk ve tek 4K Türkçe dublaj platformunda anime keyfini yaşa. En yeni animeleri İngilizce altyazı ve dublaj seçenekleriyle 1080p ve 4K kalitesinde HD izle.",
+    "fileSize": 80384,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
     "language": "tr",
     "tvTypes": [
-      "Anime",
       "AnimeMovie",
-      "OVA"
+      "Anime"
     ],
-    "iconUrl": "https://x.anizium.co/assets/index/img/embed-logo.png",
+    "iconUrl": "https://anizium.co/assets/images/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-d628e534c4643961501bb4a18a65d3549f18d0e35a62a1913865a56d8be27dbe",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Anizium.cs3"
+    "fileHash": "sha256-2c5b502b5960f1d9f9aa1159589f4bf4c28848fd19c75be0197c79577bf842a4",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Anizium.cs3"
   },
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Deokwave.cs3",
@@ -4049,23 +4063,14 @@
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSinemaDestek.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "TurkSinemaDestek",
     "internalName": "TurkSinemaDestek",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 13.09.2026 TurkSinema'ya destek ol ☕ · @wiojelt · made with ♥",
-    "fileSize": 4416,
+    "description": "🔴 Wiojelt 15.09.2026 TurkSinema'ya destek ol ☕ · @wiojelt · made with ♥",
+    "fileSize": 1657372,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -4106,7 +4111,7 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 14.09.2026 GölgeTV spor kanalları ve alternatif yayınlar",
+    "description": "🆕 Wiojelt 15.09.2026 GölgeTV spor kanalları ve alternatif yayınlar",
     "fileSize": 146713,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
@@ -4117,5 +4122,790 @@
     "apiVersion": 1,
     "fileHash": "sha256-f96b427cdb502af30591437dd4c9fd6620b96b3054fb57cebf853b1a9b69ff37",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yesilcamtv.com.tr",
+    "fileHash": "sha256-af91f6489548e2e01fdb3b6b5e484f5cd372f11c9d959f9d63dfd52fffaa1f4a",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 18940,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 2,
+    "internalName": "YesilCamTv",
+    "description": "🔴 lepotane 15.09.2026 Yesilcam klasikleri arsivi (MRC)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/YesilCamTv.cs3",
+    "name": "YesilCamTv",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/YesilCamTv.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Animeler.cs3",
+    "status": 1,
+    "version": 42,
+    "name": "Animeler",
+    "internalName": "Animeler",
+    "authors": [
+      "kraptor",
+      "ByAyzen",
+      "kerimmkirac"
+    ],
+    "description": "🆕 aytzey 15.09.2026 HD kalitesinde ücretsiz anime izle! Animeler.me, en yeni ve popüler anime serilerini Türkçe altyazılı ve dublajlı olarak sunar. Favori animelerini hemen keşfet!",
+    "fileSize": 52355,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Anime"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeler.pw/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-7c3e22c99de622d265fddad4c4233101db25956f2a7367f648561a3cb741061f",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Animeler.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Animely.cs3",
+    "status": 1,
+    "version": 5,
+    "name": "Animely",
+    "internalName": "Animely",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 15.09.2026 Animely ile en sevdiğiniz animeleri Türkçe altyazılı olarak HD kalitede izleyin. Güncel sezon animeleri, klasikler ve çok daha fazlası. Hemen ücretsiz hesap oluşturun ve anime dünyasına katılın. Binlerce bölüm anime içeriğiyle sizleri bekliyor!",
+    "fileSize": 40168,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "iconUrl": "https://play-lh.googleusercontent.com/BIE1R3FVOpIoCPxkx3Erfuw5sVc5wVIbeHAcRuTUGesuvc1S1Cr6KYumGVbn7xABuLc=w240-h480",
+    "apiVersion": 1,
+    "fileHash": "sha256-f0822e297e21e0576cd3919b7e13694b4f4754903170416d0f4b7bc19c546d82",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Animely.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AnimPow.cs3",
+    "status": 1,
+    "version": 8,
+    "name": "AnimPow",
+    "internalName": "AnimPow",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 15.09.2026 AnimPow da binlerce güncel animeyi reklamsız, 1080p HD kalitesinde Türkçe altyazılı olarak ücretsiz izle! Yeni üyelere 1 haftalık 4K Video Plus anime sistemi denemesi bedava.",
+    "fileSize": 77378,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Anime"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animpow.com/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-4d3f691b88c9be0d54e08da58a224722cdf02a2ca8f10fdf63cafaa6c370e957",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AnimPow.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AsyaFanatiklerim.cs3",
+    "status": 1,
+    "version": 23,
+    "name": "AsyaFanatiklerim",
+    "internalName": "AsyaFanatiklerim",
+    "authors": [
+      "kraptor",
+      "kerimmkirac"
+    ],
+    "description": "🆕 aytzey 15.09.2026 Asya Fanatikleri, asya dizilerini izleme imkanı sunar. Kore dizileri izle, asyafanatikleri kore dizileri, tayvan dizileri izle, çin dizileri izle, anime izle.",
+    "fileSize": 28605,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "iconUrl": "https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-ce4eb9f45e0f7e80df667e09d117702718fe22db9094bfcc0574f190b7ff10d9",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AsyaFanatiklerim.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AsyaMinik.cs3",
+    "status": 0,
+    "version": 17,
+    "name": "AsyaMinik",
+    "internalName": "AsyaMinik",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "🆕 aytzey 15.09.2026 Asyaminik - En Güncel Asya Dizileri Burada!",
+    "fileSize": 27275,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaminik.com/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-4a72eff8d5fa0cfa866f6bdcc11de28772fc023d559a692b2c72c09c9638d6cb",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AsyaMinik.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziAsia.cs3",
+    "status": 1,
+    "version": 21,
+    "name": "DiziAsia",
+    "internalName": "DiziAsia",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "description": "🆕 aytzey 15.09.2026 DiziAsia - Asya Dizileri İzle",
+    "fileSize": 25726,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=diziasia.com",
+    "apiVersion": 1,
+    "fileHash": "sha256-a0e1767baf49d2c4a01a4b2fdb150103a02a33aa3856c6107eac8e82756674e2",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziAsia.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziAsya.cs3",
+    "status": 1,
+    "version": 28,
+    "name": "DiziAsya",
+    "internalName": "DiziAsya",
+    "authors": [
+      "kerimmkirac"
+    ],
+    "description": "🆕 aytzey 15.09.2026 Asya'nın en iyi Çin ve Kore dizilerini ve filmlerini keşfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kültürüne hemen adım atın!",
+    "fileSize": 39802,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diziasya.com&size=32",
+    "apiVersion": 1,
+    "fileHash": "sha256-9a450703dc8302a0c5043b07072cf24c7cede89131673515950ecbdb38f350d9",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziAsya.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziFilmORG.cs3",
+    "status": 1,
+    "version": 23,
+    "name": "DiziFilmORG",
+    "internalName": "DiziFilmORG",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 15.09.2026 En yeni ve popüler yerli yabancı filmleri Türkçe dublaj ve altyazılı seçeneklerle Full HD kalitede, tek parça ve kesintisiz Dizifilm.org’da izle.",
+    "fileSize": 76765,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizifilm.org/dizi/breaking-bad/sezon-1/bolum-2&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-2ad262bc87fb248fc617162f74cc4aea57a8634f74d7c1d0a7ee412484eb71d4",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziFilmORG.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Dizigecesi.cs3",
+    "status": 1,
+    "version": 5,
+    "name": "Dizigecesi",
+    "internalName": "Dizigecesi",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 15.09.2026 Dizigecesi ile yüksek kalitede Türkçe altyazılı yabancı dizileri kesintisiz ve reklamsız izleyebilirsiniz. Yabancı dizi izle, yabancı film izle, yabancı diziler, yabancı filmler.",
+    "fileSize": 59178,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizigecesi.com/tr&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-4e160dc420631eccd233c05d592fdfc9ff8026f9498f20862d17fa928d6c68ba",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Dizigecesi.cs3"
+  },
+  {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1580.com&size=128",
+    "fileHash": "sha256-c5ece556b915beff919a2b2947c1034a8f8cfc406aa362d29bfd581d9d552860",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 46722,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "DiziPalOrijinal",
+    "description": "🔴 lepotane 15.09.2026 DiziPal Orijinal.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziPalOrijinal.cs3",
+    "name": "DiziPalOrijinal",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziPalOrijinal.cs3"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=filmzal.me&sz=%size%",
+    "fileHash": "sha256-ace98f1e5c285d37fb686e34f5a0fffdf1e19963ca8c04d4f85894c7055e62d6",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 22118,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "Filmzal",
+    "description": "🔴 lepotane 15.09.2026 Filmzal - Film ve dizi izleme.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Filmzal.cs3",
+    "name": "Filmzal",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Filmzal.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/GinikoCanli.cs3",
+    "status": 1,
+    "version": 16,
+    "name": "GinikoCanli",
+    "internalName": "GinikoCanli",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "🆕 aytzey 15.09.2026 Vpn Gerekli! Dünyanın tüm ülkelerinden ücretsiz çevrimiçi TV.",
+    "fileSize": 17903,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://www.giniko.com/images/favicon.ico",
+    "apiVersion": 1,
+    "fileHash": "sha256-01b52a0b3c86dac364d444f4d95d5748db101e618d6aecbdfca1468386a7c260",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/GinikoCanli.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/KickTR.cs3",
+    "status": 1,
+    "version": 18,
+    "name": "KickTR",
+    "internalName": "KickTR",
+    "authors": [
+      "ByAyzen",
+      "kraptor"
+    ],
+    "description": "🆕 aytzey 15.09.2026 Kick, canlı yayın yapılan bir platformdur. Daha gevşek kuralları ve yayıncılara daha fazla kazanç sağlamasıyla bilinir. Platform, yayıncılardan sadece %5 kesinti yapar ve bu oran diğer yayın platformlarına göre en düşük kesintilerden biridir.",
+    "fileSize": 40510,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kick.com&size=48",
+    "apiVersion": 1,
+    "fileHash": "sha256-bdc1381d3ebdc2a6e0d3c30bf02d0e2a8cc407c6a990b21e6b479ac7769bcefc",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/KickTR.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/KraptorPlus.cs3",
+    "status": 1,
+    "version": 87,
+    "name": "KraptorPlus",
+    "internalName": "KraptorPlus",
+    "authors": [
+      "kraptor",
+      "Phisher98",
+      "ByAyzen",
+      "Megix"
+    ],
+    "description": "🆕 aytzey 15.09.2026 Bir çok sitenin birleştiği toplama eklenti.",
+    "fileSize": 628229,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Anime",
+      "Cartoon",
+      "AsianDrama",
+      "AnimeMovie"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/aytzey/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-706459836c2eda9590c1b801f74477a4435537682e1d9f5b128465ba1fe1e4fe",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/KraptorPlus.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/MirrorVerse.cs3",
+    "status": 1,
+    "version": 39,
+    "name": "MirrorVerse",
+    "internalName": "MirrorVerse",
+    "authors": [
+      "kraptor",
+      "NivinCNC",
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 15.09.2026 Netflix, Disney+ ve Primevideo eklentileri tek bir eklentide kendisi bir eklenti degildir bu 3 eklentiyi kurar, tüm eklentilerde altyazı netflixde dublaj desteği var.",
+    "fileSize": 140096,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/aytzey/cs-kraptor/refs/heads/master/.github/icons/logo/mirrorverseicon.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-324d85b6700ccace0a2b8fdb83474a2c65f6b966041a64de97bce3ef7e49ac8f",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/MirrorVerse.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/OnePaceTr.cs3",
+    "status": 1,
+    "version": 14,
+    "name": "OnePaceTr",
+    "internalName": "OnePaceTr",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "🆕 aytzey 15.09.2026 One Pace türkçe altyazılı izleme platformu.",
+    "fileSize": 31616,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Anime"
+    ],
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.onepacetr.net/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-0dca32ab01dfd3ae3e8953f22a011f66b03c59c8f51056089c2322ea326f2e40",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/OnePaceTr.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/OpenAnime.cs3",
+    "status": 1,
+    "version": 29,
+    "name": "OpenAnime",
+    "internalName": "OpenAnime",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 15.09.2026 Anime izleme deneyiminizi zenginleştiren, hızlı ve etkileyici özelliklerle donatılmış, şık bir tasarıma sahip anime platformu. Anime izleme deneyiminiz, kolaylaştırıldı.",
+    "fileSize": 75102,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openani.me/&size=24",
+    "apiVersion": 1,
+    "fileHash": "sha256-49b12b02e85124446e06659e887dd23ceb03840c12439f7c62e85100f19d2c88",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/OpenAnime.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/SeiCode.cs3",
+    "status": 1,
+    "version": 26,
+    "name": "SeiCode",
+    "internalName": "SeiCode",
+    "authors": [
+      "kraptor",
+      "ByAyzen",
+      "kerimmkirac"
+    ],
+    "description": "🆕 aytzey 15.09.2026 Seicode ile en yeni animeler keşfedin!",
+    "fileSize": 40339,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Anime"
+    ],
+    "iconUrl": "https://seicode.net/favicon.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-b7bbed57b214623a8b1061babb7201aec2d0d9cb35ef4ca6cc1f4663f61793d7",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/SeiCode.cs3"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sinezy.to",
+    "fileHash": "sha256-4b1d68cf4d6c00f922637d84c958deb570f0f8f5b55f241ebf7a88716e5424a2",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 17628,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 3,
+    "internalName": "Sinezy",
+    "description": "🔴 lepotane 15.09.2026 HD film izleme keyfi (MRC)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Sinezy.cs3",
+    "name": "Sinezy",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Sinezy.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/TrAnimeIzle.cs3",
+    "status": 1,
+    "version": 16,
+    "name": "TrAnimeIzle",
+    "internalName": "TrAnimeIzle",
+    "authors": [
+      "kraptor"
+    ],
+    "description": "🆕 aytzey 15.09.2026 Anime izle, Anime tv, birbirinden farklı ve güzel animeleri keyifle seyredebileceğiniz Türk anime severlerin en popüler türkçe anime izleme sitesidir.",
+    "fileSize": 70901,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Anime"
+    ],
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.tranimeizle.io/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-cf8354313bb9cd098381957bd8914f20b6b09e95696c51c2fc5988f9aa783e06",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/TrAnimeIzle.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Turkdizileri.cs3",
+    "status": 1,
+    "version": 34,
+    "name": "Turkdizileri",
+    "internalName": "Turkdizileri",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 15.09.2026 TRT1, Showtv, Kanal D ve daha fazla site tek bir eklentide birleşiyor.",
+    "fileSize": 166809,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://i.imgur.com/Cff8v6J.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-aa2bc67792c6dff919685840e99a0c33aff8558b3a45b55adf23f83b14196d3e",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Turkdizileri.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/WFilmizle.cs3",
+    "status": 1,
+    "version": 24,
+    "name": "WFilmizle",
+    "internalName": "WFilmizle",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 15.09.2026 Yerli ve yabancı film izle, Türkçe dublaj ve altyazı seçenekleriyle en yeni ve unutulmamış olan filmleri Full HD kalitesinde online izleyebilirsiniz.",
+    "fileSize": 59842,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://wfilmizle.bar&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-0a761f5f56eb51ce9409c37ba3bca259313ce294e2877c80ebf2ceb2493f2a2c",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/WFilmizle.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/YeniKaynak.cs3",
+    "status": 1,
+    "version": 12,
+    "name": "YeniKaynak",
+    "internalName": "YeniKaynak",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "description": "🆕 aytzey 15.09.2026 İran Sinemasının Yeni Adresi - İran Filmleri, İran Dizileri, İslami Filmler, Dini Filmler, Dini Sinema, İslami Diziler,...",
+    "fileSize": 29294,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.yenikaynak.com/&size=16",
+    "apiVersion": 1,
+    "fileHash": "sha256-e2152b01845f804f489541e2bd9014053a7a8e2d8f17423d35112de98c20a868",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/YeniKaynak.cs3"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=animeav1.com",
+    "fileHash": "sha256-39f41c6c6f3923d7d095934f85528971ebd31df5d58c12d8d19f2d7731b5da50",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 27944,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "version": 1,
+    "internalName": "AnimeAV",
+    "description": "🆕 lepotane 15.09.2026 Disfruta de los últimos episodios y animes agregados en HD y Sub Español. Miles de series, películas y OVAs disponibles para ver online totalmente gratis.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeAV.cs3",
+    "name": "AnimeAV",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeAV.cs3"
+  },
+  {
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww1.henaojara.net/&size=128",
+    "fileHash": "sha256-953a6a40f5355afd85f10f1e1e279c9bfb2a4cd123f631036af771a75374f7ae",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 21514,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "version": 1,
+    "internalName": "Animejara",
+    "description": "🆕 lepotane 15.09.2026 Ver anime online, subtitulado y/o doblado al español latino HD y completamente gratis. Aquí podrás ver y descargar todas tus series preferidas sin anuncios.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Animejara.cs3",
+    "name": "Animejara",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Animejara.cs3"
+  },
+  {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.animeworld.ac&size=128",
+    "fileHash": "sha256-a2af4b38e761d5d36682c3f06919378f9d0cd6d20de88dd79be07f0ebcc8acda",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 14669,
+    "status": 1,
+    "language": "it",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "version": 1,
+    "internalName": "AnimeWorld",
+    "description": "🆕 lepotane 15.09.2026 Scopri il nostro Archivio di Anime in Streaming Sub ITA e ITA. Guarda in Streaming o effettua il Download di migliaia di serie animate sempre aggiornate e in alta qualità, disponibili su PC, console, tablet, smartphone ed altri dispositivi.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeWorld.cs3",
+    "name": "AnimeWorld",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeWorld.cs3"
+  },
+  {
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeyt.cc&size=128",
+    "fileHash": "sha256-2d1b99418f00eeff2d0bd358f93219df4b9ec10e9402b532604d26674630fa2d",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 43586,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "version": 1,
+    "internalName": "AnimeYTX",
+    "description": "🆕 lepotane 15.09.2026 Únete a la familia de AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido más popular de la animación japonesa.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeYTX.cs3",
+    "name": "AnimeYTX",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeYTX.cs3"
+  },
+  {
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16",
+    "fileHash": "sha256-c2f277fd95a24d4348eda8a6910712685c018b8c9d43c7c69e3314342cca568c",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 13959,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "version": 1,
+    "internalName": "BirAsyaDizi",
+    "description": "🆕 lepotane 15.09.2026 Asya'nın En Ünlü Dizilerini en yüksek çözünürlükte HD ve kesintisiz izleyin, kaliteli Asya film ve dizilerinin keyfini sürün.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/BirAsyaDizi.cs3",
+    "name": "BirAsyaDizi",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/BirAsyaDizi.cs3"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=diziwatch.ac",
+    "fileHash": "sha256-88282e36fa5e908149206e9aefc0db793274b6792c9d3a2c155de06038c0e521",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 20865,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": 2,
+    "internalName": "DiziWatch",
+    "description": "🆕 lepotane 15.09.2026 Yabancı dizi izleme keyfi (MRC)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziWatch.cs3",
+    "name": "DiziWatch",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziWatch.cs3"
+  },
+  {
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://documentaryarea.com&size=128",
+    "fileHash": "sha256-bf48d0935835718f38b514815969c81f3a4f684c5e62db36a0cdcc1e8b3c4c32",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 15717,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Documentary"
+    ],
+    "version": 1,
+    "internalName": "DocumentaryArea",
+    "description": "🆕 lepotane 15.09.2026 Watch the best online documentary films.Stunning collection of awesome, eyeopening, interesting, just released, full documentaries.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DocumentaryArea.cs3",
+    "name": "DocumentaryArea",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DocumentaryArea.cs3"
+  },
+  {
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmizyon.com/&size=64",
+    "fileHash": "sha256-e7f8c159bae66cfa608e4c972f1c2a51239f6d799d41a65427ce1dd226a7fd19",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 12468,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 1,
+    "internalName": "FilmIzyon",
+    "description": "🆕 lepotane 15.09.2026 Yerli ve yabancı ödüllü tüm filmleri Türkçe Dublaj veya Orjinal dilde izleyebileceğiniz Türkiye'nin en kaliteli film izleme platformuna hoşgeldiniz.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FilmIzyon.cs3",
+    "name": "FilmIzyon",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FilmIzyon.cs3"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=fullhdizle.one",
+    "fileHash": "sha256-63789f8dd6ec131c9da1e0d7374d687cc78f55e1bccb5092ba4a4f4d756b770f",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 18507,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 3,
+    "internalName": "FullHDIzle",
+    "description": "🆕 lepotane 15.09.2026 Full HD film izleme keyfi (MRC)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FullHDIzle.cs3",
+    "name": "FullHDIzle",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FullHDIzle.cs3"
+  },
+  {
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinefy3.com/&size=128",
+    "fileHash": "sha256-3515b80e2baa3706960892c6a7ad421226db8df1e723f5a5010945645add6130",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 21255,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "Sinefy",
+    "description": "🆕 lepotane 15.09.2026 Yabancı film izle olarak vizyondaki en yeni yabancı filmleri türkçe dublaj ve altyazılı olarak en hızlı şekilde full hd olarak sizlere sunuyoruz.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Sinefy.cs3",
+    "name": "Sinefy",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Sinefy.cs3"
+  },
+  {
+    "iconUrl": "https://i.imgur.com/LBfX2k3.png",
+    "fileHash": "sha256-7c7d274646a33cf0f665fe43c8e97913f375fa32bd0c5eec3318ce5a1580e95f",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 11340,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "Cartoon"
+    ],
+    "version": 1,
+    "internalName": "Supercartoons",
+    "description": "🆕 lepotane 15.09.2026 Watch Cartoons Online. Here you can Watch old Classical Cartoons like Bugs Bunny, Mickey Mouse, Pink Panther, Tom and Jerry and Many Many More!",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Supercartoons.cs3",
+    "name": "Supercartoons",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Supercartoons.cs3"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yoturkish.to",
+    "fileHash": "sha256-d0151391c7b0a3219c698bd9a0c6cbb78cdcafc7b93a871195cde2c9cab06195",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 19783,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "MRC"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "YoTurkish",
+    "description": "🆕 lepotane 15.09.2026 YoTurkish - is the most favorite website for watching turkish series with english subtitles for free online, only at yoturkish.to",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/YoTurkish.cs3",
+    "name": "YoTurkish",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/YoTurkish.cs3"
   }
 ]
