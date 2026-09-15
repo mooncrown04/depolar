@@ -867,25 +867,7 @@
     "name": "SineWix",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/SineWix.cs3"
   },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.4kfilmizlesene.org&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 11116,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "nikyokki"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 5,
-    "internalName": "4KFilmIzlesene",
-    "description": "🆕 ramazansancar 03.04.2026 En yeni ve sorunsuz ⚡  Full HD Film izle keyfi her yerde sizinle ! 4K ve 1080p online film izleme farkıyla 4KFilmizlesene&amp;#039;nin Tadını Çıkart.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/4KFilmIzlesene.cs3",
-    "name": "4KFilmIzlesene"
-  },
+
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=%size%",
     "fileHash": "sha256-a1d33ada088536df500e8fdb83ec93d62e24502d3a09d783a2ffd76c493a978d",
@@ -950,82 +932,8 @@
     "name": "DiziMag",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziMag.cs3"
   },
-  {
-    "iconUrl": "https://www.dmax.com.tr/favicon.ico",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 13243,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "nikyokki"
-    ],
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "version": 1,
-    "internalName": "DMax",
-    "description": "🆕 ramazansancar 03.04.2026 DMAX dizi ve programlarını takip etmek için ziyaret edin. DMAX dizi ve programlarını tek parça ve hd kalitesiyle izleyin.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/DMax.cs3",
-    "name": "DMax"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=filmizlesene.plus&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 17149,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "nikyokki"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 2,
-    "internalName": "Filmİzlesene",
-    "description": "🆕 ramazansancar 03.04.2026 Filmizlesene ile hızlı film izleme fırsatını yakala, en yeni ve iyi filmleri Full HD 1080p kalitesiyle online ve bedava izle",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/Filmİzlesene.cs3",
-    "name": "Filmİzlesene"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=filmkovasi.tv&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 17764,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "nikyokki"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 3,
-    "internalName": "FilmKovasi",
-    "description": "🆕 ramazansancar 03.04.2026 Film Kovasi ⚡ ile en güncel ve sorunsuz Full HD Film izle keyfi her yerde seninle! 1080p online film izleme ayrıcalığıyla Film Kovası'nın Tadını Çıkarın.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/FilmKovasi.cs3",
-    "name": "FilmKovasi"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=fullhdfilmizlede.net&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 15195,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "nikyokki"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 2,
-    "internalName": "FullHDFilmİzlede",
-    "description": "🆕 ramazansancar 03.04.2026 En güncel ve popüler filmleri Full HD kalitesinde, Türkçe altyazılı veya Türkçe dublaj seçenekleriyle izleyebileceğiniz tek adres! Sinema tutkunları için en özel film deneyimini yaşamak için fullhdfilmizlede.net",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/FullHDFilmİzlede.cs3",
-    "name": "FullHDFilmİzlede"
-  },
+
+
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/HDFilmizle.cs3",
     "status": 1,
@@ -1047,124 +955,8 @@
     "fileHash": "sha256-58256f572dffe1859ceeac6ca3b75333685e5065f8b40a8934f3ac1a2ee7adde",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/HDFilmizle.cs3"
   },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmsitesi.net&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 22773,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "nikyokki",
-      "ramazansancar"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 12,
-    "internalName": "HDFilmSitesi",
-    "description": "🆕 ramazansancar 03.04.2026 Film izle, Hdfilmsitesi ile Online 1080p ve 4K kalite Full HD Filmlere Türkçe Dublaj ve Altyazılı olarak Reklamsız Kesintisiz HD Film izle.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/HDFilmSitesi.cs3",
-    "name": "HDFilmSitesi"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 18683,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "patr0n"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
-    "version": 3,
-    "internalName": "iptvSevenler",
-    "description": "🆕 ramazansancar 03.04.2026 iptvSevenler",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/iptvSevenler.cs3",
-    "name": "iptvSevenler"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=720pizle.ai&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 15086,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "keyiflerolsun"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 6,
-    "internalName": "IzleAI",
-    "description": "🆕 ramazansancar 03.04.2026 1080P yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleri ile Türkiye'nin en geniş film arşivi 720pizle Full hd film izle.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/IzleAI.cs3",
-    "name": "IzleAI"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=roketdizi.co&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 22454,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "nikyokki",
-      "ramazansancar"
-    ],
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "version": 9,
-    "internalName": "RoketDizi",
-    "description": "🆕 ramazansancar 03.04.2026 Türkiye'nin en tatlış yabancı dizi izleme sitesi. Türkçe dublaj, altyazılı, eski ve yeni yabancı dizilerin yanı sıra kore (asya) dizileri izleyebilirsiniz.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/RoketDizi.cs3",
-    "name": "RoketDizi"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tafdi.info&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 11977,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "nikyokki"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 2,
-    "internalName": "Tafdi",
-    "description": "🆕 ramazansancar 03.04.2026 Türkçe altyazılı film izle, full hd olarak film izlemenin keyfini çıkarın. Türkiyenin en büyük film izleme platformu tafdi kalitesiyle sizlerle.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/Tafdi.cs3",
-    "name": "Tafdi"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 18030,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "Adippe",
-      "keyiflerolsun",
-      "nikyokki"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
-    "version": 6,
-    "internalName": "TurkSCanliTV",
-    "description": "🆕 ramazansancar 03.04.2026 TurkS Canlı TV",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/TurkSCanliTV.cs3",
-    "name": "TurkSCanliTV"
-  },
+
+ 
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tvdiziler.tv&sz=%size%",
     "fileHash": "sha256-74d4975a9138fc9a2d4dff987aea032113d78e87a40215d146fbfcd32a685680",
@@ -1186,66 +978,7 @@
     "name": "TvDiziler",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/TvDiziler.cs3"
   },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=twitch.tv&sz=%size%",
-    "jarFileSize": 54514,
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 13653,
-    "status": 1,
-    "authors": [
-      "CranberrySoup"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
-    "version": 4,
-    "internalName": "Twitch",
-    "jarUrl": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/Twitch.jar",
-    "description": "🆕 ramazansancar 03.04.2026 Watch livestreams from Twitch",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/Twitch.cs3",
-    "name": "Twitch",
-    "language": "tr"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 18702,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "patr0n"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
-    "version": 2,
-    "internalName": "vavooSpor",
-    "description": "🆕 ramazansancar 03.04.2026 vavooSpor",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/vavooSpor.cs3",
-    "name": "vavooSpor"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=wfilmizle.my&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/ramazansancar/keyiflerolsun_Kekik-cloudstream",
-    "fileSize": 15328,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "nikyokki",
-      "kerimmkirac"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 3,
-    "internalName": "WFilmİzle",
-    "description": "🆕 ramazansancar 03.04.2026 Aile Filmleri izle, Yerli ve yabancı en yeni Aile filmlerini Full HD 1080p görüntü kalitesiyle Türkçe Dublaj ve Türkçe Altyazı seçenekleriyle izleyin.",
-    "url": "https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_Kekik-cloudstream/builds/WFilmİzle.cs3",
-    "name": "WFilmİzle"
-  },
+
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.news&sz=%size%",
     "fileHash": "sha256-e7d3d695634b764d6dcb368d52d5201aa6e54cd515dbc0a0ff970e178ccc4a94",
