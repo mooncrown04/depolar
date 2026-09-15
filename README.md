@@ -1,11 +1,11 @@
-### Son Güncelleme: 15.09.2026 23:08
+### Son Güncelleme: 15.09.2026 23:17
 
-### Toplam Eklenti: `202`
+### Toplam Eklenti: `204`
 
 > 🚀 **Bugünkü Güncelleme Özeti (15.09.2026)**
 >
 > * 🆕 **Yeni Eklenenler:**
-  * **Wiojelt:** `GolgeTV`
+  * **Wiojelt:** `GolgeTV`, `WioSinema`, `WioSpor`
   * **aytzey:** `AnimPow`, `Animeler`, `Animely`, `AsyaFanatiklerim`, `AsyaMinik`, `DiziAsia`, `DiziAsya`, `DiziFilmORG`, `Dizigecesi`, `GinikoCanli`, `KickTR`, `KraptorPlus`, `MirrorVerse`, `OnePaceTr`, `OpenAnime`, `SeiCode`, `TrAnimeIzle`, `Turkdizileri`, `WFilmizle`, `YeniKaynak`
   * **lepotane:** `AnimeAV`, `AnimeWorld`, `AnimeYTX`, `Animejara`, `BirAsyaDizi`, `DiziWatch`, `DocumentaryArea`, `FilmIzyon`, `FullHDIzle`, `Sinefy`, `Supercartoons`, `YoTurkish`
 >
@@ -19,7 +19,7 @@
   * **patr0nq:** `KoreanTurk`, `NetflixMirror`, `SuperFilmGeldi`, `TLCtr`, `UgurFilm`
 
 ### 📊 Son 15 Günlük Durum Özeti
-🆕 Yeni Eklentiler: 85 &nbsp;|&nbsp; 🔴 Güncellenenler: 86
+🆕 Yeni Eklentiler: 87 &nbsp;|&nbsp; 🔴 Güncellenenler: 86
 
 ---
 ### Depo Sahibi:
@@ -223,6 +223,8 @@
 | — | **Webteizle** | 15.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://wfilmizle.bar&size=128" width="30" style="border-radius:4px;"> | **WFilmizle** | 15.09.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png" width="30" style="border-radius:4px;"> | **WioIPTVPanels** | 14.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png" width="30" style="border-radius:4px;"> | **WioSinema** | 15.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/logo.png?v=3" width="30" style="border-radius:4px;"> | **WioSpor** | 15.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **YabanciDizi** | 15.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.yenikaynak.com/&size=16" width="30" style="border-radius:4px;"> | **YeniKaynak** | 15.09.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png" width="30" style="border-radius:4px;"> | **YerelDiziler** | 03.04.2026 | ⚪ | `Sertel392` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
