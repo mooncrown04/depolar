@@ -1,6 +1,6 @@
-### Son Güncelleme: 15.09.2026 23:17
+### Son Güncelleme: 15.09.2026 23:26
 
-### Toplam Eklenti: `204`
+### Toplam Eklenti: `203`
 
 > 🚀 **Bugünkü Güncelleme Özeti (15.09.2026)**
 >
@@ -19,7 +19,7 @@
   * **patr0nq:** `KoreanTurk`, `NetflixMirror`, `SuperFilmGeldi`, `TLCtr`, `UgurFilm`
 
 ### 📊 Son 15 Günlük Durum Özeti
-🆕 Yeni Eklentiler: 87 &nbsp;|&nbsp; 🔴 Güncellenenler: 86
+🆕 Yeni Eklentiler: 86 &nbsp;|&nbsp; 🔴 Güncellenenler: 86
 
 ---
 ### Depo Sahibi:
@@ -31,7 +31,6 @@
 
 | İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
 |:----:|:------------|:------|:------|:-------|:----:|
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/support-qr.png" width="30" style="border-radius:4px;"> | **00 · TurkSinema'ya destek ol ☕** | 11.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/AltiYuzAltmisAltiFilmIzle.png" width="30" style="border-radius:4px;"> | **AltiYuzAltmisAltiFilmIzle** | 10.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=animeav1.com" width="30" style="border-radius:4px;"> | **AnimeAV** | 15.09.2026 | 🆕 | `lepotane` | <img src="https://flagcdn.com/w20/un.png" width="20" alt="mx"> |
 | <img src="https://anm.cx/favicon.ico" width="30" style="border-radius:4px;"> | **AnimeciX** | 15.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
