@@ -867,7 +867,6 @@
     "name": "SineWix",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/SineWix.cs3"
   },
-
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyawatch.com&sz=%size%",
     "fileHash": "sha256-a1d33ada088536df500e8fdb83ec93d62e24502d3a09d783a2ffd76c493a978d",
@@ -932,8 +931,6 @@
     "name": "DiziMag",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziMag.cs3"
   },
-
-
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/HDFilmizle.cs3",
     "status": 1,
@@ -955,8 +952,6 @@
     "fileHash": "sha256-58256f572dffe1859ceeac6ca3b75333685e5065f8b40a8934f3ac1a2ee7adde",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/HDFilmizle.cs3"
   },
-
- 
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tvdiziler.tv&sz=%size%",
     "fileHash": "sha256-74d4975a9138fc9a2d4dff987aea032113d78e87a40215d146fbfcd32a685680",
@@ -978,7 +973,6 @@
     "name": "TvDiziler",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/TvDiziler.cs3"
   },
-
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.news&sz=%size%",
     "fileHash": "sha256-e7d3d695634b764d6dcb368d52d5201aa6e54cd515dbc0a0ff970e178ccc4a94",
@@ -3836,27 +3830,6 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/WioIPTVPanels.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3",
-    "status": 1,
-    "version": 3,
-    "name": "GolgeTV",
-    "internalName": "GolgeTV",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "🆕 Wiojelt 15.09.2026 GölgeTV spor kanalları ve alternatif yayınlar",
-    "fileSize": 146713,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://golgetv.com/favicon.ico",
-    "apiVersion": 1,
-    "fileHash": "sha256-f96b427cdb502af30591437dd4c9fd6620b96b3054fb57cebf853b1a9b69ff37",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yesilcamtv.com.tr",
     "fileHash": "sha256-af91f6489548e2e01fdb3b6b5e484f5cd372f11c9d959f9d63dfd52fffaa1f4a",
     "apiVersion": 1,
@@ -4640,5 +4613,26 @@
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/YoTurkish.cs3",
     "name": "YoTurkish",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/YoTurkish.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3",
+    "status": 1,
+    "version": 3,
+    "name": "GolgeTV",
+    "internalName": "GolgeTV",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "🆕 Wiojelt 15.09.2026 GölgeTV spor kanalları ve alternatif yayınlar",
+    "fileSize": 146713,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://golgetv.com/favicon.ico",
+    "apiVersion": 1,
+    "fileHash": "sha256-f96b427cdb502af30591437dd4c9fd6620b96b3054fb57cebf853b1a9b69ff37",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3"
   }
 ]
