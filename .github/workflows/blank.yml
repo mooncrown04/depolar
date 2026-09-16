@@ -97,7 +97,7 @@ jobs:
           }
 
           function getStandardKey(p) {
-            const raw = p.name || p.id || "";
+            const raw = p.name || p.internalName || p.id || "";
             return raw.toLowerCase().replace(/\s+/g, '').replace(/i/g, 'ı').trim();
           }
 
@@ -106,7 +106,40 @@ jobs:
             return match ? match[1] : "Unknown";
           }
 
-          // .CS3 DOSYASI İÇİNDEKİ MANIFEST.JSON DOSYASINI OKUYAN FONKSİYON
+          // JSON OBJESİNİ ÇALIŞAN ÖRNEKTEKİ SIRAYA GÖRE BİREBİR YENİDEN DİZEYEN FONKSİYON
+          function formatPluginObject(p) {
+            const pName = p.name || p.internalName || "Unknown";
+            const pInternal = p.internalName || pName;
+            
+            const ordered = {};
+
+            if (p.iconUrl !== undefined) ordered.iconUrl = p.iconUrl;
+            if (p.fileHash !== undefined) ordered.fileHash = p.fileHash;
+            if (p.apiVersion !== undefined) ordered.apiVersion = p.apiVersion;
+            if (p.repositoryUrl !== undefined) ordered.repositoryUrl = p.repositoryUrl;
+            if (p.fileSize !== undefined) ordered.fileSize = p.fileSize;
+            
+            ordered.status = p.status !== undefined ? p.status : 1;
+            ordered.language = p.language || p.lang || "tr";
+            ordered.authors = p.authors || (p.author ? [p.author] : ["Bilinmiyor"]);
+            ordered.tvTypes = p.tvTypes || [];
+            ordered.version = p.version !== undefined ? p.version : 1;
+            ordered.internalName = pInternal;
+            ordered.description = p.description || "";
+            ordered.url = p.url || "";
+            ordered.name = pName;
+            ordered.downloadUrl = p.downloadUrl || p.url || "";
+
+            // Ekstra diğer alanlar varsa kaybolmaması için en sona ekle
+            for (const key of Object.keys(p)) {
+              if (!(key in ordered)) {
+                ordered[key] = p[key];
+              }
+            }
+
+            return ordered;
+          }
+
           function extractManifestFromCs3(filePath) {
             try {
               const zip = new AdmZip(filePath);
@@ -133,16 +166,15 @@ jobs:
               for (const remote of remotePlugins) {
                 if (Array.isArray(remote.tvTypes) && remote.tvTypes.includes('NSFW')) continue;
                 
+                if (!remote.name && remote.internalName) remote.name = remote.internalName;
+
                 const key = getStandardKey(remote);
                 const existing = mergedMap.get(key);
 
-                // --- STATUS 0 (DEVRE DIŞI / BAKIMDA) KONTROLÜ ---
                 const isRemoteDisabled = remote.status === 0 || remote.status === "0";
                 if (isRemoteDisabled) {
-                  console.log(`⚠️ ${remote.name || key} uzakta 'status: 0' (devre dışı). Yeni sürüm alınmıyor.`);
                   if (existing) {
-                    delete existing.downloadUrl;
-                    mergedMap.set(key, existing);
+                    mergedMap.set(key, formatPluginObject(existing));
                   }
                   continue;
                 }
@@ -206,12 +238,13 @@ jobs:
                 const githubRepoUser = "mooncrown04";
                 const githubRepoName = "depolar";
                 
-                remote.url = `https://raw.githubusercontent.com/${githubRepoUser}/${githubRepoName}/main/plugins/${repoOwner}/${fileName}`;
-                delete remote.downloadUrl; // downloadUrl alanı temizlendi
+                const targetCs3Url = `https://raw.githubusercontent.com/${githubRepoUser}/${githubRepoName}/main/plugins/${repoOwner}/${fileName}`;
+                remote.url = targetCs3Url;
+                remote.downloadUrl = targetCs3Url;
 
                 if (!existing) {
                   remote.description = `🆕 ${repoOwner} ${today} ${(remote.description || '')}`;
-                  mergedMap.set(key, remote);
+                  mergedMap.set(key, formatPluginObject(remote));
                 } else {
                   const vRemote = normalizeVersion(remote.version);
                   const vExisting = normalizeVersion(existing.version);
@@ -219,17 +252,15 @@ jobs:
                   if (downloadedSuccessfully && vRemote !== vExisting) {
                     let cleanDesc = (remote.description || '').replace(/^(🔴|🆕).*?\d{2}\.\d{2}\.\d{4}/g, '').trim();
                     remote.description = `🔴 ${repoOwner} ${today} ${cleanDesc}`;
-                    mergedMap.set(key, remote);
+                    mergedMap.set(key, formatPluginObject(remote));
                   } else {
-                    delete existing.downloadUrl;
-                    mergedMap.set(key, existing);
+                    mergedMap.set(key, formatPluginObject(existing));
                   }
                 }
               }
             } catch (e) { console.error(`${targetUrl} hatası: ${e.message}`); }
           }
 
-          // --- DEPOYA ELLE EKLENEN MANUEL .CS3 DOSYALARINI OKUYUP MANIFEST VERİLERİYLE JSON'A EKLEME ---
           function syncLocalFilesToMap(mergedMap, today) {
             const pluginsDir = 'plugins';
             if (!fs.existsSync(pluginsDir)) return;
@@ -252,22 +283,25 @@ jobs:
                     const key = pluginNameFromFile.toLowerCase().replace(/\s+/g, '').replace(/i/g, 'ı').trim();
                     
                     if (!mergedMap.has(key)) {
-                      console.log(`🔍 Elle eklenen .cs3 bulundu! Manifest okunuyor: ${owner}/${file}`);
                       const localUrl = `https://raw.githubusercontent.com/${githubRepoUser}/${githubRepoName}/main/plugins/${owner}/${file}`;
                       
                       const newLocalPlugin = {
-                        name: pluginNameFromFile,
-                        internalName: manifest ? (manifest.internalName || pluginNameFromFile) : pluginNameFromFile,
-                        version: manifest ? normalizeVersion(manifest.version) : "1.0.0",
-                        url: localUrl,
+                        iconUrl: manifest ? (manifest.iconUrl || "") : "",
+                        apiVersion: manifest ? (manifest.apiVersion || 1) : 1,
+                        repositoryUrl: manifest ? (manifest.repositoryUrl || "") : "",
+                        fileSize: fs.statSync(localFilePath).size,
+                        status: 1,
                         language: manifest ? (manifest.language || manifest.lang || "tr") : "tr",
                         authors: manifest ? (manifest.authors || [manifest.author || owner]) : [owner],
                         tvTypes: manifest ? (manifest.tvTypes || []) : [],
-                        iconUrl: manifest ? (manifest.iconUrl || "") : "",
-                        status: 1,
-                        description: `🆕 ${customOwnerName} ${today} ${manifest && manifest.description ? manifest.description : 'Depodan yüklenen eklenti.'}`
+                        version: manifest ? normalizeVersion(manifest.version) : "1.0.0",
+                        internalName: manifest ? (manifest.internalName || pluginNameFromFile) : pluginNameFromFile,
+                        description: `🆕 ${customOwnerName} ${today} ${manifest && manifest.description ? manifest.description : 'Depodan yüklenen eklenti.'}`,
+                        url: localUrl,
+                        name: pluginNameFromFile,
+                        downloadUrl: localUrl
                       };
-                      mergedMap.set(key, newLocalPlugin);
+                      mergedMap.set(key, formatPluginObject(newLocalPlugin));
                     }
                   }
                 }
@@ -275,7 +309,6 @@ jobs:
             }
           }
 
-          // --- MANUEL SİLİNEN DOSYALARI JSON'DAN TEMİZLEME (GARBAGE COLLECTION) ---
           function cleanDeletedPluginsFromMap(mergedMap) {
             for (const [key, plugin] of mergedMap.entries()) {
               const pluginUrl = plugin.url || plugin.downloadUrl || "";
@@ -287,7 +320,6 @@ jobs:
                   const localPath = path.join('plugins', owner, fileName);
                   
                   if (!fs.existsSync(localPath)) {
-                    console.log(`🗑️ Manuel olarak silinmiş eklenti JSON'dan kaldırılıyor: ${owner}/${fileName}`);
                     mergedMap.delete(key);
                   }
                 }
@@ -303,15 +335,14 @@ jobs:
               try {
                 const oldContent = JSON.parse(fs.readFileSync('plugins.json', 'utf8'));
                 for (const p of oldContent) {
-                  const pName = (p.name || "").toLowerCase().trim();
+                  const pName = (p.name || p.internalName || "").toLowerCase().trim();
                   const pInternal = (p.internalName || "").toLowerCase().trim();
                   const isOldBlocked = specificBlacklist.some(b => 
                     b.owner.toLowerCase() === "ramazansancar" && 
                     (b.name.toLowerCase() === pName || b.name.toLowerCase() === pInternal)
                   );
                   if (isOldBlocked) continue;
-                  delete p.downloadUrl;
-                  mergedMap.set(getStandardKey(p), p);
+                  mergedMap.set(getStandardKey(p), formatPluginObject(p));
                 }
               } catch (e) { console.log("Eski dosya okunamadı veya boş."); }
             }
@@ -324,38 +355,26 @@ jobs:
               await processPlugins(item.url, true, item.allowedPlugins, mergedMap, today);
             }
 
-            // --- 1. DEPO İÇİNDEKİ YEREL DOSYALARI TARA VE MANIFEST OKUYARAK EKLE ---
             syncLocalFilesToMap(mergedMap, today);
-
-            // --- 2. MANUEL OLARAK SİLİNMİŞ (.CS3 DOSYASI OLMAYAN) EKLENTİLERİ JSON'DAN TEMİZLE ---
             cleanDeletedPluginsFromMap(mergedMap);
 
-            const finalPluginsArray = Array.from(mergedMap.values());
-            
-            // 1. Ana plugins.json dosyasını kaydet
+            const finalPluginsArray = Array.from(mergedMap.values()).map(formatPluginObject);
             fs.writeFileSync('plugins.json', JSON.stringify(finalPluginsArray, null, 2));
 
-            // 2. BACKUP-PLUGINS.JSON İÇİN KALICI YEDEKLEME YÖNETİMİ
             const backupMap = new Map();
-
             if (fs.existsSync('backup-plugins.json')) {
               try {
                 const oldBackupContent = JSON.parse(fs.readFileSync('backup-plugins.json', 'utf8'));
                 for (const bp of oldBackupContent) {
-                  delete bp.downloadUrl;
-                  backupMap.set(getStandardKey(bp), bp);
+                  backupMap.set(getStandardKey(bp), formatPluginObject(bp));
                 }
-              } catch (e) {
-                console.log("Eski backup-plugins.json okunamadı veya boş.");
-              }
+              } catch (e) {}
             }
 
-            // Manuel silinenlerin backup-plugins.json dosyasından da temizlenmesi
             cleanDeletedPluginsFromMap(backupMap);
 
             for (const plugin of finalPluginsArray) {
               const clone = { ...plugin };
-              delete clone.downloadUrl;
               const match = clone.description && clone.description.match(/(?:🆕|🔴)\s+([^\s]+)/);
               const owner = match ? match[1] : "Bilinmiyor";
               
@@ -363,11 +382,12 @@ jobs:
                 const fileName = path.basename(clone.url);
                 const localCs3Url = `https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/${owner}/${fileName}`;
                 clone.url = localCs3Url;
+                clone.downloadUrl = localCs3Url;
               }
-              backupMap.set(getStandardKey(clone), clone);
+              backupMap.set(getStandardKey(clone), formatPluginObject(clone));
             }
 
-            const finalBackupArray = Array.from(backupMap.values());
+            const finalBackupArray = Array.from(backupMap.values()).map(formatPluginObject);
             fs.writeFileSync('backup-plugins.json', JSON.stringify(finalBackupArray, null, 2));
           })();
           NODE
@@ -401,8 +421,8 @@ jobs:
           new_count = 0
           updated_count = 0
 
-          for p in sorted(plugins, key=lambda x: x.get('name','').lower()):
-              name = p.get('name','Unknown')
+          for p in sorted(plugins, key=lambda x: str(x.get('name') or x.get('internalName') or '').lower()):
+              name = p.get('name') or p.get('internalName') or 'Unknown'
               desc = p.get('description', '')
               date_match = re.search(r'\d{2}\.\d{2}\.\d{4}', desc)
               date_str = date_match.group(0) if date_match else "—"
@@ -479,7 +499,6 @@ jobs:
 
           content_blocks = []
 
-          # 1. EN ÜSTE "HEPSİ" AKORDİYONU
           all_table_str = (
               "| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |\n"
               "|:----:|:------------|:------|:------|:-------|:----:|\n"
@@ -493,7 +512,6 @@ jobs:
           )
           content_blocks.append(all_block)
 
-          # 2. KAYNAK BAZLI AKORDİYONLAR
           for repo_name in sorted(repo_groups.keys()):
               rows = repo_groups[repo_name]
               table_str = (
