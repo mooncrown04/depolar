@@ -83,7 +83,7 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "fileSize": 1898587,
+    "fileSize": 1917913,
     "status": 3,
     "language": "tr",
     "authors": [
@@ -96,12 +96,12 @@
       "Cartoon",
       "Documentary"
     ],
-    "version": 11,
+    "version": 12,
     "internalName": "WioSinema",
-    "description": "🔴 Wiojelt 16.09.2026 TMDB v3 Türkçe katalog (23 ayrıştırılmış kategori), Ultra HD afişler, ClipBox/CineStream direkt TMDB motoru ve 68 sağlayıcıyı (Anizium & Deokwave 4K dahil) tek çatı altında toplayan birleşik sinema ve dizi eklentisi.",
+    "description": "🔴 Wiojelt 16.09.2026 TMDB v3 Türkçe katalog (23 ayrıştırılmış kategori), Ultra HD afişler, ClipBox/CineStream direkt TMDB motoru ve 68 sağlayıcıyı tek çatı altında toplayan birleşik sinema ve dizi eklentisi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/WioSinema.cs3",
     "name": "WioSinema",
-    "fileHash": "sha256-005529e9b21797b53fb139ecedb7244da2c40fcf6b048abed1207f7afa71436b"
+    "fileHash": "sha256-b1bb04127e4b84dfd7d8d85cc72411354018ac3c5d386ee6cf74a9b30cf343a1"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/logo.png?v=3",
@@ -1376,6 +1376,7 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
+    "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 1822352,
     "status": 3,
@@ -3047,6 +3048,7 @@
     "name": "powerboard Sinema - Latte"
   },
   {
+    "iconUrl": "",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/CakesTwix/cloudstream-extensions-uk",
     "fileSize": 95384,
@@ -3066,6 +3068,10 @@
     "fileHash": "sha256-9308dbab730cf5a2a9daf756eae593d48d6484b82a164356400223095e5fcbb3"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3079,6 +3085,10 @@
     "name": "AsyaFilmIzlesene"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3092,6 +3102,10 @@
     "name": "CizgiVeDizi"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3105,6 +3119,10 @@
     "name": "Puhu"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3118,6 +3136,10 @@
     "name": "TorrentFilm"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3131,6 +3153,10 @@
     "name": "YerelDiziler"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3144,6 +3170,10 @@
     "name": "YerelProgramlar"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3157,6 +3187,10 @@
     "name": "BirdirbirIPTV"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3170,6 +3204,10 @@
     "name": "CineTmdb"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3183,6 +3221,10 @@
     "name": "DDiziAlternatif"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3196,6 +3238,10 @@
     "name": "HDFilmCehennemiAlternatif"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3209,6 +3255,10 @@
     "name": "InternetArchive"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3222,6 +3272,10 @@
     "name": "TurkSporDestek"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3235,6 +3289,10 @@
     "name": "WioIPTVPanels"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3248,6 +3306,10 @@
     "name": "AnimPow"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3261,6 +3323,10 @@
     "name": "Animeler"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3274,6 +3340,10 @@
     "name": "Animely"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3287,6 +3357,10 @@
     "name": "AsyaFanatiklerim"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3300,6 +3374,10 @@
     "name": "DiziAsia"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3313,6 +3391,10 @@
     "name": "DiziFilmORG"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3326,6 +3408,10 @@
     "name": "Dizigecesi"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3339,6 +3425,10 @@
     "name": "Filmzal"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3352,6 +3442,10 @@
     "name": "GinikoCanli"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3365,6 +3459,10 @@
     "name": "HDFilmizle"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3378,6 +3476,10 @@
     "name": "KickTR"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3391,6 +3493,10 @@
     "name": "KraptorPlus"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3404,6 +3510,10 @@
     "name": "MirrorVerse"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3417,6 +3527,10 @@
     "name": "OnePaceTr"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3430,6 +3544,10 @@
     "name": "OpenAnime"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3443,6 +3561,10 @@
     "name": "SeiCode"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3456,6 +3578,10 @@
     "name": "TrAnimeIzle"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3469,6 +3595,10 @@
     "name": "Turkdizileri"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3482,6 +3612,10 @@
     "name": "TvDiziler"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3495,6 +3629,10 @@
     "name": "WFilmizle"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3508,6 +3646,10 @@
     "name": "YTS"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3521,6 +3663,10 @@
     "name": "YeniKaynak"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3534,6 +3680,10 @@
     "name": "Youtube"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3547,6 +3697,10 @@
     "name": "LoveFilm"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3560,6 +3714,10 @@
     "name": "TmdbProvider"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3573,6 +3731,10 @@
     "name": "CS3MProvider"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3586,6 +3748,10 @@
     "name": "Atv"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3599,6 +3765,10 @@
     "name": "DiziGom"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3612,6 +3782,10 @@
     "name": "DiziMag"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3625,6 +3799,10 @@
     "name": "DiziWatch"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3638,6 +3816,10 @@
     "name": "FilmIzyon"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3651,6 +3833,10 @@
     "name": "FullHDIzle"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3664,6 +3850,10 @@
     "name": "HdFilmCehennemi2"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3677,6 +3867,10 @@
     "name": "Startv"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3690,6 +3884,10 @@
     "name": "UltraFilmizle"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3703,6 +3901,10 @@
     "name": "Vidmody"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3716,6 +3918,10 @@
     "name": "BelgeselX_v17"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3729,6 +3935,10 @@
     "name": "BronzeCloudSports_v4"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3742,6 +3952,10 @@
     "name": "CineStream_v482"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3755,6 +3969,10 @@
     "name": "CizgiMax_v16"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3768,6 +3986,10 @@
     "name": "Ddizi_v22"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3781,6 +4003,10 @@
     "name": "DiziBox_v23"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3794,6 +4020,10 @@
     "name": "DiziMom_v57"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3807,6 +4037,10 @@
     "name": "DiziPalOriginal_v86"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3820,6 +4054,10 @@
     "name": "DiziPal_v106"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3833,6 +4071,10 @@
     "name": "DiziYou_v25"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3846,6 +4088,10 @@
     "name": "Dizilla_v92"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3859,6 +4105,10 @@
     "name": "FilmMakinesi_v58"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3872,6 +4122,10 @@
     "name": "FilmModu_v19"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3885,6 +4139,10 @@
     "name": "FullHDFilm_v36"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3898,6 +4156,10 @@
     "name": "FullHDFilmizlesene_v33"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3911,6 +4173,10 @@
     "name": "HDFilmCehennemi_v48"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3924,6 +4190,10 @@
     "name": "HDFilmDelisi_v1"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3937,6 +4207,10 @@
     "name": "InatBox_v53"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3950,6 +4224,10 @@
     "name": "JetFilmizle_v47"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3963,6 +4241,10 @@
     "name": "KultFilmler_v16"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3976,6 +4258,10 @@
     "name": "RecTV_v110"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -3989,6 +4275,10 @@
     "name": "SetFilmIzle_v30"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4002,6 +4292,10 @@
     "name": "SezonlukDizi_v9"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4015,6 +4309,10 @@
     "name": "SinemaCX_v24"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4028,6 +4326,10 @@
     "name": "Sinewix_v2"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4041,6 +4343,10 @@
     "name": "TLCtr_v19"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4054,6 +4360,10 @@
     "name": "Vavoo_v3"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4067,6 +4377,10 @@
     "name": "Watch2Movies_v6"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4080,6 +4394,10 @@
     "name": "WebteIzle_v20"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4093,6 +4411,10 @@
     "name": "4KFilmIzlesene"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4106,6 +4428,10 @@
     "name": "FilmKovasi"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4119,6 +4445,10 @@
     "name": "Filmİzlesene"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4132,6 +4462,10 @@
     "name": "FullHDFilmİzlede"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4145,6 +4479,10 @@
     "name": "HDFilmSitesi"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4158,6 +4496,10 @@
     "name": "IzleAI"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4171,6 +4513,10 @@
     "name": "RoketDizi"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4184,6 +4530,10 @@
     "name": "Tafdi"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4197,6 +4547,10 @@
     "name": "TurkSCanliTV"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4210,6 +4564,10 @@
     "name": "Twitch"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4223,6 +4581,10 @@
     "name": "WFilmİzle"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4236,6 +4598,10 @@
     "name": "iptvSevenler"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4250,6 +4616,9 @@
   },
   {
     "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -4264,6 +4633,9 @@
   },
   {
     "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 0,
     "status": 1,
     "language": "tr",
     "authors": [
