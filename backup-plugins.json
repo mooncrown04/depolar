@@ -563,25 +563,25 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/SetFilmIzle.cs3"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=%size%",
-    "fileHash": "sha256-5d69de5b4b5d606e420f6a47c2e0e4aae099acf04ef218bb5282d89d6eaa17ce",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 21267,
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/SezonlukDizi.cs3",
     "status": 1,
-    "language": "tr",
+    "version": 1,
+    "name": "SezonlukDizi",
+    "internalName": "SezonlukDizi",
     "authors": [
-      "MRC"
+      "blackhope01"
     ],
+    "description": "🔴 blackhope01 16.09.2026 Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
+    "fileSize": 31821,
+    "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
+    "language": "tr",
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 1,
-    "internalName": "SezonlukDizi",
-    "description": "🔴 lepotane 16.09.2026 SezonlukDizi - Yabancı dizi izleme platformu.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/SezonlukDizi.cs3",
-    "name": "SezonlukDizi",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/SezonlukDizi.cs3"
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://sezonlukdizi.cc&sz=%size%",
+    "apiVersion": 1,
+    "fileHash": "sha256-43e3d5cb3af55a6f7075f03b07755be46ebd0ff3dc7be0d9e3843b3558c62056",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/SezonlukDizi.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sinemacc.com",
@@ -1858,25 +1858,27 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziAsia.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziAsya.cs3",
-    "status": 1,
-    "version": 28,
     "name": "DiziAsya",
     "internalName": "DiziAsya",
     "authors": [
-      "kerimmkirac"
+      "Wiojelt"
     ],
-    "description": "🆕 aytzey 15.09.2026 Asya'nın en iyi Çin ve Kore dizilerini ve filmlerini keşfedin! Romantizm, dram, aksiyon... Diziasya ile Asya kültürüne hemen adım atın!",
-    "fileSize": 39802,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "description": "🔴 Wiojelt 16.09.2026 DiziAsya · Kore, Japon ve Çin Dizileri & Asya Sineması (diziasya.com)",
+    "fileSize": 45852,
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DiziAsya.cs3",
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
-      "AsianDrama"
+      "AsianDrama",
+      "TvSeries",
+      "Movie"
     ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diziasya.com&size=32",
+    "iconUrl": "https://diziasya.com/apple-touch-icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-9a450703dc8302a0c5043b07072cf24c7cede89131673515950ecbdb38f350d9",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziAsya.cs3"
+    "version": 6,
+    "status": 3,
+    "fileHash": "sha256-4e329ed3345911405d6d61e8a1ffe6ac524aa9b5355a6190e0a9689a3096d517",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DiziAsya.cs3"
   },
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziFilmORG.cs3",
@@ -4489,14 +4491,14 @@
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/WioSinema.cs3",
     "status": 3,
-    "version": 14,
+    "version": 9,
     "name": "WioSinema",
     "internalName": "WioSinema",
     "authors": [
       "Wiojelt"
     ],
     "description": "🔴 Wiojelt 16.09.2026 TMDB v3 Türkçe katalog (23 ayrıştırılmış kategori), Ultra HD afişler, ClipBox/CineStream direkt TMDB motoru ve 68 sağlayıcıyı (Anizium & Deokwave 4K dahil) tek çatı altında toplayan birleşik sinema ve dizi eklentisi.",
-    "fileSize": 1884928,
+    "fileSize": 1885359,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -4508,7 +4510,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-98208f10b82c22c16aa9a1d74d1ab8245b18f009595905103356f9ff1f1f67ac",
+    "fileHash": "sha256-9123c16d8ea3d636a4bad249db16359cd93e7587aae61f1a0679e6f43df636c3",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/WioSinema.cs3"
   },
   {
@@ -4556,7 +4558,7 @@
   {
     "name": "TurkSinema",
     "internalName": "TurkSinema",
-    "version": 13,
+    "version": 14,
     "description": "🔴 Wiojelt 16.09.2026 Tek pakette 59 Türkçe film, dizi, anime ve belgesel sağlayıcısı.",
     "authors": [
       "Wiojelt"
@@ -4570,8 +4572,8 @@
       "Documentary"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
-    "fileSize": 1822188,
-    "fileHash": "sha256-e2169bafd5ae9df3c26b38e2e67eeff06dfa40be87393221c546169c181536a2",
+    "fileSize": 1822352,
+    "fileHash": "sha256-e3792422d6ea932b6c7686d21c1ac7b058fb7ae7a4a65f4fcee7386e434b4e7b",
     "status": 3,
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSinema.cs3",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSinema.cs3"
@@ -5302,5 +5304,28 @@
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/UltraFilmizle.cs3",
     "name": "UltraFilmizle",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/UltraFilmizle.cs3"
+  },
+  {
+    "name": "CineCat",
+    "internalName": "CineCat",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "🆕 Wiojelt 16.09.2026 Cinecat · Dizi & Film Portalı (cinecat.eu)",
+    "fileSize": 750628,
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CineCat.cs3",
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "language": "all",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "iconUrl": "https://cinecat.eu/android-chrome-192x192.png?v=3",
+    "apiVersion": 1,
+    "version": 2,
+    "status": 3,
+    "fileHash": "sha256-2feb1408481e38ad07275086af6a770301afd34583e27bda9376de8201d455e4",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CineCat.cs3"
   }
 ]
