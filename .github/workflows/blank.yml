@@ -109,22 +109,21 @@ jobs:
             const pName = p.name || p.internalName || "Unknown";
             const pInternal = p.internalName || pName;
             
-            const ordered = {};
-
-            if (p.iconUrl !== undefined) ordered.iconUrl = p.iconUrl;
-            if (p.apiVersion !== undefined) ordered.apiVersion = p.apiVersion;
-            if (p.repositoryUrl !== undefined) ordered.repositoryUrl = p.repositoryUrl;
-            if (p.fileSize !== undefined) ordered.fileSize = p.fileSize;
-            
-            ordered.status = p.status !== undefined ? p.status : 1;
-            ordered.language = p.language || p.lang || "tr";
-            ordered.authors = p.authors || (p.author ? [p.author] : ["Bilinmiyor"]);
-            ordered.tvTypes = p.tvTypes || [];
-            ordered.version = p.version !== undefined ? p.version : 1;
-            ordered.internalName = pInternal;
-            ordered.description = p.description || "";
-            ordered.url = p.url || "";
-            ordered.name = pName;
+            const ordered = {
+              iconUrl: p.iconUrl !== undefined ? p.iconUrl : "",
+              apiVersion: p.apiVersion !== undefined ? p.apiVersion : 1,
+              repositoryUrl: p.repositoryUrl !== undefined ? p.repositoryUrl : "",
+              fileSize: p.fileSize !== undefined ? p.fileSize : 0,
+              status: p.status !== undefined ? p.status : 1,
+              language: p.language || p.lang || "tr",
+              authors: p.authors || (p.author ? [p.author] : ["Bilinmiyor"]),
+              tvTypes: p.tvTypes || [],
+              version: p.version !== undefined ? p.version : 1,
+              internalName: pInternal,
+              description: p.description || "",
+              url: p.url || "",
+              name: pName
+            };
 
             for (const key of Object.keys(p)) {
               if (!(key in ordered) && key !== "downloadUrl") {
