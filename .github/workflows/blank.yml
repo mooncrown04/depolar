@@ -1,4 +1,4 @@
-name: Eklentiler ve README Yoneticisi
+name: Eklenti and README Yoneticisi
 
 on:
   schedule:
@@ -29,16 +29,15 @@ jobs:
           python-version: '3.x'
 
       - name: Bağımlılıkları Kur
-        run: npm install node-fetch@2 adm-zip
+        run: npm install node-fetch@2
 
-      # --- 1. ADIM: .CS3 DOSYALARINI İNDİR, YEREL DEPOYU TARA, SİLİNENLERİ TEMİZLE VE JSON GÜNCELLE ---
+      # --- 1. ADIM: .CS3 DOSYALARINI İNDİR, DEPO İÇİNDEKİ YEREL DOSYALARI TARA VE PLUGINS.JSON GÜNCELLE ---
       - name: Pluginleri Indir, Yerel Depoyu Tara ve JSON Guncelle
         run: |
           node - <<'NODE'
           const fetch = require('node-fetch');
           const fs = require('fs');
           const path = require('path');
-          const AdmZip = require('adm-zip');
 
           const urls = [
             'https://raw.githubusercontent.com/Wiojelt/WioSinema/refs/heads/builds/plugins.json',
@@ -104,23 +103,6 @@ jobs:
           function getRepoOwner(url) {
             const match = url.match(/githubusercontent\.com\/([^/]+)/);
             return match ? match[1] : "Unknown";
-          }
-
-          // .CS3 DOSYASI İÇİNDEKİ MANIFEST.JSON DOSYASINI OKUYAN FONKSİYON
-          function extractManifestFromCs3(filePath) {
-            try {
-              const zip = new AdmZip(filePath);
-              const zipEntries = zip.getEntries();
-              
-              const manifestEntry = zipEntries.find(entry => entry.entryName.endsWith('manifest.json'));
-              if (manifestEntry) {
-                const manifestText = zip.readAsText(manifestEntry);
-                return JSON.parse(manifestText);
-              }
-            } catch (e) {
-              console.log(`⚠️ ${filePath} için manifest.json okunamadı: ${e.message}`);
-            }
-            return null;
           }
 
           async function processPlugins(targetUrl, isSelective, allowedList, mergedMap, today) {
@@ -227,14 +209,13 @@ jobs:
             } catch (e) { console.error(`${targetUrl} hatası: ${e.message}`); }
           }
 
-          // --- DEPOYA ELLE EKLENEN MANUEL .CS3 DOSYALARINI OKUYUP MANIFEST VERİLERİYLE JSON'A EKLEME ---
+          // --- YEREL DEPOYU (PLUGINS/ KANALLARINI) TARAYAN VE JSON'A EKLENMEMİŞ .CS3 DOSYALARINI KURTARAN FONKSİYON ---
           function syncLocalFilesToMap(mergedMap, today) {
             const pluginsDir = 'plugins';
             if (!fs.existsSync(pluginsDir)) return;
 
             const githubRepoUser = "mooncrown04";
             const githubRepoName = "depolar";
-            const customOwnerName = "MoOnCrOwN DePo";
 
             const owners = fs.readdirSync(pluginsDir);
             for (const owner of owners) {
@@ -243,51 +224,25 @@ jobs:
                 const files = fs.readdirSync(ownerPath);
                 for (const file of files) {
                   if (file.endsWith('.cs3')) {
-                    const localFilePath = path.join(ownerPath, file);
-                    const manifest = extractManifestFromCs3(localFilePath);
-                    
-                    const pluginNameFromFile = manifest ? (manifest.name || manifest.internalName) : path.basename(file, '.cs3');
+                    const pluginNameFromFile = path.basename(file, '.cs3');
                     const key = pluginNameFromFile.toLowerCase().replace(/\s+/g, '').replace(/i/g, 'ı').trim();
                     
                     if (!mergedMap.has(key)) {
-                      console.log(`🔍 Elle eklenen .cs3 bulundu! Manifest okunuyor: ${owner}/${file}`);
+                      console.log(`🔍 Depoda bulundu ancak JSON'da yoktu, eklendi: ${owner}/${file}`);
                       const localUrl = `https://raw.githubusercontent.com/${githubRepoUser}/${githubRepoName}/main/plugins/${owner}/${file}`;
                       
                       const newLocalPlugin = {
                         name: pluginNameFromFile,
-                        internalName: manifest ? (manifest.internalName || pluginNameFromFile) : pluginNameFromFile,
-                        version: manifest ? normalizeVersion(manifest.version) : "1.0.0",
+                        internalName: pluginNameFromFile,
+                        version: "1.0.0",
                         url: localUrl,
                         downloadUrl: localUrl,
-                        language: manifest ? (manifest.language || manifest.lang || "tr") : "tr",
-                        authors: manifest ? (manifest.authors || [manifest.author || owner]) : [owner],
-                        tvTypes: manifest ? (manifest.tvTypes || []) : [],
-                        iconUrl: manifest ? (manifest.iconUrl || "") : "",
+                        language: "tr",
                         status: 1,
-                        description: `🆕 ${customOwnerName} ${today} ${manifest && manifest.description ? manifest.description : 'Depodan yüklenen eklenti.'}`
+                        description: `🆕 ${owner} ${today} Depodan kurtarıldı.`
                       };
                       mergedMap.set(key, newLocalPlugin);
                     }
-                  }
-                }
-              }
-            }
-          }
-
-          // --- MANUEL SİLİNEN DOSYALARI JSON'DAN TEMİZLEME (GARBAGE COLLECTION) ---
-          function cleanDeletedPluginsFromMap(mergedMap) {
-            for (const [key, plugin] of mergedMap.entries()) {
-              const pluginUrl = plugin.url || plugin.downloadUrl || "";
-              if (pluginUrl) {
-                const match = pluginUrl.match(/\/main\/plugins\/([^/]+)\/([^/]+)$/);
-                if (match) {
-                  const owner = match[1];
-                  const fileName = match[2];
-                  const localPath = path.join('plugins', owner, fileName);
-                  
-                  if (!fs.existsSync(localPath)) {
-                    console.log(`🗑️ Manuel olarak silinmiş eklenti JSON'dan kaldırılıyor: ${owner}/${fileName}`);
-                    mergedMap.delete(key);
                   }
                 }
               }
@@ -322,11 +277,8 @@ jobs:
               await processPlugins(item.url, true, item.allowedPlugins, mergedMap, today);
             }
 
-            // --- 1. DEPO İÇİNDEKİ YEREL DOSYALARI TARA VEMIFEST OKUYARAK EKLE ---
+            // --- DIŞ KANAL TARAMALARI BİTTİKTEN SONRA DEPO İÇİNDEKİ YEREL DOSYALARI DA TARA VE EKSİKLERİ EKLE ---
             syncLocalFilesToMap(mergedMap, today);
-
-            // --- 2. MANUEL OLARAK SİLİNMİŞ (.CS3 DOSYASI OLMAYAN) EKLENTİLERİ JSON'DAN TEMİZLE ---
-            cleanDeletedPluginsFromMap(mergedMap);
 
             const finalPluginsArray = Array.from(mergedMap.values());
             
@@ -346,9 +298,6 @@ jobs:
                 console.log("Eski backup-plugins.json okunamadı veya boş.");
               }
             }
-
-            // Manuel silinenlerin backup-plugins.json dosyasından da temizlenmesi
-            cleanDeletedPluginsFromMap(backupMap);
 
             for (const plugin of finalPluginsArray) {
               const clone = { ...plugin };
@@ -515,8 +464,4 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add plugins.json backup-plugins.json README.md plugins/
-          if ! git diff --staged --quiet; then
-            git commit -m "Auto-update: plugins, backup-plugins and README"
-            git pull --rebase origin main
-            git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main
-          fi
+          git diff --staged --quiet || (git commit -m "Auto-update: plugins, backup-plugins and README" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
