@@ -31,8 +31,8 @@ jobs:
       - name: Bağımlılıkları Kur
         run: npm install node-fetch@2
 
-      # --- 1. ADIM: .CS3 DOSYALARINI İNDİR VE PLUGINS.JSON / BACKUP-PLUGINS.JSON GÜNCELLE (NODE.JS) ---
-      - name: Pluginleri Indir ve JSON Guncelle
+      # --- 1. ADIM: .CS3 DOSYALARINI İNDİR, DEPO İÇİNDEKİ YEREL DOSYALARI TARA VE PLUGINS.JSON GÜNCELLE ---
+      - name: Pluginleri Indir, Yerel Depoyu Tara ve JSON Guncelle
         run: |
           node - <<'NODE'
           const fetch = require('node-fetch');
@@ -119,16 +119,13 @@ jobs:
                 const existing = mergedMap.get(key);
 
                 // --- STATUS 0 (DEVRE DIŞI / BAKIMDA) KONTROLÜ ---
-                // Remote nesnede 'status' sayı veya string olarak 0 tanımlıysa:
                 const isRemoteDisabled = remote.status === 0 || remote.status === "0";
-                
                 if (isRemoteDisabled) {
                   console.log(`⚠️ ${remote.name || key} uzakta 'status: 0' (devre dışı). Yeni sürüm alınmıyor.`);
-                  // Eğer depomuzda daha önceden var olan çalışan bir sürümü varsa, onu korumaya devam et
                   if (existing) {
                     mergedMap.set(key, existing);
                   }
-                  continue; // Yeni sürümü işleme, bir sonraki eklentiye geç
+                  continue;
                 }
 
                 const pluginUrl = remote.url || remote.downloadUrl || "";
@@ -212,6 +209,46 @@ jobs:
             } catch (e) { console.error(`${targetUrl} hatası: ${e.message}`); }
           }
 
+          // --- YEREL DEPOYU (PLUGINS/ KANALLARINI) TARAYAN VE JSON'A EKLENMEMİŞ .CS3 DOSYALARINI KURTARAN FONKSİYON ---
+          function syncLocalFilesToMap(mergedMap, today) {
+            const pluginsDir = 'plugins';
+            if (!fs.existsSync(pluginsDir)) return;
+
+            const githubRepoUser = "mooncrown04";
+            const githubRepoName = "depolar";
+
+            const owners = fs.readdirSync(pluginsDir);
+            for (const owner of owners) {
+              const ownerPath = path.join(pluginsDir, owner);
+              if (fs.statSync(ownerPath).isDirectory()) {
+                const files = fs.readdirSync(ownerPath);
+                for (const file of files) {
+                  if (file.endsWith('.cs3')) {
+                    const pluginNameFromFile = path.basename(file, '.cs3');
+                    const key = pluginNameFromFile.toLowerCase().replace(/\s+/g, '').replace(/i/g, 'ı').trim();
+                    
+                    if (!mergedMap.has(key)) {
+                      console.log(`🔍 Depoda bulundu ancak JSON'da yoktu, eklendi: ${owner}/${file}`);
+                      const localUrl = `https://raw.githubusercontent.com/${githubRepoUser}/${githubRepoName}/main/plugins/${owner}/${file}`;
+                      
+                      const newLocalPlugin = {
+                        name: pluginNameFromFile,
+                        internalName: pluginNameFromFile,
+                        version: "1.0.0",
+                        url: localUrl,
+                        downloadUrl: localUrl,
+                        language: "tr",
+                        status: 1,
+                        description: `🆕 ${owner} ${today} Depodan kurtarıldı.`
+                      };
+                      mergedMap.set(key, newLocalPlugin);
+                    }
+                  }
+                }
+              }
+            }
+          }
+
           (async () => {
             const mergedMap = new Map();
             const today = new Date().toLocaleDateString('tr-TR');
@@ -239,6 +276,9 @@ jobs:
             for (const item of selectiveUrls) {
               await processPlugins(item.url, true, item.allowedPlugins, mergedMap, today);
             }
+
+            // --- DIŞ KANAL TARAMALARI BİTTİKTEN SONRA DEPO İÇİNDEKİ YEREL DOSYALARI DA TARA VE EKSİKLERİ EKLE ---
+            syncLocalFilesToMap(mergedMap, today);
 
             const finalPluginsArray = Array.from(mergedMap.values());
             
