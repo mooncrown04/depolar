@@ -2137,29 +2137,7 @@
     "fileHash": "sha256-5f522823e213b48f0daeb4e533acbad9ace159fb8ea25c6a1f6c44ed62f43c43",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CineStream.cs3"
   },
-  {
-    "iconUrl": "https://raw.githubusercontent.com/dcenhance/dcext/main/assets/CS3M.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/dcenhance/dcext",
-    "fileSize": 6156982,
-    "status": 1,
-    "language": "en",
-    "authors": [
-      "DC Enhancements"
-    ],
-    "tvTypes": [
-      "Others"
-    ],
-    "version": 742,
-    "internalName": "CS3MProvider",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/dcenhance/CS3MProvider.cs3",
-    "name": "CS3M",
-    "description": "🔴 dcenhance 06.09.2026 CloudStream customization with themes, player tools, and private Syncplay watch parties",
-    "versionCode": 742,
-    "versionInt": 742,
-    "sha256": "e33a8e3b6227d32e237e61b7ad6c327bffaa7f0b44141b29c6790eba386f25c5",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/dcenhance/CS3MProvider.cs3"
-  },
+
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/ArdaSpor.cs3",
     "status": 3,
@@ -3656,29 +3634,7 @@
     "fileHash": "sha256-46a17cad52f187a76f004b82b4f9cbf915e5bcb3d132640db233477d40df2eca",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Dizipod.cs3"
   },
-  {
-    "iconUrl": "https://raw.githubusercontent.com/dcenhance/dcext/main/assets/CS3M.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/dcenhance/dcext",
-    "fileSize": 6219592,
-    "status": 1,
-    "language": "en",
-    "authors": [
-      "DC Enhancements"
-    ],
-    "tvTypes": [
-      "Others"
-    ],
-    "version": 764,
-    "internalName": "CS3MProvider",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/dcenhance/CS3MProvider.cs3",
-    "name": "CSM",
-    "description": "🆕 dcenhance 12.09.2026 CloudStream customization with themes, player tools, and private Syncplay watch parties",
-    "versionCode": 764,
-    "versionInt": 764,
-    "sha256": "ecda0c763b73ee3b04133b6828e0661fc843e6762a3afeb840c6d5405383f3da",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/dcenhance/CS3MProvider.cs3"
-  },
+  
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Anizium.cs3",
     "status": 1,
