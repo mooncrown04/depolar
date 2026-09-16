@@ -22,7 +22,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-      
+        
       - name: Python Kurulumu
         uses: actions/setup-python@v5
         with:
@@ -46,7 +46,7 @@ jobs:
             'https://raw.githubusercontent.com/Wiojelt/TurkSpor/builds/plugins.json',
             'https://raw.githubusercontent.com/manitux-app/cs-plugins/main/builds/plugins.json',
             'https://raw.githubusercontent.com/pltmustafa/plt-stream/builds/plugins.json',
-            'https://raw.githubusercontent.com/patr0nq/patr0n-cs/refs/heads/builds/plugins.json',         
+            'https://raw.githubusercontent.com/patr0nq/patr0n-cs/refs/heads/builds/plugins.json',          
             'https://raw.githubusercontent.com/ctnkyaumt/cstest/refs/heads/builds/plugins.json',
             'https://raw.githubusercontent.com/patr0nq/cstestAddons/refs/heads/builds/plugins.json',
             'https://raw.githubusercontent.com/caca1403/cloudstream-cagi-eklenti/refs/heads/main/plugins.json',
@@ -60,7 +60,7 @@ jobs:
           ];
 
           const selectiveUrls = [
-               {
+            {
               url: 'https://raw.githubusercontent.com/GitLatte/Sinetech/builds/plugins.json',
               allowedPlugins: [
                 { owner: "GitLatte", name: "KICK Türkiye - Latte" },
@@ -74,7 +74,7 @@ jobs:
                 { owner: "CakesTwix", name: "SyncPlugin" }
               ]
             },
-              {
+            {
               url: 'https://raw.githubusercontent.com/dcenhance/dcext/main/plugins.json',
               allowedPlugins: [
                 { owner: "dcenhance", name: "CS3MProvider" }
@@ -227,7 +227,6 @@ jobs:
             // 2. BACKUP-PLUGINS.JSON İÇİN KALICI YEDEKLEME YÖNETİMİ
             const backupMap = new Map();
 
-            // Eğer daha önceden oluşturulmuş bir backup-plugins.json varsa önce onu yüklüyoruz ki eksilenler kaybolmasın
             if (fs.existsSync('backup-plugins.json')) {
               try {
                 const oldBackupContent = JSON.parse(fs.readFileSync('backup-plugins.json', 'utf8'));
@@ -239,7 +238,6 @@ jobs:
               }
             }
 
-            // Güncel plugins.json listesindekileri işleyip yedek haritasına (güncel haliyle) işliyoruz
             for (const plugin of finalPluginsArray) {
               const clone = { ...plugin };
               const match = clone.description && clone.description.match(/(?:🆕|🔴)\s+([^\s]+)/);
@@ -254,13 +252,12 @@ jobs:
               backupMap.set(getStandardKey(clone), clone);
             }
 
-            // Dış kaynaklardan anlık olarak gelmese bile yedekte önceden kalanlar silinmeden korunmuş olur
             const finalBackupArray = Array.from(backupMap.values());
             fs.writeFileSync('backup-plugins.json', JSON.stringify(finalBackupArray, null, 2));
           })();
           NODE
 
-      # --- 2. ADIM: README TABLO OLUŞTURUCU (PYTHON) ---
+      # --- 2. ADIM: INTERAKTİF (KAYNAKLARA GÖRE GRUPLU) README TABLO OLUŞTURUCU (PYTHON) ---
       - name: README.md Guncelle
         shell: python
         run: |
@@ -282,7 +279,7 @@ jobs:
           with open("plugins.json", encoding="utf-8") as f:
               plugins = json.load(f)
 
-          rows = []
+          repo_groups = defaultdict(list)
           today_news_dict = defaultdict(list)
           today_updates_dict = defaultdict(list)
           new_count = 0
@@ -322,7 +319,9 @@ jobs:
               country_tag = f'<img src="{flag_url}" width="20" alt="{lang_val}">'
               icon = p.get("iconUrl") or p.get("icon") or ""
               img_tag = f'<img src="{icon}" width="30" style="border-radius:4px;">' if icon and "%size%" not in icon else "—"
-              rows.append(f"| {img_tag} | **{name}** | {date_str} | {marker} | `{repo_name}` | {country_tag} |")
+              
+              row_str = f"| {img_tag} | **{name}** | {date_str} | {marker} | `{repo_name}` | {country_tag} |"
+              repo_groups[repo_name].append(row_str)
 
           def format_grouped_list(data_dict):
               if not data_dict:
@@ -357,11 +356,27 @@ jobs:
               f"---\n### Depo Sahibi:\n"
               f"[<img src='{OWNER_AVATAR}' width='48' style='border-radius:50%;'>]({OWNER_PROFILE})  \n"
               f"**[{OWNER}]({OWNER_PROFILE})**\n\n"
-              f"---\n## 📦 Eklenti Listesi\n\n"
-              f"| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |\n"
-              f"|:----:|:------------|:------|:------|:-------|:----:|\n"
+              f"---\n## 📦 Eklenti Listesi (Kaynaklara Göre)\n\n"
+              f"*Aşağıdaki kaynak butonlarına tıklayarak o kaynağa ait eklentileri listeleyebilirsiniz:*\n\n"
           )
-          Path("README.md").write_text(header + "\n".join(rows), encoding="utf-8")
+
+          content_blocks = []
+          for repo_name in sorted(repo_groups.keys()):
+              rows = repo_groups[repo_name]
+              table_str = (
+                  "| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |\n"
+                  "|:----:|:------------|:------|:------|:-------|:----:|\n"
+                  + "\n".join(rows)
+              )
+              block = (
+                  f"<details>\n"
+                  f"<summary>📂 <b>{repo_name}</b> ({len(rows)} Eklenti)</summary>\n\n"
+                  f"{table_str}\n\n"
+                  f"</details>\n"
+              )
+              content_blocks.append(block)
+
+          Path("README.md").write_text(header + "\n".join(content_blocks), encoding="utf-8")
 
       - name: Commit and Push
         env:
