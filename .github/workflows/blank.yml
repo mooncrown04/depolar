@@ -491,4 +491,8 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add plugins.json backup-plugins.json README.md plugins/
-          git diff --staged --quiet || (git pull --rebase origin main && git commit -m "Auto-update: plugins, backup-plugins and README" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
+          if ! git diff --staged --quiet; then
+            git commit -m "Auto-update: plugins, backup-plugins and README"
+            git pull --rebase origin main
+            git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main
+          fi
