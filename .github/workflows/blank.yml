@@ -31,7 +31,7 @@ jobs:
       - name: Bağımlılıkları Kur
         run: npm install node-fetch@2
 
-      # --- 1. ADIM: .CS3 DOSYALARINI İNDİR, DEPO İÇİNDEKİ YEREL DOSYALARI TARA VE PLUGINS.JSON GÜNCELLE ---
+      # --- 1. ADIM: .CS3 DOSYALARINI İNDİR, YEREL DEPOYU TARA, SİLİNENLERİ TEMİZLE VE JSON GÜNCELLE ---
       - name: Pluginleri Indir, Yerel Depoyu Tara ve JSON Guncelle
         run: |
           node - <<'NODE'
@@ -216,7 +216,7 @@ jobs:
 
             const githubRepoUser = "mooncrown04";
             const githubRepoName = "depolar";
-            const customOwnerName = "MoOnCrOwN DePo"; // Özel Kaynak İsmi
+            const customOwnerName = "MoOnCrOwN DePo";
 
             const owners = fs.readdirSync(pluginsDir);
             for (const owner of owners) {
@@ -244,6 +244,26 @@ jobs:
                       };
                       mergedMap.set(key, newLocalPlugin);
                     }
+                  }
+                }
+              }
+            }
+          }
+
+          // --- MANUEL SİLİNEN DOSYALARI JSON'DAN TEMİZLEME (GARBAGE COLLECTION) ---
+          function cleanDeletedPluginsFromMap(mergedMap) {
+            for (const [key, plugin] of mergedMap.entries()) {
+              const pluginUrl = plugin.url || plugin.downloadUrl || "";
+              if (pluginUrl) {
+                const match = pluginUrl.match(/\/main\/plugins\/([^/]+)\/([^/]+)$/);
+                if (match) {
+                  const owner = match[1];
+                  const fileName = match[2];
+                  const localPath = path.join('plugins', owner, fileName);
+                  
+                  if (!fs.existsSync(localPath)) {
+                    console.log(`🗑️ Manuel olarak silinmiş eklenti JSON'dan kaldırılıyor: ${owner}/${fileName}`);
+                    mergedMap.delete(key);
                   }
                 }
               }
@@ -278,8 +298,11 @@ jobs:
               await processPlugins(item.url, true, item.allowedPlugins, mergedMap, today);
             }
 
-            // --- DIŞ KANAL TARAMALARI BİTTİKTEN SONRA DEPO İÇİNDEKİ YEREL DOSYALARI TARA ---
+            // --- 1. DEPO İÇİNDEKİ YEREL DOSYALARI TARA ---
             syncLocalFilesToMap(mergedMap, today);
+
+            // --- 2. MANUEL OLARAK SİLİNMİŞ (.CS3 DOSYASI OLMAYAN) EKLENTİLERİ JSON'DAN TEMİZLE ---
+            cleanDeletedPluginsFromMap(mergedMap);
 
             const finalPluginsArray = Array.from(mergedMap.values());
             
@@ -299,6 +322,9 @@ jobs:
                 console.log("Eski backup-plugins.json okunamadı veya boş.");
               }
             }
+
+            // Manuel silinenlerin backup-plugins.json dosyasından da temizlenmesi
+            cleanDeletedPluginsFromMap(backupMap);
 
             for (const plugin of finalPluginsArray) {
               const clone = { ...plugin };
@@ -465,4 +491,4 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add plugins.json backup-plugins.json README.md plugins/
-          git diff --staged --quiet || (git commit -m "Auto-update: plugins, backup-plugins and README" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
+          git diff --staged --quiet || (git pull --rebase origin main && git commit -m "Auto-update: plugins, backup-plugins and README" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
