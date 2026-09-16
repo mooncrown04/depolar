@@ -1,11 +1,11 @@
-### Son Güncelleme: 17.09.2026 01:29
+### Son Güncelleme: 17.09.2026 01:42
 
 ### Toplam Eklenti: `241`
 
 > 📌 **Bugünkü Güncelleme Özeti (17.09.2026)**: Bugün yeni eklenen veya güncellenen eklenti bulunmuyor.
 
 ### 📊 Son 15 Günlük Durum Özeti
-🆕 Yeni Eklentiler: 188 &nbsp;|&nbsp; 🔴 Güncellenenler: 52
+🆕 Yeni Eklentiler: 186 &nbsp;|&nbsp; 🔴 Güncellenenler: 54
 
 ---
 ### Depo Sahibi:
@@ -188,7 +188,7 @@
 | <img src="https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp" width="30" style="border-radius:4px;"> | **RecTVBC** | 16.09.2026 | 🆕 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **RoketDizi** | 16.09.2026 | 🆕 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **SeiCode** | 16.09.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://selcukflix.com/assets/favicon/favicon-32x32.png?v=4" width="30" style="border-radius:4px;"> | **SelcukFlix** | 16.09.2026 | 🆕 | `manitux-app` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **SelcukFlix** | 16.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/SelcukSports.png" width="30" style="border-radius:4px;"> | **SelcukSports** | 16.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **SetFilm** | 16.09.2026 | 🆕 | `manitux-app` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **SetFilmIzle** | 16.09.2026 | 🔴 | `feroxx` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -236,7 +236,7 @@
 | — | **Twitch** | 16.09.2026 | 🆕 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **UgurFilm** | 16.09.2026 | 🆕 | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **UltraFilmizle** | 16.09.2026 | 🆕 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://raw.githubusercontent.com/Wiojelt/test/builds/icon.png" width="30" style="border-radius:4px;"> | **v10 Spor** | 16.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/test/builds/icon.png" width="30" style="border-radius:4px;"> | **v10 Spor** | 16.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **Vavoo** | 16.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **Vavoo_v3** | 16.09.2026 | 🆕 | `murattunc05` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **vavooSpor** | 16.09.2026 | 🆕 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -378,7 +378,7 @@
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png" width="30" style="border-radius:4px;"> | **TurkSinema** | 16.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/support-qr.png" width="30" style="border-radius:4px;"> | **TurkSinemaDestek** | 16.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **TurkSporDestek** | 16.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://raw.githubusercontent.com/Wiojelt/test/builds/icon.png" width="30" style="border-radius:4px;"> | **v10 Spor** | 16.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/test/builds/icon.png" width="30" style="border-radius:4px;"> | **v10 Spor** | 16.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/VivoXSpor.png" width="30" style="border-radius:4px;"> | **VivoXSpor** | 16.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **WioIPTVPanels** | 16.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png" width="30" style="border-radius:4px;"> | **WioSinema** | 16.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -478,7 +478,7 @@
 </details>
 
 <details>
-<summary>📂 <b>lepotane</b> (48 Eklenti)</summary>
+<summary>📂 <b>lepotane</b> (49 Eklenti)</summary>
 
 | İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
 |:----:|:------------|:------|:------|:-------|:----:|
@@ -515,6 +515,7 @@
 | — | **KanalD** | 16.09.2026 | 🆕 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=kultfilmler.net" width="30" style="border-radius:4px;"> | **KultFilmler** | 16.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp" width="30" style="border-radius:4px;"> | **RecTVBC** | 16.09.2026 | 🆕 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **SelcukFlix** | 16.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **Showtv** | 16.09.2026 | 🆕 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinefy3.com/&size=128" width="30" style="border-radius:4px;"> | **Sinefy** | 16.09.2026 | 🆕 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=sinemacc.com" width="30" style="border-radius:4px;"> | **SinemaCX** | 16.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -534,11 +535,10 @@
 </details>
 
 <details>
-<summary>📂 <b>manitux-app</b> (4 Eklenti)</summary>
+<summary>📂 <b>manitux-app</b> (3 Eklenti)</summary>
 
 | İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
 |:----:|:------------|:------|:------|:-------|:----:|
-| <img src="https://selcukflix.com/assets/favicon/favicon-32x32.png?v=4" width="30" style="border-radius:4px;"> | **SelcukFlix** | 16.09.2026 | 🆕 | `manitux-app` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **SetFilm** | 16.09.2026 | 🆕 | `manitux-app` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://webdramaturkey2.com/public/static/favicon.webp" width="30" style="border-radius:4px;"> | **WebDramaTurkey** | 16.09.2026 | 🆕 | `manitux-app` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://yesilcamtv.com.tr/wp-content/themes/filmplus/fav.ico" width="30" style="border-radius:4px;"> | **YesilcamTV** | 16.09.2026 | 🔴 | `manitux-app` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
