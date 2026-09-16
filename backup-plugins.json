@@ -35,8 +35,7 @@
     "internalName": "AnimeciX",
     "description": "🔴 lepotane 16.09.2026 AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeciX.cs3",
-    "name": "AnimeciX",
-    "fileHash": "sha256-771b9c8394acb18a9e29ce08c3203736cd22f726e66670734e14cc8b452e87d3"
+    "name": "AnimeciX"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
@@ -55,8 +54,7 @@
     "internalName": "BelgeselX",
     "description": "🔴 lepotane 16.09.2026 En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/BelgeselX.cs3",
-    "name": "BelgeselX",
-    "fileHash": "sha256-6c9a9115dcc79f0b86ba85850ac84322d02f99d3312b2d76879cad724ae43bf8"
+    "name": "BelgeselX"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
@@ -76,8 +74,7 @@
     "internalName": "CanliTV",
     "description": "🔴 feroxx 15.09.2026 Canlı TV",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/CanliTV.cs3",
-    "name": "CanliTV",
-    "fileHash": "sha256-d4e8de61fd99275ecda7a2c1a53da5b1643cfa42e8f6bba0c32383b722de14db"
+    "name": "CanliTV"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
@@ -98,8 +95,7 @@
     "internalName": "CizgiMax",
     "description": "🔴 lepotane 16.09.2026 ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/CizgiMax.cs3",
-    "name": "CizgiMax",
-    "fileHash": "sha256-feee584d14a0d2f9459bd4bdd3ca70824459a55de81af0577c80cdcedaf24d81"
+    "name": "CizgiMax"
   },
   {
     "iconUrl": "https://www.ddizi.im/favicon.ico",
@@ -118,8 +114,7 @@
     "internalName": "DDizi",
     "description": "🔴 lepotane 16.09.2026 DDizi.im için Cloudstream eklentisi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DDizi.cs3",
-    "name": "DDizi",
-    "fileHash": "sha256-c5ade38cabcf4a22f77ec1cb2af4fe1f3fc644439d9b6a3f5ec9bf3c04dad0f1"
+    "name": "DDizi"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
@@ -138,8 +133,7 @@
     "internalName": "DiziBox",
     "description": "🔴 lepotane 16.09.2026 Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site..",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziBox.cs3",
-    "name": "DiziBox",
-    "fileHash": "sha256-8e73b3fd6ba0865629263d930f25053587567586cbba86204a635d33e4bb03ae"
+    "name": "DiziBox"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=%size%",
@@ -158,8 +152,7 @@
     "internalName": "DiziKorea",
     "description": "🔴 lepotane 16.09.2026 En Güncel Kore Dizileri izleme Sitesi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziKorea.cs3",
-    "name": "DiziKorea",
-    "fileHash": "sha256-9dbd8acca1f8e649d9761ba0b7041b24461cb1b6c2459d0be0d7693343dacabf"
+    "name": "DiziKorea"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
@@ -178,8 +171,7 @@
     "internalName": "Dizilla",
     "description": "🔴 feroxx 16.09.2026 Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/Dizilla.cs3",
-    "name": "Dizilla",
-    "fileHash": "sha256-25a5164a8a92dece1f5993e4ddd7be8399f53c92ebf7448177712fa51b853827"
+    "name": "Dizilla"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.dizimom.surf&sz=%size%",
@@ -199,8 +191,7 @@
     "internalName": "DiziMom",
     "description": "🔴 blackhope01 16.09.2026 Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DiziMom.cs3",
-    "name": "DiziMom",
-    "fileHash": "sha256-1e814d44124810c9c0ec13820a3fc9463aba3e5b7fde231cc2af6653140fbc37"
+    "name": "DiziMom"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal2132.com&sz=%size%",
@@ -220,8 +211,7 @@
     "internalName": "DiziPal",
     "description": "🔴 lepotane 16.09.2026 DiziPal - Güncel domain ile yabancı dizi ve filmleri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziPal.cs3",
-    "name": "DiziPal",
-    "fileHash": "sha256-df99957048ed276392e561daef66df34b099f00d82238b960b5c4998386358bd"
+    "name": "DiziPal"
   },
   {
     "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
@@ -240,8 +230,7 @@
     "internalName": "DiziYou",
     "description": "🔴 lepotane 16.09.2026 Diziyou - Kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziYou.cs3",
-    "name": "DiziYou",
-    "fileHash": "sha256-dd0723dc9bd0b86011cbf52370f2efd0ca59901fcea6f03d7561bd72b55acae0"
+    "name": "DiziYou"
   },
   {
     "iconUrl": "https://filmbip.com/uploads/favicon/original/favicon.webp",
@@ -280,8 +269,7 @@
     "internalName": "FilmMakinesi",
     "description": "🔴 blackhope01 16.09.2026 Film Makinesi ile en yeni ve güncel filmleri Full HD kalite farkı ile izleyebilirsiniz. Film izle denildiğinde akla gelen en kaliteli film sitesi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/FilmMakinesi.cs3",
-    "name": "FilmMakinesi",
-    "fileHash": "sha256-8367b606ae3fbeccddb7432747187c19b1f6a20343807e3fdf11967fb558ba0c"
+    "name": "FilmMakinesi"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=filmmodu.one",
@@ -300,8 +288,7 @@
     "internalName": "FilmModu",
     "description": "🔴 lepotane 16.09.2026 1080p film izleme keyfi (MRC)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FilmModu.cs3",
-    "name": "FilmModu",
-    "fileHash": "sha256-e1212b16adf0e11c2842160964e3e778baf58e6fda9288ea6b080bbedca699ea"
+    "name": "FilmModu"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilm.us&sz=%size%",
@@ -321,8 +308,7 @@
     "internalName": "FullHDFilm",
     "description": "🔴 feroxx 16.09.2026 Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/FullHDFilm.cs3",
-    "name": "FullHDFilm",
-    "fileHash": "sha256-83de6f5e436bc671aef7925683ffa870a8f8264513d032e23e64b2d0d59515a4"
+    "name": "FullHDFilm"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
@@ -341,8 +327,7 @@
     "internalName": "FullHDFilmizlesene",
     "description": "🔴 feroxx 16.09.2026 Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/FullHDFilmizlesene.cs3",
-    "name": "FullHDFilmizlesene",
-    "fileHash": "sha256-8f2cff5f9fc87f38d415b65c30c7ad3b7c9a5d26f03d8e73b072ff520b499253"
+    "name": "FullHDFilmizlesene"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hdfilmcehennemi.nl",
@@ -362,8 +347,7 @@
     "internalName": "HDFilmCehennemi",
     "description": "🔴 lepotane 16.09.2026 Türkiye'nin en hızlı HD film izleme sitesi (MRC)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/HDFilmCehennemi.cs3",
-    "name": "HDFilmCehennemi",
-    "fileHash": "sha256-dc6489c8c366ec388edc83cd45f0f399a756d9c6a84b5410c48ad76ad9fa9e3a"
+    "name": "HDFilmCehennemi"
   },
   {
     "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
@@ -385,8 +369,7 @@
     "internalName": "InatBox",
     "description": "🔴 feroxx 16.09.2026 İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/InatBox.cs3",
-    "name": "InatBox",
-    "fileHash": "sha256-006c7b68f7deb24c5356c753429c20607896f78009a8edbf27a46bd6ff0651fb"
+    "name": "InatBox"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.now&sz=%size%",
@@ -406,8 +389,7 @@
     "internalName": "JetFilmizle",
     "description": "🔴 blackhope01 16.09.2026 En yeni yerli ve yabancı yapımları Full HD kalitede film izle. Türkçe dublaj ve altyazı seçenekleriyle sunulan ödüllü sinema eserlerini JetFilmizle hızıyla keşfedin.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/JetFilmizle.cs3",
-    "name": "JetFilmizle",
-    "fileHash": "sha256-6396427508fbce27ef8ffeb56ac73436ef9ea4ecf9c8f01e74681ea167ed0d01"
+    "name": "JetFilmizle"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=koreanturk.com&sz=%size%",
@@ -446,8 +428,7 @@
     "internalName": "KultFilmler",
     "description": "🔴 lepotane 16.09.2026 Seçkin kült film ve dizi arşivi (MRC)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/KultFilmler.cs3",
-    "name": "KultFilmler",
-    "fileHash": "sha256-87b1ba73b55db5f7aaa155b64be639e9f846252d3a53c51eb3aecb2499a131cb"
+    "name": "KultFilmler"
   },
   {
     "iconUrl": "https://netfree2.cc/mobile/img/nf2/icon_x192.png",
@@ -512,8 +493,7 @@
     "internalName": "RecTV",
     "description": "🔴 feroxx 16.09.2026 RecTv APK, Türkiye'deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/RecTV.cs3",
-    "name": "RecTV",
-    "fileHash": "sha256-e04263fe93a131c4502fab15615735d6826580f99062f61dc2b062c0ce8976ab"
+    "name": "RecTV"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.uk&sz=%size%",
@@ -533,8 +513,7 @@
     "internalName": "SetFilmIzle",
     "description": "🔴 feroxx 16.09.2026 Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/SetFilmIzle.cs3",
-    "name": "SetFilmIzle",
-    "fileHash": "sha256-7d68082a8c875ede5c804dd243decbedb1d81e5d96abe702b1c61c8be6d02f09"
+    "name": "SetFilmIzle"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://sezonlukdizi.cc&sz=%size%",
@@ -553,8 +532,7 @@
     "internalName": "SezonlukDizi",
     "description": "🔴 blackhope01 16.09.2026 Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/SezonlukDizi.cs3",
-    "name": "SezonlukDizi",
-    "fileHash": "sha256-43e3d5cb3af55a6f7075f03b07755be46ebd0ff3dc7be0d9e3843b3558c62056"
+    "name": "SezonlukDizi"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sinemacc.com",
@@ -573,8 +551,7 @@
     "internalName": "SinemaCX",
     "description": "🔴 lepotane 16.09.2026 Türkçe dublaj HD yabancı filmler (MRC)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/SinemaCX.cs3",
-    "name": "SinemaCX",
-    "fileHash": "sha256-9c59439dae4718439d9ca07650f6252574ca337c1b1950f29f2d1b7224401076"
+    "name": "SinemaCX"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.info&sz=%size%",
@@ -632,8 +609,7 @@
     "internalName": "TRanimaci",
     "description": "🔴 feroxx 16.09.2026 TRanimeci - Türkiye'nin Online Anime izleme sitesi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/TRanimaci.cs3",
-    "name": "TRanimaci",
-    "fileHash": "sha256-c48bc5c8042edfd196d31c55a28c53d98a892777e624bccdacdce79c888b069c"
+    "name": "TRanimaci"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=%size%",
@@ -652,8 +628,7 @@
     "internalName": "TRasyalog",
     "description": "🔴 lepotane 16.09.2026 TRasyalog izleme sitesi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/TRasyalog.cs3",
-    "name": "TRasyalog",
-    "fileHash": "sha256-9ed9346cc782d8e4d623459535158d42b4e5726a94974bbeca48163efecc4191"
+    "name": "TRasyalog"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.tranimeizle.io&sz=%size%",
@@ -672,8 +647,7 @@
     "internalName": "TurkAnime",
     "description": "🔴 lepotane 16.09.2026 Tranimeizle - Türkçe altyazılı anime izleme sitesi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/TurkAnime.cs3",
-    "name": "TurkAnime",
-    "fileHash": "sha256-7caf34043f4462a4376ab8ec3105c6e2af2533555d1b480a28e0193071cf6aed"
+    "name": "TurkAnime"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=ugurfilm7.com&sz=%size%",
@@ -712,8 +686,7 @@
     "internalName": "Watch2Movies",
     "description": "🔴 lepotane 16.09.2026 Movies2Watch is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Watch2Movies.cs3",
-    "name": "Watch2Movies",
-    "fileHash": "sha256-ab0bf54247c4915ee95bc587101ab34790555f71f1608d9a09b37eaae4fa75bf"
+    "name": "Watch2Movies"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://webteizle3.xyz&sz=%size%",
@@ -733,8 +706,7 @@
     "internalName": "Webteizle",
     "description": "🔴 blackhope01 16.09.2026 Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/Webteizle.cs3",
-    "name": "Webteizle",
-    "fileHash": "sha256-163fc89b68c30065cdfdf4afc027167fad047c92e7e6b3025a7e1716ed670e78"
+    "name": "Webteizle"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/AltiYuzAltmisAltiFilmIzle.png",
@@ -756,8 +728,7 @@
     "internalName": "AltiYuzAltmisAltiFilmIzle",
     "description": "🆕 Wiojelt 16.09.2026 Alti Yuz Altmis Alti Film Izle · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/AltiYuzAltmisAltiFilmIzle.cs3",
-    "name": "AltiYuzAltmisAltiFilmIzle",
-    "fileHash": "sha256-61e318bf35abd53a9199ec8f3d62f1e3c8c232cb0d41da42fc35cf934a369635"
+    "name": "AltiYuzAltmisAltiFilmIzle"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=%size%",
@@ -797,8 +768,7 @@
     "internalName": "DiziPalOriginal",
     "description": "🔴 feroxx 16.09.2026 en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/DiziPalOriginal.cs3",
-    "name": "DiziPalOriginal",
-    "fileHash": "sha256-ef798a3497fd3ce20c67677a3dabe3989b4abf08e7383d15797df0b036812692"
+    "name": "DiziPalOriginal"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.sinewix.com/&sz=%size%",
@@ -819,8 +789,7 @@
     "internalName": "SineWix",
     "description": "🔴 lepotane 16.09.2026 SineWix | Film - Dizi - Anime İzleme Uygulaması",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/SineWix.cs3",
-    "name": "SineWix",
-    "fileHash": "sha256-aec30608cd5d177ed00d44678e71ac2b5ee2540268d61a871c13c769a481fa74"
+    "name": "SineWix"
   },
   {
     "iconUrl": "",
@@ -857,8 +826,7 @@
     "internalName": "AsyaWatch",
     "description": "🆕 lepotane 16.09.2026 Asyawatch",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AsyaWatch.cs3",
-    "name": "AsyaWatch",
-    "fileHash": "sha256-a1d33ada088536df500e8fdb83ec93d62e24502d3a09d783a2ffd76c493a978d"
+    "name": "AsyaWatch"
   },
   {
     "iconUrl": "",
@@ -912,8 +880,7 @@
     "internalName": "DMax",
     "description": "🔴 lepotane 16.09.2026 DMAX belgeselleri, programları ve canlı yayın.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DMax.cs3",
-    "name": "DMax",
-    "fileHash": "sha256-2c91a46224b329d45bebe6dc6fd9efab493ae7b9f70582cbce096cd3b9c003da"
+    "name": "DMax"
   },
   {
     "iconUrl": "",
@@ -1173,8 +1140,7 @@
     "internalName": "YabanciDizi",
     "description": "🆕 Wiojelt 16.09.2026 Yabanci Dizi · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/YabanciDizi.cs3",
-    "name": "YabanciDizi",
-    "fileHash": "sha256-1a2ac7df3316f0ea097fd30c0ffff28d5176c41c2853042d78180e0f55dd4e1a"
+    "name": "YabanciDizi"
   },
   {
     "iconUrl": "",
@@ -1263,8 +1229,7 @@
     "internalName": "WebDramaTurkey",
     "description": "🆕 manitux-app 16.09.2026 Kore dizisi izle, çin dizisi izle, japon dizisi izle, kore dizileri izle, kore filmleri, asya dizileri, çin filmleri, japon filmleri, bl dizi izle, asya dizisi izle, web drama izle.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/manitux-app/WebDramaTurkey.cs3",
-    "name": "WebDramaTurkey",
-    "fileHash": "sha256-eefd3a731d90e620cac4e1444865519d89681b7ce78077a585d10362c389956b"
+    "name": "WebDramaTurkey"
   },
   {
     "iconUrl": "",
@@ -1415,8 +1380,7 @@
     "internalName": "AnimeSiteleri",
     "description": "🔴 caca1403 14.07.2026 Anime Siteleri | AnimeciX ve OpenAnime arşivini tek çatı altında toplayan birleşik anime eklentisi.",
     "url": "https://raw.githubusercontent.com/caca1403/cloudstream-cagi-eklenti/main/dist/AnimeSiteleri-release.cs3?v=48",
-    "name": "AnimeSiteleri",
-    "fileHash": "sha256-b64c8099db7914c7917260fb0aa8403067df7c209253aacab3382fc3dfa6a62f"
+    "name": "AnimeSiteleri"
   },
   {
     "iconUrl": "https://images.unsplash.com/photo-1500485035595-cbe6f645feb1?w=512&q=80",
@@ -1435,8 +1399,7 @@
     "internalName": "BelgeselProvider",
     "description": "🔴 caca1403 30.07.2026 Belgesel | Dünyanın en göz alıcı belgeselleri, bilim, doğa ve tarih arşivini yüksek kalitede ekranınıza getiren modern keşif rehberiniz.",
     "url": "https://raw.githubusercontent.com/caca1403/cloudstream-cagi-eklenti/main/dist/BelgeselProvider-release.cs3?v=60",
-    "name": "BelgeselProvider",
-    "fileHash": "sha256-416b66ae7e68aa9679f13f778577cb1e0d6e46801eda03bff6f2baadb4263b00"
+    "name": "BelgeselProvider"
   },
   {
     "iconUrl": "https://cdn-icons-png.flaticon.com/512/3075/3075908.png",
@@ -1456,8 +1419,7 @@
     "internalName": "TelevizyonEklentileri",
     "description": "🔴 caca1403 30.07.2026 Televizyon Eklentileri | Canlı TV yayınları ve eski yerli/yabancı dizi arşivini tek çatı altında toplayan birleşik televizyon eklentisi.",
     "url": "https://raw.githubusercontent.com/caca1403/cloudstream-cagi-eklenti/main/dist/TelevizyonEklentileri-release.cs3?v=41",
-    "name": "TelevizyonEklentileri",
-    "fileHash": "sha256-21442eae6251e101b7c88683efe207351d111618700e6aef18a92e90180c6180"
+    "name": "TelevizyonEklentileri"
   },
   {
     "iconUrl": "https://cdn-icons-png.flaticon.com/512/3163/3163478.png",
@@ -1480,8 +1442,7 @@
     "internalName": "DiziFilmSiteleri",
     "description": "🔴 caca1403 10.08.2026 Dizi & Film Siteleri | FilmMakinesi, DiziSol, DiziFilm, FilmizleCh, FullHDFilmizlesene, Kült Filmler, SezonlukDizi ve Sinewix arşivlerini tek çatı altında toplayan birleşik eklenti.",
     "url": "https://raw.githubusercontent.com/caca1403/cloudstream-cagi-eklenti/main/dist/DiziFilmSiteleri-release.cs3?v=146",
-    "name": "DiziFilmSiteleri",
-    "fileHash": "sha256-1d74e78daebdebcc2dfbac96918d1add026161009cebb5abc697a6e30341beed"
+    "name": "DiziFilmSiteleri"
   },
   {
     "iconUrl": "https://cdn-icons-png.flaticon.com/512/8634/8634073.png",
@@ -1506,8 +1467,7 @@
     "internalName": "TopluDiziler",
     "description": "🔴 caca1403 10.08.2026 🎬 VizyonHub — Film, dizi, anime, belgesel ve canlı TV'yi tek çatı altında toplayan Türkiye'nin en kapsamlı izleme merkezi. 10+ kaynak (FilmMakinesi, SezonlukDizi, Dizipal, FullHDFilmizlesene, KültFilmler ve daha fazlası), TMDB haftalık trendleri, akıllı başlık eşleştirme ve otomatik kaynak bulucu sistemiyle donatılmış all-in-one eklenti.",
     "url": "https://raw.githubusercontent.com/caca1403/cloudstream-cagi-eklenti/main/dist/TopluDiziler-release.cs3?v=150",
-    "name": "VizyonHub",
-    "fileHash": "sha256-059a3e148c4c25ae834ad091735fefe5b350e29ee80ae527d09a60101970e2e8"
+    "name": "VizyonHub"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org",
@@ -1527,8 +1487,7 @@
     "internalName": "EnglishW",
     "description": "🆕 ctnkyaumt 16.09.2026 One search result (EnglishW); opening a title fans out to every English source and collects all links. Auto-subtitles included.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/EnglishW.cs3",
-    "name": "EnglishW",
-    "fileHash": "sha256-a2cee9a708632fd6dfd40aa6b5f0e092fea9a0e9de11462157795fd2e8feed21"
+    "name": "EnglishW"
   },
   {
     "iconUrl": "https://filmmirasim.ktb.gov.tr/favicon-r.png",
@@ -1547,8 +1506,7 @@
     "internalName": "Filmmirasım",
     "description": "🆕 ctnkyaumt 16.09.2026 Kültür ve Turizm Bakanlığı, kültürel mirasımızın görsel belleğini oluşturan filmlerin muhafazası ve gelecek kuşaklara aktarılması amacıyla Sinema Genel Müdürlüğü bünyesinde oluşturduğu arşivdeki filmleri dijital ortama aktarmakta ve restore etmektedir. ",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/Filmmirasım.cs3",
-    "name": "Filmmirasım",
-    "fileHash": "sha256-45482b68a9eb43b52fed18f102c68269c3ce478117300da71ea9c6977da3e03f"
+    "name": "Filmmirasım"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org",
@@ -1574,8 +1532,7 @@
     "internalName": "TurkishW",
     "description": "🆕 ctnkyaumt 16.09.2026 Tek arama sonucu (TurkishW); bir içeriğe girince tüm kaynaklardan linkleri toplar. Film, Dizi, Anime + Canlı TV.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/TurkishW.cs3",
-    "name": "TurkishW",
-    "fileHash": "sha256-15afeee18239dc471c9767f1c15f8b00a05a24710d6c95fa40974cb0653683ce"
+    "name": "TurkishW"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png",
@@ -1596,8 +1553,7 @@
     "internalName": "plt-stream",
     "description": "🔴 pltmustafa 16.09.2026 plt-stream - Birden fazla siteden içerik sağlayan bir eklenti",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/plt-stream.cs3",
-    "name": "plt-stream",
-    "fileHash": "sha256-e38db7b03b0bcbff40bc57de3442cb7c24fdb6688ccc494b01b117d14887f143"
+    "name": "plt-stream"
   },
   {
     "iconUrl": "https://img.icons8.com/color/512/cloud-sync.png",
@@ -1616,8 +1572,7 @@
     "internalName": "Cloud-Sync",
     "description": "🆕 pltmustafa 16.09.2026 Cloud sync plugin for Cloudstream - syncs bookmarks, settings, extensions, watch history across devices",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/Cloud-Sync.cs3",
-    "name": "Cloud-Sync",
-    "fileHash": "sha256-62e6f731e5aa5e201f0c7fa68219088d4bead34d81b9c33c707dbe1f9f744737"
+    "name": "Cloud-Sync"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon_party.png",
@@ -1636,8 +1591,7 @@
     "internalName": "plt-party",
     "description": "🆕 pltmustafa 16.09.2026 plt-party - Sevdiklerinizle senkronize bir şekilde izlemenizi sağlar.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/plt-party.cs3",
-    "name": "plt-party",
-    "fileHash": "sha256-6f8892af2a6a8d9d839a33097268ba99ebf0719afa2c0c263c790cafe440205a"
+    "name": "plt-party"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://webdramaturkey2.com&sz=%size%",
@@ -1678,8 +1632,7 @@
     "internalName": "plt-tv",
     "description": "🆕 pltmustafa 16.09.2026 plt-tv - M3U/M3U8 çalma listeleri ve canlı TV yayınlarını oynatıcı eklentisi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/plt-tv.cs3",
-    "name": "plt-tv",
-    "fileHash": "sha256-01da9b9941fddd0c38b295b012e04a8d650dcfb20521e1ea952227b01800ff8e"
+    "name": "plt-tv"
   },
   {
     "iconUrl": "",
@@ -1751,8 +1704,7 @@
     "internalName": "Anizium",
     "description": "🆕 Wiojelt 16.09.2026 Anizium · TurkSinema ayrı sağlayıcı paketi (4K & 2K Dublajlı Anime)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Anizium.cs3",
-    "name": "Anizium",
-    "fileHash": "sha256-d628e534c4643961501bb4a18a65d3549f18d0e35a62a1913865a56d8be27dbe"
+    "name": "Anizium"
   },
   {
     "iconUrl": "",
@@ -1807,8 +1759,7 @@
     "internalName": "DiziAsya",
     "description": "🔴 Wiojelt 16.09.2026 DiziAsya · Kore, Japon ve Çin Dizileri & Asya Sineması (diziasya.com)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DiziAsya.cs3",
-    "name": "DiziAsya",
-    "fileHash": "sha256-6f0c638d3ebbd4c8a55f0ba90e604868b1fe464b841fef38dc577c679db3324a"
+    "name": "DiziAsya"
   },
   {
     "iconUrl": "",
@@ -1862,8 +1813,7 @@
     "internalName": "DiziLife",
     "description": "🔴 blackhope01 16.09.2026 Dizi.life Türkçe dizi/film izleme platformu — yabancı diziler, yeni filmler, son bölümler.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DiziLife.cs3",
-    "name": "DiziLife",
-    "fileHash": "sha256-70a7307e640f4b21023d84f7f4e9ad64b24aeacdf3c670ab83a6139621e365e2"
+    "name": "DiziLife"
   },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1581.com&size=128",
@@ -1882,8 +1832,7 @@
     "internalName": "DiziPalOrijinal",
     "description": "🆕 lepotane 16.09.2026 DiziPal Orijinal.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziPalOrijinal.cs3",
-    "name": "DiziPalOrijinal",
-    "fileHash": "sha256-198cf40695549fad2fdf1d137f9d052ad213d8354bf9506ea4ec0b7a3928c0d9"
+    "name": "DiziPalOrijinal"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizipod.com&sz=%size%",
@@ -1903,8 +1852,7 @@
     "internalName": "DiziPod",
     "description": "🆕 feroxx 16.09.2026 Yabancı dizi ve film izleme platformu. Altyazılı yabancı dizi ve film izle.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/DiziPod.cs3",
-    "name": "DiziPod",
-    "fileHash": "sha256-c4be7b192eec30ffc084f8df86e30f0ccc59270e58fe7dc99b989677963224f5"
+    "name": "DiziPod"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.diziyo.so&sz=%size%",
@@ -1924,8 +1872,7 @@
     "internalName": "DiziYo",
     "description": "🔴 blackhope01 16.09.2026 Yeni film, dizi, anime ve bölümleri keşfet; güncel trendleri, sıralamaları ve yayın takvimini incele.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DiziYo.cs3",
-    "name": "DiziYo",
-    "fileHash": "sha256-9dacc67b13830d30c0412b4430b1bf8476cd7ca98e02fe848cc3818c7982f0aa"
+    "name": "DiziYo"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dramadizilerim.com&sz=%size%",
@@ -1944,8 +1891,7 @@
     "internalName": "DramaDizilerim",
     "description": "🔴 blackhope01 16.09.2026 En popüler NetShort, DramaBox, ReelShort ve FreeReels kısa dizilerini Türkçe dublaj ve altyazı seçenekleriyle Full HD kalitede ücretsiz ve reklamsız izleyin.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DramaDizilerim.cs3",
-    "name": "DramaDizilerim",
-    "fileHash": "sha256-923b17087497bb3cfc1bffe9bb066bf96addd5de87715c7496502026eb038925"
+    "name": "DramaDizilerim"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.filmekseni.vip&sz=%size%",
@@ -1965,8 +1911,7 @@
     "internalName": "FilmEkseni",
     "description": "🆕 lepotane 16.09.2026 Film Ekseni Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FilmEkseni.cs3",
-    "name": "FilmEkseni",
-    "fileHash": "sha256-0d0e489d1df291d665762dd58154cd9e36cb1268e1a23d975c643f12a37101ed"
+    "name": "FilmEkseni"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.filmhane.shop&sz=%size%",
@@ -1986,8 +1931,7 @@
     "internalName": "FilmHane",
     "description": "🆕 blackhope01 16.09.2026 Trend olan tüm yabancı yerli filmleri Hd ve 720p 1080p kalitesinde kesintisiz indirmeden izleyebilirsiniz, Online film sitemizde Türkçe dublaj olarak izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/FilmHane.cs3",
-    "name": "FilmHane",
-    "fileHash": "sha256-795a96520644a3a5f85da35e92904e02e51990cab36c860a4feef2b06a235e6a"
+    "name": "FilmHane"
   },
   {
     "iconUrl": "",
@@ -2041,8 +1985,7 @@
     "internalName": "HDFilmDelisi",
     "description": "🔴 feroxx 16.09.2026 HD Film Delisi - Türkçe Filmler",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/HDFilmDelisi.cs3",
-    "name": "HDFilmDelisi",
-    "fileHash": "sha256-20329159ede070b4f6535bb501c5d4276262247574f27ef9740cdf2ab7175a95"
+    "name": "HDFilmDelisi"
   },
   {
     "iconUrl": "",
@@ -2164,8 +2107,7 @@
     "internalName": "SelcukFlix",
     "description": "🔴 lepotane 16.09.2026 Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/SelcukFlix.cs3",
-    "name": "SelcukFlix",
-    "fileHash": "sha256-84820d50ec5f3111bd15811fe270a532d85593cd4ef2470a52d89e68b8e0e772"
+    "name": "SelcukFlix"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sinezy.to",
@@ -2184,8 +2126,7 @@
     "internalName": "Sinezy",
     "description": "🆕 lepotane 16.09.2026 HD film izleme keyfi (MRC)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Sinezy.cs3",
-    "name": "Sinezy",
-    "fileHash": "sha256-4b1d68cf4d6c00f922637d84c958deb570f0f8f5b55f241ebf7a88716e5424a2"
+    "name": "Sinezy"
   },
   {
     "iconUrl": "",
@@ -2272,8 +2213,7 @@
     "internalName": "YesilcamTV",
     "description": "🔴 manitux-app 16.09.2026 YESILCAM TV",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/manitux-app/YesilcamTV.cs3",
-    "name": "YesilcamTV",
-    "fileHash": "sha256-46f9271bafbc93bc24cef9f8fb964d810f392d1930ac21acf35a00161543e0f9"
+    "name": "YesilcamTV"
   },
   {
     "iconUrl": "",
@@ -2326,8 +2266,7 @@
     "internalName": "trakt-sync",
     "description": "🔴 pltmustafa 16.09.2026 İzlenen içerikleri otomatik izlendi olarak işaretler ve izleme listesini senkronize eder.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/trakt-sync.cs3",
-    "name": "trakt-sync",
-    "fileHash": "sha256-bc0d341b51844222c5a3046f42ff2ff1aa2a0e93d41fa35bb4ad9b753227e38d"
+    "name": "trakt-sync"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/master/CineStream/icon.png",
@@ -2349,8 +2288,7 @@
     "internalName": "CineStream",
     "description": "🆕 Wiojelt 16.09.2026 CineStream · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CineStream.cs3",
-    "name": "CineStream",
-    "fileHash": "sha256-eebc1dd648eac66315c9ceaf8f409a575194261732731e89ab3aca162a3970f9"
+    "name": "CineStream"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/dcenhance/dcext/main/assets/CS3M.png",
@@ -2391,8 +2329,7 @@
     "internalName": "TurkSporDestek",
     "description": "🆕 Wiojelt 10.09.2026 TurkSpor’a destek ol ☕ · @wiojelt · made with ♥",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSporDestek.cs3",
-    "name": "00 · TurkSpor'a destek ol ☕",
-    "fileHash": "sha256-b8a3491acc9dbb02668fa265f0a80378965039a7267885e4e36a81e05ce00286"
+    "name": "00 · TurkSpor'a destek ol ☕"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ArdaSpor.png",
@@ -2411,8 +2348,7 @@
     "internalName": "ArdaSpor",
     "description": "🆕 Wiojelt 16.09.2026 🟢 Kaynak: ArdaSpor · Emeği için teşekkürler ♥ · @wiojelt",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/ArdaSpor.cs3",
-    "name": "ArdaSpor",
-    "fileHash": "sha256-7cb7bde418cc709266d6092537339e2e39f6c5446f6f1bc6cb77cb56f67a6f90"
+    "name": "ArdaSpor"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/AslanTV.png",
@@ -2431,8 +2367,7 @@
     "internalName": "AslanTV",
     "description": "🆕 Wiojelt 16.09.2026 🟢 Kaynak: Aslan TV · Derleme izni ve emeği için yapımcısına teşekkürler ♥ · @wiojelt · WARP gerekebilir.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/AslanTV.cs3",
-    "name": "AslanTV",
-    "fileHash": "sha256-eb96a4264d6484b95ee9af61e2228e5c458ddeae255b3fc12bbb2546cb9d311f"
+    "name": "AslanTV"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BetmatikTV.png",
@@ -2451,8 +2386,7 @@
     "internalName": "BetmatikTV",
     "description": "🆕 Wiojelt 16.09.2026 Betmatik TV canlı spor kanalları · otomatik alan güncelleme",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/BetmatikTV.cs3",
-    "name": "BetmatikTV",
-    "fileHash": "sha256-4329d36cc415d98d675e7bb6da25b535136155d5791fa3831f1d0addbb9f0e90"
+    "name": "BetmatikTV"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BeyazElma.png",
@@ -2471,8 +2405,7 @@
     "internalName": "BeyazElma",
     "description": "🆕 Wiojelt 16.09.2026 🟢 Kaynak: BeyazElma · Emeği için teşekkürler ♥ · @wiojelt",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/BeyazElma.cs3",
-    "name": "BeyazElma",
-    "fileHash": "sha256-33391cefef97a0b737d6cead20cd31376498caff0862b60e26d11a2b36abbf01"
+    "name": "BeyazElma"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Crex.png",
@@ -2491,8 +2424,7 @@
     "internalName": "Crex",
     "description": "🆕 Wiojelt 16.09.2026 🟢 Kaynak: Crex · Emeği için teşekkürler ♥ · @wiojelt",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Crex.cs3",
-    "name": "Crex",
-    "fileHash": "sha256-0fd77802d4ab438f9ed5bd5887d031d8ac3a6a034052fe04e259514131c2d7e7"
+    "name": "Crex"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DaddyLive.jpg",
@@ -2511,8 +2443,7 @@
     "internalName": "DaddyLive",
     "description": "🆕 Wiojelt 16.09.2026 DaddyLive 7/24 spor kanalları, çoklu alan adı ve tokenlı oynatıcı desteği.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DaddyLive.cs3",
-    "name": "DaddyLive",
-    "fileHash": "sha256-cde32863d4cadbf1ec53aae6d5b3af035b90f52e01b07a48ba833e858663271e"
+    "name": "DaddyLive"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DomatesTV.webp",
@@ -2531,8 +2462,7 @@
     "internalName": "DomatesTV",
     "description": "🆕 Wiojelt 16.09.2026 Domates TV dinamik spor kanalları",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DomatesTV.cs3",
-    "name": "DomatesTV",
-    "fileHash": "sha256-8235fbfeae28396b3681261fae4a8408dc04e33c1b47325d65d497f61e11ed2c"
+    "name": "DomatesTV"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DominoTV.png",
@@ -2551,8 +2481,7 @@
     "internalName": "DominoTV",
     "description": "🆕 Wiojelt 16.09.2026 Domino TV 4.0 dinamik spor kanalları",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DominoTV.cs3",
-    "name": "DominoTV",
-    "fileHash": "sha256-613e597d4e4b5cfa6ec40c1dc22af3a3c8d525790d6160e5e9accb2df252e8b6"
+    "name": "DominoTV"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Hesgoal.png",
@@ -2571,8 +2500,7 @@
     "internalName": "Hesgoal",
     "description": "🆕 Wiojelt 16.09.2026 Hesgoal canlı maç listesi, yenilenen oynatıcı adresleri ve güncelleme ekranı.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Hesgoal.cs3",
-    "name": "Hesgoal",
-    "fileHash": "sha256-b2b2ea838d2f3e236d71ef74ee0c89429cd3d53a50e8900201b004500d042626"
+    "name": "Hesgoal"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InatTV.png",
@@ -2591,8 +2519,7 @@
     "internalName": "InatTV",
     "description": "🆕 Wiojelt 16.09.2026 🟢 Kaynak: İnat TV · Emeği için teşekkürler ♥ · @wiojelt",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/InatTV.cs3",
-    "name": "InatTV",
-    "fileHash": "sha256-797455d8c80da6f8324532cdc90e81bb07a503bdbefc3049fde07458d4ac3fe1"
+    "name": "InatTV"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InterSporTV.png",
@@ -2611,8 +2538,7 @@
     "internalName": "InterSporTV",
     "description": "🆕 Wiojelt 16.09.2026 🔴 Kaynak: InterSporTV · Emeği için teşekkürler ♥ · @wiojelt",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/InterSporTV.cs3",
-    "name": "InterSporTV",
-    "fileHash": "sha256-2311f662c4348c5124b27d467e14b8d078eb455087fd3745465b2812e431c06a"
+    "name": "InterSporTV"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/KralSporHD.png",
@@ -2631,8 +2557,7 @@
     "internalName": "KralSporHD",
     "description": "🆕 Wiojelt 16.09.2026 👑 Kaynak: KralSporHD · Emeği için teşekkürler ♥ · @wiojelt",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/KralSporHD.cs3",
-    "name": "KralSporHD",
-    "fileHash": "sha256-3823f705366c2d6928a50e36924d2eda0c446ee127b1683e6564d5463b79f672"
+    "name": "KralSporHD"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/LiveXTV.png",
@@ -2651,8 +2576,7 @@
     "internalName": "LiveXTV",
     "description": "🆕 Wiojelt 16.09.2026 LiveXTV canlı spor API'si, yedek uç nokta ve çoklu yayın kaynakları.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/LiveXTV.cs3",
-    "name": "LiveXTV",
-    "fileHash": "sha256-36196b16cd415dbfa514c7e6044fccec2641a3b004629824fa044254fd66d487"
+    "name": "LiveXTV"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/MacKeyfi.png",
@@ -2671,8 +2595,7 @@
     "internalName": "MacKeyfi",
     "description": "🆕 Wiojelt 16.09.2026 🔴 Kaynak: MaçKeyfi / Canlımaçlar · Emeği için teşekkürler ♥ · @wiojelt · WARP gerekebilir.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/MacKeyfi.cs3",
-    "name": "MacKeyfi",
-    "fileHash": "sha256-c20a10e2100467e45d2f56ae0ce6e9349b2a8047175c3a0cfde71eb4676d2170"
+    "name": "MacKeyfi"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/MahsunSports.jpg",
@@ -2691,8 +2614,7 @@
     "internalName": "MahsunSports",
     "description": "🆕 Wiojelt 16.09.2026 🟢 Kaynak: MahsunSports · Emeği için teşekkürler ♥ · @wiojelt",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/MahsunSports.cs3",
-    "name": "MahsunSports",
-    "fileHash": "sha256-93a290f4885802aba6a886643a08e2b4866edaac4cf37ee41d4ba6d8caf77695"
+    "name": "MahsunSports"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/NetVGold.png",
@@ -2711,8 +2633,7 @@
     "internalName": "NetVGold",
     "description": "🆕 Wiojelt 16.09.2026 NETV Gold uygulamasının doğrulanmış spor kanalları",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/NetVGold.cs3",
-    "name": "NetVGold",
-    "fileHash": "sha256-94777de5ee07a37d711031ddf01dcb38e96ce795bfd4e0ee3a2adebf4b38b2a3"
+    "name": "NetVGold"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Ntvs.png",
@@ -2731,8 +2652,7 @@
     "internalName": "Ntvs",
     "description": "🆕 Wiojelt 16.09.2026 NTVStream spor kanalları, arama tabanlı canlı katalog ve güncelleme ekranı.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Ntvs.cs3",
-    "name": "Ntvs",
-    "fileHash": "sha256-cb8ac00aa1d4b65f96512cb5f2de4f26a2f03d091eca0ee15d70471d049fded6"
+    "name": "Ntvs"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/PapazSports.png",
@@ -2751,8 +2671,7 @@
     "internalName": "PapazSports",
     "description": "🆕 Wiojelt 16.09.2026 PapazSports canlı kanal ve maç listesi, artan alan adı keşfi ve güncelleme ekranı.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/PapazSports.cs3",
-    "name": "PapazSports",
-    "fileHash": "sha256-62cca511c8f86bc9e600f1aa1f8c84b7b1f7985450609ca973f698056bbef88d"
+    "name": "PapazSports"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/SelcukSports.png",
@@ -2771,8 +2690,7 @@
     "internalName": "SelcukSports",
     "description": "🆕 Wiojelt 16.09.2026 🟢 Kaynak: SelçukSports · Emeği için teşekkürler ♥ · @wiojelt",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/SelcukSports.cs3",
-    "name": "SelcukSports",
-    "fileHash": "sha256-c9d0d8da9847db76663b880f872b8b92c312cf71f24a30b62913149facb3b611"
+    "name": "SelcukSports"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/StreamEast.png",
@@ -2791,8 +2709,7 @@
     "internalName": "StreamEast",
     "description": "🆕 Wiojelt 16.09.2026 StreamEast canlı ve yaklaşan spor etkinlikleri, çoklu oynatıcı ve güncelleme ekranı.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/StreamEast.cs3",
-    "name": "StreamEast",
-    "fileHash": "sha256-f190b3a422575d186619f45e53df0cf495cee78778d27ff3442df44f2f910062"
+    "name": "StreamEast"
   },
   {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://streamed.pk/&size=128",
@@ -2811,8 +2728,7 @@
     "internalName": "Streamed",
     "description": "🔴 lepotane 16.09.2026 Streamed ile Canlı Spor Yayınlarını İzleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Streamed.cs3",
-    "name": "Streamed",
-    "fileHash": "sha256-86bc59510296246e5ae492424a5119753ab4b3683186969ff56f3a4f4b596962"
+    "name": "Streamed"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/TRGoals.png",
@@ -2831,8 +2747,7 @@
     "internalName": "TRGoals",
     "description": "🆕 Wiojelt 16.09.2026 TRGoals dinamik spor kanalları ve alan güncelleme ekranı",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TRGoals.cs3",
-    "name": "TRGoals",
-    "fileHash": "sha256-d963e1c6d0659bb8c0e967e1cc99d1408b97fc7b38b9e5e3c2f7ca93e74712d9"
+    "name": "TRGoals"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Taraftarium24.png",
@@ -2851,8 +2766,7 @@
     "internalName": "Taraftarium24",
     "description": "🆕 Wiojelt 16.09.2026 🔴 Kaynak: Taraftarium24 · Emeği için teşekkürler ♥ · @wiojelt",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Taraftarium24.cs3",
-    "name": "Taraftarium24",
-    "fileHash": "sha256-5d804baf20649e6c971caf92f19866093454519d28a532b138b3a124177b07a6"
+    "name": "Taraftarium24"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/VivoXSpor.png",
@@ -2871,8 +2785,7 @@
     "internalName": "VivoXSpor",
     "description": "🆕 Wiojelt 16.09.2026 VivoX uyumlu dinamik spor listesi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/VivoXSpor.cs3",
-    "name": "VivoXSpor",
-    "fileHash": "sha256-fd58c1769f666c1d9b734ec339f92377847bfe1540d4a7a3584bd81aaece5e86"
+    "name": "VivoXSpor"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ZbahisTV.png",
@@ -2891,8 +2804,7 @@
     "internalName": "ZbahisTV",
     "description": "🆕 Wiojelt 16.09.2026 🔴 Kaynak: Zbahis / Baywin TV · Emeği için teşekkürler ♥ · @wiojelt",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/ZbahisTV.cs3",
-    "name": "ZbahisTV",
-    "fileHash": "sha256-90c6400f9f4af32049df67103058bfcf2f4fd92519958d560299eb9616d56422"
+    "name": "ZbahisTV"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
@@ -2912,7 +2824,6 @@
     "description": "🆕 Wiojelt 16.09.2026 CNCVerse kaynaklı CricifyProvider canlı yayın paketi · izinli harici derleme",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CricifyProvider.cs3",
     "name": "CricifyProvider",
-    "fileHash": "sha256-1f223766f7ab77a22b249efe4b2d039e680c2b6b8524931e92b7fa4a6987232d",
     "externalPath": "external/CNCVerse/CricifyProvider.cs3"
   },
   {
@@ -2932,8 +2843,7 @@
     "internalName": "JestYayin",
     "description": "🆕 Wiojelt 16.09.2026 JestYayin canlı maçlar ve spor kanalları",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/JestYayin.cs3",
-    "name": "JestYayin",
-    "fileHash": "sha256-a9e91f8339645382126f316f546d801105466716b4074f7a52813db87795696b"
+    "name": "JestYayin"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
@@ -2953,7 +2863,6 @@
     "description": "🆕 Wiojelt 16.09.2026 CNCVerse kaynaklı LivXowProvider canlı yayın paketi · izinli harici derleme",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/LivXowProvider.cs3",
     "name": "LivXowProvider",
-    "fileHash": "sha256-f2a0c1991155f28efc2fe3ef255d3d76752818cc633cd762bd0b46636e530dc6",
     "externalPath": "external/CNCVerse/LivXowProvider.cs3"
   },
   {
@@ -2974,7 +2883,6 @@
     "description": "🆕 Wiojelt 16.09.2026 CNCVerse kaynaklı PlayZTVProvider canlı yayın paketi · izinli harici derleme",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/PlayZTVProvider.cs3",
     "name": "PlayZTVProvider",
-    "fileHash": "sha256-80e4656cdab5f70f4384adef3a46f9cd1f0e37755c577faa348dd5cba6ad8c90",
     "externalPath": "external/CNCVerse/PlayZTVProvider.cs3"
   },
   {
@@ -2995,7 +2903,6 @@
     "description": "🆕 Wiojelt 16.09.2026 CNCVerse kaynaklı SportzxProvider canlı yayın paketi · izinli harici derleme",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/SportzxProvider.cs3",
     "name": "SportzxProvider",
-    "fileHash": "sha256-094a5af60e39a0c837856e92e3e1c9c74dd968cdc9bc995b853f5f588d5ab834",
     "externalPath": "external/CNCVerse/SportzxProvider.cs3"
   },
   {
@@ -3017,8 +2924,7 @@
     "internalName": "DiziBal",
     "description": "🔴 lepotane 16.09.2026 En popüler yabancı dizileri yeni bölümleriyle takip edin. HBO, Netflix, Apple TV+ yapımları Türkçe altyazılı olarak dizibaL'da!",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziBal.cs3",
-    "name": "DiziBal",
-    "fileHash": "sha256-80730a3f0bbf9db53f9996f7c356c27bf065e9c627ae56c8e0567b569f592711"
+    "name": "DiziBal"
   },
   {
     "iconUrl": "",
@@ -3037,8 +2943,7 @@
     "internalName": "SyncPlugin",
     "description": "🆕 CakesTwix 16.09.2026 Синхронізація CloudStream між пристроями (закладки, продовження перегляду, налаштування, пошук, розширення). Працює з власним сервером CloudStream Sync Server.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CakesTwix/SyncPlugin.cs3",
-    "name": "SyncPlugin",
-    "fileHash": "sha256-9308dbab730cf5a2a9daf756eae593d48d6484b82a164356400223095e5fcbb3"
+    "name": "SyncPlugin"
   },
   {
     "iconUrl": "https://golgetv.com/favicon.ico",
@@ -3057,8 +2962,7 @@
     "internalName": "GolgeTV",
     "description": "🆕 Wiojelt 16.09.2026 GölgeTV spor kanalları ve alternatif yayınlar",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3",
-    "name": "GolgeTV",
-    "fileHash": "sha256-f96b427cdb502af30591437dd4c9fd6620b96b3054fb57cebf853b1a9b69ff37"
+    "name": "GolgeTV"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.ltd&sz=%size%",
@@ -3078,8 +2982,7 @@
     "internalName": "SetFilm",
     "description": "🆕 manitux-app 16.09.2026 Setfilmizle ile en yeni filmleri ve yabancı dizileri 1080p Full HD kalitesinde, Türkçe dublaj veya altyazılı seçenekleriyle donmadan izleyin. Üyelik gerektirmeden, kesintisiz film keyfi sizi bekliyor.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/manitux-app/SetFilm.cs3",
-    "name": "SetFilm",
-    "fileHash": "sha256-ec6751e169cfd433e4ac019e077660a0a87b231b90182ced2471dc83b317a908"
+    "name": "SetFilm"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=simkl.com&sz=128",
@@ -3101,8 +3004,7 @@
     "internalName": "CineSimkl",
     "description": "🆕 Wiojelt 16.09.2026 CineSimkl · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CineSimkl.cs3",
-    "name": "CineSimkl",
-    "fileHash": "sha256-de14bbf44d2a908b1b91d5208b57dd1473c05c0e30074eb397d2ea569f0ec1a7"
+    "name": "CineSimkl"
   },
   {
     "iconUrl": "",
@@ -3141,8 +3043,7 @@
     "internalName": "ClipBox",
     "description": "🆕 Wiojelt 16.09.2026 Clip Box · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/ClipBox.cs3",
-    "name": "ClipBox",
-    "fileHash": "sha256-58b02a7562755d3f3949110f1a29545f903d1e29ffa04f164e579c1105b9e313"
+    "name": "ClipBox"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
@@ -3164,8 +3065,7 @@
     "internalName": "CNCVerseDisneyPlus",
     "description": "🆕 Wiojelt 16.09.2026 Disney Plus · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CNCVerseDisneyPlus.cs3",
-    "name": "CNCVerseDisneyPlus",
-    "fileHash": "sha256-065d4aadb406fa71419187b278d01fc369ce2bc3e8f72bdc642d728b2abce132"
+    "name": "CNCVerseDisneyPlus"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
@@ -3187,8 +3087,7 @@
     "internalName": "CNCVerseHotstar",
     "description": "🆕 Wiojelt 16.09.2026 Hotstar Mirror · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CNCVerseHotstar.cs3",
-    "name": "CNCVerseHotstar",
-    "fileHash": "sha256-a6c8b514a379b17497e3398016567c3136035ada93ffcfb0114930ee11738223"
+    "name": "CNCVerseHotstar"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
@@ -3210,8 +3109,7 @@
     "internalName": "CNCVerseNetflix",
     "description": "🆕 Wiojelt 16.09.2026 Netflix Mirror · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CNCVerseNetflix.cs3",
-    "name": "CNCVerseNetflix",
-    "fileHash": "sha256-82d30f9d1f4295d37ff4675199d8674e91bf344f738992589ce9d72c56bb69dd"
+    "name": "CNCVerseNetflix"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
@@ -3233,8 +3131,7 @@
     "internalName": "CNCVersePrimeVideo",
     "description": "🆕 Wiojelt 16.09.2026 Prime Video Mirror · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CNCVersePrimeVideo.cs3",
-    "name": "CNCVersePrimeVideo",
-    "fileHash": "sha256-1dea4a1ba42f4099af1a86387b958ed13323d05945caf0e05fa07687dd5fa29f"
+    "name": "CNCVersePrimeVideo"
   },
   {
     "iconUrl": "",
@@ -3272,8 +3169,7 @@
     "internalName": "DiziBol",
     "description": "🔴 lepotane 16.09.2026 En popüler yabancı dizileri yeni bölümleriyle takip edin. HBO, Netflix, Apple TV+ yapımları Türkçe altyazılı olarak dizibaL'da!",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziBol.cs3",
-    "name": "DiziBol",
-    "fileHash": "sha256-3ca31d0d65232a0acc02b7cecd6b9e2d9660698a6ec25300b9944961427f1c7a"
+    "name": "DiziBol"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=128",
@@ -3295,8 +3191,7 @@
     "internalName": "DiziBoxAlternatif",
     "description": "🆕 Wiojelt 16.09.2026 Dizi Box · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DiziBoxAlternatif.cs3",
-    "name": "DiziBoxAlternatif",
-    "fileHash": "sha256-5036a26b04c9b38abec07ccd343c3056e9dfa93a4046f94595c08fb8a31ea107"
+    "name": "DiziBoxAlternatif"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziFilmIzle.jpg",
@@ -3318,8 +3213,7 @@
     "internalName": "DiziFilmIzle",
     "description": "🆕 Wiojelt 16.09.2026 DiziFilmİzle · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DiziFilmIzle.cs3",
-    "name": "DiziFilmIzle",
-    "fileHash": "sha256-fc02aec29c89e36b6b9fff21e3ecebbfa3a2e05e5462e5258bf2e3252fea72c5"
+    "name": "DiziFilmIzle"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizirella.net&sz=128",
@@ -3341,8 +3235,7 @@
     "internalName": "DiziRella",
     "description": "🆕 Wiojelt 16.09.2026 DiziRella · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DiziRella.cs3",
-    "name": "DiziRella",
-    "fileHash": "sha256-fb748190d6d98d7c385f929c56cc81424134d48630b4a1f7770603ca1e1e524f"
+    "name": "DiziRella"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmizzle.com&sz=128",
@@ -3364,8 +3257,7 @@
     "internalName": "FilmIzzle",
     "description": "🆕 Wiojelt 16.09.2026 FilmIzzle · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/FilmIzzle.cs3",
-    "name": "FilmIzzle",
-    "fileHash": "sha256-689f616f6bef68caa328c8f4e7331908c764385be2180926d0cbba2e0cae2b0c"
+    "name": "FilmIzzle"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=flixnetwork.is&sz=128",
@@ -3387,8 +3279,7 @@
     "internalName": "FlixNetwork",
     "description": "🆕 Wiojelt 16.09.2026 Flix Network · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/FlixNetwork.cs3",
-    "name": "FlixNetwork",
-    "fileHash": "sha256-ce07999d9c58a1308b2a6daf63426f8275bc85b0896dff8fb75f472131fcd4cd"
+    "name": "FlixNetwork"
   },
   {
     "iconUrl": "",
@@ -3427,8 +3318,7 @@
     "internalName": "HDFilmizleBest",
     "description": "🆕 Wiojelt 16.09.2026 H D Filmizle Best · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/HDFilmizleBest.cs3",
-    "name": "HDFilmizleBest",
-    "fileHash": "sha256-1bf8a5e6ef49e4caac3605498f6cf3e54f398526cdc4820e395ba9199b373de0"
+    "name": "HDFilmizleBest"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.ink&sz=128",
@@ -3450,8 +3340,7 @@
     "internalName": "HDFilmIzleInk",
     "description": "🆕 Wiojelt 16.09.2026 HDFilmİzle Ink · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/HDFilmIzleInk.cs3",
-    "name": "HDFilmIzleInk",
-    "fileHash": "sha256-2bed140ed34cfd054f2e8263bfcd9280b92fe41002a0cd21a066b357dbc01035"
+    "name": "HDFilmIzleInk"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.vip&sz=128",
@@ -3473,8 +3362,7 @@
     "internalName": "HDFilmIzleVip",
     "description": "🆕 Wiojelt 16.09.2026 HDFilmİzle Vip · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/HDFilmIzleVip.cs3",
-    "name": "HDFilmIzleVip",
-    "fileHash": "sha256-ca95aa57baf498cfc4f3056388a51a1d806160a218167b44adc9c309ef4a5474"
+    "name": "HDFilmIzleVip"
   },
   {
     "iconUrl": "",
@@ -3513,8 +3401,7 @@
     "internalName": "LiderFilmIzle",
     "description": "🆕 Wiojelt 16.09.2026 LiderFilmİzle · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/LiderFilmIzle.cs3",
-    "name": "LiderFilmIzle",
-    "fileHash": "sha256-8755ddac38e6e3f7c2a0a0b9c9ca653bbbb561eae7c7652013ded4b14e30f1b6"
+    "name": "LiderFilmIzle"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
@@ -3535,7 +3422,6 @@
     "description": "🆕 Wiojelt 16.09.2026 CNCVerse kaynaklı MovieBoxProvider paketi · izinli harici derleme",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/MovieBoxProvider.cs3",
     "name": "MovieBoxProvider",
-    "fileHash": "sha256-5ddbfba13f10d1bb92df74d475c6c04a7c11dc108a91d72230a33aa71352b98c",
     "externalPath": "external/CNCVerse/MovieBoxProvider.cs3"
   },
   {
@@ -3558,8 +3444,7 @@
     "internalName": "NetFilmizle",
     "description": "🆕 Wiojelt 16.09.2026 Net Filmizle · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/NetFilmizle.cs3",
-    "name": "NetFilmizle",
-    "fileHash": "sha256-055690b23d78b32b8971978ff934e094036c7aa6946d26155d9d011f60300675"
+    "name": "NetFilmizle"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=sinemakolik.com&sz=128",
@@ -3581,8 +3466,7 @@
     "internalName": "Sinemakolik",
     "description": "🆕 Wiojelt 16.09.2026 Sinemakolik · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Sinemakolik.cs3",
-    "name": "Sinemakolik",
-    "fileHash": "sha256-66ccb71dc5ba81f04965866fffae1fdd4679bd28e29a0f5e847385883be30bfe"
+    "name": "Sinemakolik"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=trdiziizle.tv&sz=128",
@@ -3604,8 +3488,7 @@
     "internalName": "TrDiziIzle",
     "description": "🆕 Wiojelt 16.09.2026 TrDiziİzle · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TrDiziIzle.cs3",
-    "name": "TrDiziIzle",
-    "fileHash": "sha256-7629fab8ff1471e749cefad6b11e979dc1fd4b395ce12f88f5da6b163c7d9f88"
+    "name": "TrDiziIzle"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/support-qr.png",
@@ -3624,8 +3507,7 @@
     "internalName": "TurkSinemaDestek",
     "description": "🆕 Wiojelt 11.09.2026 TurkSinema’ya destek ol ☕ · @wiojelt · made with ♥",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSinemaDestek.cs3",
-    "name": "00 · TurkSinema'ya destek ol ☕",
-    "fileHash": "sha256-aad0b8245ee3dfdf7fa0f0129cedf49eb8b5be476e56b2de678a9400fdae3744"
+    "name": "00 · TurkSinema'ya destek ol ☕"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/dcenhance/dcext/main/assets/CS3M.png",
@@ -3668,8 +3550,7 @@
     "internalName": "Deokwave",
     "description": "🆕 Wiojelt 16.09.2026 Deokwave · TurkSinema ayrı sağlayıcı paketi (4K Ultra HD & Anime)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Deokwave.cs3",
-    "name": "Deokwave",
-    "fileHash": "sha256-179b08aa60846c1b6725dbaef275a002e3d2a1b3948010a60de4be2b59ae241e"
+    "name": "Deokwave"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=sinema.gg&sz=128",
@@ -3691,8 +3572,7 @@
     "internalName": "SinemaGG",
     "description": "🆕 Wiojelt 16.09.2026 SinemaGG · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/SinemaGG.cs3",
-    "name": "SinemaGG",
-    "fileHash": "sha256-1e1d2ce15bba7d3cca24b391818f8b4b7d9aaa6f46d210299e7c02c15e4069fc"
+    "name": "SinemaGG"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/support-qr.png",
@@ -3711,8 +3591,7 @@
     "internalName": "TurkSinemaDestek",
     "description": "🆕 Wiojelt 16.09.2026 TurkSinema'ya destek ol ☕ · @wiojelt · made with ♥",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSinemaDestek.cs3",
-    "name": "TurkSinemaDestek",
-    "fileHash": "sha256-ced98b0ef78839d165db4ce83878164620ee34f2aaf9005a8ecb53463bd84d4e"
+    "name": "TurkSinemaDestek"
   },
   {
     "iconUrl": "",
@@ -3748,8 +3627,7 @@
     "internalName": "AnimeAV",
     "description": "🆕 lepotane 16.09.2026 Disfruta de los últimos episodios y animes agregados en HD y Sub Español. Miles de series, películas y OVAs disponibles para ver online totalmente gratis.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeAV.cs3",
-    "name": "AnimeAV",
-    "fileHash": "sha256-39f41c6c6f3923d7d095934f85528971ebd31df5d58c12d8d19f2d7731b5da50"
+    "name": "AnimeAV"
   },
   {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww1.henaojara.net/&size=128",
@@ -3769,8 +3647,7 @@
     "internalName": "Animejara",
     "description": "🆕 lepotane 16.09.2026 Ver anime online, subtitulado y/o doblado al español latino HD y completamente gratis. Aquí podrás ver y descargar todas tus series preferidas sin anuncios.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Animejara.cs3",
-    "name": "Animejara",
-    "fileHash": "sha256-953a6a40f5355afd85f10f1e1e279c9bfb2a4cd123f631036af771a75374f7ae"
+    "name": "Animejara"
   },
   {
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.animeworld.ac&size=128",
@@ -3789,8 +3666,7 @@
     "internalName": "AnimeWorld",
     "description": "🆕 lepotane 16.09.2026 Scopri il nostro Archivio di Anime in Streaming Sub ITA e ITA. Guarda in Streaming o effettua il Download di migliaia di serie animate sempre aggiornate e in alta qualità, disponibili su PC, console, tablet, smartphone ed altri dispositivi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeWorld.cs3",
-    "name": "AnimeWorld",
-    "fileHash": "sha256-a2af4b38e761d5d36682c3f06919378f9d0cd6d20de88dd79be07f0ebcc8acda"
+    "name": "AnimeWorld"
   },
   {
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeyt.cc&size=128",
@@ -3809,8 +3685,7 @@
     "internalName": "AnimeYTX",
     "description": "🆕 lepotane 16.09.2026 Únete a la familia de AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido más popular de la animación japonesa.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeYTX.cs3",
-    "name": "AnimeYTX",
-    "fileHash": "sha256-2d1b99418f00eeff2d0bd358f93219df4b9ec10e9402b532604d26674630fa2d"
+    "name": "AnimeYTX"
   },
   {
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16",
@@ -3829,8 +3704,7 @@
     "internalName": "BirAsyaDizi",
     "description": "🆕 lepotane 16.09.2026 Asya'nın En Ünlü Dizilerini en yüksek çözünürlükte HD ve kesintisiz izleyin, kaliteli Asya film ve dizilerinin keyfini sürün.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/BirAsyaDizi.cs3",
-    "name": "BirAsyaDizi",
-    "fileHash": "sha256-c2f277fd95a24d4348eda8a6910712685c018b8c9d43c7c69e3314342cca568c"
+    "name": "BirAsyaDizi"
   },
   {
     "iconUrl": "",
@@ -3866,8 +3740,7 @@
     "internalName": "DocumentaryArea",
     "description": "🆕 lepotane 16.09.2026 Watch the best online documentary films.Stunning collection of awesome, eyeopening, interesting, just released, full documentaries.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DocumentaryArea.cs3",
-    "name": "DocumentaryArea",
-    "fileHash": "sha256-bf48d0935835718f38b514815969c81f3a4f684c5e62db36a0cdcc1e8b3c4c32"
+    "name": "DocumentaryArea"
   },
   {
     "iconUrl": "",
@@ -3921,8 +3794,7 @@
     "internalName": "Sinefy",
     "description": "🆕 lepotane 16.09.2026 Yabancı film izle olarak vizyondaki en yeni yabancı filmleri türkçe dublaj ve altyazılı olarak en hızlı şekilde full hd olarak sizlere sunuyoruz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Sinefy.cs3",
-    "name": "Sinefy",
-    "fileHash": "sha256-3515b80e2baa3706960892c6a7ad421226db8df1e723f5a5010945645add6130"
+    "name": "Sinefy"
   },
   {
     "iconUrl": "https://i.imgur.com/LBfX2k3.png",
@@ -3941,8 +3813,7 @@
     "internalName": "Supercartoons",
     "description": "🆕 lepotane 16.09.2026 Watch Cartoons Online. Here you can Watch old Classical Cartoons like Bugs Bunny, Mickey Mouse, Pink Panther, Tom and Jerry and Many Many More!",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Supercartoons.cs3",
-    "name": "Supercartoons",
-    "fileHash": "sha256-7c7d274646a33cf0f665fe43c8e97913f375fa32bd0c5eec3318ce5a1580e95f"
+    "name": "Supercartoons"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yoturkish.to",
@@ -3961,8 +3832,7 @@
     "internalName": "YoTurkish",
     "description": "🆕 lepotane 16.09.2026 YoTurkish - is the most favorite website for watching turkish series with english subtitles for free online, only at yoturkish.to",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/YoTurkish.cs3",
-    "name": "YoTurkish",
-    "fileHash": "sha256-d0151391c7b0a3219c698bd9a0c6cbb78cdcafc7b93a871195cde2c9cab06195"
+    "name": "YoTurkish"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
@@ -3985,8 +3855,7 @@
     "internalName": "WioSinema",
     "description": "🔴 Wiojelt 16.09.2026 TMDB v3 Türkçe katalog (23 ayrıştırılmış kategori), Ultra HD afişler, ClipBox/CineStream direkt TMDB motoru ve 68 sağlayıcıyı tek çatı altında toplayan birleşik sinema ve dizi eklentisi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/WioSinema.cs3",
-    "name": "WioSinema",
-    "fileHash": "sha256-b1bb04127e4b84dfd7d8d85cc72411354018ac3c5d386ee6cf74a9b30cf343a1"
+    "name": "WioSinema"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/logo.png?v=3",
@@ -4005,8 +3874,7 @@
     "internalName": "WioSpor",
     "description": "🔴 Wiojelt 16.09.2026 Tüm canlı TV ve spor kanalları tek eklentide. Renk grupları ve alternatif yayın kaynakları.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/WioSpor.cs3",
-    "name": "WioSpor",
-    "fileHash": "sha256-9fd333674d7bd233f77231a6d828e39f11174ebf6ff8e38ae02023573653c0a3"
+    "name": "WioSpor"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/icon.png",
@@ -4025,8 +3893,7 @@
     "internalName": "BirdirbirIPTV",
     "description": "🔴 Wiojelt 16.09.2026 v10 Spor / IPTV - Türk Spor (beIN, S Sport, Tivibu), Ulusal, Haber ve Dünya Spor Kanalları",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/BirdirbirIPTV.cs3",
-    "name": "v10 Spor",
-    "fileHash": "sha256-0546e199b22f28a305aea257e0780f687d47c4f77ccd00040f495f78536b11c8"
+    "name": "v10 Spor"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
@@ -4048,8 +3915,7 @@
     "internalName": "TurkSinema",
     "description": "🆕 Wiojelt 16.09.2026 Tek pakette 59 Türkçe film, dizi, anime ve belgesel sağlayıcısı.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSinema.cs3",
-    "name": "TurkSinema",
-    "fileHash": "sha256-e3792422d6ea932b6c7686d21c1ac7b058fb7ae7a4a65f4fcee7386e434b4e7b"
+    "name": "TurkSinema"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
@@ -4070,8 +3936,7 @@
     "internalName": "PowerSinema",
     "description": "🆕 Wiojelt 16.09.2026 Power Sinema · 9.000+ Yerli & Yabancı Sinema, Animasyon ve Seri Filmler",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/PowerSinema.cs3",
-    "name": "PowerSinema",
-    "fileHash": "sha256-d5c8502dbfbfbe163ad859b79585af5d7eea75cfc465fd46f707fe2b2c1752b0"
+    "name": "PowerSinema"
   },
   {
     "iconUrl": "",
@@ -4687,8 +4552,7 @@
     "internalName": "InatBoxBC",
     "description": "🆕 lepotane 16.09.2026 İnatBox BC - Canlı kanallar, spor, film ve diziler.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/InatBoxBC.cs3",
-    "name": "InatBoxBC",
-    "fileHash": "sha256-9146224dc1e934bfe62e2e71e5bede3d6499cf604fcdb7d2c9fb38e390bd288d"
+    "name": "InatBoxBC"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.kanald.com.tr&sz=%size%",
@@ -4708,8 +4572,7 @@
     "internalName": "KanalD",
     "description": "🆕 lepotane 16.09.2026 Kanal D dizileri, programları ve canlı yayın.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/KanalD.cs3",
-    "name": "KanalD",
-    "fileHash": "sha256-1257b74fcdd88d969dcfa98ced8278fd3e930927ef8ee9ccc1d93d828b2377a4"
+    "name": "KanalD"
   },
   {
     "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
@@ -4730,8 +4593,7 @@
     "internalName": "RecTVBC",
     "description": "🆕 lepotane 16.09.2026 RecTV BC - Canlı kanallar, spor yayınları, film ve diziler.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/RecTVBC.cs3",
-    "name": "RecTVBC",
-    "fileHash": "sha256-773e4a1216b5921ad10e7aa1dba3603b27f30be7a0c407ac6dbf5b65f0e87e72"
+    "name": "RecTVBC"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.showtv.com.tr&sz=%size%",
@@ -4751,8 +4613,7 @@
     "internalName": "Showtv",
     "description": "🆕 lepotane 16.09.2026 Show TV dizileri, programları ve canlı yayın.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Showtv.cs3",
-    "name": "Showtv",
-    "fileHash": "sha256-e6405a68856b61ee0edcf1a8bede0ed943a61389923fb4e9eb0936bca581119d"
+    "name": "Showtv"
   },
   {
     "iconUrl": "",
@@ -4789,8 +4650,7 @@
     "internalName": "TLC",
     "description": "🆕 lepotane 16.09.2026 TLC dizileri, yaşam ve eğlence programları, canlı yayın.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/TLC.cs3",
-    "name": "TLC",
-    "fileHash": "sha256-5812e1e0602b132aa7babcf60c2fb63b9b95ecfe32a4c38687af06e7405a24c9"
+    "name": "TLC"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.tv8.com.tr&sz=%size%",
@@ -4810,8 +4670,7 @@
     "internalName": "Tv8",
     "description": "🆕 lepotane 16.09.2026 TV8 programları, yarışmaları, dizileri ve canlı yayın.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Tv8.cs3",
-    "name": "Tv8",
-    "fileHash": "sha256-75e02bb582c73fe03aed65f3e05a5e5a6ac2343ceca65977a81a0486d8d1b38a"
+    "name": "Tv8"
   },
   {
     "iconUrl": "",
@@ -4849,8 +4708,7 @@
     "internalName": "CineCat",
     "description": "🔴 Wiojelt 16.09.2026 Cinecat · Dizi & Film Portalı (cinecat.eu)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CineCat.cs3",
-    "name": "CineCat",
-    "fileHash": "sha256-261f248a88cee68eb58821782fa0b473868ba6d92653651ff297749709cce28d"
+    "name": "CineCat"
   },
   {
     "iconUrl": "",
