@@ -92,7 +92,8 @@ jobs:
           ];
 
           function normalizeVersion(v) {
-            return String(v || '0.0.0').replace(/^v/i, '').trim();
+            if (v === undefined || v === null) return "1";
+            return String(v).replace(/^v/i, '').trim();
           }
 
           function getStandardKey(p) {
@@ -110,19 +111,19 @@ jobs:
             const pInternal = p.internalName || pName;
             
             const ordered = {
-              iconUrl: p.iconUrl !== undefined ? p.iconUrl : "",
-              apiVersion: p.apiVersion !== undefined ? p.apiVersion : 1,
-              repositoryUrl: p.repositoryUrl !== undefined ? p.repositoryUrl : "",
-              fileSize: p.fileSize !== undefined ? p.fileSize : 0,
-              status: p.status !== undefined ? p.status : 1,
-              language: p.language || p.lang || "tr",
-              authors: p.authors || (p.author ? [p.author] : ["Bilinmiyor"]),
-              tvTypes: p.tvTypes || [],
-              version: p.version !== undefined ? p.version : 1,
-              internalName: pInternal,
-              description: p.description || "",
-              url: p.url || "",
-              name: pName
+              iconUrl: p.iconUrl !== undefined ? String(p.iconUrl) : "",
+              apiVersion: p.apiVersion !== undefined ? Number(p.apiVersion) : 1,
+              repositoryUrl: p.repositoryUrl !== undefined ? String(p.repositoryUrl) : "",
+              fileSize: p.fileSize !== undefined ? Number(p.fileSize) : 0,
+              status: p.status !== undefined ? String(p.status) : "1",
+              language: String(p.language || p.lang || "tr"),
+              authors: Array.isArray(p.authors) ? p.authors : (p.author ? [String(p.author)] : ["Bilinmiyor"]),
+              tvTypes: Array.isArray(p.tvTypes) ? p.tvTypes : [],
+              version: normalizeVersion(p.version),
+              internalName: String(pInternal),
+              description: String(p.description || ""),
+              url: String(p.url || ""),
+              name: String(pName)
             };
 
             for (const key of Object.keys(p)) {
@@ -167,7 +168,7 @@ jobs:
                 const key = getStandardKey(remote);
                 const existing = mergedMap.get(key);
 
-                const isRemoteDisabled = remote.status === 0 || remote.status === "0";
+                const isRemoteDisabled = String(remote.status) === "0";
                 if (isRemoteDisabled) {
                   if (existing) {
                     delete existing.downloadUrl;
@@ -290,7 +291,7 @@ jobs:
                         apiVersion: manifest ? (manifest.apiVersion || 1) : 1,
                         repositoryUrl: manifest ? (manifest.repositoryUrl || "") : "",
                         fileSize: fs.statSync(localFilePath).size,
-                        status: 1,
+                        status: "1",
                         language: manifest ? (manifest.language || manifest.lang || "tr") : "tr",
                         authors: manifest ? (manifest.authors || [manifest.author || owner]) : [owner],
                         tvTypes: manifest ? (manifest.tvTypes || []) : [],
