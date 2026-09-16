@@ -1,11 +1,10 @@
-### Son Güncelleme: 16.09.2026 17:51
+### Son Güncelleme: 16.09.2026 18:12
 
-### Toplam Eklenti: `251`
+### Toplam Eklenti: `241`
 
 > 🚀 **Bugünkü Güncelleme Özeti (16.09.2026)**
 >
 > * 🆕 **Yeni Eklenenler:**
-  * **GitLatte:** `AniworldMC`, `DDizi - Latte`, `DiziFun - Latte`, `GoFilmIzle - Latte`, `Müzik TV ve Radyo - Latte`, `Tv Bahçesi - Latte`, `WebDramaTurkey - Latte`, `YouTube Özel - Latte`, `myway TV - Latte`
   * **Wiojelt:** `BirdirbirIPTV`, `GolgeTV`, `PowerSinema`, `TurkSporDestek`
   * **dcenhance:** `CS3MProvider`
   * **murattunc05:** `BelgeselX_v17`, `BronzeCloudSports_v4`, `CineStream_v482`, `CizgiMax_v16`, `Ddizi_v22`, `DiziBox_v23`, `DiziMom_v57`, `DiziPalOriginal_v86`, `DiziPal_v106`, `DiziYou_v25`, `Dizilla_v92`, `FilmMakinesi_v58`, `FilmModu_v19`, `FullHDFilm_v36`, `FullHDFilmizlesene_v33`, `HDFilmCehennemi_v48`, `HDFilmDelisi_v1`, `InatBox_v53`, `JetFilmizle_v47`, `KultFilmler_v16`, `RecTV_v110`, `SetFilmIzle_v30`, `SezonlukDizi_v9`, `SinemaCX_v24`, `Sinewix_v2`, `TLCtr_v19`, `Vavoo_v3`, `Watch2Movies_v6`, `WebteIzle_v20`
@@ -15,12 +14,13 @@
   * **Wiojelt:** `TurkSinema`, `WioSinema`, `WioSpor`
   * **aytzey:** `Anizium`, `DiziPal`, `DiziPalOrijinal`, `DiziYou`, `Dizilla`, `Dizipod`, `Filmzal`, `FullHDFilmizlesene`, `HDFilmDelisi`, `InatBox`, `RecTV`, `SelcukFlix`, `SetFilmIzle`, `TvDiziler`, `WebDramaTurkey`, `YabanciDizi`
   * **blackhope01:** `DiziLife`, `DiziMom`, `DiziYo`, `DramaDizilerim`, `FilmHane`, `FilmMakinesi`, `JetFilmizle`, `LoveFilm`, `SezonlukDizi`, `Webteizle`
+  * **ctnkyaumt:** `TurkishW`
   * **feroxx:** `DiziPalOriginal`, `FullHDFilm`, `TRanimaci`
   * **lepotane:** `AnimeciX`, `AsyaAnimeleri`, `AsyaWatch`, `BelgeselX`, `CizgiMax`, `DDizi`, `DiziBal`, `DiziBol`, `DiziBox`, `DiziKorea`, `FilmEkseni`, `FilmModu`, `HDFilmCehennemi`, `KultFilmler`, `RareFilmm`, `SineWix`, `SinemaCX`, `Sinezy`, `Streamed`, `TRasyalog`, `TurkAnime`, `Watch2Movies`, `YesilCamTv`
   * **patr0nq:** `TLCtr`, `WebdramaTurkey2`
 
 ### 📊 Son 15 Günlük Durum Özeti
-🆕 Yeni Eklentiler: 136 &nbsp;|&nbsp; 🔴 Güncellenenler: 93
+🆕 Yeni Eklentiler: 126 &nbsp;|&nbsp; 🔴 Güncellenenler: 93
 
 ---
 ### Depo Sahibi:
@@ -33,7 +33,7 @@
 *Aşağıdaki gruplara tıklayarak eklentileri listeleyebilirsiniz:*
 
 <details>
-<summary>🌐 <b>TÜM EKLENTİLER (HEPSİ)</b> (251 Eklenti)</summary>
+<summary>🌐 <b>TÜM EKLENTİLER (HEPSİ)</b> (241 Eklenti)</summary>
 
 | İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
 |:----:|:------------|:------|:------|:-------|:----:|
@@ -48,14 +48,12 @@
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.animeworld.ac&size=128" width="30" style="border-radius:4px;"> | **AnimeWorld** | 15.09.2026 | 🆕 | `lepotane` | <img src="https://flagcdn.com/w20/un.png" width="20" alt="it"> |
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeyt.cc&size=128" width="30" style="border-radius:4px;"> | **AnimeYTX** | 15.09.2026 | 🆕 | `lepotane` | <img src="https://flagcdn.com/w20/un.png" width="20" alt="mx"> |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animpow.com/&size=128" width="30" style="border-radius:4px;"> | **AnimPow** | 15.09.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| — | **AniworldMC** | 16.09.2026 | 🆕 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://anizium.co/assets/images/logo.png" width="30" style="border-radius:4px;"> | **Anizium** | 16.09.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ArdaSpor.png" width="30" style="border-radius:4px;"> | **ArdaSpor** | 07.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/AslanTV.png" width="30" style="border-radius:4px;"> | **AslanTV** | 07.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **AsyaAnimeleri** | 16.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png" width="30" style="border-radius:4px;"> | **AsyaFanatiklerim** | 15.09.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://asyafilmizlesene.org/wp-content/uploads/2022/09/rsm.png" width="30" style="border-radius:4px;"> | **AsyaFilmIzlesene** | 03.04.2026 | ⚪ | `Sertel392` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaminik.com/&size=128" width="30" style="border-radius:4px;"> | **AsyaMinik** | 15.09.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **AsyaWatch** | 16.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://images.unsplash.com/photo-1500485035595-cbe6f645feb1?w=512&q=80" width="30" style="border-radius:4px;"> | **BelgeselProvider** | 30.07.2026 | ⚪ | `caca1403` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **BelgeselX** | 16.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -85,7 +83,6 @@
 | — | **CS3MProvider** | 16.09.2026 | 🆕 | `dcenhance` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DaddyLive.jpg" width="30" style="border-radius:4px;"> | **DaddyLive** | 08.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.ddizi.im/favicon.ico" width="30" style="border-radius:4px;"> | **DDizi** | 16.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| — | **DDizi - Latte** | 16.09.2026 | 🆕 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **Ddizi_v22** | 16.09.2026 | 🆕 | `murattunc05` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.google.com/s2/favicons?domain=www.ddizi.im&sz=128" width="30" style="border-radius:4px;"> | **DDiziAlternatif** | 10.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.google.com/s2/favicons?domain=deokwave.com&sz=128" width="30" style="border-radius:4px;"> | **Deokwave** | 13.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -99,7 +96,6 @@
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziFilmIzle.jpg" width="30" style="border-radius:4px;"> | **DiziFilmIzle** | 10.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizifilm.org/dizi/breaking-bad/sezon-1/bolum-2&size=128" width="30" style="border-radius:4px;"> | **DiziFilmORG** | 15.09.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://cdn-icons-png.flaticon.com/512/3163/3163478.png" width="30" style="border-radius:4px;"> | **DiziFilmSiteleri** | 10.08.2026 | ⚪ | `caca1403` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| — | **DiziFun - Latte** | 16.09.2026 | 🆕 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizigecesi.com/tr&size=128" width="30" style="border-radius:4px;"> | **Dizigecesi** | 15.09.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **DiziGom** | 15.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **DiziKorea** | 16.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -148,7 +144,6 @@
 | — | **FullHDFilmİzlede** | 16.09.2026 | 🆕 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=fullhdizle.one" width="30" style="border-radius:4px;"> | **FullHDIzle** | 15.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.giniko.com/images/favicon.ico" width="30" style="border-radius:4px;"> | **GinikoCanli** | 15.09.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| — | **GoFilmIzle - Latte** | 16.09.2026 | 🆕 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://golgetv.com/favicon.ico" width="30" style="border-radius:4px;"> | **GolgeTV** | 16.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=hdfilmcehennemi.nl" width="30" style="border-radius:4px;"> | **HDFilmCehennemi** | 16.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **HDFilmCehennemi_v48** | 16.09.2026 | 🆕 | `murattunc05` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -189,8 +184,6 @@
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/MahsunSports.jpg" width="30" style="border-radius:4px;"> | **MahsunSports** | 07.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/aytzey/cs-kraptor/refs/heads/master/.github/icons/logo/mirrorverseicon.png" width="30" style="border-radius:4px;"> | **MirrorVerse** | 15.09.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png" width="30" style="border-radius:4px;"> | **MovieBoxProvider** | 10.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
-| — | **myway TV - Latte** | 16.09.2026 | 🆕 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| — | **Müzik TV ve Radyo - Latte** | 16.09.2026 | 🆕 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.google.com/s2/favicons?domain=netfilmizle.com&sz=128" width="30" style="border-radius:4px;"> | **NetFilmizle** | 10.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://netfree2.cc/mobile/img/nf2/icon_x192.png" width="30" style="border-radius:4px;"> | **NetflixMirror** | 15.09.2026 | 🔴 | `patr0nq` | <img src="https://flagcdn.com/w20/in.png" width="20" alt="hi"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/NetVGold.png" width="30" style="border-radius:4px;"> | **NetVGold** | 07.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -250,12 +243,11 @@
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/TRGoals.png" width="30" style="border-radius:4px;"> | **TRGoals** | 07.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **TurkAnime** | 16.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://i.imgur.com/Cff8v6J.png" width="30" style="border-radius:4px;"> | **Turkdizileri** | 15.09.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org" width="30" style="border-radius:4px;"> | **TurkishW** | 15.09.2026 | 🔴 | `ctnkyaumt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org" width="30" style="border-radius:4px;"> | **TurkishW** | 16.09.2026 | 🔴 | `ctnkyaumt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **TurkSCanliTV** | 16.09.2026 | 🆕 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png" width="30" style="border-radius:4px;"> | **TurkSinema** | 16.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/support-qr.png" width="30" style="border-radius:4px;"> | **TurkSinemaDestek** | 15.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **TurkSporDestek** | 16.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| — | **Tv Bahçesi - Latte** | 16.09.2026 | 🆕 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tvdiziler.cc&size=16" width="30" style="border-radius:4px;"> | **TvDiziler** | 16.09.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **Twitch** | 16.09.2026 | 🆕 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **UgurFilm** | 15.09.2026 | 🔴 | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -268,7 +260,6 @@
 | — | **Watch2Movies** | 16.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
 | — | **Watch2Movies_v6** | 16.09.2026 | 🆕 | `murattunc05` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40" width="30" style="border-radius:4px;"> | **WebDramaTurkey** | 16.09.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| — | **WebDramaTurkey - Latte** | 16.09.2026 | 🆕 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **WebdramaTurkey2** | 16.09.2026 | 🔴 | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **Webteizle** | 16.09.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **WebteIzle_v20** | 16.09.2026 | 🆕 | `murattunc05` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -284,7 +275,6 @@
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=yesilcamtv.com.tr" width="30" style="border-radius:4px;"> | **YesilCamTv** | 16.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=yoturkish.to" width="30" style="border-radius:4px;"> | **YoTurkish** | 15.09.2026 | 🆕 | `lepotane` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
 | <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128" width="30" style="border-radius:4px;"> | **Youtube** | 15.09.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| — | **YouTube Özel - Latte** | 16.09.2026 | 🆕 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **YTPatron** | 03.04.2026 | ⚪ | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128" width="30" style="border-radius:4px;"> | **YTS** | 15.09.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ZbahisTV.png" width="30" style="border-radius:4px;"> | **ZbahisTV** | 07.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -314,22 +304,13 @@
 </details>
 
 <details>
-<summary>📂 <b>GitLatte</b> (12 Eklenti)</summary>
+<summary>📂 <b>GitLatte</b> (3 Eklenti)</summary>
 
 | İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
 |:----:|:------------|:------|:------|:-------|:----:|
-| — | **AniworldMC** | 16.09.2026 | 🆕 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| — | **DDizi - Latte** | 16.09.2026 | 🆕 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| — | **DiziFun - Latte** | 16.09.2026 | 🆕 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| — | **GoFilmIzle - Latte** | 16.09.2026 | 🆕 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/kick.png" width="30" style="border-radius:4px;"> | **KICK Türkiye - Latte** | 03.04.2026 | ⚪ | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| — | **myway TV - Latte** | 16.09.2026 | 🆕 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| — | **Müzik TV ve Radyo - Latte** | 16.09.2026 | 🆕 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powerdizi.png" width="30" style="border-radius:4px;"> | **powerboard Dizi - Latte** | 03.04.2026 | ⚪ | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powersinema.png" width="30" style="border-radius:4px;"> | **powerboard Sinema - Latte** | 03.04.2026 | ⚪ | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| — | **Tv Bahçesi - Latte** | 16.09.2026 | 🆕 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| — | **WebDramaTurkey - Latte** | 16.09.2026 | 🆕 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| — | **YouTube Özel - Latte** | 16.09.2026 | 🆕 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 
 </details>
 
@@ -422,7 +403,7 @@
 </details>
 
 <details>
-<summary>📂 <b>aytzey</b> (40 Eklenti)</summary>
+<summary>📂 <b>aytzey</b> (39 Eklenti)</summary>
 
 | İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
 |:----:|:------------|:------|:------|:-------|:----:|
@@ -431,7 +412,6 @@
 | <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animpow.com/&size=128" width="30" style="border-radius:4px;"> | **AnimPow** | 15.09.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://anizium.co/assets/images/logo.png" width="30" style="border-radius:4px;"> | **Anizium** | 16.09.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png" width="30" style="border-radius:4px;"> | **AsyaFanatiklerim** | 15.09.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaminik.com/&size=128" width="30" style="border-radius:4px;"> | **AsyaMinik** | 15.09.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=cizgivedizi.com" width="30" style="border-radius:4px;"> | **CizgiveDizi** | 15.09.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=diziasia.com" width="30" style="border-radius:4px;"> | **DiziAsia** | 15.09.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diziasya.com&size=32" width="30" style="border-radius:4px;"> | **DiziAsya** | 15.09.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -509,7 +489,7 @@
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org" width="30" style="border-radius:4px;"> | **EnglishW** | 12.09.2026 | 🔴 | `ctnkyaumt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
 | <img src="https://filmmirasim.ktb.gov.tr/favicon-r.png" width="30" style="border-radius:4px;"> | **Filmmirasım** | 09.09.2026 | 🔴 | `ctnkyaumt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org" width="30" style="border-radius:4px;"> | **Test** | 19.08.2026 | ⚪ | `ctnkyaumt` | <img src="https://flagcdn.com/w20/un.png" width="20" alt="un"> |
-| <img src="https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org" width="30" style="border-radius:4px;"> | **TurkishW** | 15.09.2026 | 🔴 | `ctnkyaumt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org" width="30" style="border-radius:4px;"> | **TurkishW** | 16.09.2026 | 🔴 | `ctnkyaumt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 
 </details>
 

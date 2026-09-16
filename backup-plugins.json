@@ -1293,25 +1293,6 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/YerelProgramlar.cs3"
   },
   {
-    "iconUrl": "https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "Makoto Tokioki"
-    ],
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "version": 1,
-    "internalName": "Kanal 7",
-    "description": "🆕 Sertel392 03.04.2026 Hint, Pakistan ve Türk dizilerinin adresi",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/Kanal 7.cs3",
-    "name": "Kanal 7",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/Kanal 7.cs3"
-  },
-  {
     "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
@@ -1350,46 +1331,6 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/AsyaFilmIzlesene.cs3"
   },
   {
-    "name": "AniworldMC",
-    "internalName": "AniworldMC",
-    "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/AniworldMC.cs3",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/AniworldMC.cs3",
-    "language": "tr",
-    "status": 1,
-    "description": "🆕 GitLatte 16.09.2026 Depodan kurtarıldı."
-  },
-  {
-    "name": "DDizi - Latte",
-    "internalName": "DDizi - Latte",
-    "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/DDizi - Latte.cs3",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/DDizi - Latte.cs3",
-    "language": "tr",
-    "status": 1,
-    "description": "🆕 GitLatte 16.09.2026 Depodan kurtarıldı."
-  },
-  {
-    "name": "DiziFun - Latte",
-    "internalName": "DiziFun - Latte",
-    "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/DiziFun - Latte.cs3",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/DiziFun - Latte.cs3",
-    "language": "tr",
-    "status": 1,
-    "description": "🆕 GitLatte 16.09.2026 Depodan kurtarıldı."
-  },
-  {
-    "name": "GoFilmIzle - Latte",
-    "internalName": "GoFilmIzle - Latte",
-    "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/GoFilmIzle - Latte.cs3",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/GoFilmIzle - Latte.cs3",
-    "language": "tr",
-    "status": 1,
-    "description": "🆕 GitLatte 16.09.2026 Depodan kurtarıldı."
-  },
-  {
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/kick.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/GitLatte/Sinetech",
@@ -1410,26 +1351,6 @@
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/KICK Türkiye - Latte.cs3",
     "name": "KICK Türkiye - Latte",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/KICK Türkiye - Latte.cs3"
-  },
-  {
-    "name": "myway TV - Latte",
-    "internalName": "myway TV - Latte",
-    "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/myway TV - Latte.cs3",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/myway TV - Latte.cs3",
-    "language": "tr",
-    "status": 1,
-    "description": "🆕 GitLatte 16.09.2026 Depodan kurtarıldı."
-  },
-  {
-    "name": "Müzik TV ve Radyo - Latte",
-    "internalName": "Müzik TV ve Radyo - Latte",
-    "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/Müzik TV ve Radyo - Latte.cs3",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/Müzik TV ve Radyo - Latte.cs3",
-    "language": "tr",
-    "status": 1,
-    "description": "🆕 GitLatte 16.09.2026 Depodan kurtarıldı."
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powerdizi.png",
@@ -1476,121 +1397,6 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/powerboard Sinema - Latte.cs3"
   },
   {
-    "name": "Tv Bahçesi - Latte",
-    "internalName": "Tv Bahçesi - Latte",
-    "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/Tv Bahçesi - Latte.cs3",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/Tv Bahçesi - Latte.cs3",
-    "language": "tr",
-    "status": 1,
-    "description": "🆕 GitLatte 16.09.2026 Depodan kurtarıldı."
-  },
-  {
-    "name": "WebDramaTurkey - Latte",
-    "internalName": "WebDramaTurkey - Latte",
-    "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/WebDramaTurkey - Latte.cs3",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/WebDramaTurkey - Latte.cs3",
-    "language": "tr",
-    "status": 1,
-    "description": "🆕 GitLatte 16.09.2026 Depodan kurtarıldı."
-  },
-  {
-    "name": "YouTube Özel - Latte",
-    "internalName": "YouTube Özel - Latte",
-    "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/YouTube Özel - Latte.cs3",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/YouTube Özel - Latte.cs3",
-    "language": "tr",
-    "status": 1,
-    "description": "🆕 GitLatte 16.09.2026 Depodan kurtarıldı."
-  },
-  {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/FilmBOL.cs3",
-    "status": 1,
-    "version": 4,
-    "name": "FilmBOL",
-    "internalName": "FilmBOL",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "🆕 ByAyzen 03.04.2026 Ücretli Hesabınız Yoksa Kullanamazsınız! Cookie Gerekli Cookie Ne Bilmiyorsanız Araştırınız.",
-    "fileSize": 26128,
-    "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmbol.org/&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-10b47d7d5e9b7eff155f3fce5fbd93c3498f5e7e9711d84d4aab4a0f2ae96bf8",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/FilmBOL.cs3"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/Koredizi.cs3",
-    "status": 1,
-    "version": 3,
-    "name": "Koredizi",
-    "internalName": "Koredizi",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "🆕 ByAyzen 03.04.2026 Koredizi ile yoğun bir günün ardından soluklanıp kısa dizilerle dünyanıza renk katabilirsiniz.",
-    "fileSize": 26392,
-    "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
-    "language": "tr",
-    "tvTypes": [
-      "AsianDrama"
-    ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://koredizi.com/&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-4ed2fe7205a7a769e0863b06552fcd8d4a997c652346d8225e217fe6fa1dbccc",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/Koredizi.cs3"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/M3UPlayer.cs3",
-    "status": 1,
-    "version": 12,
-    "name": "M3UPlayer",
-    "internalName": "M3UPlayer",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "🆕 ByAyzen 03.04.2026 M3UPlayer bir m3u oynatıcısıdır. İçerisinde hiç bir M3U dosyasını barındırmaz! Ayarlar butonuna tıklayarak kendiniz ekleyebilirsiniz.",
-    "fileSize": 91964,
-    "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://i.imgur.com/BsS4wRT.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-b70a88b3ed309391a5dc48f49c22321b418535f670034595940a5941ea7d3ed9",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/M3UPlayer.cs3"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/Torrential.cs3",
-    "status": 1,
-    "version": 6,
-    "name": "Torrential",
-    "internalName": "Torrential",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "🆕 ByAyzen 03.04.2026 Torrential eklentisi sürekli geliştirilebilir bir torrent ve debrid oynatıcı eklentisidir. Mevcut kaynaklar arasından Torrentio ve Comet kullanılmaktadır.",
-    "fileSize": 166562,
-    "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
-    "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://i.imgur.com/cEOwdKR.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-d9aa73ac93c9dd0698913868203d2631fa32e6f3a60c7ffcb045206a9ec32ad7",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/Torrential.cs3"
-  },
-  {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/Vavoo_v3.cs3",
     "status": 1,
     "version": 3,
@@ -1610,27 +1416,6 @@
     "apiVersion": 1,
     "language": "tr",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/Vavoo_v3.cs3"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/Syncler.cs3",
-    "status": 1,
-    "version": 1,
-    "name": "Syncler",
-    "internalName": "Syncler",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "🆕 ByAyzen 14.05.2026 Deneysel Senkronizasyon eklentisi.",
-    "fileSize": 92362,
-    "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
-    "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yandex.com.tr",
-    "apiVersion": 1,
-    "fileHash": "sha256-e94e277f93e174d10dca5c1dd10edcc0042e68acb294e76a48ada6f22d97f723",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/Syncler.cs3"
   },
   {
     "url": "https://raw.githubusercontent.com/caca1403/cloudstream-cagi-eklenti/main/dist/AnimeSiteleri-release.cs3?v=48",
@@ -1790,7 +1575,7 @@
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/TurkishW.cs3",
     "status": 1,
-    "version": 26,
+    "version": 29,
     "name": "TurkishW",
     "internalName": "TurkishW",
     "authors": [
@@ -1800,8 +1585,8 @@
       "kerimmkirac",
       "nikyokki"
     ],
-    "description": "🔴 ctnkyaumt 15.09.2026 Tek arama sonucu (TurkishW); bir içeriğe girince tüm kaynaklardan linkleri toplar. Film, Dizi, Anime + Canlı TV.",
-    "fileSize": 407896,
+    "description": "🔴 ctnkyaumt 16.09.2026 Tek arama sonucu (TurkishW); bir içeriğe girince tüm kaynaklardan linkleri toplar. Film, Dizi, Anime + Canlı TV.",
+    "fileSize": 410785,
     "repositoryUrl": "https://github.com/ctnkyaumt/cstest",
     "language": "tr",
     "tvTypes": [
@@ -1812,7 +1597,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org",
     "apiVersion": 1,
-    "fileHash": "sha256-a01920556c92f6977176adad30d4110405c41bf3f23378a54c2ee620f570b743",
+    "fileHash": "sha256-cebc6be59e15df8ee2502028f0678641ec850b31bb094b3c1d89de21d05d5d1f",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/TurkishW.cs3"
   },
   {
@@ -1902,29 +1687,6 @@
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/WebdramaTurkey2.cs3",
     "name": "WebdramaTurkey2",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/WebdramaTurkey2.cs3"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/Test.cs3",
-    "status": 1,
-    "version": 1,
-    "name": "Test",
-    "internalName": "Test",
-    "authors": [
-      "ctnkyaumt"
-    ],
-    "description": "🆕 ctnkyaumt 19.08.2026 Test Provider (VHPlayer / FlexTV IPTV: Movies, Series, Live Channels)",
-    "fileSize": 57155,
-    "repositoryUrl": "https://github.com/ctnkyaumt/cstest",
-    "language": "un",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Live"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org",
-    "apiVersion": 1,
-    "fileHash": "sha256-eeb906e77f5c432578f308cfc0f9102f1aa9f417004ffd9445f330c2b7deee19",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/Test.cs3"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon_tv.png",
@@ -2059,27 +1821,6 @@
     "apiVersion": 1,
     "fileHash": "sha256-ce4eb9f45e0f7e80df667e09d117702718fe22db9094bfcc0574f190b7ff10d9",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AsyaFanatiklerim.cs3"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AsyaMinik.cs3",
-    "status": 0,
-    "version": 17,
-    "name": "AsyaMinik",
-    "internalName": "AsyaMinik",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "🆕 aytzey 15.09.2026 Asyaminik - En Güncel Asya Dizileri Burada!",
-    "fileSize": 27275,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
-    "language": "tr",
-    "tvTypes": [
-      "AsianDrama"
-    ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://asyaminik.com/&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-4a72eff8d5fa0cfa866f6bdcc11de28772fc023d559a692b2c72c09c9638d6cb",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AsyaMinik.cs3"
   },
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziAsia.cs3",
@@ -5169,5 +4910,153 @@
     "language": "tr",
     "status": 1,
     "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "iconUrl": "https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "Makoto Tokioki"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "Kanal 7",
+    "description": "🆕 Sertel392 03.04.2026 Hint, Pakistan ve Türk dizilerinin adresi",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/Kanal 7.cs3",
+    "name": "Kanal 7",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/Kanal 7.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/FilmBOL.cs3",
+    "status": 1,
+    "version": 4,
+    "name": "FilmBOL",
+    "internalName": "FilmBOL",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "🆕 ByAyzen 03.04.2026 Ücretli Hesabınız Yoksa Kullanamazsınız! Cookie Gerekli Cookie Ne Bilmiyorsanız Araştırınız.",
+    "fileSize": 26128,
+    "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmbol.org/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-10b47d7d5e9b7eff155f3fce5fbd93c3498f5e7e9711d84d4aab4a0f2ae96bf8",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/FilmBOL.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/Koredizi.cs3",
+    "status": 1,
+    "version": 3,
+    "name": "Koredizi",
+    "internalName": "Koredizi",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "🆕 ByAyzen 03.04.2026 Koredizi ile yoğun bir günün ardından soluklanıp kısa dizilerle dünyanıza renk katabilirsiniz.",
+    "fileSize": 26392,
+    "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://koredizi.com/&size=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-4ed2fe7205a7a769e0863b06552fcd8d4a997c652346d8225e217fe6fa1dbccc",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/Koredizi.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/M3UPlayer.cs3",
+    "status": 1,
+    "version": 12,
+    "name": "M3UPlayer",
+    "internalName": "M3UPlayer",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "🆕 ByAyzen 03.04.2026 M3UPlayer bir m3u oynatıcısıdır. İçerisinde hiç bir M3U dosyasını barındırmaz! Ayarlar butonuna tıklayarak kendiniz ekleyebilirsiniz.",
+    "fileSize": 91964,
+    "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://i.imgur.com/BsS4wRT.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-b70a88b3ed309391a5dc48f49c22321b418535f670034595940a5941ea7d3ed9",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/M3UPlayer.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/Torrential.cs3",
+    "status": 1,
+    "version": 6,
+    "name": "Torrential",
+    "internalName": "Torrential",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "🆕 ByAyzen 03.04.2026 Torrential eklentisi sürekli geliştirilebilir bir torrent ve debrid oynatıcı eklentisidir. Mevcut kaynaklar arasından Torrentio ve Comet kullanılmaktadır.",
+    "fileSize": 166562,
+    "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://i.imgur.com/cEOwdKR.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-d9aa73ac93c9dd0698913868203d2631fa32e6f3a60c7ffcb045206a9ec32ad7",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/Torrential.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/Syncler.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Syncler",
+    "internalName": "Syncler",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "🆕 ByAyzen 14.05.2026 Deneysel Senkronizasyon eklentisi.",
+    "fileSize": 92362,
+    "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yandex.com.tr",
+    "apiVersion": 1,
+    "fileHash": "sha256-e94e277f93e174d10dca5c1dd10edcc0042e68acb294e76a48ada6f22d97f723",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ByAyzen/Syncler.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/Test.cs3",
+    "status": 1,
+    "version": 1,
+    "name": "Test",
+    "internalName": "Test",
+    "authors": [
+      "ctnkyaumt"
+    ],
+    "description": "🆕 ctnkyaumt 19.08.2026 Test Provider (VHPlayer / FlexTV IPTV: Movies, Series, Live Channels)",
+    "fileSize": 57155,
+    "repositoryUrl": "https://github.com/ctnkyaumt/cstest",
+    "language": "un",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org",
+    "apiVersion": 1,
+    "fileHash": "sha256-eeb906e77f5c432578f308cfc0f9102f1aa9f417004ffd9445f330c2b7deee19",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/Test.cs3"
   }
 ]
