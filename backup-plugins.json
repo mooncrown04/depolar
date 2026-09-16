@@ -235,25 +235,25 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziPal.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/DiziYou.cs3",
+    "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
+    "fileHash": "sha256-515a5df3b2fecb7e767eacfa70180c58630c2fdf716c0fbc3c885f99dd64871a",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 17180,
     "status": 1,
-    "version": 26,
-    "name": "DiziYou",
-    "internalName": "DiziYou",
-    "authors": [
-      "keyiflerolsun"
-    ],
-    "description": "🔴 feroxx 16.09.2026 Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
-    "fileSize": 15974,
-    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
+    "authors": [
+      "MRC"
+    ],
     "tvTypes": [
       "TvSeries"
     ],
-    "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-5259d2d3443e93a0639c0407fc91c20f71cbad757408acaf31b4faf5ee8bab5b",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/DiziYou.cs3"
+    "version": 3,
+    "internalName": "DiziYou",
+    "description": "🔴 lepotane 16.09.2026 Diziyou - Kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesi.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziYou.cs3",
+    "name": "DiziYou",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziYou.cs3"
   },
   {
     "iconUrl": "https://filmbip.com/uploads/favicon/original/favicon.webp",
@@ -270,7 +270,7 @@
     ],
     "version": 11,
     "internalName": "FilmBip",
-    "description": "🔴 patr0nq 19.08.2026 Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Filmbip heryerde seninle!",
+    "description": "🆕 patr0nq 16.09.2026 Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Filmbip heryerde seninle!",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/FilmBip.cs3",
     "name": "FilmBip",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/FilmBip.cs3"
@@ -444,7 +444,7 @@
     ],
     "version": 7,
     "internalName": "KoreanTurk",
-    "description": "🔴 patr0nq 15.09.2026 Güney Kore sevdalılarının vazgeçemediği ve Türkiye'nin en çok ziyaret edilen Güney Kore Portalı; Koreantürk'e hoşgeldiniz!",
+    "description": "🆕 patr0nq 16.09.2026 Güney Kore sevdalılarının vazgeçemediği ve Türkiye'nin en çok ziyaret edilen Güney Kore Portalı; Koreantürk'e hoşgeldiniz!",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/KoreanTurk.cs3",
     "name": "KoreanTurk",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/KoreanTurk.cs3"
@@ -488,7 +488,7 @@
     ],
     "version": 32,
     "internalName": "NetflixMirror",
-    "description": "🔴 patr0nq 15.09.2026 Netflix, PrimeVideo Content in Multiple Languages",
+    "description": "🆕 patr0nq 16.09.2026 Netflix, PrimeVideo Content in Multiple Languages",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/NetflixMirror.cs3",
     "name": "NetflixMirror",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/NetflixMirror.cs3"
@@ -619,7 +619,7 @@
     ],
     "version": 22,
     "internalName": "SuperFilmGeldi",
-    "description": "🔴 patr0nq 15.09.2026 Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
+    "description": "🆕 patr0nq 16.09.2026 Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/SuperFilmGeldi.cs3",
     "name": "SuperFilmGeldi",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/SuperFilmGeldi.cs3"
@@ -723,7 +723,7 @@
     ],
     "version": 13,
     "internalName": "UgurFilm",
-    "description": "🔴 patr0nq 15.09.2026 Yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleriyle 720p ve 1080p HD kalitesinde film izle - Uğur Film full hd film izle.",
+    "description": "🆕 patr0nq 16.09.2026 Yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleriyle 720p ve 1080p HD kalitesinde film izle - Uğur Film full hd film izle.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/UgurFilm.cs3",
     "name": "UgurFilm",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/UgurFilm.cs3"
@@ -779,19 +779,10 @@
     "name": "AltiYuzAltmisAltiFilmIzle",
     "internalName": "AltiYuzAltmisAltiFilmIzle",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "Wiojelt"
     ],
-    "description": "🔴 Wiojelt 10.09.2026 Alti Yuz Altmis Alti Film Izle · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 25698,
+    "description": "🆕 Wiojelt 16.09.2026 Alti Yuz Altmis Alti Film Izle · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 25822,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -802,7 +793,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/AltiYuzAltmisAltiFilmIzle.png",
     "apiVersion": 1,
-    "fileHash": "sha256-2f4deb2ef5d21d2b70eb7addf47286d962904501f0d35eaf5517e333b1eece94",
+    "fileHash": "sha256-61e318bf35abd53a9199ec8f3d62f1e3c8c232cb0d41da42fc35cf934a369635",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/AltiYuzAltmisAltiFilmIzle.cs3"
   },
   {
@@ -898,52 +889,30 @@
     ],
     "version": 1,
     "internalName": "AsyaWatch",
-    "description": "🔴 lepotane 16.09.2026 Asyawatch",
+    "description": "🆕 lepotane 16.09.2026 Asyawatch",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AsyaWatch.cs3",
     "name": "AsyaWatch",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AsyaWatch.cs3"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
-    "fileHash": "sha256-d61973f4fe7ba1d34ec73b0b3127ef2e1d8310df52fb430cc7bfb035c8f0e709",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 15219,
-    "status": 0,
-    "language": "tr",
-    "authors": [
-      "MRC"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 2,
-    "internalName": "DiziGom",
-    "description": "🔴 lepotane 15.09.2026 Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziGom.cs3",
     "name": "DiziGom",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziGom.cs3"
+    "internalName": "DiziGom",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziGom.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziGom.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 lepotane 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizimag.net&sz=%size%",
-    "fileHash": "sha256-57d9a47f4624f9ff05debf186d21a25ae2bf5b63865fdcf15923c3a23df0b365",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 48211,
-    "status": 0,
-    "language": "tr",
-    "authors": [
-      "MRC"
-    ],
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "version": 2,
-    "internalName": "DiziMag",
-    "description": "🔴 lepotane 15.09.2026 En son çıkan yabancı dizi ve filmleri DiziMag farkıyla full hd 1080p kalitede izle. Dizimag Geniş ve güncel arşiviyle dizi ve filmlerin tadını çıkartın.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziMag.cs3",
     "name": "DiziMag",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziMag.cs3"
+    "internalName": "DiziMag",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziMag.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziMag.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 lepotane 16.09.2026 Depodan kurtarıldı."
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dmax.com.tr&sz=%size%",
@@ -998,25 +967,14 @@
     "description": "🆕 ramazansancar 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/HDFilmizle.cs3",
-    "status": 1,
-    "version": 26,
     "name": "HDFilmizle",
     "internalName": "HDFilmizle",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "🔴 aytzey 15.09.2026 En yeni ve popüler filmleri 1080p kalitesinde Türkçe dublaj altyazılı izle. Aksiyon, macera, komedi, dram ve daha fazlası film izle sayfamızda.",
-    "fileSize": 61447,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/HDFilmizle.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/HDFilmizle.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hdfilmizle.life/rally-caps/&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-58256f572dffe1859ceeac6ca3b75333685e5065f8b40a8934f3ac1a2ee7adde",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/HDFilmizle.cs3"
+    "status": 1,
+    "description": "🆕 aytzey 16.09.2026 Depodan kurtarıldı."
   },
   {
     "name": "HDFilmSitesi",
@@ -1079,25 +1037,14 @@
     "description": "🆕 ramazansancar 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/TvDiziler.cs3",
-    "status": 1,
-    "version": 19,
     "name": "TvDiziler",
     "internalName": "TvDiziler",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "🔴 aytzey 16.09.2026 Tv Diziler Ücretsiz yerli dizi izleme sitesi en popüler dizileri tek parça hd kalitesiyle ve reklamsız bedava olarak buradan tv dizileri izleyin.",
-    "fileSize": 36778,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/TvDiziler.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/TvDiziler.cs3",
     "language": "tr",
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://tvdiziler.cc&size=16",
-    "apiVersion": 1,
-    "fileHash": "sha256-193d0f1be14a6d643c0138b060675abf750f8d01685bbe29a6c67c3707962e20",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/TvDiziler.cs3"
+    "status": 1,
+    "description": "🆕 aytzey 16.09.2026 Depodan kurtarıldı."
   },
   {
     "name": "Twitch",
@@ -1138,7 +1085,7 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🔴 Wiojelt 16.09.2026 Yabanci Dizi · TurkSinema ayrı sağlayıcı paketi",
+    "description": "🆕 Wiojelt 16.09.2026 Yabanci Dizi · TurkSinema ayrı sağlayıcı paketi",
     "fileSize": 61125,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
@@ -1154,95 +1101,44 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/YabanciDizi.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Youtube.cs3",
-    "status": 1,
-    "version": 39,
     "name": "Youtube",
     "internalName": "Youtube",
-    "authors": [
-      "Eagle",
-      "ByAyzen",
-      "kraptor"
-    ],
-    "description": "🔴 aytzey 15.09.2026 Youtube",
-    "fileSize": 109126,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Youtube.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Youtube.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "Live",
-      "Music",
-      "TvSeries"
-    ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-31d16f3cac9ca336a7eb9cdb8016056076e2cf9a4add728006f8a19dca7348dc",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Youtube.cs3"
+    "status": 1,
+    "description": "🆕 aytzey 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/YTS.cs3",
-    "status": 1,
-    "version": 43,
     "name": "YTS",
     "internalName": "YTS",
-    "authors": [
-      "kraptor",
-      "Phisher98",
-      "ByAyzen"
-    ],
-    "description": "🔴 aytzey 15.09.2026 YTS Filmleri 4K Desteği Otomatik altyazı ve film açıklaması (Torrent)",
-    "fileSize": 92944,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/YTS.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/YTS.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Torrent"
-    ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-0069f5a4db566f9e6bfe022ce6cdeae6437076fa759389c10ccb8d4b3b631dad",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/YTS.cs3"
+    "status": 1,
+    "description": "🆕 aytzey 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "iconUrl": "https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-    "fileSize": 13525,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "Makoto Tokioki"
-    ],
-    "tvTypes": [
-      "Tv Series"
-    ],
-    "version": 14,
-    "internalName": "YerelDiziler",
-    "description": "🆕 Sertel392 03.04.2026 Bu eklentide yerel dizileri güncel şekilde bulabilirsiniz",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/YerelDiziler.cs3",
     "name": "YerelDiziler",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/YerelDiziler.cs3"
+    "internalName": "YerelDiziler",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/YerelDiziler.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/YerelDiziler.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 Sertel392 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/CizgiveDizi.cs3",
-    "status": 1,
-    "version": 51,
-    "name": "CizgiveDizi",
-    "internalName": "CizgiveDizi",
-    "authors": [
-      "kraptor",
-      "ByAyzen"
-    ],
-    "description": "🔴 aytzey 15.09.2026 Ücretsiz bir şekilde çizgi dizi, dizi, anime ve daha fazlasını eski-yeni demeden izleyebilirsiniz.",
-    "fileSize": 43326,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "name": "CizgiVeDizi",
+    "internalName": "CizgiVeDizi",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/CizgiVeDizi.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/CizgiVeDizi.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Cartoon"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cizgivedizi.com",
-    "apiVersion": 1,
-    "fileHash": "sha256-c78df1d332c622bda7e5bad05be8dc9230039c50cd56abee566fbdd3965f5556",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/CizgiveDizi.cs3"
+    "status": 1,
+    "description": "🆕 Sertel392 16.09.2026 Depodan kurtarıldı."
   },
   {
     "iconUrl": "https://webdramaturkey2.com/public/static/favicon.webp",
@@ -1262,87 +1158,50 @@
     ],
     "version": 2,
     "internalName": "WebDramaTurkey",
-    "description": "🔴 manitux-app 16.09.2026 Kore dizisi izle, çin dizisi izle, japon dizisi izle, kore dizileri izle, kore filmleri, asya dizileri, çin filmleri, japon filmleri, bl dizi izle, asya dizisi izle, web drama izle.",
+    "description": "🆕 manitux-app 16.09.2026 Kore dizisi izle, çin dizisi izle, japon dizisi izle, kore dizileri izle, kore filmleri, asya dizileri, çin filmleri, japon filmleri, bl dizi izle, asya dizisi izle, web drama izle.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/manitux-app/WebDramaTurkey.cs3",
     "name": "WebDramaTurkey",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/manitux-app/WebDramaTurkey.cs3"
   },
   {
-    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/New_qBittorrent_Logo.svg/2048px-New_qBittorrent_Logo.svg.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "Makoto Tokioki"
-    ],
-    "tvTypes": [
-      "Movie",
-      "Torrent"
-    ],
-    "version": 2,
-    "internalName": "TorrentFilm",
-    "description": "🆕 Sertel392 03.04.2026 Türkçe altyazılı torrentleri buradan 4K kalitesinde izleyebilirsiniz.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/TorrentFilm.cs3",
     "name": "TorrentFilm",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/TorrentFilm.cs3"
+    "internalName": "TorrentFilm",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/TorrentFilm.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/TorrentFilm.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 Sertel392 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "iconUrl": "https://png.pngtree.com/png-clipart/20220823/ourmid/pngtree-turkey-country-flag-pin-icon-png-image_6120061.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "Makoto Tokioki"
-    ],
-    "tvTypes": [
-      "Tv Series"
-    ],
-    "version": 1,
-    "internalName": "YerelProgramlar",
-    "description": "🆕 Sertel392 03.04.2026 Yerel programları güncel şekilde bulabilirsiniz",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/YerelProgramlar.cs3",
     "name": "YerelProgramlar",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/YerelProgramlar.cs3"
+    "internalName": "YerelProgramlar",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/YerelProgramlar.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/YerelProgramlar.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 Sertel392 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c3/b7/35c3b7b0-4a84-cceb-d3e2-349e19712b07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "Makoto Tokioki"
-    ],
-    "tvTypes": [
-      "Movie,TvSeries"
-    ],
-    "version": 1,
-    "internalName": "Puhu",
-    "description": "🆕 Sertel392 03.04.2026 Puhu",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/Puhu.cs3",
     "name": "Puhu",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/Puhu.cs3"
+    "internalName": "Puhu",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/Puhu.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/Puhu.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 Sertel392 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "iconUrl": "https://asyafilmizlesene.org/wp-content/uploads/2022/09/rsm.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "Makoto Tokioki"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 2,
-    "internalName": "AsyaFilmIzlesene",
-    "description": "🆕 Sertel392 03.04.2026 Hint, Kore Filmleri",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/AsyaFilmIzlesene.cs3",
     "name": "AsyaFilmIzlesene",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/AsyaFilmIzlesene.cs3"
+    "internalName": "AsyaFilmIzlesene",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/AsyaFilmIzlesene.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/AsyaFilmIzlesene.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 Sertel392 16.09.2026 Depodan kurtarıldı."
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/kick.png",
@@ -1361,7 +1220,7 @@
     ],
     "version": 3,
     "internalName": "KICK Türkiye - Latte",
-    "description": "🆕 GitLatte 03.04.2026 Kick'teki Türkçe canlı yayınlar ve popüler yayıncıları canlı izleyin. Arayın, bulun  ve izlemeye devam edin.",
+    "description": "🆕 GitLatte 16.09.2026 Kick'teki Türkçe canlı yayınlar ve popüler yayıncıları canlı izleyin. Arayın, bulun  ve izlemeye devam edin.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/KICK Türkiye - Latte.cs3",
     "name": "KICK Türkiye - Latte",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/KICK Türkiye - Latte.cs3"
@@ -1383,7 +1242,7 @@
     ],
     "version": 6,
     "internalName": "powerboard Dizi - Latte",
-    "description": "🆕 GitLatte 03.04.2026 powerboard`un yabancı dizi arşivi",
+    "description": "🆕 GitLatte 16.09.2026 powerboard`un yabancı dizi arşivi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/powerboard Dizi - Latte.cs3",
     "name": "powerboard Dizi - Latte",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/powerboard Dizi - Latte.cs3"
@@ -1405,7 +1264,7 @@
     ],
     "version": 5,
     "internalName": "powerboard Sinema - Latte",
-    "description": "🆕 GitLatte 03.04.2026 powerboard`un sinema arşivi",
+    "description": "🆕 GitLatte 16.09.2026 powerboard`un sinema arşivi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/powerboard Sinema - Latte.cs3",
     "name": "powerboard Sinema - Latte",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/powerboard Sinema - Latte.cs3"
@@ -1552,7 +1411,7 @@
     "authors": [
       "ctnkyaumt"
     ],
-    "description": "🔴 ctnkyaumt 12.09.2026 One search result (EnglishW); opening a title fans out to every English source and collects all links. Auto-subtitles included.",
+    "description": "🆕 ctnkyaumt 16.09.2026 One search result (EnglishW); opening a title fans out to every English source and collects all links. Auto-subtitles included.",
     "fileSize": 156388,
     "repositoryUrl": "https://github.com/ctnkyaumt/cstest",
     "language": "en",
@@ -1574,7 +1433,7 @@
     "authors": [
       "byayzen"
     ],
-    "description": "🔴 ctnkyaumt 09.09.2026 Kültür ve Turizm Bakanlığı, kültürel mirasımızın görsel belleğini oluşturan filmlerin muhafazası ve gelecek kuşaklara aktarılması amacıyla Sinema Genel Müdürlüğü bünyesinde oluşturduğu arşivdeki filmleri dijital ortama aktarmakta ve restore etmektedir.",
+    "description": "🆕 ctnkyaumt 16.09.2026 Kültür ve Turizm Bakanlığı, kültürel mirasımızın görsel belleğini oluşturan filmlerin muhafazası ve gelecek kuşaklara aktarılması amacıyla Sinema Genel Müdürlüğü bünyesinde oluşturduğu arşivdeki filmleri dijital ortama aktarmakta ve restore etmektedir. ",
     "fileSize": 15162,
     "repositoryUrl": "https://github.com/ctnkyaumt/cstest",
     "language": "tr",
@@ -1599,7 +1458,7 @@
       "kerimmkirac",
       "nikyokki"
     ],
-    "description": "🔴 ctnkyaumt 16.09.2026 Tek arama sonucu (TurkishW); bir içeriğe girince tüm kaynaklardan linkleri toplar. Film, Dizi, Anime + Canlı TV.",
+    "description": "🆕 ctnkyaumt 16.09.2026 Tek arama sonucu (TurkishW); bir içeriğe girince tüm kaynaklardan linkleri toplar. Film, Dizi, Anime + Canlı TV.",
     "fileSize": 416632,
     "repositoryUrl": "https://github.com/ctnkyaumt/cstest",
     "language": "tr",
@@ -1632,17 +1491,17 @@
     ],
     "version": 57,
     "internalName": "plt-stream",
-    "description": "🔴 pltmustafa 14.09.2026 plt-stream - Birden fazla siteden içerik sağlayan bir eklenti",
+    "description": "🆕 pltmustafa 16.09.2026 plt-stream - Birden fazla siteden içerik sağlayan bir eklenti",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/plt-stream.cs3",
     "name": "plt-stream",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/plt-stream.cs3"
   },
   {
     "iconUrl": "https://img.icons8.com/color/512/cloud-sync.png",
-    "fileHash": "sha256-4028d8f35d1825f88b578bc7ed0d9b43799013af07d6d69a6f24809d71fe5cc2",
+    "fileHash": "sha256-62e6f731e5aa5e201f0c7fa68219088d4bead34d81b9c33c707dbe1f9f744737",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
-    "fileSize": 118481,
+    "fileSize": 119510,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1653,17 +1512,17 @@
     ],
     "version": 16,
     "internalName": "Cloud-Sync",
-    "description": "🔴 pltmustafa 01.09.2026 Cloud sync plugin for Cloudstream - syncs bookmarks, settings, extensions, watch history across devices",
+    "description": "🆕 pltmustafa 16.09.2026 Cloud sync plugin for Cloudstream - syncs bookmarks, settings, extensions, watch history across devices",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/Cloud-Sync.cs3",
     "name": "Cloud-Sync",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/Cloud-Sync.cs3"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon_party.png",
-    "fileHash": "sha256-e90a8c6ba00760f15308462ed67b5e342e429d6ba6738e12376aadd17951a552",
+    "fileHash": "sha256-6f8892af2a6a8d9d839a33097268ba99ebf0719afa2c0c263c790cafe440205a",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
-    "fileSize": 77525,
+    "fileSize": 77686,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1674,7 +1533,7 @@
     ],
     "version": 8,
     "internalName": "plt-party",
-    "description": "🔴 pltmustafa 02.09.2026 plt-party - Sevdiklerinizle senkronize bir şekilde izlemenizi sağlar.",
+    "description": "🆕 pltmustafa 16.09.2026 plt-party - Sevdiklerinizle senkronize bir şekilde izlemenizi sağlar.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/plt-party.cs3",
     "name": "plt-party",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/plt-party.cs3"
@@ -1697,17 +1556,17 @@
     ],
     "version": 1,
     "internalName": "WebdramaTurkey2",
-    "description": "🔴 patr0nq 16.09.2026 WebdramaTurkey2 İçerikleri",
+    "description": "🆕 patr0nq 16.09.2026 WebdramaTurkey2 İçerikleri",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/WebdramaTurkey2.cs3",
     "name": "WebdramaTurkey2",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/WebdramaTurkey2.cs3"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon_tv.png",
-    "fileHash": "sha256-46ecee43bb0017102d8412ec861e2eda2a0d7aaa5595b031e36a990dba441c35",
+    "fileHash": "sha256-01da9b9941fddd0c38b295b012e04a8d650dcfb20521e1ea952227b01800ff8e",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
-    "fileSize": 45596,
+    "fileSize": 45746,
     "status": 1,
     "language": "tr",
     "authors": [
@@ -1718,78 +1577,40 @@
     ],
     "version": 5,
     "internalName": "plt-tv",
-    "description": "🔴 pltmustafa 01.09.2026 plt-tv - M3U/M3U8 çalma listeleri ve canlı TV yayınlarını oynatıcı eklentisi",
+    "description": "🆕 pltmustafa 16.09.2026 plt-tv - M3U/M3U8 çalma listeleri ve canlı TV yayınlarını oynatıcı eklentisi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/plt-tv.cs3",
     "name": "plt-tv",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/plt-tv.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Animeler.cs3",
-    "status": 1,
-    "version": 42,
     "name": "Animeler",
     "internalName": "Animeler",
-    "authors": [
-      "kraptor",
-      "ByAyzen",
-      "kerimmkirac"
-    ],
-    "description": "🆕 aytzey 15.09.2026 HD kalitesinde ücretsiz anime izle! Animeler.me, en yeni ve popüler anime serilerini Türkçe altyazılı ve dublajlı olarak sunar. Favori animelerini hemen keşfet!",
-    "fileSize": 52355,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Animeler.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Animeler.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Anime"
-    ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeler.pw/&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-7c3e22c99de622d265fddad4c4233101db25956f2a7367f648561a3cb741061f",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Animeler.cs3"
+    "status": 1,
+    "description": "🆕 aytzey 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Animely.cs3",
-    "status": 1,
-    "version": 5,
     "name": "Animely",
     "internalName": "Animely",
-    "authors": [
-      "kraptor",
-      "ByAyzen"
-    ],
-    "description": "🆕 aytzey 15.09.2026 Animely ile en sevdiğiniz animeleri Türkçe altyazılı olarak HD kalitede izleyin. Güncel sezon animeleri, klasikler ve çok daha fazlası. Hemen ücretsiz hesap oluşturun ve anime dünyasına katılın. Binlerce bölüm anime içeriğiyle sizleri bekliyor!",
-    "fileSize": 40168,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Animely.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Animely.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie",
-      "OVA"
-    ],
-    "iconUrl": "https://play-lh.googleusercontent.com/BIE1R3FVOpIoCPxkx3Erfuw5sVc5wVIbeHAcRuTUGesuvc1S1Cr6KYumGVbn7xABuLc=w240-h480",
-    "apiVersion": 1,
-    "fileHash": "sha256-f0822e297e21e0576cd3919b7e13694b4f4754903170416d0f4b7bc19c546d82",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Animely.cs3"
+    "status": 1,
+    "description": "🆕 aytzey 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AnimPow.cs3",
-    "status": 1,
-    "version": 8,
     "name": "AnimPow",
     "internalName": "AnimPow",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "🆕 aytzey 15.09.2026 AnimPow da binlerce güncel animeyi reklamsız, 1080p HD kalitesinde Türkçe altyazılı olarak ücretsiz izle! Yeni üyelere 1 haftalık 4K Video Plus anime sistemi denemesi bedava.",
-    "fileSize": 77378,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AnimPow.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AnimPow.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Anime"
-    ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animpow.com/&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-4d3f691b88c9be0d54e08da58a224722cdf02a2ca8f10fdf63cafaa6c370e957",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AnimPow.cs3"
+    "status": 1,
+    "description": "🆕 aytzey 16.09.2026 Depodan kurtarıldı."
   },
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Anizium.cs3",
@@ -1800,7 +1621,7 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🔴 Wiojelt 16.09.2026 Anizium · TurkSinema ayrı sağlayıcı paketi (4K & 2K Dublajlı Anime)",
+    "description": "🆕 Wiojelt 16.09.2026 Anizium · TurkSinema ayrı sağlayıcı paketi (4K & 2K Dublajlı Anime)",
     "fileSize": 48916,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
@@ -1815,47 +1636,24 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Anizium.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AsyaFanatiklerim.cs3",
-    "status": 1,
-    "version": 23,
     "name": "AsyaFanatiklerim",
     "internalName": "AsyaFanatiklerim",
-    "authors": [
-      "kraptor",
-      "kerimmkirac"
-    ],
-    "description": "🆕 aytzey 15.09.2026 Asya Fanatikleri, asya dizilerini izleme imkanı sunar. Kore dizileri izle, asyafanatikleri kore dizileri, tayvan dizileri izle, çin dizileri izle, anime izle.",
-    "fileSize": 28605,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AsyaFanatiklerim.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AsyaFanatiklerim.cs3",
     "language": "tr",
-    "tvTypes": [
-      "AsianDrama"
-    ],
-    "iconUrl": "https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-ce4eb9f45e0f7e80df667e09d117702718fe22db9094bfcc0574f190b7ff10d9",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AsyaFanatiklerim.cs3"
+    "status": 1,
+    "description": "🆕 aytzey 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziAsia.cs3",
-    "status": 1,
-    "version": 21,
     "name": "DiziAsia",
     "internalName": "DiziAsia",
-    "authors": [
-      "kerimmkirac"
-    ],
-    "description": "🆕 aytzey 15.09.2026 DiziAsia - Asya Dizileri İzle",
-    "fileSize": 25726,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziAsia.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziAsia.cs3",
     "language": "tr",
-    "tvTypes": [
-      "AsianDrama"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=diziasia.com",
-    "apiVersion": 1,
-    "fileHash": "sha256-a0e1767baf49d2c4a01a4b2fdb150103a02a33aa3856c6107eac8e82756674e2",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziAsia.cs3"
+    "status": 1,
+    "description": "🆕 aytzey 16.09.2026 Depodan kurtarıldı."
   },
   {
     "name": "DiziAsya",
@@ -1863,7 +1661,7 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🔴 Wiojelt 16.09.2026 DiziAsya · Kore, Japon ve Çin Dizileri & Asya Sineması (diziasya.com)",
+    "description": "🆕 Wiojelt 16.09.2026 DiziAsya · Kore, Japon ve Çin Dizileri & Asya Sineması (diziasya.com)",
     "fileSize": 45852,
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DiziAsya.cs3",
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
@@ -1881,48 +1679,24 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DiziAsya.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziFilmORG.cs3",
-    "status": 1,
-    "version": 23,
     "name": "DiziFilmORG",
     "internalName": "DiziFilmORG",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "🆕 aytzey 15.09.2026 En yeni ve popüler yerli yabancı filmleri Türkçe dublaj ve altyazılı seçeneklerle Full HD kalitede, tek parça ve kesintisiz Dizifilm.org’da izle.",
-    "fileSize": 76765,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziFilmORG.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziFilmORG.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizifilm.org/dizi/breaking-bad/sezon-1/bolum-2&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-2ad262bc87fb248fc617162f74cc4aea57a8634f74d7c1d0a7ee412484eb71d4",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziFilmORG.cs3"
+    "status": 1,
+    "description": "🆕 aytzey 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Dizigecesi.cs3",
-    "status": 1,
-    "version": 5,
     "name": "Dizigecesi",
     "internalName": "Dizigecesi",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "🆕 aytzey 15.09.2026 Dizigecesi ile yüksek kalitede Türkçe altyazılı yabancı dizileri kesintisiz ve reklamsız izleyebilirsiniz. Yabancı dizi izle, yabancı film izle, yabancı diziler, yabancı filmler.",
-    "fileSize": 59178,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Dizigecesi.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Dizigecesi.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizigecesi.com/tr&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-4e160dc420631eccd233c05d592fdfc9ff8026f9498f20862d17fa928d6c68ba",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Dizigecesi.cs3"
+    "status": 1,
+    "description": "🆕 aytzey 16.09.2026 Depodan kurtarıldı."
   },
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DiziLife.cs3",
@@ -1962,7 +1736,7 @@
     ],
     "version": 4,
     "internalName": "DiziPalOrijinal",
-    "description": "🔴 lepotane 16.09.2026 DiziPal Orijinal.",
+    "description": "🆕 lepotane 16.09.2026 DiziPal Orijinal.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziPalOrijinal.cs3",
     "name": "DiziPalOrijinal",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziPalOrijinal.cs3"
@@ -1976,7 +1750,7 @@
     "authors": [
       "patr0n"
     ],
-    "description": "🔴 feroxx 16.09.2026 Yabancı dizi ve film izleme platformu. Altyazılı yabancı dizi ve film izle.",
+    "description": "🆕 feroxx 16.09.2026 Yabancı dizi ve film izleme platformu. Altyazılı yabancı dizi ve film izle.",
     "fileSize": 23522,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "language": "tr",
@@ -2049,7 +1823,7 @@
     ],
     "version": 1,
     "internalName": "FilmEkseni",
-    "description": "🔴 lepotane 16.09.2026 Film Ekseni Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
+    "description": "🆕 lepotane 16.09.2026 Film Ekseni Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FilmEkseni.cs3",
     "name": "FilmEkseni",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FilmEkseni.cs3"
@@ -2063,7 +1837,7 @@
     "authors": [
       "blackhope01"
     ],
-    "description": "🔴 blackhope01 16.09.2026 Trend olan tüm yabancı yerli filmleri Hd ve 720p 1080p kalitesinde kesintisiz indirmeden izleyebilirsiniz, Online film sitemizde Türkçe dublaj olarak izleyebilirsiniz.",
+    "description": "🆕 blackhope01 16.09.2026 Trend olan tüm yabancı yerli filmleri Hd ve 720p 1080p kalitesinde kesintisiz indirmeden izleyebilirsiniz, Online film sitemizde Türkçe dublaj olarak izleyebilirsiniz.",
     "fileSize": 22379,
     "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
     "language": "tr",
@@ -2077,46 +1851,24 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/FilmHane.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Filmzal.cs3",
-    "status": 1,
-    "version": 17,
     "name": "Filmzal",
     "internalName": "Filmzal",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "🔴 aytzey 16.09.2026 Filmzal: HD Film izle, Tv-Seriallar - HD Film izle, Azerbaycanca Dublaj film izle, Türkçe Dublaj Film İzle",
-    "fileSize": 38540,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
-    "language": "az",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmzal.me/&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-06d660b6b555519412955fe49e18fa27977343314d020570dc02a0060f23fe3b",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Filmzal.cs3"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Filmzal.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Filmzal.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 aytzey 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/GinikoCanli.cs3",
-    "status": 1,
-    "version": 16,
     "name": "GinikoCanli",
     "internalName": "GinikoCanli",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "🆕 aytzey 15.09.2026 Vpn Gerekli! Dünyanın tüm ülkelerinden ücretsiz çevrimiçi TV.",
-    "fileSize": 17903,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/GinikoCanli.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/GinikoCanli.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://www.giniko.com/images/favicon.ico",
-    "apiVersion": 1,
-    "fileHash": "sha256-01b52a0b3c86dac364d444f4d95d5748db101e618d6aecbdfca1468386a7c260",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/GinikoCanli.cs3"
+    "status": 1,
+    "description": "🆕 aytzey 16.09.2026 Depodan kurtarıldı."
   },
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/HDFilmDelisi.cs3",
@@ -2141,144 +1893,64 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/HDFilmDelisi.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/KickTR.cs3",
-    "status": 1,
-    "version": 18,
     "name": "KickTR",
     "internalName": "KickTR",
-    "authors": [
-      "ByAyzen",
-      "kraptor"
-    ],
-    "description": "🆕 aytzey 15.09.2026 Kick, canlı yayın yapılan bir platformdur. Daha gevşek kuralları ve yayıncılara daha fazla kazanç sağlamasıyla bilinir. Platform, yayıncılardan sadece %5 kesinti yapar ve bu oran diğer yayın platformlarına göre en düşük kesintilerden biridir.",
-    "fileSize": 40510,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/KickTR.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/KickTR.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kick.com&size=48",
-    "apiVersion": 1,
-    "fileHash": "sha256-bdc1381d3ebdc2a6e0d3c30bf02d0e2a8cc407c6a990b21e6b479ac7769bcefc",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/KickTR.cs3"
+    "status": 1,
+    "description": "🆕 aytzey 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/KraptorPlus.cs3",
-    "status": 1,
-    "version": 87,
     "name": "KraptorPlus",
     "internalName": "KraptorPlus",
-    "authors": [
-      "kraptor",
-      "Phisher98",
-      "ByAyzen",
-      "Megix"
-    ],
-    "description": "🆕 aytzey 15.09.2026 Bir çok sitenin birleştiği toplama eklenti.",
-    "fileSize": 628229,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/KraptorPlus.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/KraptorPlus.cs3",
     "language": "tr",
-    "tvTypes": [
-      "TvSeries",
-      "Movie",
-      "Anime",
-      "Cartoon",
-      "AsianDrama",
-      "AnimeMovie"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/aytzey/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-706459836c2eda9590c1b801f74477a4435537682e1d9f5b128465ba1fe1e4fe",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/KraptorPlus.cs3"
+    "status": 1,
+    "description": "🆕 aytzey 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/MirrorVerse.cs3",
-    "status": 1,
-    "version": 39,
     "name": "MirrorVerse",
     "internalName": "MirrorVerse",
-    "authors": [
-      "kraptor",
-      "NivinCNC",
-      "ByAyzen"
-    ],
-    "description": "🆕 aytzey 15.09.2026 Netflix, Disney+ ve Primevideo eklentileri tek bir eklentide kendisi bir eklenti degildir bu 3 eklentiyi kurar, tüm eklentilerde altyazı netflixde dublaj desteği var.",
-    "fileSize": 140096,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/MirrorVerse.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/MirrorVerse.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/aytzey/cs-kraptor/refs/heads/master/.github/icons/logo/mirrorverseicon.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-324d85b6700ccace0a2b8fdb83474a2c65f6b966041a64de97bce3ef7e49ac8f",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/MirrorVerse.cs3"
+    "status": 1,
+    "description": "🆕 aytzey 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/OnePaceTr.cs3",
-    "status": 1,
-    "version": 14,
     "name": "OnePaceTr",
     "internalName": "OnePaceTr",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "🆕 aytzey 15.09.2026 One Pace türkçe altyazılı izleme platformu.",
-    "fileSize": 31616,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/OnePaceTr.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/OnePaceTr.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Anime"
-    ],
-    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.onepacetr.net/&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-0dca32ab01dfd3ae3e8953f22a011f66b03c59c8f51056089c2322ea326f2e40",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/OnePaceTr.cs3"
+    "status": 1,
+    "description": "🆕 aytzey 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=openani.me&sz=%size%",
-    "fileHash": "sha256-9d95d1e9518638ba7bfde5a18452cea54252c842e8bf1ab1cc9198128a1dcfc4",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 17257,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "MRC"
-    ],
-    "tvTypes": [
-      "Anime"
-    ],
-    "version": 1,
-    "internalName": "OpenAnime",
-    "description": "🔴 lepotane 16.09.2026 OpenAnime - Açık Kaynak Anime Platformu.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/OpenAnime.cs3",
     "name": "OpenAnime",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/OpenAnime.cs3"
+    "internalName": "OpenAnime",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/OpenAnime.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/OpenAnime.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 aytzey 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/SeiCode.cs3",
-    "status": 1,
-    "version": 26,
     "name": "SeiCode",
     "internalName": "SeiCode",
-    "authors": [
-      "kraptor",
-      "ByAyzen",
-      "kerimmkirac"
-    ],
-    "description": "🆕 aytzey 15.09.2026 Seicode ile en yeni animeler keşfedin!",
-    "fileSize": 40339,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/SeiCode.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/SeiCode.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Anime"
-    ],
-    "iconUrl": "https://seicode.net/favicon.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-b7bbed57b214623a8b1061babb7201aec2d0d9cb35ef4ca6cc1f4663f61793d7",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/SeiCode.cs3"
+    "status": 1,
+    "description": "🆕 aytzey 16.09.2026 Depodan kurtarıldı."
   },
   {
     "iconUrl": "https://selcukflix.com/assets/favicon/favicon-32x32.png?v=4",
@@ -2297,7 +1969,7 @@
     ],
     "version": 2,
     "internalName": "SelcukFlix",
-    "description": "🔴 manitux-app 16.09.2026 Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
+    "description": "🆕 manitux-app 16.09.2026 Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/manitux-app/SelcukFlix.cs3",
     "name": "SelcukFlix",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/manitux-app/SelcukFlix.cs3"
@@ -2318,96 +1990,50 @@
     ],
     "version": 3,
     "internalName": "Sinezy",
-    "description": "🔴 lepotane 16.09.2026 HD film izleme keyfi (MRC)",
+    "description": "🆕 lepotane 16.09.2026 HD film izleme keyfi (MRC)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Sinezy.cs3",
     "name": "Sinezy",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Sinezy.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/TrAnimeIzle.cs3",
-    "status": 1,
-    "version": 16,
     "name": "TrAnimeIzle",
     "internalName": "TrAnimeIzle",
-    "authors": [
-      "kraptor"
-    ],
-    "description": "🆕 aytzey 15.09.2026 Anime izle, Anime tv, birbirinden farklı ve güzel animeleri keyifle seyredebileceğiniz Türk anime severlerin en popüler türkçe anime izleme sitesidir.",
-    "fileSize": 70901,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/TrAnimeIzle.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/TrAnimeIzle.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Anime"
-    ],
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.tranimeizle.io/&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-cf8354313bb9cd098381957bd8914f20b6b09e95696c51c2fc5988f9aa783e06",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/TrAnimeIzle.cs3"
+    "status": 1,
+    "description": "🆕 aytzey 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Turkdizileri.cs3",
-    "status": 1,
-    "version": 34,
     "name": "Turkdizileri",
     "internalName": "Turkdizileri",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "🆕 aytzey 15.09.2026 TRT1, Showtv, Kanal D ve daha fazla site tek bir eklentide birleşiyor.",
-    "fileSize": 166809,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Turkdizileri.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Turkdizileri.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://i.imgur.com/Cff8v6J.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-aa2bc67792c6dff919685840e99a0c33aff8558b3a45b55adf23f83b14196d3e",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Turkdizileri.cs3"
+    "status": 1,
+    "description": "🆕 aytzey 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/WFilmizle.cs3",
-    "status": 1,
-    "version": 24,
     "name": "WFilmizle",
     "internalName": "WFilmizle",
-    "authors": [
-      "ByAyzen"
-    ],
-    "description": "🆕 aytzey 15.09.2026 Yerli ve yabancı film izle, Türkçe dublaj ve altyazı seçenekleriyle en yeni ve unutulmamış olan filmleri Full HD kalitesinde online izleyebilirsiniz.",
-    "fileSize": 59842,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/WFilmizle.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/WFilmizle.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://wfilmizle.bar&size=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-0a761f5f56eb51ce9409c37ba3bca259313ce294e2877c80ebf2ceb2493f2a2c",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/WFilmizle.cs3"
+    "status": 1,
+    "description": "🆕 aytzey 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/YeniKaynak.cs3",
-    "status": 1,
-    "version": 12,
     "name": "YeniKaynak",
     "internalName": "YeniKaynak",
-    "authors": [
-      "kraptor",
-      "ByAyzen"
-    ],
-    "description": "🆕 aytzey 15.09.2026 İran Sinemasının Yeni Adresi - İran Filmleri, İran Dizileri, İslami Filmler, Dini Filmler, Dini Sinema, İslami Diziler,...",
-    "fileSize": 29294,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/YeniKaynak.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/YeniKaynak.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.yenikaynak.com/&size=16",
-    "apiVersion": 1,
-    "fileHash": "sha256-e2152b01845f804f489541e2bd9014053a7a8e2d8f17423d35112de98c20a868",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/YeniKaynak.cs3"
+    "status": 1,
+    "description": "🆕 aytzey 16.09.2026 Depodan kurtarıldı."
   },
   {
     "iconUrl": "https://yesilcamtv.com.tr/wp-content/themes/filmplus/fav.ico",
@@ -2431,48 +2057,24 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/manitux-app/YesilcamTV.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/LoveFilm.cs3",
-    "status": 0,
-    "version": 1,
     "name": "LoveFilm",
     "internalName": "LoveFilm",
-    "authors": [
-      "blackhope01"
-    ],
-    "description": "🔴 blackhope01 16.09.2026 Full HD Film izle - Türkçe Dublaj Altyazılı Film izleme sitesi olarak sizlere yabancı yerli filmleri yüksek kalitede sunmakdayız. Kaliteli film izle sitesi",
-    "fileSize": 21613,
-    "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/LoveFilm.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/LoveFilm.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://lovefilmizle.net&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-ce17a0787c700bf1d8d3ea102fe8723dbf38d0506bf5809f8dfd67d754bf7d2a",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/LoveFilm.cs3"
+    "status": 1,
+    "description": "🆕 blackhope01 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/TmdbProvider.cs3",
-    "status": 0,
-    "version": 1,
     "name": "TmdbProvider",
     "internalName": "TmdbProvider",
-    "authors": [
-      "blackhope01"
-    ],
-    "description": "🆕 blackhope01 02.09.2026 Yeni film, dizi, anime ve bölümleri keşfet; güncel trendleri, sıralamaları ve yayın takvimini incele.",
-    "fileSize": 19992,
-    "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/TmdbProvider.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/TmdbProvider.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.diziyo.so/&sz=%size%",
-    "apiVersion": 1,
-    "fileHash": "sha256-62f11bb5b64965111d06ce65b71a9f42bab019d58e54c120487170b80c3f7bb6",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/TmdbProvider.cs3"
+    "status": 1,
+    "description": "🆕 blackhope01 16.09.2026 Depodan kurtarıldı."
   },
   {
     "iconUrl": "https://play-lh.googleusercontent.com/eUBvwF8qxYbAB-teSb1o3PSvKDUbjQzJO5xuqAiXzncQo55_Gp9aByEaJ79a1lDS6zecy-SvzOLSK-UIRmcTYQ=s320",
@@ -2490,7 +2092,7 @@
     ],
     "version": 6,
     "internalName": "trakt-sync",
-    "description": "🔴 pltmustafa 14.09.2026 İzlenen içerikleri otomatik izlendi olarak işaretler ve izleme listesini senkronize eder.",
+    "description": "🆕 pltmustafa 16.09.2026 İzlenen içerikleri otomatik izlendi olarak işaretler ve izleme listesini senkronize eder.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/trakt-sync.cs3",
     "name": "trakt-sync",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/trakt-sync.cs3"
@@ -2521,19 +2123,10 @@
     "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "Wiojelt"
     ],
-    "description": "🔴 Wiojelt 10.09.2026 CineStream · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 748130,
+    "description": "🆕 Wiojelt 16.09.2026 CineStream · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 747595,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -2544,7 +2137,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-5f522823e213b48f0daeb4e533acbad9ace159fb8ea25c6a1f6c44ed62f43c43",
+    "fileHash": "sha256-eebc1dd648eac66315c9ceaf8f409a575194261732731e89ab3aca162a3970f9",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CineStream.cs3"
   },
   {
@@ -2600,8 +2193,8 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 🟢 Kaynak: ArdaSpor · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 108015,
+    "description": "🆕 Wiojelt 16.09.2026 🟢 Kaynak: ArdaSpor · Emeği için teşekkürler ♥ · @wiojelt",
+    "fileSize": 107336,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -2609,7 +2202,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ArdaSpor.png",
     "apiVersion": 1,
-    "fileHash": "sha256-9593c65dc25465ba888bd83f03e51a757a9c69ab2503ebf1076ffb92972985b2",
+    "fileHash": "sha256-7cb7bde418cc709266d6092537339e2e39f6c5446f6f1bc6cb77cb56f67a6f90",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/ArdaSpor.cs3"
   },
   {
@@ -2621,8 +2214,8 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 🟢 Kaynak: Aslan TV · Derleme izni ve emeği için yapımcısına teşekkürler ♥ · @wiojelt · WARP gerekebilir.",
-    "fileSize": 181056,
+    "description": "🆕 Wiojelt 16.09.2026 🟢 Kaynak: Aslan TV · Derleme izni ve emeği için yapımcısına teşekkürler ♥ · @wiojelt · WARP gerekebilir.",
+    "fileSize": 180440,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -2630,7 +2223,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/AslanTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-0f127459973ff020cb0841556b04d72cae6f61778616aeb4c4c2688a94708273",
+    "fileHash": "sha256-eb96a4264d6484b95ee9af61e2228e5c458ddeae255b3fc12bbb2546cb9d311f",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/AslanTV.cs3"
   },
   {
@@ -2642,8 +2235,8 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 Betmatik TV canlı spor kanalları · otomatik alan güncelleme",
-    "fileSize": 129775,
+    "description": "🆕 Wiojelt 16.09.2026 Betmatik TV canlı spor kanalları · otomatik alan güncelleme",
+    "fileSize": 129009,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -2651,7 +2244,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BetmatikTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-1288e25128d796dd81b0296c909f17f96ee81ee189b617a5e100154dea572969",
+    "fileHash": "sha256-4329d36cc415d98d675e7bb6da25b535136155d5791fa3831f1d0addbb9f0e90",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/BetmatikTV.cs3"
   },
   {
@@ -2663,8 +2256,8 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 🟢 Kaynak: BeyazElma · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 129784,
+    "description": "🆕 Wiojelt 16.09.2026 🟢 Kaynak: BeyazElma · Emeği için teşekkürler ♥ · @wiojelt",
+    "fileSize": 129015,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -2672,7 +2265,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BeyazElma.png",
     "apiVersion": 1,
-    "fileHash": "sha256-a9bc633cd5825048fbdd1f13bb17f10ce31a582f2281d5cd8dd46b86cbe7ecc1",
+    "fileHash": "sha256-33391cefef97a0b737d6cead20cd31376498caff0862b60e26d11a2b36abbf01",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/BeyazElma.cs3"
   },
   {
@@ -2684,8 +2277,8 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 🟢 Kaynak: Crex · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 108553,
+    "description": "🆕 Wiojelt 16.09.2026 🟢 Kaynak: Crex · Emeği için teşekkürler ♥ · @wiojelt",
+    "fileSize": 107800,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -2693,7 +2286,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Crex.png",
     "apiVersion": 1,
-    "fileHash": "sha256-1c4d322fec33edd00f05b1f8cde6acca29c4de51c473349d7a14c4addfbd4cf1",
+    "fileHash": "sha256-0fd77802d4ab438f9ed5bd5887d031d8ac3a6a034052fe04e259514131c2d7e7",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Crex.cs3"
   },
   {
@@ -2705,7 +2298,7 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🔴 Wiojelt 08.09.2026 DaddyLive 7/24 spor kanalları, çoklu alan adı ve tokenlı oynatıcı desteği.",
+    "description": "🆕 Wiojelt 16.09.2026 DaddyLive 7/24 spor kanalları, çoklu alan adı ve tokenlı oynatıcı desteği.",
     "fileSize": 79787,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
@@ -2726,8 +2319,8 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 Domates TV dinamik spor kanalları",
-    "fileSize": 93112,
+    "description": "🆕 Wiojelt 16.09.2026 Domates TV dinamik spor kanalları",
+    "fileSize": 92482,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -2735,7 +2328,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DomatesTV.webp",
     "apiVersion": 1,
-    "fileHash": "sha256-19a99ee3236f94d71eb59a796f353e6837e12a7509fe0d94bf3ed6bf9d721d6d",
+    "fileHash": "sha256-8235fbfeae28396b3681261fae4a8408dc04e33c1b47325d65d497f61e11ed2c",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DomatesTV.cs3"
   },
   {
@@ -2747,8 +2340,8 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 Domino TV 4.0 dinamik spor kanalları",
-    "fileSize": 93532,
+    "description": "🆕 Wiojelt 16.09.2026 Domino TV 4.0 dinamik spor kanalları",
+    "fileSize": 93019,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -2756,7 +2349,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DominoTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-a414cb733cc37a0e0ca676d832d1917a12ad386770aff1f0032596240e0a16fe",
+    "fileHash": "sha256-613e597d4e4b5cfa6ec40c1dc22af3a3c8d525790d6160e5e9accb2df252e8b6",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DominoTV.cs3"
   },
   {
@@ -2768,7 +2361,7 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🔴 Wiojelt 08.09.2026 Hesgoal canlı maç listesi, yenilenen oynatıcı adresleri ve güncelleme ekranı.",
+    "description": "🆕 Wiojelt 16.09.2026 Hesgoal canlı maç listesi, yenilenen oynatıcı adresleri ve güncelleme ekranı.",
     "fileSize": 79340,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
@@ -2789,8 +2382,8 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 🟢 Kaynak: İnat TV · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 105531,
+    "description": "🆕 Wiojelt 16.09.2026 🟢 Kaynak: İnat TV · Emeği için teşekkürler ♥ · @wiojelt",
+    "fileSize": 104764,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -2798,7 +2391,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InatTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-d259a6c5302952d179c2be27e497474ea4175b93df5c448fa4e0bff6bcd6afb6",
+    "fileHash": "sha256-797455d8c80da6f8324532cdc90e81bb07a503bdbefc3049fde07458d4ac3fe1",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/InatTV.cs3"
   },
   {
@@ -2810,8 +2403,8 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 🔴 Kaynak: InterSporTV · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 129761,
+    "description": "🆕 Wiojelt 16.09.2026 🔴 Kaynak: InterSporTV · Emeği için teşekkürler ♥ · @wiojelt",
+    "fileSize": 128952,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -2819,7 +2412,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InterSporTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-e914b16cd1d1bea4400cbb0ba19db32884a924ac2e0b9b00ac6c1d49c082a6fc",
+    "fileHash": "sha256-2311f662c4348c5124b27d467e14b8d078eb455087fd3745465b2812e431c06a",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/InterSporTV.cs3"
   },
   {
@@ -2831,7 +2424,7 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🔴 Wiojelt 08.09.2026 👑 Kaynak: KralSporHD · Emeği için teşekkürler ♥ · @wiojelt",
+    "description": "🆕 Wiojelt 16.09.2026 👑 Kaynak: KralSporHD · Emeği için teşekkürler ♥ · @wiojelt",
     "fileSize": 105365,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
@@ -2852,8 +2445,8 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 LiveXTV canlı spor API'si, yedek uç nokta ve çoklu yayın kaynakları.",
-    "fileSize": 79996,
+    "description": "🆕 Wiojelt 16.09.2026 LiveXTV canlı spor API'si, yedek uç nokta ve çoklu yayın kaynakları.",
+    "fileSize": 79324,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -2861,7 +2454,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/LiveXTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-e17dc8b0e28479ae516a3d2cbeecba5c10ba6955addd1852e82cb6443a0a1853",
+    "fileHash": "sha256-36196b16cd415dbfa514c7e6044fccec2641a3b004629824fa044254fd66d487",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/LiveXTV.cs3"
   },
   {
@@ -2873,8 +2466,8 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 🔴 Kaynak: MaçKeyfi / Canlımaçlar · Emeği için teşekkürler ♥ · @wiojelt · WARP gerekebilir.",
-    "fileSize": 129744,
+    "description": "🆕 Wiojelt 16.09.2026 🔴 Kaynak: MaçKeyfi / Canlımaçlar · Emeği için teşekkürler ♥ · @wiojelt · WARP gerekebilir.",
+    "fileSize": 128940,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -2882,7 +2475,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/MacKeyfi.png",
     "apiVersion": 1,
-    "fileHash": "sha256-9ce216e7b0aa7eac1f6d6b9ab6ee0db68ca5d91e89abc1e1324d62dde18557be",
+    "fileHash": "sha256-c20a10e2100467e45d2f56ae0ce6e9349b2a8047175c3a0cfde71eb4676d2170",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/MacKeyfi.cs3"
   },
   {
@@ -2894,8 +2487,8 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 🟢 Kaynak: MahsunSports · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 107439,
+    "description": "🆕 Wiojelt 16.09.2026 🟢 Kaynak: MahsunSports · Emeği için teşekkürler ♥ · @wiojelt",
+    "fileSize": 106696,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -2903,7 +2496,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/MahsunSports.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-5f28f91b07125396717dd18207e6c4fff884ef30fb9d404b63890200645bd9cf",
+    "fileHash": "sha256-93a290f4885802aba6a886643a08e2b4866edaac4cf37ee41d4ba6d8caf77695",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/MahsunSports.cs3"
   },
   {
@@ -2915,8 +2508,8 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 NETV Gold uygulamasının doğrulanmış spor kanalları",
-    "fileSize": 141873,
+    "description": "🆕 Wiojelt 16.09.2026 NETV Gold uygulamasının doğrulanmış spor kanalları",
+    "fileSize": 141284,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -2924,7 +2517,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/NetVGold.png",
     "apiVersion": 1,
-    "fileHash": "sha256-34676809c9fbaffd4dc43cc86d3f50bf97cf79400a1c8fb623cd2e41abcb7454",
+    "fileHash": "sha256-94777de5ee07a37d711031ddf01dcb38e96ce795bfd4e0ee3a2adebf4b38b2a3",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/NetVGold.cs3"
   },
   {
@@ -2936,7 +2529,7 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🔴 Wiojelt 08.09.2026 NTVStream spor kanalları, arama tabanlı canlı katalog ve güncelleme ekranı.",
+    "description": "🆕 Wiojelt 16.09.2026 NTVStream spor kanalları, arama tabanlı canlı katalog ve güncelleme ekranı.",
     "fileSize": 79742,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
@@ -2957,8 +2550,8 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 PapazSports canlı kanal ve maç listesi, artan alan adı keşfi ve güncelleme ekranı.",
-    "fileSize": 140443,
+    "description": "🆕 Wiojelt 16.09.2026 PapazSports canlı kanal ve maç listesi, artan alan adı keşfi ve güncelleme ekranı.",
+    "fileSize": 139867,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -2966,7 +2559,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/PapazSports.png",
     "apiVersion": 1,
-    "fileHash": "sha256-36243b7b5d9d6b4843bc53e27e797a417536238f2a64bc7feeb5f42cd9f5422c",
+    "fileHash": "sha256-62cca511c8f86bc9e600f1aa1f8c84b7b1f7985450609ca973f698056bbef88d",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/PapazSports.cs3"
   },
   {
@@ -2978,8 +2571,8 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 🟢 Kaynak: SelçukSports · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 103685,
+    "description": "🆕 Wiojelt 16.09.2026 🟢 Kaynak: SelçukSports · Emeği için teşekkürler ♥ · @wiojelt",
+    "fileSize": 102943,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -2987,7 +2580,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/SelcukSports.png",
     "apiVersion": 1,
-    "fileHash": "sha256-f06f28439b3bd80a4dadd71d14cacc0664c3a2323cb58c2594c9eb254b1e9d72",
+    "fileHash": "sha256-c9d0d8da9847db76663b880f872b8b92c312cf71f24a30b62913149facb3b611",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/SelcukSports.cs3"
   },
   {
@@ -2999,8 +2592,8 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 StreamEast canlı ve yaklaşan spor etkinlikleri, çoklu oynatıcı ve güncelleme ekranı.",
-    "fileSize": 80028,
+    "description": "🆕 Wiojelt 16.09.2026 StreamEast canlı ve yaklaşan spor etkinlikleri, çoklu oynatıcı ve güncelleme ekranı.",
+    "fileSize": 79339,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -3008,7 +2601,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/StreamEast.png",
     "apiVersion": 1,
-    "fileHash": "sha256-5b898eee0b6ffc090b44c92dbca0e93e3142dcdc291ad05a546d1d9df765d6fa",
+    "fileHash": "sha256-f190b3a422575d186619f45e53df0cf495cee78778d27ff3442df44f2f910062",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/StreamEast.cs3"
   },
   {
@@ -3041,8 +2634,8 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 TRGoals dinamik spor kanalları ve alan güncelleme ekranı",
-    "fileSize": 142234,
+    "description": "🆕 Wiojelt 16.09.2026 TRGoals dinamik spor kanalları ve alan güncelleme ekranı",
+    "fileSize": 141556,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -3050,7 +2643,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/TRGoals.png",
     "apiVersion": 1,
-    "fileHash": "sha256-52339b110d831c7f4bb3150be291b420747818534c29f87d776c094ae6773987",
+    "fileHash": "sha256-d963e1c6d0659bb8c0e967e1cc99d1408b97fc7b38b9e5e3c2f7ca93e74712d9",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TRGoals.cs3"
   },
   {
@@ -3062,8 +2655,8 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 🔴 Kaynak: Taraftarium24 · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 104745,
+    "description": "🆕 Wiojelt 16.09.2026 🔴 Kaynak: Taraftarium24 · Emeği için teşekkürler ♥ · @wiojelt",
+    "fileSize": 103950,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -3071,7 +2664,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Taraftarium24.png",
     "apiVersion": 1,
-    "fileHash": "sha256-57ec4d7b2d874ea7c71ba11f7e84e4bbe253de867c043fd3525875d204119c03",
+    "fileHash": "sha256-5d804baf20649e6c971caf92f19866093454519d28a532b138b3a124177b07a6",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Taraftarium24.cs3"
   },
   {
@@ -3083,8 +2676,8 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 VivoX uyumlu dinamik spor listesi",
-    "fileSize": 89873,
+    "description": "🆕 Wiojelt 16.09.2026 VivoX uyumlu dinamik spor listesi",
+    "fileSize": 89198,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -3092,7 +2685,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/VivoXSpor.png",
     "apiVersion": 1,
-    "fileHash": "sha256-1d6c249ec3a9fa9132c471d67f0078a097cc1868a583496b77207a257305900b",
+    "fileHash": "sha256-fd58c1769f666c1d9b734ec339f92377847bfe1540d4a7a3584bd81aaece5e86",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/VivoXSpor.cs3"
   },
   {
@@ -3104,8 +2697,8 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 🔴 Kaynak: Zbahis / Baywin TV · Emeği için teşekkürler ♥ · @wiojelt",
-    "fileSize": 129732,
+    "description": "🆕 Wiojelt 16.09.2026 🔴 Kaynak: Zbahis / Baywin TV · Emeği için teşekkürler ♥ · @wiojelt",
+    "fileSize": 128930,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -3113,7 +2706,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ZbahisTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-42b506a5ec91851fb3b0cd655b174e45151b7aaedd03298ada749e38b845e47b",
+    "fileHash": "sha256-90c6400f9f4af32049df67103058bfcf2f4fd92519958d560299eb9616d56422",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/ZbahisTV.cs3"
   },
   {
@@ -3123,9 +2716,9 @@
     "name": "CricifyProvider",
     "internalName": "CricifyProvider",
     "authors": [
-      "NivinCNC"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 CNCVerse kaynaklı CricifyProvider canlı yayın paketi · izinli harici derleme",
+    "description": "🆕 Wiojelt 16.09.2026 CNCVerse kaynaklı CricifyProvider canlı yayın paketi · izinli harici derleme",
     "fileSize": 103016,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "en",
@@ -3147,8 +2740,8 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🔴 Wiojelt 08.09.2026 JestYayin canlı maçlar ve spor kanalları",
-    "fileSize": 143075,
+    "description": "🆕 Wiojelt 16.09.2026 JestYayin canlı maçlar ve spor kanalları",
+    "fileSize": 138287,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "tr",
     "tvTypes": [
@@ -3156,7 +2749,7 @@
     ],
     "iconUrl": "https://www.jestyayin970.com/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-26ef43f652b1719ad1bfde6f53d1af3aad2e0601ba902ea79bc387aa04481444",
+    "fileHash": "sha256-a9e91f8339645382126f316f546d801105466716b4074f7a52813db87795696b",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/JestYayin.cs3"
   },
   {
@@ -3166,9 +2759,9 @@
     "name": "LivXowProvider",
     "internalName": "LivXowProvider",
     "authors": [
-      "NivinCNC"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 CNCVerse kaynaklı LivXowProvider canlı yayın paketi · izinli harici derleme",
+    "description": "🆕 Wiojelt 16.09.2026 CNCVerse kaynaklı LivXowProvider canlı yayın paketi · izinli harici derleme",
     "fileSize": 112856,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "en",
@@ -3188,9 +2781,9 @@
     "name": "PlayZTVProvider",
     "internalName": "PlayZTVProvider",
     "authors": [
-      "NivinCNC"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 CNCVerse kaynaklı PlayZTVProvider canlı yayın paketi · izinli harici derleme",
+    "description": "🆕 Wiojelt 16.09.2026 CNCVerse kaynaklı PlayZTVProvider canlı yayın paketi · izinli harici derleme",
     "fileSize": 97677,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "en",
@@ -3210,9 +2803,9 @@
     "name": "SportzxProvider",
     "internalName": "SportzxProvider",
     "authors": [
-      "NivinCNC"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 07.09.2026 CNCVerse kaynaklı SportzxProvider canlı yayın paketi · izinli harici derleme",
+    "description": "🆕 Wiojelt 16.09.2026 CNCVerse kaynaklı SportzxProvider canlı yayın paketi · izinli harici derleme",
     "fileSize": 110106,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "language": "en",
@@ -3263,7 +2856,7 @@
     ],
     "version": 3,
     "internalName": "SyncPlugin",
-    "description": "🆕 CakesTwix 09.09.2026 Синхронізація CloudStream між пристроями (закладки, продовження перегляду, налаштування, пошук, розширення). Працює з власним сервером CloudStream Sync Server.",
+    "description": "🆕 CakesTwix 16.09.2026 Синхронізація CloudStream між пристроями (закладки, продовження перегляду, налаштування, пошук, розширення). Працює з власним сервером CloudStream Sync Server.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CakesTwix/SyncPlugin.cs3",
     "name": "SyncPlugin",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CakesTwix/SyncPlugin.cs3"
@@ -3306,7 +2899,7 @@
     ],
     "version": 3,
     "internalName": "SetFilm",
-    "description": "🔴 manitux-app 11.09.2026 Setfilmizle ile en yeni filmleri ve yabancı dizileri 1080p Full HD kalitesinde, Türkçe dublaj veya altyazılı seçenekleriyle donmadan izleyin. Üyelik gerektirmeden, kesintisiz film keyfi sizi bekliyor.",
+    "description": "🆕 manitux-app 16.09.2026 Setfilmizle ile en yeni filmleri ve yabancı dizileri 1080p Full HD kalitesinde, Türkçe dublaj veya altyazılı seçenekleriyle donmadan izleyin. Üyelik gerektirmeden, kesintisiz film keyfi sizi bekliyor.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/manitux-app/SetFilm.cs3",
     "name": "SetFilm",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/manitux-app/SetFilm.cs3"
@@ -3318,19 +2911,10 @@
     "name": "CineSimkl",
     "internalName": "CineSimkl",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 10.09.2026 CineSimkl · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 748103,
+    "description": "🆕 Wiojelt 16.09.2026 CineSimkl · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 747557,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -3341,41 +2925,18 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=simkl.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b95d3445a938cfcee5972e882176f27c6b835c9bc69cf5c75bf7c6eb887b9e74",
+    "fileHash": "sha256-de14bbf44d2a908b1b91d5208b57dd1473c05c0e30074eb397d2ea569f0ec1a7",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CineSimkl.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CineTmdb.cs3",
-    "status": 3,
-    "version": 7,
     "name": "CineTmdb",
     "internalName": "CineTmdb",
-    "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
-    ],
-    "description": "🆕 Wiojelt 10.09.2026 CineTmdb · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 748096,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CineTmdb.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CineTmdb.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=themoviedb.org&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-f46d80e95355e93285b7984458f86a7193c6343ba049e46c471d91988b7472f7",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CineTmdb.cs3"
+    "status": 1,
+    "description": "🆕 Wiojelt 16.09.2026 Depodan kurtarıldı."
   },
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/ClipBox.cs3",
@@ -3384,19 +2945,10 @@
     "name": "ClipBox",
     "internalName": "ClipBox",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 10.09.2026 Clip Box · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 753787,
+    "description": "🆕 Wiojelt 16.09.2026 Clip Box · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 753383,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -3407,7 +2959,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/ClipBox.png",
     "apiVersion": 1,
-    "fileHash": "sha256-ea0017caa07118ee045c189d7d6745b48dbbe70f1064e494a9a4a180af4b1be0",
+    "fileHash": "sha256-58b02a7562755d3f3949110f1a29545f903d1e29ffa04f164e579c1105b9e313",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/ClipBox.cs3"
   },
   {
@@ -3417,19 +2969,10 @@
     "name": "CNCVerseDisneyPlus",
     "internalName": "CNCVerseDisneyPlus",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 10.09.2026 Disney Plus · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 70615,
+    "description": "🆕 Wiojelt 16.09.2026 Disney Plus · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 70772,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -3440,7 +2983,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
     "apiVersion": 1,
-    "fileHash": "sha256-fd22238c09af3674c0b12a2a0767431196313d4d3d06f0d389e8732116fbd827",
+    "fileHash": "sha256-065d4aadb406fa71419187b278d01fc369ce2bc3e8f72bdc642d728b2abce132",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CNCVerseDisneyPlus.cs3"
   },
   {
@@ -3450,19 +2993,10 @@
     "name": "CNCVerseHotstar",
     "internalName": "CNCVerseHotstar",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 10.09.2026 Hotstar Mirror · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 70624,
+    "description": "🆕 Wiojelt 16.09.2026 Hotstar Mirror · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 70763,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -3473,7 +3007,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
     "apiVersion": 1,
-    "fileHash": "sha256-e1fa7df3d062b5a2320f7f9c901cc1b2826c789ca169719b610fb08af83afd5a",
+    "fileHash": "sha256-a6c8b514a379b17497e3398016567c3136035ada93ffcfb0114930ee11738223",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CNCVerseHotstar.cs3"
   },
   {
@@ -3483,19 +3017,10 @@
     "name": "CNCVerseNetflix",
     "internalName": "CNCVerseNetflix",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 10.09.2026 Netflix Mirror · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 70637,
+    "description": "🆕 Wiojelt 16.09.2026 Netflix Mirror · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 70775,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -3506,7 +3031,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
     "apiVersion": 1,
-    "fileHash": "sha256-3850999bc29c566b6166e31814200880a4a9149a505994b589509d96f609e201",
+    "fileHash": "sha256-82d30f9d1f4295d37ff4675199d8674e91bf344f738992589ce9d72c56bb69dd",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CNCVerseNetflix.cs3"
   },
   {
@@ -3516,19 +3041,10 @@
     "name": "CNCVersePrimeVideo",
     "internalName": "CNCVersePrimeVideo",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 10.09.2026 Prime Video Mirror · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 70622,
+    "description": "🆕 Wiojelt 16.09.2026 Prime Video Mirror · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 70770,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -3539,41 +3055,18 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
     "apiVersion": 1,
-    "fileHash": "sha256-e42c00f7484615bbd4e5603766aa25de592122b7024ac23d6ee07bb59a922e45",
+    "fileHash": "sha256-1dea4a1ba42f4099af1a86387b958ed13323d05945caf0e05fa07687dd5fa29f",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CNCVersePrimeVideo.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DDiziAlternatif.cs3",
-    "status": 3,
-    "version": 7,
     "name": "DDiziAlternatif",
     "internalName": "DDiziAlternatif",
-    "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
-    ],
-    "description": "🆕 Wiojelt 10.09.2026 D Dizi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 40113,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DDiziAlternatif.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DDiziAlternatif.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.ddizi.im&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-5b4d2e0ef7650cc2342c74c31fa99ff34efdc1420f8aa068dbbb0fd062c7412c",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DDiziAlternatif.cs3"
+    "status": 1,
+    "description": "🆕 Wiojelt 16.09.2026 Depodan kurtarıldı."
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.org&sz=128",
@@ -3605,19 +3098,10 @@
     "name": "DiziBoxAlternatif",
     "internalName": "DiziBoxAlternatif",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 10.09.2026 Dizi Box · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 38156,
+    "description": "🆕 Wiojelt 16.09.2026 Dizi Box · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 38317,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -3628,7 +3112,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-d5af17046b11403407c0a5896c0d3accafa56837802378decf5aba780116f23c",
+    "fileHash": "sha256-5036a26b04c9b38abec07ccd343c3056e9dfa93a4046f94595c08fb8a31ea107",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DiziBoxAlternatif.cs3"
   },
   {
@@ -3638,19 +3122,10 @@
     "name": "DiziFilmIzle",
     "internalName": "DiziFilmIzle",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 10.09.2026 DiziFilmİzle · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 58127,
+    "description": "🆕 Wiojelt 16.09.2026 DiziFilmİzle · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 58218,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -3661,7 +3136,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziFilmIzle.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-d2a7833f24cebcdb3fd6f5365038dc731757db9bcd86ecb541850eb65404ecee",
+    "fileHash": "sha256-fc02aec29c89e36b6b9fff21e3ecebbfa3a2e05e5462e5258bf2e3252fea72c5",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DiziFilmIzle.cs3"
   },
   {
@@ -3671,19 +3146,10 @@
     "name": "DiziRella",
     "internalName": "DiziRella",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 10.09.2026 DiziRella · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 58093,
+    "description": "🆕 Wiojelt 16.09.2026 DiziRella · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 58197,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -3694,7 +3160,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizirella.net&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-3d7411084e64e2e93a4dc5ed755f736cb76960d903cb9f0598683f9407af014e",
+    "fileHash": "sha256-fb748190d6d98d7c385f929c56cc81424134d48630b4a1f7770603ca1e1e524f",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DiziRella.cs3"
   },
   {
@@ -3704,19 +3170,10 @@
     "name": "FilmIzzle",
     "internalName": "FilmIzzle",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 10.09.2026 FilmIzzle · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 58106,
+    "description": "🆕 Wiojelt 16.09.2026 FilmIzzle · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 58235,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -3727,7 +3184,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmizzle.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-b6f03cab70cc50d04eda4e8ec95302ab819edb290ba758c36a2df54d76cec219",
+    "fileHash": "sha256-689f616f6bef68caa328c8f4e7331908c764385be2180926d0cbba2e0cae2b0c",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/FilmIzzle.cs3"
   },
   {
@@ -3737,19 +3194,10 @@
     "name": "FlixNetwork",
     "internalName": "FlixNetwork",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 10.09.2026 Flix Network · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 32838,
+    "description": "🆕 Wiojelt 16.09.2026 Flix Network · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 33000,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -3760,41 +3208,18 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=flixnetwork.is&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-7e58f0b4e3ffca84c5c8e7777e66b98aaa66469d521f70dd3b9b486eb4dee8a8",
+    "fileHash": "sha256-ce07999d9c58a1308b2a6daf63426f8275bc85b0896dff8fb75f472131fcd4cd",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/FlixNetwork.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/HDFilmCehennemiAlternatif.cs3",
-    "status": 3,
-    "version": 8,
     "name": "HDFilmCehennemiAlternatif",
     "internalName": "HDFilmCehennemiAlternatif",
-    "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
-    ],
-    "description": "🆕 Wiojelt 10.09.2026 H D Film Cehennemi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 45133,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/HDFilmCehennemiAlternatif.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/HDFilmCehennemiAlternatif.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/HDFilmCehennemiAlternatif.ico",
-    "apiVersion": 1,
-    "fileHash": "sha256-f493d81530786d3b6033960366ea8357f6caf8abbf3446142ea77cea49e766f0",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/HDFilmCehennemiAlternatif.cs3"
+    "status": 1,
+    "description": "🆕 Wiojelt 16.09.2026 Depodan kurtarıldı."
   },
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/HDFilmizleBest.cs3",
@@ -3803,19 +3228,10 @@
     "name": "HDFilmizleBest",
     "internalName": "HDFilmizleBest",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 10.09.2026 H D Filmizle Best · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 35801,
+    "description": "🆕 Wiojelt 16.09.2026 H D Filmizle Best · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 35962,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -3826,7 +3242,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmizle.best&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-0efe03a5df80727e7cc32a8fb8d3cc05c1a53ec9e19a95491b1d2259e2659218",
+    "fileHash": "sha256-1bf8a5e6ef49e4caac3605498f6cf3e54f398526cdc4820e395ba9199b373de0",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/HDFilmizleBest.cs3"
   },
   {
@@ -3836,19 +3252,10 @@
     "name": "HDFilmIzleInk",
     "internalName": "HDFilmIzleInk",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 10.09.2026 HDFilmİzle Ink · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 53619,
+    "description": "🆕 Wiojelt 16.09.2026 HDFilmİzle Ink · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 53759,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -3859,7 +3266,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.ink&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-8b0fec811d3479300a339154138bab9292639d4286fc735736ad11f85bf27c6e",
+    "fileHash": "sha256-2bed140ed34cfd054f2e8263bfcd9280b92fe41002a0cd21a066b357dbc01035",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/HDFilmIzleInk.cs3"
   },
   {
@@ -3869,19 +3276,10 @@
     "name": "HDFilmIzleVip",
     "internalName": "HDFilmIzleVip",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 10.09.2026 HDFilmİzle Vip · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 53617,
+    "description": "🆕 Wiojelt 16.09.2026 HDFilmİzle Vip · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 53765,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -3892,41 +3290,18 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.vip&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-e99ae928837cf488f548880088fce082c46fd13d8a78363408febce8e7b99837",
+    "fileHash": "sha256-ca95aa57baf498cfc4f3056388a51a1d806160a218167b44adc9c309ef4a5474",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/HDFilmIzleVip.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/InternetArchive.cs3",
-    "status": 3,
-    "version": 7,
     "name": "InternetArchive",
     "internalName": "InternetArchive",
-    "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
-    ],
-    "description": "🆕 Wiojelt 10.09.2026 Internet Archive · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 29407,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/InternetArchive.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/InternetArchive.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=archive.org&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-e4e763ea592db16f70af00f0a27be4d9b431f7dfe5b0eb0c107d85a63ce8e28a",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/InternetArchive.cs3"
+    "status": 1,
+    "description": "🆕 Wiojelt 16.09.2026 Depodan kurtarıldı."
   },
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/LiderFilmIzle.cs3",
@@ -3935,19 +3310,10 @@
     "name": "LiderFilmIzle",
     "internalName": "LiderFilmIzle",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 10.09.2026 LiderFilmİzle · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 58135,
+    "description": "🆕 Wiojelt 16.09.2026 LiderFilmİzle · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 58223,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -3958,7 +3324,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=liderfilmizle.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-02a1a0c35d99795afc4f3cd9690e816d7d0b6d2aa3ac94ea46875fb20d6c177f",
+    "fileHash": "sha256-8755ddac38e6e3f7c2a0a0b9c9ca653bbbb561eae7c7652013ded4b14e30f1b6",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/LiderFilmIzle.cs3"
   },
   {
@@ -3968,9 +3334,9 @@
     "name": "MovieBoxProvider",
     "internalName": "MovieBoxProvider",
     "authors": [
-      "NivinCNC"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 10.09.2026 CNCVerse kaynaklı MovieBoxProvider paketi · izinli harici derleme",
+    "description": "🆕 Wiojelt 16.09.2026 CNCVerse kaynaklı MovieBoxProvider paketi · izinli harici derleme",
     "fileSize": 82602,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "en",
@@ -3991,19 +3357,10 @@
     "name": "NetFilmizle",
     "internalName": "NetFilmizle",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 10.09.2026 Net Filmizle · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 45739,
+    "description": "🆕 Wiojelt 16.09.2026 Net Filmizle · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 45901,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -4014,7 +3371,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=netfilmizle.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-1f562dc50f88de1a3c9b0982def32e486a544b983d0644d1d55a751bca457f8b",
+    "fileHash": "sha256-055690b23d78b32b8971978ff934e094036c7aa6946d26155d9d011f60300675",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/NetFilmizle.cs3"
   },
   {
@@ -4024,19 +3381,10 @@
     "name": "Sinemakolik",
     "internalName": "Sinemakolik",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 10.09.2026 Sinemakolik · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 44207,
+    "description": "🆕 Wiojelt 16.09.2026 Sinemakolik · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 44316,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -4047,7 +3395,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=sinemakolik.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-eaeec0537f9a32c5199e3feb318294d8a62d86d477b0c410564a9c965eaa626b",
+    "fileHash": "sha256-66ccb71dc5ba81f04965866fffae1fdd4679bd28e29a0f5e847385883be30bfe",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Sinemakolik.cs3"
   },
   {
@@ -4057,19 +3405,10 @@
     "name": "TrDiziIzle",
     "internalName": "TrDiziIzle",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 10.09.2026 TrDiziİzle · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 58106,
+    "description": "🆕 Wiojelt 16.09.2026 TrDiziİzle · TurkSinema ayrı sağlayıcı paketi",
+    "fileSize": 58207,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -4080,7 +3419,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=trdiziizle.tv&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-9833cc880f76153f13f337dab355df610d6540cc7e4b88c6e828a85ed0a90872",
+    "fileHash": "sha256-7629fab8ff1471e749cefad6b11e979dc1fd4b395ce12f88f5da6b163c7d9f88",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TrDiziIzle.cs3"
   },
   {
@@ -4134,18 +3473,9 @@
     "name": "Deokwave",
     "internalName": "Deokwave",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 13.09.2026 Deokwave · TurkSinema ayrı sağlayıcı paketi (4K Ultra HD & Anime)",
+    "description": "🆕 Wiojelt 16.09.2026 Deokwave · TurkSinema ayrı sağlayıcı paketi (4K Ultra HD & Anime)",
     "fileSize": 45565,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
@@ -4166,18 +3496,9 @@
     "name": "SinemaGG",
     "internalName": "SinemaGG",
     "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
+      "Wiojelt"
     ],
-    "description": "🆕 Wiojelt 13.09.2026 SinemaGG · TurkSinema ayrı sağlayıcı paketi",
+    "description": "🆕 Wiojelt 16.09.2026 SinemaGG · TurkSinema ayrı sağlayıcı paketi",
     "fileSize": 31356,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
@@ -4201,8 +3522,8 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🔴 Wiojelt 15.09.2026 TurkSinema'ya destek ol ☕ · @wiojelt · made with ♥",
-    "fileSize": 1657372,
+    "description": "🆕 Wiojelt 16.09.2026 TurkSinema'ya destek ol ☕ · @wiojelt · made with ♥",
+    "fileSize": 4416,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -4214,25 +3535,14 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSinemaDestek.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/WioIPTVPanels.cs3",
-    "status": 3,
-    "version": 1,
     "name": "WioIPTVPanels",
     "internalName": "WioIPTVPanels",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "🆕 Wiojelt 14.09.2026 Tüm Türk Ulusal, Türk Spor ve Dünya Spor Kanalları (Eagle, 8kGold, Spor 20x, World Sport çoklu yayın alternatifleri ve panel kontrol arayüzü)",
-    "fileSize": 38811,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/WioIPTVPanels.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/WioIPTVPanels.cs3",
     "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-617b3f6f3aceee40f73faefa50bab66e29eddc11460b46955a705fd921f178de",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/WioIPTVPanels.cs3"
+    "status": 1,
+    "description": "🆕 Wiojelt 16.09.2026 Depodan kurtarıldı."
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=animeav1.com",
@@ -4250,7 +3560,7 @@
     ],
     "version": 1,
     "internalName": "AnimeAV",
-    "description": "🆕 lepotane 15.09.2026 Disfruta de los últimos episodios y animes agregados en HD y Sub Español. Miles de series, películas y OVAs disponibles para ver online totalmente gratis.",
+    "description": "🆕 lepotane 16.09.2026 Disfruta de los últimos episodios y animes agregados en HD y Sub Español. Miles de series, películas y OVAs disponibles para ver online totalmente gratis.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeAV.cs3",
     "name": "AnimeAV",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeAV.cs3"
@@ -4272,7 +3582,7 @@
     ],
     "version": 1,
     "internalName": "Animejara",
-    "description": "🆕 lepotane 15.09.2026 Ver anime online, subtitulado y/o doblado al español latino HD y completamente gratis. Aquí podrás ver y descargar todas tus series preferidas sin anuncios.",
+    "description": "🆕 lepotane 16.09.2026 Ver anime online, subtitulado y/o doblado al español latino HD y completamente gratis. Aquí podrás ver y descargar todas tus series preferidas sin anuncios.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Animejara.cs3",
     "name": "Animejara",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Animejara.cs3"
@@ -4293,7 +3603,7 @@
     ],
     "version": 1,
     "internalName": "AnimeWorld",
-    "description": "🆕 lepotane 15.09.2026 Scopri il nostro Archivio di Anime in Streaming Sub ITA e ITA. Guarda in Streaming o effettua il Download di migliaia di serie animate sempre aggiornate e in alta qualità, disponibili su PC, console, tablet, smartphone ed altri dispositivi.",
+    "description": "🆕 lepotane 16.09.2026 Scopri il nostro Archivio di Anime in Streaming Sub ITA e ITA. Guarda in Streaming o effettua il Download di migliaia di serie animate sempre aggiornate e in alta qualità, disponibili su PC, console, tablet, smartphone ed altri dispositivi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeWorld.cs3",
     "name": "AnimeWorld",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeWorld.cs3"
@@ -4314,7 +3624,7 @@
     ],
     "version": 1,
     "internalName": "AnimeYTX",
-    "description": "🆕 lepotane 15.09.2026 Únete a la familia de AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido más popular de la animación japonesa.",
+    "description": "🆕 lepotane 16.09.2026 Únete a la familia de AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido más popular de la animación japonesa.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeYTX.cs3",
     "name": "AnimeYTX",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeYTX.cs3"
@@ -4335,31 +3645,20 @@
     ],
     "version": 1,
     "internalName": "BirAsyaDizi",
-    "description": "🆕 lepotane 15.09.2026 Asya'nın En Ünlü Dizilerini en yüksek çözünürlükte HD ve kesintisiz izleyin, kaliteli Asya film ve dizilerinin keyfini sürün.",
+    "description": "🆕 lepotane 16.09.2026 Asya'nın En Ünlü Dizilerini en yüksek çözünürlükte HD ve kesintisiz izleyin, kaliteli Asya film ve dizilerinin keyfini sürün.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/BirAsyaDizi.cs3",
     "name": "BirAsyaDizi",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/BirAsyaDizi.cs3"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=diziwatch.ac",
-    "fileHash": "sha256-38e51bd3a58704fdbb54328cd018041b1b62f6a850a59b5408346b3c95c82a25",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 20865,
-    "status": 0,
-    "language": "tr",
-    "authors": [
-      "MRC"
-    ],
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "version": 3,
-    "internalName": "DiziWatch",
-    "description": "🔴 lepotane 15.09.2026 Yabancı dizi izleme keyfi (MRC)",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziWatch.cs3",
     "name": "DiziWatch",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziWatch.cs3"
+    "internalName": "DiziWatch",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziWatch.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziWatch.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 lepotane 16.09.2026 Depodan kurtarıldı."
   },
   {
     "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://documentaryarea.com&size=128",
@@ -4377,52 +3676,30 @@
     ],
     "version": 1,
     "internalName": "DocumentaryArea",
-    "description": "🆕 lepotane 15.09.2026 Watch the best online documentary films.Stunning collection of awesome, eyeopening, interesting, just released, full documentaries.",
+    "description": "🆕 lepotane 16.09.2026 Watch the best online documentary films.Stunning collection of awesome, eyeopening, interesting, just released, full documentaries.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DocumentaryArea.cs3",
     "name": "DocumentaryArea",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DocumentaryArea.cs3"
   },
   {
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmizyon.com/&size=64",
-    "fileHash": "sha256-f80c5a16edf3872e4f61ffc92762c804a1c104c5805da7f84e9f2d791dfebe29",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 12468,
-    "status": 0,
-    "language": "tr",
-    "authors": [
-      "MRC"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 2,
-    "internalName": "FilmIzyon",
-    "description": "🔴 lepotane 15.09.2026 Yerli ve yabancı ödüllü tüm filmleri Türkçe Dublaj veya Orjinal dilde izleyebileceğiniz Türkiye'nin en kaliteli film izleme platformuna hoşgeldiniz.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FilmIzyon.cs3",
     "name": "FilmIzyon",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FilmIzyon.cs3"
+    "internalName": "FilmIzyon",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FilmIzyon.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FilmIzyon.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 lepotane 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=fullhdizle.one",
-    "fileHash": "sha256-25e9e3994bb817dd285077ce544454ecbc675ecd683ebf2bbf239c6c3df435b0",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 18507,
-    "status": 0,
-    "language": "tr",
-    "authors": [
-      "MRC"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 4,
-    "internalName": "FullHDIzle",
-    "description": "🔴 lepotane 15.09.2026 Full HD film izleme keyfi (MRC)",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FullHDIzle.cs3",
     "name": "FullHDIzle",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FullHDIzle.cs3"
+    "internalName": "FullHDIzle",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FullHDIzle.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FullHDIzle.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 lepotane 16.09.2026 Depodan kurtarıldı."
   },
   {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinefy3.com/&size=128",
@@ -4441,7 +3718,7 @@
     ],
     "version": 1,
     "internalName": "Sinefy",
-    "description": "🆕 lepotane 15.09.2026 Yabancı film izle olarak vizyondaki en yeni yabancı filmleri türkçe dublaj ve altyazılı olarak en hızlı şekilde full hd olarak sizlere sunuyoruz.",
+    "description": "🆕 lepotane 16.09.2026 Yabancı film izle olarak vizyondaki en yeni yabancı filmleri türkçe dublaj ve altyazılı olarak en hızlı şekilde full hd olarak sizlere sunuyoruz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Sinefy.cs3",
     "name": "Sinefy",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Sinefy.cs3"
@@ -4462,7 +3739,7 @@
     ],
     "version": 1,
     "internalName": "Supercartoons",
-    "description": "🆕 lepotane 15.09.2026 Watch Cartoons Online. Here you can Watch old Classical Cartoons like Bugs Bunny, Mickey Mouse, Pink Panther, Tom and Jerry and Many Many More!",
+    "description": "🆕 lepotane 16.09.2026 Watch Cartoons Online. Here you can Watch old Classical Cartoons like Bugs Bunny, Mickey Mouse, Pink Panther, Tom and Jerry and Many Many More!",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Supercartoons.cs3",
     "name": "Supercartoons",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Supercartoons.cs3"
@@ -4483,7 +3760,7 @@
     ],
     "version": 1,
     "internalName": "YoTurkish",
-    "description": "🆕 lepotane 15.09.2026 YoTurkish - is the most favorite website for watching turkish series with english subtitles for free online, only at yoturkish.to",
+    "description": "🆕 lepotane 16.09.2026 YoTurkish - is the most favorite website for watching turkish series with english subtitles for free online, only at yoturkish.to",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/YoTurkish.cs3",
     "name": "YoTurkish",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/YoTurkish.cs3"
@@ -4497,7 +3774,7 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🔴 Wiojelt 16.09.2026 TMDB v3 Türkçe katalog (23 ayrıştırılmış kategori), Ultra HD afişler, ClipBox/CineStream direkt TMDB motoru ve 68 sağlayıcıyı (Anizium & Deokwave 4K dahil) tek çatı altında toplayan birleşik sinema ve dizi eklentisi.",
+    "description": "🆕 Wiojelt 16.09.2026 TMDB v3 Türkçe katalog (23 ayrıştırılmış kategori), Ultra HD afişler, ClipBox/CineStream direkt TMDB motoru ve 68 sağlayıcıyı (Anizium & Deokwave 4K dahil) tek çatı altında toplayan birleşik sinema ve dizi eklentisi.",
     "fileSize": 1885359,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
@@ -4522,7 +3799,7 @@
     "authors": [
       "Wiojelt"
     ],
-    "description": "🔴 Wiojelt 16.09.2026 Tüm canlı TV ve spor kanalları tek eklentide. Renk grupları ve alternatif yayın kaynakları.",
+    "description": "🆕 Wiojelt 16.09.2026 Tüm canlı TV ve spor kanalları tek eklentide. Renk grupları ve alternatif yayın kaynakları.",
     "fileSize": 523766,
     "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
     "language": "tr",
@@ -4538,7 +3815,7 @@
     "name": "v10 Spor",
     "internalName": "BirdirbirIPTV",
     "version": 1,
-    "description": "🆕 Wiojelt 15.09.2026 v10 Spor / IPTV - Türk Spor (beIN, S Sport, Tivibu), Ulusal, Haber ve Dünya Spor Kanalları",
+    "description": "🆕 Wiojelt 16.09.2026 v10 Spor / IPTV - Türk Spor (beIN, S Sport, Tivibu), Ulusal, Haber ve Dünya Spor Kanalları",
     "authors": [
       "Wiojelt"
     ],
@@ -4550,8 +3827,8 @@
     ],
     "language": "tr",
     "status": 3,
-    "fileSize": 45437,
-    "fileHash": "sha256-88d53b796e2393846da36f08fca974d1ef071cd2b2e4b7d3e65b72d57bf29170",
+    "fileSize": 68841,
+    "fileHash": "sha256-0546e199b22f28a305aea257e0780f687d47c4f77ccd00040f495f78536b11c8",
     "apiVersion": 1,
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/BirdirbirIPTV.cs3"
   },
@@ -4559,7 +3836,7 @@
     "name": "TurkSinema",
     "internalName": "TurkSinema",
     "version": 14,
-    "description": "🔴 Wiojelt 16.09.2026 Tek pakette 59 Türkçe film, dizi, anime ve belgesel sağlayıcısı.",
+    "description": "🆕 Wiojelt 16.09.2026 Tek pakette 59 Türkçe film, dizi, anime ve belgesel sağlayıcısı.",
     "authors": [
       "Wiojelt"
     ],
@@ -5072,60 +4349,32 @@
   {
     "name": "Vidmody",
     "internalName": "Vidmody",
-    "version": "3",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/MoOnCrOwN/Vidmody.cs3",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/MoOnCrOwN/Vidmody.cs3",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/mooncrown/Vidmody.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/mooncrown/Vidmody.cs3",
     "language": "tr",
-    "authors": [
-      "mooncrown"
-    ],
-    "tvTypes": [],
-    "iconUrl": "",
     "status": 1,
-    "description": "🆕 MoOnCrOwN DePo 16.09.2026 Depodan yüklenen eklenti."
+    "description": "🆕 mooncrown 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.atv.com.tr&sz=%size%",
-    "fileHash": "sha256-a860c12fa1dba282d9f7d3217690a4916401db8030f430e0309cd7a724548a10",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 25245,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "MRC"
-    ],
-    "tvTypes": [
-      "TvSeries",
-      "Live"
-    ],
-    "version": 1,
-    "internalName": "Atv",
-    "description": "🆕 lepotane 16.09.2026 ATV dizileri, programları ve canlı yayın.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Atv.cs3",
     "name": "Atv",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Atv.cs3"
+    "internalName": "Atv",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Atv.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Atv.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 lepotane 16.09.2026 Depodan kurtarıldı."
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi2.biz&sz=%size%",
-    "fileHash": "sha256-0a0a67d3d0524593c5dbff121a2ff2f86db1dce7c2ad178d6cf8fc0b5987e05f",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 26337,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "MRC"
-    ],
-    "tvTypes": [
-      "Movie"
-    ],
-    "version": 1,
-    "internalName": "HdFilmCehennemi2",
-    "description": "🆕 lepotane 16.09.2026 HdFilmCehennemi2 - Alternatif yüksek kalitede film izleme sitesi.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/HdFilmCehennemi2.cs3",
     "name": "HdFilmCehennemi2",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/HdFilmCehennemi2.cs3"
+    "internalName": "HdFilmCehennemi2",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/HdFilmCehennemi2.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/HdFilmCehennemi2.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 lepotane 16.09.2026 Depodan kurtarıldı."
   },
   {
     "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
@@ -5218,26 +4467,14 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Showtv.cs3"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.startv.com.tr&sz=%size%",
-    "fileHash": "sha256-97cfa6ef0d315f5a58324a8755701ed7a8d5ac30e48809a6e21d941b35c6acdd",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 30116,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "MRC"
-    ],
-    "tvTypes": [
-      "TvSeries",
-      "Live"
-    ],
-    "version": 1,
-    "internalName": "Startv",
-    "description": "🆕 lepotane 16.09.2026 Star TV dizileri, programları ve canlı yayın.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Startv.cs3",
     "name": "Startv",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Startv.cs3"
+    "internalName": "Startv",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Startv.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Startv.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 lepotane 16.09.2026 Depodan kurtarıldı."
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=%size%",
@@ -5284,26 +4521,14 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Tv8.cs3"
   },
   {
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ultrafilmizle.org/&size=128",
-    "fileHash": "sha256-82198996863da393e3b279da57bae8adad970e3cc9ba6884f1c727133a109ebd",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 19062,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "MRC"
-    ],
-    "tvTypes": [
-      "Movie",
-      "AsianDrama"
-    ],
-    "version": 1,
-    "internalName": "UltraFilmizle",
-    "description": "🆕 lepotane 16.09.2026 UltraFilmizle - 1080p ve 4K yerli/yabancı film izleme.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/UltraFilmizle.cs3",
     "name": "UltraFilmizle",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/UltraFilmizle.cs3"
+    "internalName": "UltraFilmizle",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/UltraFilmizle.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/UltraFilmizle.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 lepotane 16.09.2026 Depodan kurtarıldı."
   },
   {
     "name": "CineCat",
