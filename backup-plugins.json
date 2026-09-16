@@ -4,7 +4,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/patr0nq/cstestAddons",
     "fileSize": 25603,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "patr0n"
@@ -12,7 +12,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "YTPatron",
     "description": "🆕 patr0nq 03.04.2026 ",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/YTPatron.cs3",
@@ -23,7 +23,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 26299,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -31,7 +31,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "AnimeciX",
     "description": "🔴 lepotane 16.09.2026 AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeciX.cs3",
@@ -42,7 +42,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 30860,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -50,7 +50,7 @@
     "tvTypes": [
       "Documentary"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "BelgeselX",
     "description": "🔴 lepotane 16.09.2026 En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/BelgeselX.cs3",
@@ -61,7 +61,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "fileSize": 20480,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Adippe",
@@ -70,7 +70,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 10,
+    "version": "10",
     "internalName": "CanliTV",
     "description": "🔴 feroxx 15.09.2026 Canlı TV",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/CanliTV.cs3",
@@ -81,7 +81,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 35177,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -91,7 +91,7 @@
       "Anime",
       "Movie"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "CizgiMax",
     "description": "🔴 lepotane 16.09.2026 ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/CizgiMax.cs3",
@@ -102,7 +102,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 25559,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -110,7 +110,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 4,
+    "version": "4",
     "internalName": "DDizi",
     "description": "🔴 lepotane 16.09.2026 DDizi.im için Cloudstream eklentisi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DDizi.cs3",
@@ -121,7 +121,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 25223,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -129,7 +129,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 5,
+    "version": "5",
     "internalName": "DiziBox",
     "description": "🔴 lepotane 16.09.2026 Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site..",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziBox.cs3",
@@ -140,7 +140,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 23452,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -148,7 +148,7 @@
     "tvTypes": [
       "AsianDrama"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "DiziKorea",
     "description": "🔴 lepotane 16.09.2026 En Güncel Kore Dizileri izleme Sitesi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziKorea.cs3",
@@ -159,7 +159,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "fileSize": 36123,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "keyiflerolsun"
@@ -167,7 +167,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 92,
+    "version": "92",
     "internalName": "Dizilla",
     "description": "🔴 feroxx 16.09.2026 Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/Dizilla.cs3",
@@ -178,7 +178,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
     "fileSize": 26748,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "blackhope01"
@@ -187,7 +187,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 4,
+    "version": "4",
     "internalName": "DiziMom",
     "description": "🔴 blackhope01 16.09.2026 Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DiziMom.cs3",
@@ -198,7 +198,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 25266,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -207,7 +207,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 3,
+    "version": "3",
     "internalName": "DiziPal",
     "description": "🔴 lepotane 16.09.2026 DiziPal - Güncel domain ile yabancı dizi ve filmleri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziPal.cs3",
@@ -218,7 +218,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 17871,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -226,7 +226,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 6,
+    "version": "6",
     "internalName": "DiziYou",
     "description": "🔴 lepotane 16.09.2026 Diziyou - Kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziYou.cs3",
@@ -237,7 +237,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/patr0nq/patr0n-cs",
     "fileSize": 15971,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "keyiflerolsun"
@@ -245,7 +245,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 11,
+    "version": "11",
     "internalName": "FilmBip",
     "description": "🆕 patr0nq 16.09.2026 Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Filmbip heryerde seninle!",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/FilmBip.cs3",
@@ -256,7 +256,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
     "fileSize": 35734,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "blackhope01"
@@ -265,7 +265,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 2,
+    "version": "2",
     "internalName": "FilmMakinesi",
     "description": "🔴 blackhope01 16.09.2026 Film Makinesi ile en yeni ve güncel filmleri Full HD kalite farkı ile izleyebilirsiniz. Film izle denildiğinde akla gelen en kaliteli film sitesi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/FilmMakinesi.cs3",
@@ -276,7 +276,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 18856,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -284,7 +284,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 2,
+    "version": "2",
     "internalName": "FilmModu",
     "description": "🔴 lepotane 16.09.2026 1080p film izleme keyfi (MRC)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FilmModu.cs3",
@@ -295,7 +295,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "fileSize": 28171,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "keyiflerolsun"
@@ -304,7 +304,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 36,
+    "version": "36",
     "internalName": "FullHDFilm",
     "description": "🔴 feroxx 16.09.2026 Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/FullHDFilm.cs3",
@@ -315,7 +315,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "fileSize": 40117,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "keyiflerolsun"
@@ -323,7 +323,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 33,
+    "version": "33",
     "internalName": "FullHDFilmizlesene",
     "description": "🔴 feroxx 16.09.2026 Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/FullHDFilmizlesene.cs3",
@@ -334,7 +334,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 31037,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -343,7 +343,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 6,
+    "version": "6",
     "internalName": "HDFilmCehennemi",
     "description": "🔴 lepotane 16.09.2026 Türkiye'nin en hızlı HD film izleme sitesi (MRC)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/HDFilmCehennemi.cs3",
@@ -354,7 +354,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "fileSize": 36900,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "JustRelaxable",
@@ -365,7 +365,7 @@
       "TvSeries",
       "Live"
     ],
-    "version": 30,
+    "version": "30",
     "internalName": "InatBox",
     "description": "🔴 feroxx 16.09.2026 İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/InatBox.cs3",
@@ -376,7 +376,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
     "fileSize": 41722,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "blackhope01"
@@ -385,7 +385,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "JetFilmizle",
     "description": "🔴 blackhope01 16.09.2026 En yeni yerli ve yabancı yapımları Full HD kalitede film izle. Türkçe dublaj ve altyazı seçenekleriyle sunulan ödüllü sinema eserlerini JetFilmizle hızıyla keşfedin.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/JetFilmizle.cs3",
@@ -396,7 +396,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/patr0nq/patr0n-cs",
     "fileSize": 13072,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "keyiflerolsun"
@@ -404,7 +404,7 @@
     "tvTypes": [
       "AsianDrama"
     ],
-    "version": 7,
+    "version": "7",
     "internalName": "KoreanTurk",
     "description": "🆕 patr0nq 16.09.2026 Güney Kore sevdalılarının vazgeçemediği ve Türkiye'nin en çok ziyaret edilen Güney Kore Portalı; Koreantürk'e hoşgeldiniz!",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/KoreanTurk.cs3",
@@ -415,7 +415,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 19703,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -424,7 +424,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 2,
+    "version": "2",
     "internalName": "KultFilmler",
     "description": "🔴 lepotane 16.09.2026 Seçkin kült film ve dizi arşivi (MRC)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/KultFilmler.cs3",
@@ -435,7 +435,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/patr0nq/patr0n-cs",
     "fileSize": 45128,
-    "status": 1,
+    "status": "1",
     "language": "hi",
     "authors": [
       "Horis, megix",
@@ -445,7 +445,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 32,
+    "version": "32",
     "internalName": "NetflixMirror",
     "description": "🆕 patr0nq 16.09.2026 Netflix, PrimeVideo Content in Multiple Languages",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/NetflixMirror.cs3",
@@ -456,7 +456,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/patr0nq/patr0n-cs",
     "fileSize": 15363,
-    "status": 1,
+    "status": "1",
     "language": "en",
     "authors": [
       "keyiflerolsun"
@@ -464,7 +464,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 3,
+    "version": "3",
     "internalName": "RareFilmm",
     "description": "🔴 patr0nq 16.09.2026 The Cave of Forgotten Films",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/RareFilmm.cs3",
@@ -475,7 +475,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
     "fileSize": 28846,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "keyiflerolsun",
@@ -489,7 +489,7 @@
       "Live",
       "TvSeries"
     ],
-    "version": 113,
+    "version": "113",
     "internalName": "RecTV",
     "description": "🔴 feroxx 16.09.2026 RecTv APK, Türkiye'deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/RecTV.cs3",
@@ -500,7 +500,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "fileSize": 24635,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "keyiflerolsun"
@@ -509,7 +509,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 30,
+    "version": "30",
     "internalName": "SetFilmIzle",
     "description": "🔴 feroxx 16.09.2026 Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/SetFilmIzle.cs3",
@@ -520,7 +520,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
     "fileSize": 31821,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "blackhope01"
@@ -528,7 +528,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "SezonlukDizi",
     "description": "🔴 blackhope01 16.09.2026 Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/SezonlukDizi.cs3",
@@ -539,7 +539,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 16944,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -547,7 +547,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 3,
+    "version": "3",
     "internalName": "SinemaCX",
     "description": "🔴 lepotane 16.09.2026 Türkçe dublaj HD yabancı filmler (MRC)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/SinemaCX.cs3",
@@ -558,7 +558,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/patr0nq/patr0n-cs",
     "fileSize": 19882,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "keyiflerolsun"
@@ -566,7 +566,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 22,
+    "version": "22",
     "internalName": "SuperFilmGeldi",
     "description": "🆕 patr0nq 16.09.2026 Hd film izliyerek arkadaşlarınızla ve sevdiklerinizle iyi bir vakit geçirmek istiyorsanız açın bir film eğlenmeye bakın. Bilim kurgu filmleri, aşk drama vahşet aşk romantik sıradışı korku filmlerini izle.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/SuperFilmGeldi.cs3",
@@ -577,7 +577,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/patr0nq/patr0n-cs",
     "fileSize": 14080,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "keyiflerolsun"
@@ -585,7 +585,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 19,
+    "version": "19",
     "internalName": "TLCtr",
     "description": "🔴 patr0nq 16.09.2026 TLC tr",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/TLCtr.cs3",
@@ -596,7 +596,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "fileSize": 16863,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "keyiflerolsun",
@@ -605,7 +605,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 19,
+    "version": "19",
     "internalName": "TRanimaci",
     "description": "🔴 feroxx 16.09.2026 TRanimeci - Türkiye'nin Online Anime izleme sitesi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/TRanimaci.cs3",
@@ -616,7 +616,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 24477,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -624,7 +624,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 3,
+    "version": "3",
     "internalName": "TRasyalog",
     "description": "🔴 lepotane 16.09.2026 TRasyalog izleme sitesi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/TRasyalog.cs3",
@@ -635,7 +635,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 22715,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -643,7 +643,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "TurkAnime",
     "description": "🔴 lepotane 16.09.2026 Tranimeizle - Türkçe altyazılı anime izleme sitesi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/TurkAnime.cs3",
@@ -654,7 +654,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/patr0nq/patr0n-cs",
     "fileSize": 23781,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "keyiflerolsun"
@@ -662,7 +662,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 13,
+    "version": "13",
     "internalName": "UgurFilm",
     "description": "🆕 patr0nq 16.09.2026 Yabancı film izle, Türkçe dublaj ve Türkçe altyazılı film seçenekleriyle 720p ve 1080p HD kalitesinde film izle - Uğur Film full hd film izle.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/UgurFilm.cs3",
@@ -673,7 +673,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 24613,
-    "status": 1,
+    "status": "1",
     "language": "en",
     "authors": [
       "MRC"
@@ -682,7 +682,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "Watch2Movies",
     "description": "🔴 lepotane 16.09.2026 Movies2Watch is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Watch2Movies.cs3",
@@ -693,7 +693,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
     "fileSize": 28924,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "blackhope01"
@@ -702,7 +702,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "Webteizle",
     "description": "🔴 blackhope01 16.09.2026 Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/Webteizle.cs3",
@@ -713,7 +713,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 25822,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -724,7 +724,7 @@
       "Anime",
       "Documentary"
     ],
-    "version": 8,
+    "version": "8",
     "internalName": "AltiYuzAltmisAltiFilmIzle",
     "description": "🆕 Wiojelt 16.09.2026 Alti Yuz Altmis Alti Film Izle · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/AltiYuzAltmisAltiFilmIzle.cs3",
@@ -735,7 +735,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/patr0nq/patr0n-cs",
     "fileSize": 13845,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "patr0n"
@@ -743,7 +743,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "AsyaAnimeleri",
     "description": "🔴 patr0nq 16.09.2026 Asya Animeleri - Anime izle, Donghua izle, Türkçe Altyazılı Anime izle.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/AsyaAnimeleri.cs3",
@@ -754,7 +754,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "fileSize": 25009,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "keyiflerolsun",
@@ -764,7 +764,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 92,
+    "version": "92",
     "internalName": "DiziPalOriginal",
     "description": "🔴 feroxx 16.09.2026 en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/DiziPalOriginal.cs3",
@@ -775,7 +775,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 30468,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -785,7 +785,7 @@
       "TvSeries",
       "Anime"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "SineWix",
     "description": "🔴 lepotane 16.09.2026 SineWix | Film - Dizi - Anime İzleme Uygulaması",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/SineWix.cs3",
@@ -796,7 +796,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -813,7 +813,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 32284,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -822,7 +822,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "AsyaWatch",
     "description": "🆕 lepotane 16.09.2026 Asyawatch",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AsyaWatch.cs3",
@@ -833,7 +833,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -850,7 +850,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -867,7 +867,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 14143,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -876,7 +876,7 @@
       "Documentary",
       "Live"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "DMax",
     "description": "🔴 lepotane 16.09.2026 DMAX belgeselleri, programları ve canlı yayın.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DMax.cs3",
@@ -887,7 +887,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -904,7 +904,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -921,7 +921,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -938,7 +938,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -955,7 +955,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -972,7 +972,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -989,7 +989,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1006,7 +1006,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1023,7 +1023,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1040,7 +1040,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1057,7 +1057,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1074,7 +1074,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1091,7 +1091,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1108,7 +1108,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1125,7 +1125,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 61125,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -1136,7 +1136,7 @@
       "Anime",
       "Documentary"
     ],
-    "version": 7,
+    "version": "7",
     "internalName": "YabanciDizi",
     "description": "🆕 Wiojelt 16.09.2026 Yabanci Dizi · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/YabanciDizi.cs3",
@@ -1147,7 +1147,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1164,7 +1164,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1181,7 +1181,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1198,7 +1198,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1215,7 +1215,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/manitux-app/cs-plugins",
     "fileSize": 83474,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "manitux"
@@ -1225,7 +1225,7 @@
       "TvSeries",
       "Anime"
     ],
-    "version": 2,
+    "version": "2",
     "internalName": "WebDramaTurkey",
     "description": "🆕 manitux-app 16.09.2026 Kore dizisi izle, çin dizisi izle, japon dizisi izle, kore dizileri izle, kore filmleri, asya dizileri, çin filmleri, japon filmleri, bl dizi izle, asya dizisi izle, web drama izle.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/manitux-app/WebDramaTurkey.cs3",
@@ -1236,7 +1236,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1253,7 +1253,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1270,7 +1270,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1287,7 +1287,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1304,7 +1304,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/GitLatte/Sinetech",
     "fileSize": 26613,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "GitLatte",
@@ -1314,7 +1314,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 3,
+    "version": "3",
     "internalName": "KICK Türkiye - Latte",
     "description": "🆕 GitLatte 16.09.2026 Kick'teki Türkçe canlı yayınlar ve popüler yayıncıları canlı izleyin. Arayın, bulun  ve izlemeye devam edin.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/KICK Türkiye - Latte.cs3",
@@ -1325,7 +1325,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/GitLatte/Sinetech",
     "fileSize": 34237,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "GitLatte",
@@ -1335,7 +1335,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 6,
+    "version": "6",
     "internalName": "powerboard Dizi - Latte",
     "description": "🆕 GitLatte 16.09.2026 powerboard`un yabancı dizi arşivi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/powerboard Dizi - Latte.cs3",
@@ -1346,7 +1346,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/GitLatte/Sinetech",
     "fileSize": 29254,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "GitLatte",
@@ -1356,7 +1356,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 5,
+    "version": "5",
     "internalName": "powerboard Sinema - Latte",
     "description": "🆕 GitLatte 16.09.2026 powerboard`un sinema arşivi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/powerboard Sinema - Latte.cs3",
@@ -1367,7 +1367,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/caca1403/cloudstream-cagi-eklenti",
     "fileSize": 68224,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "caca1403"
@@ -1376,7 +1376,7 @@
       "Anime",
       "AnimeMovie"
     ],
-    "version": 48,
+    "version": "48",
     "internalName": "AnimeSiteleri",
     "description": "🔴 caca1403 14.07.2026 Anime Siteleri | AnimeciX ve OpenAnime arşivini tek çatı altında toplayan birleşik anime eklentisi.",
     "url": "https://raw.githubusercontent.com/caca1403/cloudstream-cagi-eklenti/main/dist/AnimeSiteleri-release.cs3?v=48",
@@ -1387,7 +1387,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/caca1403/cloudstream-cagi-eklenti",
     "fileSize": 42616,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "caca1403"
@@ -1395,7 +1395,7 @@
     "tvTypes": [
       "Documentary"
     ],
-    "version": 60,
+    "version": "60",
     "internalName": "BelgeselProvider",
     "description": "🔴 caca1403 30.07.2026 Belgesel | Dünyanın en göz alıcı belgeselleri, bilim, doğa ve tarih arşivini yüksek kalitede ekranınıza getiren modern keşif rehberiniz.",
     "url": "https://raw.githubusercontent.com/caca1403/cloudstream-cagi-eklenti/main/dist/BelgeselProvider-release.cs3?v=60",
@@ -1406,7 +1406,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/caca1403/cloudstream-cagi-eklenti",
     "fileSize": 65006,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "caca1403"
@@ -1415,7 +1415,7 @@
       "LiveStream",
       "TvSeries"
     ],
-    "version": 41,
+    "version": "41",
     "internalName": "TelevizyonEklentileri",
     "description": "🔴 caca1403 30.07.2026 Televizyon Eklentileri | Canlı TV yayınları ve eski yerli/yabancı dizi arşivini tek çatı altında toplayan birleşik televizyon eklentisi.",
     "url": "https://raw.githubusercontent.com/caca1403/cloudstream-cagi-eklenti/main/dist/TelevizyonEklentileri-release.cs3?v=41",
@@ -1426,7 +1426,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/caca1403/cloudstream-cagi-eklenti",
     "fileSize": 197581,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "caca1403"
@@ -1438,7 +1438,7 @@
       "AsianDrama",
       "Cartoon"
     ],
-    "version": 146,
+    "version": "146",
     "internalName": "DiziFilmSiteleri",
     "description": "🔴 caca1403 10.08.2026 Dizi & Film Siteleri | FilmMakinesi, DiziSol, DiziFilm, FilmizleCh, FullHDFilmizlesene, Kült Filmler, SezonlukDizi ve Sinewix arşivlerini tek çatı altında toplayan birleşik eklenti.",
     "url": "https://raw.githubusercontent.com/caca1403/cloudstream-cagi-eklenti/main/dist/DiziFilmSiteleri-release.cs3?v=146",
@@ -1449,7 +1449,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/caca1403/cloudstream-cagi-eklenti",
     "fileSize": 173094,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "caca1403"
@@ -1463,7 +1463,7 @@
       "Documentary",
       "Live"
     ],
-    "version": 150,
+    "version": "150",
     "internalName": "TopluDiziler",
     "description": "🔴 caca1403 10.08.2026 🎬 VizyonHub — Film, dizi, anime, belgesel ve canlı TV'yi tek çatı altında toplayan Türkiye'nin en kapsamlı izleme merkezi. 10+ kaynak (FilmMakinesi, SezonlukDizi, Dizipal, FullHDFilmizlesene, KültFilmler ve daha fazlası), TMDB haftalık trendleri, akıllı başlık eşleştirme ve otomatik kaynak bulucu sistemiyle donatılmış all-in-one eklenti.",
     "url": "https://raw.githubusercontent.com/caca1403/cloudstream-cagi-eklenti/main/dist/TopluDiziler-release.cs3?v=150",
@@ -1474,7 +1474,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ctnkyaumt/cstest",
     "fileSize": 156388,
-    "status": 1,
+    "status": "1",
     "language": "en",
     "authors": [
       "ctnkyaumt"
@@ -1483,7 +1483,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 14,
+    "version": "14",
     "internalName": "EnglishW",
     "description": "🆕 ctnkyaumt 16.09.2026 One search result (EnglishW); opening a title fans out to every English source and collects all links. Auto-subtitles included.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/EnglishW.cs3",
@@ -1494,7 +1494,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ctnkyaumt/cstest",
     "fileSize": 15162,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "byayzen"
@@ -1502,7 +1502,7 @@
     "tvTypes": [
       "Documentary"
     ],
-    "version": 5,
+    "version": "5",
     "internalName": "Filmmirasım",
     "description": "🆕 ctnkyaumt 16.09.2026 Kültür ve Turizm Bakanlığı, kültürel mirasımızın görsel belleğini oluşturan filmlerin muhafazası ve gelecek kuşaklara aktarılması amacıyla Sinema Genel Müdürlüğü bünyesinde oluşturduğu arşivdeki filmleri dijital ortama aktarmakta ve restore etmektedir. ",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/Filmmirasım.cs3",
@@ -1513,7 +1513,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ctnkyaumt/cstest",
     "fileSize": 416632,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "kraptor",
@@ -1528,7 +1528,7 @@
       "Anime",
       "Live"
     ],
-    "version": 39,
+    "version": "39",
     "internalName": "TurkishW",
     "description": "🆕 ctnkyaumt 16.09.2026 Tek arama sonucu (TurkishW); bir içeriğe girince tüm kaynaklardan linkleri toplar. Film, Dizi, Anime + Canlı TV.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/TurkishW.cs3",
@@ -1539,7 +1539,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
     "fileSize": 1024347,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "pltmustafa"
@@ -1549,7 +1549,7 @@
       "Movie",
       "Documentary"
     ],
-    "version": 58,
+    "version": "58",
     "internalName": "plt-stream",
     "description": "🔴 pltmustafa 16.09.2026 plt-stream - Birden fazla siteden içerik sağlayan bir eklenti",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/plt-stream.cs3",
@@ -1560,7 +1560,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
     "fileSize": 119510,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "pltmustafa"
@@ -1568,7 +1568,7 @@
     "tvTypes": [
       "All"
     ],
-    "version": 16,
+    "version": "16",
     "internalName": "Cloud-Sync",
     "description": "🆕 pltmustafa 16.09.2026 Cloud sync plugin for Cloudstream - syncs bookmarks, settings, extensions, watch history across devices",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/Cloud-Sync.cs3",
@@ -1579,7 +1579,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
     "fileSize": 77686,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "pltmustafa"
@@ -1587,7 +1587,7 @@
     "tvTypes": [
       "All"
     ],
-    "version": 8,
+    "version": "8",
     "internalName": "plt-party",
     "description": "🆕 pltmustafa 16.09.2026 plt-party - Sevdiklerinizle senkronize bir şekilde izlemenizi sağlar.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/plt-party.cs3",
@@ -1598,7 +1598,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/patr0nq/patr0n-cs",
     "fileSize": 18969,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "patr0n"
@@ -1609,7 +1609,7 @@
       "Anime",
       "Others"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "WebdramaTurkey2",
     "description": "🆕 patr0nq 16.09.2026 WebdramaTurkey2 İçerikleri",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/WebdramaTurkey2.cs3",
@@ -1620,7 +1620,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
     "fileSize": 45746,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "pltmustafa"
@@ -1628,7 +1628,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 5,
+    "version": "5",
     "internalName": "plt-tv",
     "description": "🆕 pltmustafa 16.09.2026 plt-tv - M3U/M3U8 çalma listeleri ve canlı TV yayınlarını oynatıcı eklentisi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/plt-tv.cs3",
@@ -1639,7 +1639,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1656,7 +1656,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1673,7 +1673,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1690,7 +1690,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 48916,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -1700,7 +1700,7 @@
       "AnimeMovie",
       "OVA"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "Anizium",
     "description": "🆕 Wiojelt 16.09.2026 Anizium · TurkSinema ayrı sağlayıcı paketi (4K & 2K Dublajlı Anime)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Anizium.cs3",
@@ -1711,7 +1711,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1728,7 +1728,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1745,7 +1745,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 65019,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -1755,7 +1755,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 7,
+    "version": "7",
     "internalName": "DiziAsya",
     "description": "🔴 Wiojelt 16.09.2026 DiziAsya · Kore, Japon ve Çin Dizileri & Asya Sineması (diziasya.com)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DiziAsya.cs3",
@@ -1766,7 +1766,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1783,7 +1783,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1800,7 +1800,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
     "fileSize": 17212,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "blackhope01"
@@ -1809,7 +1809,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 2,
+    "version": "2",
     "internalName": "DiziLife",
     "description": "🔴 blackhope01 16.09.2026 Dizi.life Türkçe dizi/film izleme platformu — yabancı diziler, yeni filmler, son bölümler.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DiziLife.cs3",
@@ -1820,7 +1820,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 47207,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -1828,7 +1828,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 4,
+    "version": "4",
     "internalName": "DiziPalOrijinal",
     "description": "🆕 lepotane 16.09.2026 DiziPal Orijinal.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziPalOrijinal.cs3",
@@ -1839,7 +1839,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "fileSize": 23522,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "patr0n"
@@ -1848,7 +1848,7 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 3,
+    "version": "3",
     "internalName": "DiziPod",
     "description": "🆕 feroxx 16.09.2026 Yabancı dizi ve film izleme platformu. Altyazılı yabancı dizi ve film izle.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/DiziPod.cs3",
@@ -1859,7 +1859,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
     "fileSize": 28760,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "blackhope01"
@@ -1868,7 +1868,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "DiziYo",
     "description": "🔴 blackhope01 16.09.2026 Yeni film, dizi, anime ve bölümleri keşfet; güncel trendleri, sıralamaları ve yayın takvimini incele.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DiziYo.cs3",
@@ -1879,7 +1879,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
     "fileSize": 32980,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "blackhope01"
@@ -1887,7 +1887,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 3,
+    "version": "3",
     "internalName": "DramaDizilerim",
     "description": "🔴 blackhope01 16.09.2026 En popüler NetShort, DramaBox, ReelShort ve FreeReels kısa dizilerini Türkçe dublaj ve altyazı seçenekleriyle Full HD kalitede ücretsiz ve reklamsız izleyin.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DramaDizilerim.cs3",
@@ -1898,7 +1898,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 39358,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -1907,7 +1907,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "FilmEkseni",
     "description": "🆕 lepotane 16.09.2026 Film Ekseni Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FilmEkseni.cs3",
@@ -1918,7 +1918,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/blackhope01/cloudstream-plugins",
     "fileSize": 22379,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "blackhope01"
@@ -1927,7 +1927,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "FilmHane",
     "description": "🆕 blackhope01 16.09.2026 Trend olan tüm yabancı yerli filmleri Hd ve 720p 1080p kalitesinde kesintisiz indirmeden izleyebilirsiniz, Online film sitemizde Türkçe dublaj olarak izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/FilmHane.cs3",
@@ -1938,7 +1938,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1955,7 +1955,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -1972,7 +1972,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
     "fileSize": 64395,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "patr0n"
@@ -1981,7 +1981,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "HDFilmDelisi",
     "description": "🔴 feroxx 16.09.2026 HD Film Delisi - Türkçe Filmler",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/HDFilmDelisi.cs3",
@@ -1992,7 +1992,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -2009,7 +2009,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -2026,7 +2026,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -2043,7 +2043,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -2060,7 +2060,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -2077,7 +2077,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -2094,7 +2094,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 56204,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -2103,7 +2103,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 4,
+    "version": "4",
     "internalName": "SelcukFlix",
     "description": "🔴 lepotane 16.09.2026 Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/SelcukFlix.cs3",
@@ -2114,7 +2114,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 17628,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -2122,7 +2122,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 3,
+    "version": "3",
     "internalName": "Sinezy",
     "description": "🆕 lepotane 16.09.2026 HD film izleme keyfi (MRC)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Sinezy.cs3",
@@ -2133,7 +2133,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -2150,7 +2150,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -2167,7 +2167,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -2184,7 +2184,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -2201,7 +2201,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/manitux-app/cs-plugins",
     "fileSize": 70750,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "manitux"
@@ -2209,7 +2209,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 2,
+    "version": "2",
     "internalName": "YesilcamTV",
     "description": "🔴 manitux-app 16.09.2026 YESILCAM TV",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/manitux-app/YesilcamTV.cs3",
@@ -2220,7 +2220,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -2237,7 +2237,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -2254,7 +2254,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/pltmustafa/plt-stream",
     "fileSize": 110054,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "pltmustafa"
@@ -2262,7 +2262,7 @@
     "tvTypes": [
       "All"
     ],
-    "version": 7,
+    "version": "7",
     "internalName": "trakt-sync",
     "description": "🔴 pltmustafa 16.09.2026 İzlenen içerikleri otomatik izlendi olarak işaretler ve izleme listesini senkronize eder.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/pltmustafa/trakt-sync.cs3",
@@ -2273,7 +2273,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 747595,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2284,7 +2284,7 @@
       "Anime",
       "Documentary"
     ],
-    "version": 7,
+    "version": "7",
     "internalName": "CineStream",
     "description": "🆕 Wiojelt 16.09.2026 CineStream · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CineStream.cs3",
@@ -2295,7 +2295,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/dcenhance/dcext",
     "fileSize": 6156982,
-    "status": 1,
+    "status": "1",
     "language": "en",
     "authors": [
       "DC Enhancements"
@@ -2303,7 +2303,7 @@
     "tvTypes": [
       "Others"
     ],
-    "version": 742,
+    "version": "742",
     "internalName": "CS3MProvider",
     "description": "🔴 dcenhance 06.09.2026 CloudStream customization with themes, player tools, and private Syncplay watch parties",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/dcenhance/CS3MProvider.cs3",
@@ -2317,7 +2317,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 79138,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2325,7 +2325,7 @@
     "tvTypes": [
       "Others"
     ],
-    "version": 3,
+    "version": "3",
     "internalName": "TurkSporDestek",
     "description": "🆕 Wiojelt 10.09.2026 TurkSpor’a destek ol ☕ · @wiojelt · made with ♥",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSporDestek.cs3",
@@ -2336,7 +2336,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 107336,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2344,7 +2344,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 11,
+    "version": "11",
     "internalName": "ArdaSpor",
     "description": "🆕 Wiojelt 16.09.2026 🟢 Kaynak: ArdaSpor · Emeği için teşekkürler ♥ · @wiojelt",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/ArdaSpor.cs3",
@@ -2355,7 +2355,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 180440,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2363,7 +2363,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 10,
+    "version": "10",
     "internalName": "AslanTV",
     "description": "🆕 Wiojelt 16.09.2026 🟢 Kaynak: Aslan TV · Derleme izni ve emeği için yapımcısına teşekkürler ♥ · @wiojelt · WARP gerekebilir.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/AslanTV.cs3",
@@ -2374,7 +2374,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 129009,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2382,7 +2382,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 2,
+    "version": "2",
     "internalName": "BetmatikTV",
     "description": "🆕 Wiojelt 16.09.2026 Betmatik TV canlı spor kanalları · otomatik alan güncelleme",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/BetmatikTV.cs3",
@@ -2393,7 +2393,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 129015,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2401,7 +2401,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 10,
+    "version": "10",
     "internalName": "BeyazElma",
     "description": "🆕 Wiojelt 16.09.2026 🟢 Kaynak: BeyazElma · Emeği için teşekkürler ♥ · @wiojelt",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/BeyazElma.cs3",
@@ -2412,7 +2412,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 107800,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2420,7 +2420,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 9,
+    "version": "9",
     "internalName": "Crex",
     "description": "🆕 Wiojelt 16.09.2026 🟢 Kaynak: Crex · Emeği için teşekkürler ♥ · @wiojelt",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Crex.cs3",
@@ -2431,7 +2431,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 79787,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2439,7 +2439,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 5,
+    "version": "5",
     "internalName": "DaddyLive",
     "description": "🆕 Wiojelt 16.09.2026 DaddyLive 7/24 spor kanalları, çoklu alan adı ve tokenlı oynatıcı desteği.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DaddyLive.cs3",
@@ -2450,7 +2450,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 92482,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2458,7 +2458,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 4,
+    "version": "4",
     "internalName": "DomatesTV",
     "description": "🆕 Wiojelt 16.09.2026 Domates TV dinamik spor kanalları",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DomatesTV.cs3",
@@ -2469,7 +2469,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 93019,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2477,7 +2477,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 4,
+    "version": "4",
     "internalName": "DominoTV",
     "description": "🆕 Wiojelt 16.09.2026 Domino TV 4.0 dinamik spor kanalları",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DominoTV.cs3",
@@ -2488,7 +2488,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 79340,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2496,7 +2496,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 3,
+    "version": "3",
     "internalName": "Hesgoal",
     "description": "🆕 Wiojelt 16.09.2026 Hesgoal canlı maç listesi, yenilenen oynatıcı adresleri ve güncelleme ekranı.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Hesgoal.cs3",
@@ -2507,7 +2507,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 104764,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2515,7 +2515,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 10,
+    "version": "10",
     "internalName": "InatTV",
     "description": "🆕 Wiojelt 16.09.2026 🟢 Kaynak: İnat TV · Emeği için teşekkürler ♥ · @wiojelt",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/InatTV.cs3",
@@ -2526,7 +2526,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 128952,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2534,7 +2534,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 10,
+    "version": "10",
     "internalName": "InterSporTV",
     "description": "🆕 Wiojelt 16.09.2026 🔴 Kaynak: InterSporTV · Emeği için teşekkürler ♥ · @wiojelt",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/InterSporTV.cs3",
@@ -2545,7 +2545,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 105365,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2553,7 +2553,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 4,
+    "version": "4",
     "internalName": "KralSporHD",
     "description": "🆕 Wiojelt 16.09.2026 👑 Kaynak: KralSporHD · Emeği için teşekkürler ♥ · @wiojelt",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/KralSporHD.cs3",
@@ -2564,7 +2564,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 79324,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2572,7 +2572,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 3,
+    "version": "3",
     "internalName": "LiveXTV",
     "description": "🆕 Wiojelt 16.09.2026 LiveXTV canlı spor API'si, yedek uç nokta ve çoklu yayın kaynakları.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/LiveXTV.cs3",
@@ -2583,7 +2583,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 128940,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2591,7 +2591,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 10,
+    "version": "10",
     "internalName": "MacKeyfi",
     "description": "🆕 Wiojelt 16.09.2026 🔴 Kaynak: MaçKeyfi / Canlımaçlar · Emeği için teşekkürler ♥ · @wiojelt · WARP gerekebilir.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/MacKeyfi.cs3",
@@ -2602,7 +2602,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 106696,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2610,7 +2610,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 9,
+    "version": "9",
     "internalName": "MahsunSports",
     "description": "🆕 Wiojelt 16.09.2026 🟢 Kaynak: MahsunSports · Emeği için teşekkürler ♥ · @wiojelt",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/MahsunSports.cs3",
@@ -2621,7 +2621,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 141284,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2629,7 +2629,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 3,
+    "version": "3",
     "internalName": "NetVGold",
     "description": "🆕 Wiojelt 16.09.2026 NETV Gold uygulamasının doğrulanmış spor kanalları",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/NetVGold.cs3",
@@ -2640,7 +2640,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 79742,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2648,7 +2648,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 5,
+    "version": "5",
     "internalName": "Ntvs",
     "description": "🆕 Wiojelt 16.09.2026 NTVStream spor kanalları, arama tabanlı canlı katalog ve güncelleme ekranı.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Ntvs.cs3",
@@ -2659,7 +2659,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 139867,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2667,7 +2667,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "PapazSports",
     "description": "🆕 Wiojelt 16.09.2026 PapazSports canlı kanal ve maç listesi, artan alan adı keşfi ve güncelleme ekranı.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/PapazSports.cs3",
@@ -2678,7 +2678,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 102943,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2686,7 +2686,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 12,
+    "version": "12",
     "internalName": "SelcukSports",
     "description": "🆕 Wiojelt 16.09.2026 🟢 Kaynak: SelçukSports · Emeği için teşekkürler ♥ · @wiojelt",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/SelcukSports.cs3",
@@ -2697,7 +2697,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 79339,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2705,7 +2705,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 2,
+    "version": "2",
     "internalName": "StreamEast",
     "description": "🆕 Wiojelt 16.09.2026 StreamEast canlı ve yaklaşan spor etkinlikleri, çoklu oynatıcı ve güncelleme ekranı.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/StreamEast.cs3",
@@ -2716,7 +2716,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 33147,
-    "status": 1,
+    "status": "1",
     "language": "en",
     "authors": [
       "MRC"
@@ -2724,7 +2724,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "Streamed",
     "description": "🔴 lepotane 16.09.2026 Streamed ile Canlı Spor Yayınlarını İzleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Streamed.cs3",
@@ -2735,7 +2735,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 141556,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2743,7 +2743,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 2,
+    "version": "2",
     "internalName": "TRGoals",
     "description": "🆕 Wiojelt 16.09.2026 TRGoals dinamik spor kanalları ve alan güncelleme ekranı",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TRGoals.cs3",
@@ -2754,7 +2754,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 103950,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2762,7 +2762,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 13,
+    "version": "13",
     "internalName": "Taraftarium24",
     "description": "🆕 Wiojelt 16.09.2026 🔴 Kaynak: Taraftarium24 · Emeği için teşekkürler ♥ · @wiojelt",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Taraftarium24.cs3",
@@ -2773,7 +2773,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 89198,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2781,7 +2781,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 4,
+    "version": "4",
     "internalName": "VivoXSpor",
     "description": "🆕 Wiojelt 16.09.2026 VivoX uyumlu dinamik spor listesi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/VivoXSpor.cs3",
@@ -2792,7 +2792,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 128930,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2800,7 +2800,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 10,
+    "version": "10",
     "internalName": "ZbahisTV",
     "description": "🆕 Wiojelt 16.09.2026 🔴 Kaynak: Zbahis / Baywin TV · Emeği için teşekkürler ♥ · @wiojelt",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/ZbahisTV.cs3",
@@ -2811,7 +2811,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 103016,
-    "status": 1,
+    "status": "1",
     "language": "en",
     "authors": [
       "Wiojelt"
@@ -2819,7 +2819,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "CricifyProvider",
     "description": "🆕 Wiojelt 16.09.2026 CNCVerse kaynaklı CricifyProvider canlı yayın paketi · izinli harici derleme",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CricifyProvider.cs3",
@@ -2831,7 +2831,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 138287,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2839,7 +2839,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 3,
+    "version": "3",
     "internalName": "JestYayin",
     "description": "🆕 Wiojelt 16.09.2026 JestYayin canlı maçlar ve spor kanalları",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/JestYayin.cs3",
@@ -2850,7 +2850,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 112856,
-    "status": 1,
+    "status": "1",
     "language": "en",
     "authors": [
       "Wiojelt"
@@ -2858,7 +2858,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "LivXowProvider",
     "description": "🆕 Wiojelt 16.09.2026 CNCVerse kaynaklı LivXowProvider canlı yayın paketi · izinli harici derleme",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/LivXowProvider.cs3",
@@ -2870,7 +2870,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 97677,
-    "status": 1,
+    "status": "1",
     "language": "en",
     "authors": [
       "Wiojelt"
@@ -2878,7 +2878,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "PlayZTVProvider",
     "description": "🆕 Wiojelt 16.09.2026 CNCVerse kaynaklı PlayZTVProvider canlı yayın paketi · izinli harici derleme",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/PlayZTVProvider.cs3",
@@ -2890,7 +2890,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 110106,
-    "status": 1,
+    "status": "1",
     "language": "en",
     "authors": [
       "Wiojelt"
@@ -2898,7 +2898,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "SportzxProvider",
     "description": "🆕 Wiojelt 16.09.2026 CNCVerse kaynaklı SportzxProvider canlı yayın paketi · izinli harici derleme",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/SportzxProvider.cs3",
@@ -2910,7 +2910,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 33211,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -2920,7 +2920,7 @@
       "TvSeries",
       "Anime"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "DiziBal",
     "description": "🔴 lepotane 16.09.2026 En popüler yabancı dizileri yeni bölümleriyle takip edin. HBO, Netflix, Apple TV+ yapımları Türkçe altyazılı olarak dizibaL'da!",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziBal.cs3",
@@ -2931,7 +2931,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/CakesTwix/cloudstream-extensions-uk",
     "fileSize": 95384,
-    "status": 1,
+    "status": "1",
     "language": "uk",
     "authors": [
       "CakesTwix"
@@ -2939,7 +2939,7 @@
     "tvTypes": [
       "Others"
     ],
-    "version": 3,
+    "version": "3",
     "internalName": "SyncPlugin",
     "description": "🆕 CakesTwix 16.09.2026 Синхронізація CloudStream між пристроями (закладки, продовження перегляду, налаштування, пошук, розширення). Працює з власним сервером CloudStream Sync Server.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/CakesTwix/SyncPlugin.cs3",
@@ -2950,7 +2950,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 146713,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -2958,7 +2958,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 3,
+    "version": "3",
     "internalName": "GolgeTV",
     "description": "🆕 Wiojelt 16.09.2026 GölgeTV spor kanalları ve alternatif yayınlar",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3",
@@ -2969,7 +2969,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/manitux-app/cs-plugins",
     "fileSize": 79959,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "manitux"
@@ -2978,7 +2978,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 3,
+    "version": "3",
     "internalName": "SetFilm",
     "description": "🆕 manitux-app 16.09.2026 Setfilmizle ile en yeni filmleri ve yabancı dizileri 1080p Full HD kalitesinde, Türkçe dublaj veya altyazılı seçenekleriyle donmadan izleyin. Üyelik gerektirmeden, kesintisiz film keyfi sizi bekliyor.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/manitux-app/SetFilm.cs3",
@@ -2989,7 +2989,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 747557,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3000,7 +3000,7 @@
       "Anime",
       "Documentary"
     ],
-    "version": 7,
+    "version": "7",
     "internalName": "CineSimkl",
     "description": "🆕 Wiojelt 16.09.2026 CineSimkl · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CineSimkl.cs3",
@@ -3011,7 +3011,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -3028,7 +3028,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 753383,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3039,7 +3039,7 @@
       "Anime",
       "Documentary"
     ],
-    "version": 7,
+    "version": "7",
     "internalName": "ClipBox",
     "description": "🆕 Wiojelt 16.09.2026 Clip Box · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/ClipBox.cs3",
@@ -3050,7 +3050,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 70772,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3061,7 +3061,7 @@
       "Anime",
       "Documentary"
     ],
-    "version": 8,
+    "version": "8",
     "internalName": "CNCVerseDisneyPlus",
     "description": "🆕 Wiojelt 16.09.2026 Disney Plus · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CNCVerseDisneyPlus.cs3",
@@ -3072,7 +3072,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 70763,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3083,7 +3083,7 @@
       "Anime",
       "Documentary"
     ],
-    "version": 8,
+    "version": "8",
     "internalName": "CNCVerseHotstar",
     "description": "🆕 Wiojelt 16.09.2026 Hotstar Mirror · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CNCVerseHotstar.cs3",
@@ -3094,7 +3094,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 70775,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3105,7 +3105,7 @@
       "Anime",
       "Documentary"
     ],
-    "version": 8,
+    "version": "8",
     "internalName": "CNCVerseNetflix",
     "description": "🆕 Wiojelt 16.09.2026 Netflix Mirror · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CNCVerseNetflix.cs3",
@@ -3116,7 +3116,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 70770,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3127,7 +3127,7 @@
       "Anime",
       "Documentary"
     ],
-    "version": 8,
+    "version": "8",
     "internalName": "CNCVersePrimeVideo",
     "description": "🆕 Wiojelt 16.09.2026 Prime Video Mirror · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CNCVersePrimeVideo.cs3",
@@ -3138,7 +3138,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -3155,7 +3155,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 33223,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -3165,7 +3165,7 @@
       "TvSeries",
       "Anime"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "DiziBol",
     "description": "🔴 lepotane 16.09.2026 En popüler yabancı dizileri yeni bölümleriyle takip edin. HBO, Netflix, Apple TV+ yapımları Türkçe altyazılı olarak dizibaL'da!",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziBol.cs3",
@@ -3176,7 +3176,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 38317,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3187,7 +3187,7 @@
       "Anime",
       "Documentary"
     ],
-    "version": 7,
+    "version": "7",
     "internalName": "DiziBoxAlternatif",
     "description": "🆕 Wiojelt 16.09.2026 Dizi Box · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DiziBoxAlternatif.cs3",
@@ -3198,7 +3198,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 58218,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3209,7 +3209,7 @@
       "Anime",
       "Documentary"
     ],
-    "version": 8,
+    "version": "8",
     "internalName": "DiziFilmIzle",
     "description": "🆕 Wiojelt 16.09.2026 DiziFilmİzle · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DiziFilmIzle.cs3",
@@ -3220,7 +3220,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 58197,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3231,7 +3231,7 @@
       "Anime",
       "Documentary"
     ],
-    "version": 7,
+    "version": "7",
     "internalName": "DiziRella",
     "description": "🆕 Wiojelt 16.09.2026 DiziRella · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DiziRella.cs3",
@@ -3242,7 +3242,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 58235,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3253,7 +3253,7 @@
       "Anime",
       "Documentary"
     ],
-    "version": 7,
+    "version": "7",
     "internalName": "FilmIzzle",
     "description": "🆕 Wiojelt 16.09.2026 FilmIzzle · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/FilmIzzle.cs3",
@@ -3264,7 +3264,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 33000,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3275,7 +3275,7 @@
       "Anime",
       "Documentary"
     ],
-    "version": 7,
+    "version": "7",
     "internalName": "FlixNetwork",
     "description": "🆕 Wiojelt 16.09.2026 Flix Network · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/FlixNetwork.cs3",
@@ -3286,7 +3286,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -3303,7 +3303,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 35962,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3314,7 +3314,7 @@
       "Anime",
       "Documentary"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "HDFilmizleBest",
     "description": "🆕 Wiojelt 16.09.2026 H D Filmizle Best · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/HDFilmizleBest.cs3",
@@ -3325,7 +3325,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 53759,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3336,7 +3336,7 @@
       "Anime",
       "Documentary"
     ],
-    "version": 7,
+    "version": "7",
     "internalName": "HDFilmIzleInk",
     "description": "🆕 Wiojelt 16.09.2026 HDFilmİzle Ink · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/HDFilmIzleInk.cs3",
@@ -3347,7 +3347,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 53765,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3358,7 +3358,7 @@
       "Anime",
       "Documentary"
     ],
-    "version": 7,
+    "version": "7",
     "internalName": "HDFilmIzleVip",
     "description": "🆕 Wiojelt 16.09.2026 HDFilmİzle Vip · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/HDFilmIzleVip.cs3",
@@ -3369,7 +3369,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -3386,7 +3386,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 58223,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3397,7 +3397,7 @@
       "Anime",
       "Documentary"
     ],
-    "version": 7,
+    "version": "7",
     "internalName": "LiderFilmIzle",
     "description": "🆕 Wiojelt 16.09.2026 LiderFilmİzle · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/LiderFilmIzle.cs3",
@@ -3408,7 +3408,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 82602,
-    "status": 1,
+    "status": "1",
     "language": "en",
     "authors": [
       "Wiojelt"
@@ -3417,7 +3417,7 @@
       "Movie",
       "Live"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "MovieBoxProvider",
     "description": "🆕 Wiojelt 16.09.2026 CNCVerse kaynaklı MovieBoxProvider paketi · izinli harici derleme",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/MovieBoxProvider.cs3",
@@ -3429,7 +3429,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 45901,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3440,7 +3440,7 @@
       "Anime",
       "Documentary"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "NetFilmizle",
     "description": "🆕 Wiojelt 16.09.2026 Net Filmizle · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/NetFilmizle.cs3",
@@ -3451,7 +3451,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 44316,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3462,7 +3462,7 @@
       "Anime",
       "Documentary"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "Sinemakolik",
     "description": "🆕 Wiojelt 16.09.2026 Sinemakolik · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Sinemakolik.cs3",
@@ -3473,7 +3473,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 58207,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3484,7 +3484,7 @@
       "Anime",
       "Documentary"
     ],
-    "version": 7,
+    "version": "7",
     "internalName": "TrDiziIzle",
     "description": "🆕 Wiojelt 16.09.2026 TrDiziİzle · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TrDiziIzle.cs3",
@@ -3495,7 +3495,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 4414,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3503,7 +3503,7 @@
     "tvTypes": [
       "Others"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "TurkSinemaDestek",
     "description": "🆕 Wiojelt 11.09.2026 TurkSinema’ya destek ol ☕ · @wiojelt · made with ♥",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSinemaDestek.cs3",
@@ -3514,7 +3514,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/dcenhance/dcext",
     "fileSize": 6219592,
-    "status": 1,
+    "status": "1",
     "language": "en",
     "authors": [
       "DC Enhancements"
@@ -3522,7 +3522,7 @@
     "tvTypes": [
       "Others"
     ],
-    "version": 764,
+    "version": "764",
     "internalName": "CS3MProvider",
     "description": "🆕 dcenhance 12.09.2026 CloudStream customization with themes, player tools, and private Syncplay watch parties",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/dcenhance/CS3MProvider.cs3",
@@ -3536,7 +3536,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 45565,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3546,7 +3546,7 @@
       "AnimeMovie",
       "OVA"
     ],
-    "version": 8,
+    "version": "8",
     "internalName": "Deokwave",
     "description": "🆕 Wiojelt 16.09.2026 Deokwave · TurkSinema ayrı sağlayıcı paketi (4K Ultra HD & Anime)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Deokwave.cs3",
@@ -3557,7 +3557,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 31356,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3568,7 +3568,7 @@
       "Anime",
       "Documentary"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "SinemaGG",
     "description": "🆕 Wiojelt 16.09.2026 SinemaGG · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/SinemaGG.cs3",
@@ -3579,7 +3579,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 4416,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3587,7 +3587,7 @@
     "tvTypes": [
       "Others"
     ],
-    "version": 2,
+    "version": "2",
     "internalName": "TurkSinemaDestek",
     "description": "🆕 Wiojelt 16.09.2026 TurkSinema'ya destek ol ☕ · @wiojelt · made with ♥",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSinemaDestek.cs3",
@@ -3598,7 +3598,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -3615,7 +3615,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 27944,
-    "status": 1,
+    "status": "1",
     "language": "mx",
     "authors": [
       "MRC"
@@ -3623,7 +3623,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "AnimeAV",
     "description": "🆕 lepotane 16.09.2026 Disfruta de los últimos episodios y animes agregados en HD y Sub Español. Miles de series, películas y OVAs disponibles para ver online totalmente gratis.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeAV.cs3",
@@ -3634,7 +3634,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 21514,
-    "status": 1,
+    "status": "1",
     "language": "mx",
     "authors": [
       "MRC"
@@ -3643,7 +3643,7 @@
       "Anime",
       "AnimeMovie"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "Animejara",
     "description": "🆕 lepotane 16.09.2026 Ver anime online, subtitulado y/o doblado al español latino HD y completamente gratis. Aquí podrás ver y descargar todas tus series preferidas sin anuncios.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Animejara.cs3",
@@ -3654,7 +3654,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 14669,
-    "status": 1,
+    "status": "1",
     "language": "it",
     "authors": [
       "MRC"
@@ -3662,7 +3662,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "AnimeWorld",
     "description": "🆕 lepotane 16.09.2026 Scopri il nostro Archivio di Anime in Streaming Sub ITA e ITA. Guarda in Streaming o effettua il Download di migliaia di serie animate sempre aggiornate e in alta qualità, disponibili su PC, console, tablet, smartphone ed altri dispositivi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeWorld.cs3",
@@ -3673,7 +3673,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 43586,
-    "status": 1,
+    "status": "1",
     "language": "mx",
     "authors": [
       "MRC"
@@ -3681,7 +3681,7 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "AnimeYTX",
     "description": "🆕 lepotane 16.09.2026 Únete a la familia de AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido más popular de la animación japonesa.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeYTX.cs3",
@@ -3692,7 +3692,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 13959,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -3700,7 +3700,7 @@
     "tvTypes": [
       "AsianDrama"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "BirAsyaDizi",
     "description": "🆕 lepotane 16.09.2026 Asya'nın En Ünlü Dizilerini en yüksek çözünürlükte HD ve kesintisiz izleyin, kaliteli Asya film ve dizilerinin keyfini sürün.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/BirAsyaDizi.cs3",
@@ -3711,7 +3711,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -3728,7 +3728,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 15717,
-    "status": 1,
+    "status": "1",
     "language": "en",
     "authors": [
       "MRC"
@@ -3736,7 +3736,7 @@
     "tvTypes": [
       "Documentary"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "DocumentaryArea",
     "description": "🆕 lepotane 16.09.2026 Watch the best online documentary films.Stunning collection of awesome, eyeopening, interesting, just released, full documentaries.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DocumentaryArea.cs3",
@@ -3747,7 +3747,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -3764,7 +3764,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -3781,7 +3781,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 21255,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -3790,7 +3790,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "Sinefy",
     "description": "🆕 lepotane 16.09.2026 Yabancı film izle olarak vizyondaki en yeni yabancı filmleri türkçe dublaj ve altyazılı olarak en hızlı şekilde full hd olarak sizlere sunuyoruz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Sinefy.cs3",
@@ -3801,7 +3801,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 11340,
-    "status": 1,
+    "status": "1",
     "language": "en",
     "authors": [
       "MRC"
@@ -3809,7 +3809,7 @@
     "tvTypes": [
       "Cartoon"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "Supercartoons",
     "description": "🆕 lepotane 16.09.2026 Watch Cartoons Online. Here you can Watch old Classical Cartoons like Bugs Bunny, Mickey Mouse, Pink Panther, Tom and Jerry and Many Many More!",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Supercartoons.cs3",
@@ -3820,7 +3820,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 19783,
-    "status": 1,
+    "status": "1",
     "language": "en",
     "authors": [
       "MRC"
@@ -3828,7 +3828,7 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "YoTurkish",
     "description": "🆕 lepotane 16.09.2026 YoTurkish - is the most favorite website for watching turkish series with english subtitles for free online, only at yoturkish.to",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/YoTurkish.cs3",
@@ -3839,7 +3839,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "fileSize": 1917913,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3851,7 +3851,7 @@
       "Cartoon",
       "Documentary"
     ],
-    "version": 12,
+    "version": "12",
     "internalName": "WioSinema",
     "description": "🔴 Wiojelt 16.09.2026 TMDB v3 Türkçe katalog (23 ayrıştırılmış kategori), Ultra HD afişler, ClipBox/CineStream direkt TMDB motoru ve 68 sağlayıcıyı tek çatı altında toplayan birleşik sinema ve dizi eklentisi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/WioSinema.cs3",
@@ -3862,7 +3862,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
     "fileSize": 545301,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3870,7 +3870,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 14,
+    "version": "14",
     "internalName": "WioSpor",
     "description": "🔴 Wiojelt 16.09.2026 Tüm canlı TV ve spor kanalları tek eklentide. Renk grupları ve alternatif yayın kaynakları.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/WioSpor.cs3",
@@ -3881,7 +3881,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 68841,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3889,7 +3889,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "BirdirbirIPTV",
     "description": "🔴 Wiojelt 16.09.2026 v10 Spor / IPTV - Türk Spor (beIN, S Sport, Tivibu), Ulusal, Haber ve Dünya Spor Kanalları",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/BirdirbirIPTV.cs3",
@@ -3900,7 +3900,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 1822352,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3911,7 +3911,7 @@
       "Anime",
       "Documentary"
     ],
-    "version": 14,
+    "version": "14",
     "internalName": "TurkSinema",
     "description": "🆕 Wiojelt 16.09.2026 Tek pakette 59 Türkçe film, dizi, anime ve belgesel sağlayıcısı.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSinema.cs3",
@@ -3922,7 +3922,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 36366,
-    "status": 3,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
@@ -3932,7 +3932,7 @@
       "AnimeMovie",
       "Documentary"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "PowerSinema",
     "description": "🆕 Wiojelt 16.09.2026 Power Sinema · 9.000+ Yerli & Yabancı Sinema, Animasyon ve Seri Filmler",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/PowerSinema.cs3",
@@ -3943,7 +3943,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -3960,7 +3960,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -3977,7 +3977,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -3994,7 +3994,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4011,7 +4011,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4028,7 +4028,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4045,7 +4045,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4062,7 +4062,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4079,7 +4079,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4096,7 +4096,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4113,7 +4113,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4130,7 +4130,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4147,7 +4147,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4164,7 +4164,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4181,7 +4181,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4198,7 +4198,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4215,7 +4215,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4232,7 +4232,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4249,7 +4249,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4266,7 +4266,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4283,7 +4283,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4300,7 +4300,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4317,7 +4317,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4334,7 +4334,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4351,7 +4351,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4368,7 +4368,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4385,7 +4385,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4402,7 +4402,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4419,7 +4419,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4436,7 +4436,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4453,7 +4453,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4470,7 +4470,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4487,7 +4487,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4504,7 +4504,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4521,7 +4521,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4538,7 +4538,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 48282,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -4548,7 +4548,7 @@
       "TvSeries",
       "Live"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "InatBoxBC",
     "description": "🆕 lepotane 16.09.2026 İnatBox BC - Canlı kanallar, spor, film ve diziler.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/InatBoxBC.cs3",
@@ -4559,7 +4559,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 18686,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -4568,7 +4568,7 @@
       "TvSeries",
       "Live"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "KanalD",
     "description": "🆕 lepotane 16.09.2026 Kanal D dizileri, programları ve canlı yayın.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/KanalD.cs3",
@@ -4579,7 +4579,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 43713,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -4589,7 +4589,7 @@
       "Live",
       "TvSeries"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "RecTVBC",
     "description": "🆕 lepotane 16.09.2026 RecTV BC - Canlı kanallar, spor yayınları, film ve diziler.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/RecTVBC.cs3",
@@ -4600,7 +4600,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 24749,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -4609,7 +4609,7 @@
       "TvSeries",
       "Live"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "Showtv",
     "description": "🆕 lepotane 16.09.2026 Show TV dizileri, programları ve canlı yayın.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Showtv.cs3",
@@ -4620,7 +4620,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4637,7 +4637,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 14151,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -4646,7 +4646,7 @@
       "TvSeries",
       "Live"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "TLC",
     "description": "🆕 lepotane 16.09.2026 TLC dizileri, yaşam ve eğlence programları, canlı yayın.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/TLC.cs3",
@@ -4657,7 +4657,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
     "fileSize": 19611,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -4666,7 +4666,7 @@
       "TvSeries",
       "Live"
     ],
-    "version": 1,
+    "version": "1",
     "internalName": "Tv8",
     "description": "🆕 lepotane 16.09.2026 TV8 programları, yarışmaları, dizileri ve canlı yayın.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Tv8.cs3",
@@ -4677,7 +4677,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "Bilinmiyor"
@@ -4694,7 +4694,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "fileSize": 768900,
-    "status": 3,
+    "status": "3",
     "language": "all",
     "authors": [
       "Wiojelt"
@@ -4704,7 +4704,7 @@
       "TvSeries",
       "Anime"
     ],
-    "version": 3,
+    "version": "3",
     "internalName": "CineCat",
     "description": "🔴 Wiojelt 16.09.2026 Cinecat · Dizi & Film Portalı (cinecat.eu)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CineCat.cs3",
@@ -4715,7 +4715,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "murattunc05"
@@ -4732,7 +4732,7 @@
     "apiVersion": 1,
     "repositoryUrl": "",
     "fileSize": 0,
-    "status": 1,
+    "status": "1",
     "language": "tr",
     "authors": [
       "murattunc05"
