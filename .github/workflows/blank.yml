@@ -126,7 +126,7 @@ jobs:
             };
 
             for (const key of Object.keys(p)) {
-              if (!(key in ordered) && key !== "downloadUrl") {
+              if (!(key in ordered) && key !== "downloadUrl" && key !== "fileHash") {
                 ordered[key] = p[key];
               }
             }
@@ -161,6 +161,7 @@ jobs:
                 if (Array.isArray(remote.tvTypes) && remote.tvTypes.includes('NSFW')) continue;
                 
                 delete remote.downloadUrl;
+                delete remote.fileHash;
                 if (!remote.name && remote.internalName) remote.name = remote.internalName;
 
                 const key = getStandardKey(remote);
@@ -170,6 +171,7 @@ jobs:
                 if (isRemoteDisabled) {
                   if (existing) {
                     delete existing.downloadUrl;
+                    delete existing.fileHash;
                     mergedMap.set(key, formatPluginObject(existing));
                   }
                   continue;
@@ -236,6 +238,7 @@ jobs:
                 
                 remote.url = `https://raw.githubusercontent.com/${githubRepoUser}/${githubRepoName}/main/plugins/${repoOwner}/${fileName}`;
                 delete remote.downloadUrl;
+                delete remote.fileHash;
 
                 if (!existing) {
                   remote.description = `🆕 ${repoOwner} ${today} ${(remote.description || '')}`;
@@ -250,6 +253,7 @@ jobs:
                     mergedMap.set(key, formatPluginObject(remote));
                   } else {
                     delete existing.downloadUrl;
+                    delete existing.fileHash;
                     mergedMap.set(key, formatPluginObject(existing));
                   }
                 }
@@ -331,6 +335,7 @@ jobs:
                 const oldContent = JSON.parse(fs.readFileSync('plugins.json', 'utf8'));
                 for (const p of oldContent) {
                   delete p.downloadUrl;
+                  delete p.fileHash;
                   const pName = (p.name || p.internalName || "").toLowerCase().trim();
                   const pInternal = (p.internalName || "").toLowerCase().trim();
                   const isOldBlocked = specificBlacklist.some(b => 
@@ -363,6 +368,7 @@ jobs:
                 const oldBackupContent = JSON.parse(fs.readFileSync('backup-plugins.json', 'utf8'));
                 for (const bp of oldBackupContent) {
                   delete bp.downloadUrl;
+                  delete bp.fileHash;
                   backupMap.set(getStandardKey(bp), formatPluginObject(bp));
                 }
               } catch (e) {}
@@ -373,6 +379,7 @@ jobs:
             for (const plugin of finalPluginsArray) {
               const clone = { ...plugin };
               delete clone.downloadUrl;
+              delete clone.fileHash;
               const match = clone.description && clone.description.match(/(?:🆕|🔴)\s+([^\s]+)/);
               const owner = match ? match[1] : "Bilinmiyor";
               
