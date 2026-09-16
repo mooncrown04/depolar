@@ -1545,7 +1545,7 @@
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/TurkishW.cs3",
     "status": 1,
-    "version": 29,
+    "version": 31,
     "name": "TurkishW",
     "internalName": "TurkishW",
     "authors": [
@@ -1556,7 +1556,7 @@
       "nikyokki"
     ],
     "description": "🔴 ctnkyaumt 16.09.2026 Tek arama sonucu (TurkishW); bir içeriğe girince tüm kaynaklardan linkleri toplar. Film, Dizi, Anime + Canlı TV.",
-    "fileSize": 410785,
+    "fileSize": 411548,
     "repositoryUrl": "https://github.com/ctnkyaumt/cstest",
     "language": "tr",
     "tvTypes": [
@@ -1567,7 +1567,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org",
     "apiVersion": 1,
-    "fileHash": "sha256-cebc6be59e15df8ee2502028f0678641ec850b31bb094b3c1d89de21d05d5d1f",
+    "fileHash": "sha256-1f47e02594dece01e929591ee1152e76d3d1a38d92326c7517eda58e6e1b0273",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/TurkishW.cs3"
   },
   {
@@ -4955,5 +4955,20 @@
     "apiVersion": 1,
     "fileHash": "sha256-f96b427cdb502af30591437dd4c9fd6620b96b3054fb57cebf853b1a9b69ff37",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3"
+  },
+  {
+    "name": "Vidmody",
+    "internalName": "Vidmody",
+    "version": "3",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/mooncrown/Vidmody.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/mooncrown/Vidmody.cs3",
+    "language": "tr",
+    "authors": [
+      "mooncrown"
+    ],
+    "tvTypes": [],
+    "iconUrl": "",
+    "status": 1,
+    "description": "🆕 MoOnCrOwN DePo 16.09.2026 Depodan yüklenen eklenti."
   }
 ]

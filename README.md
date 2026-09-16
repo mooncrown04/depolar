@@ -1,10 +1,11 @@
-### Son Güncelleme: 16.09.2026 18:24
+### Son Güncelleme: 16.09.2026 18:35
 
-### Toplam Eklenti: `241`
+### Toplam Eklenti: `242`
 
 > 🚀 **Bugünkü Güncelleme Özeti (16.09.2026)**
 >
 > * 🆕 **Yeni Eklenenler:**
+  * **MoOnCrOwN DePo:** `Vidmody`
   * **Wiojelt:** `BirdirbirIPTV`, `GolgeTV`, `PowerSinema`, `TurkSporDestek`
   * **dcenhance:** `CS3MProvider`
   * **murattunc05:** `BelgeselX_v17`, `BronzeCloudSports_v4`, `CineStream_v482`, `CizgiMax_v16`, `Ddizi_v22`, `DiziBox_v23`, `DiziMom_v57`, `DiziPalOriginal_v86`, `DiziPal_v106`, `DiziYou_v25`, `Dizilla_v92`, `FilmMakinesi_v58`, `FilmModu_v19`, `FullHDFilm_v36`, `FullHDFilmizlesene_v33`, `HDFilmCehennemi_v48`, `HDFilmDelisi_v1`, `InatBox_v53`, `JetFilmizle_v47`, `KultFilmler_v16`, `RecTV_v110`, `SetFilmIzle_v30`, `SezonlukDizi_v9`, `SinemaCX_v24`, `Sinewix_v2`, `TLCtr_v19`, `Vavoo_v3`, `Watch2Movies_v6`, `WebteIzle_v20`
@@ -20,7 +21,7 @@
   * **patr0nq:** `TLCtr`, `WebdramaTurkey2`
 
 ### 📊 Son 15 Günlük Durum Özeti
-🆕 Yeni Eklentiler: 126 &nbsp;|&nbsp; 🔴 Güncellenenler: 93
+🆕 Yeni Eklentiler: 127 &nbsp;|&nbsp; 🔴 Güncellenenler: 93
 
 ---
 ### Depo Sahibi:
@@ -33,7 +34,7 @@
 *Aşağıdaki gruplara tıklayarak eklentileri listeleyebilirsiniz:*
 
 <details>
-<summary>🌐 <b>TÜM EKLENTİLER (HEPSİ)</b> (241 Eklenti)</summary>
+<summary>🌐 <b>TÜM EKLENTİLER (HEPSİ)</b> (242 Eklenti)</summary>
 
 | İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
 |:----:|:------------|:------|:------|:-------|:----:|
@@ -255,6 +256,7 @@
 | <img src="https://raw.githubusercontent.com/doGior/doGiorsHadEnough/master/Vavoo/Vavoo.jpg" width="30" style="border-radius:4px;"> | **Vavoo** | 04.09.2026 | 🔴 | `murattunc05` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **Vavoo_v3** | 16.09.2026 | 🆕 | `murattunc05` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **vavooSpor** | 16.09.2026 | 🆕 | `ramazansancar` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Vidmody** | 16.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/VivoXSpor.png" width="30" style="border-radius:4px;"> | **VivoXSpor** | 07.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://cdn-icons-png.flaticon.com/512/8634/8634073.png" width="30" style="border-radius:4px;"> | **VizyonHub** | 10.08.2026 | ⚪ | `caca1403` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **Watch2Movies** | 16.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
@@ -311,6 +313,15 @@
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/kick.png" width="30" style="border-radius:4px;"> | **KICK Türkiye - Latte** | 03.04.2026 | ⚪ | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powerdizi.png" width="30" style="border-radius:4px;"> | **powerboard Dizi - Latte** | 03.04.2026 | ⚪ | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powersinema.png" width="30" style="border-radius:4px;"> | **powerboard Sinema - Latte** | 03.04.2026 | ⚪ | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+
+</details>
+
+<details>
+<summary>📂 <b>MoOnCrOwN DePo</b> (1 Eklenti)</summary>
+
+| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
+|:----:|:------------|:------|:------|:-------|:----:|
+| — | **Vidmody** | 16.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 
 </details>
 
