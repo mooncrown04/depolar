@@ -4386,14 +4386,14 @@
   {
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/WioSinema.cs3",
     "status": 3,
-    "version": 6,
+    "version": 8,
     "name": "WioSinema",
     "internalName": "WioSinema",
     "authors": [
       "Wiojelt"
     ],
-    "description": "🔴 Wiojelt 15.09.2026 TMDB v3 Türkçe katalog (23 ayrıştırılmış kategori), Ultra HD afişler, ClipBox/CineStream direkt TMDB motoru ve 68 sağlayıcıyı (Anizium & Deokwave 4K dahil) tek çatı altında toplayan birleşik sinema ve dizi eklentisi.",
-    "fileSize": 1792187,
+    "description": "🔴 Wiojelt 16.09.2026 TMDB v3 Türkçe katalog (23 ayrıştırılmış kategori), Ultra HD afişler, ClipBox/CineStream direkt TMDB motoru ve 68 sağlayıcıyı (Anizium & Deokwave 4K dahil) tek çatı altında toplayan birleşik sinema ve dizi eklentisi.",
+    "fileSize": 1847530,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
     "language": "tr",
     "tvTypes": [
@@ -4405,7 +4405,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-889f1ddc2da5b9717e226befb19988758188e7bddcbcd140e9b373ec1428d1f6",
+    "fileHash": "sha256-2df27a66053ce6e50259d3b49da4b59ccbcdcf22851dc33949419d4514310da4",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/WioSinema.cs3"
   },
   {
@@ -4453,8 +4453,8 @@
   {
     "name": "TurkSinema",
     "internalName": "TurkSinema",
-    "version": 6,
-    "description": "🆕 Wiojelt 15.09.2026 Tek pakette 59 Türkçe film, dizi, anime ve belgesel sağlayıcısı.",
+    "version": 7,
+    "description": "🔴 Wiojelt 16.09.2026 Tek pakette 59 Türkçe film, dizi, anime ve belgesel sağlayıcısı.",
     "authors": [
       "Wiojelt"
     ],
@@ -4467,8 +4467,8 @@
       "Documentary"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
-    "fileSize": 1732307,
-    "fileHash": "sha256-6608cc770b9523665f5bd9a81c0fe69d53bf9ef5b0213fb11941ec806d3fa574",
+    "fileSize": 1788603,
+    "fileHash": "sha256-76f26811878e32c75007883410b8920809d18c412c31278b15eecde959f73b13",
     "status": 3,
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSinema.cs3",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSinema.cs3"
@@ -4516,5 +4516,555 @@
     "apiVersion": 1,
     "fileHash": "sha256-f96b427cdb502af30591437dd4c9fd6620b96b3054fb57cebf853b1a9b69ff37",
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3"
+  },
+  {
+    "name": "AniworldMC",
+    "internalName": "AniworldMC",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/AniworldMC.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/AniworldMC.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 GitLatte 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "DDizi - Latte",
+    "internalName": "DDizi - Latte",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/DDizi - Latte.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/DDizi - Latte.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 GitLatte 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "DiziFun - Latte",
+    "internalName": "DiziFun - Latte",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/DiziFun - Latte.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/DiziFun - Latte.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 GitLatte 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "GoFilmIzle - Latte",
+    "internalName": "GoFilmIzle - Latte",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/GoFilmIzle - Latte.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/GoFilmIzle - Latte.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 GitLatte 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "Müzik TV ve Radyo - Latte",
+    "internalName": "Müzik TV ve Radyo - Latte",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/Müzik TV ve Radyo - Latte.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/Müzik TV ve Radyo - Latte.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 GitLatte 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "Tv Bahçesi - Latte",
+    "internalName": "Tv Bahçesi - Latte",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/Tv Bahçesi - Latte.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/Tv Bahçesi - Latte.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 GitLatte 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "WebDramaTurkey - Latte",
+    "internalName": "WebDramaTurkey - Latte",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/WebDramaTurkey - Latte.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/WebDramaTurkey - Latte.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 GitLatte 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "YouTube Özel - Latte",
+    "internalName": "YouTube Özel - Latte",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/YouTube Özel - Latte.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/YouTube Özel - Latte.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 GitLatte 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "myway TV - Latte",
+    "internalName": "myway TV - Latte",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/myway TV - Latte.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/myway TV - Latte.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 GitLatte 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "BirdirbirIPTV",
+    "internalName": "BirdirbirIPTV",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/BirdirbirIPTV.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/BirdirbirIPTV.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 Wiojelt 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "TurkSporDestek",
+    "internalName": "TurkSporDestek",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSporDestek.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSporDestek.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 Wiojelt 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "CS3MProvider",
+    "internalName": "CS3MProvider",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/dcenhance/CS3MProvider.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/dcenhance/CS3MProvider.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 dcenhance 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "BelgeselX_v17",
+    "internalName": "BelgeselX_v17",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/BelgeselX_v17.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/BelgeselX_v17.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "BronzeCloudSports_v4",
+    "internalName": "BronzeCloudSports_v4",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/BronzeCloudSports_v4.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/BronzeCloudSports_v4.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "CineStream_v482",
+    "internalName": "CineStream_v482",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/CineStream_v482.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/CineStream_v482.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "CizgiMax_v16",
+    "internalName": "CizgiMax_v16",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/CizgiMax_v16.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/CizgiMax_v16.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "Ddizi_v22",
+    "internalName": "Ddizi_v22",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/Ddizi_v22.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/Ddizi_v22.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "DiziBox_v23",
+    "internalName": "DiziBox_v23",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/DiziBox_v23.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/DiziBox_v23.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "DiziMom_v57",
+    "internalName": "DiziMom_v57",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/DiziMom_v57.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/DiziMom_v57.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "DiziPalOriginal_v86",
+    "internalName": "DiziPalOriginal_v86",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/DiziPalOriginal_v86.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/DiziPalOriginal_v86.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "DiziPal_v106",
+    "internalName": "DiziPal_v106",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/DiziPal_v106.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/DiziPal_v106.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "DiziYou_v25",
+    "internalName": "DiziYou_v25",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/DiziYou_v25.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/DiziYou_v25.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "Dizilla_v92",
+    "internalName": "Dizilla_v92",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/Dizilla_v92.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/Dizilla_v92.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "FilmMakinesi_v58",
+    "internalName": "FilmMakinesi_v58",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/FilmMakinesi_v58.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/FilmMakinesi_v58.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "FilmModu_v19",
+    "internalName": "FilmModu_v19",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/FilmModu_v19.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/FilmModu_v19.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "FullHDFilm_v36",
+    "internalName": "FullHDFilm_v36",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/FullHDFilm_v36.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/FullHDFilm_v36.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "FullHDFilmizlesene_v33",
+    "internalName": "FullHDFilmizlesene_v33",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/FullHDFilmizlesene_v33.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/FullHDFilmizlesene_v33.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "HDFilmCehennemi_v48",
+    "internalName": "HDFilmCehennemi_v48",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/HDFilmCehennemi_v48.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/HDFilmCehennemi_v48.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "HDFilmDelisi_v1",
+    "internalName": "HDFilmDelisi_v1",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/HDFilmDelisi_v1.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/HDFilmDelisi_v1.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "InatBox_v53",
+    "internalName": "InatBox_v53",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/InatBox_v53.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/InatBox_v53.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "JetFilmizle_v47",
+    "internalName": "JetFilmizle_v47",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/JetFilmizle_v47.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/JetFilmizle_v47.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "KultFilmler_v16",
+    "internalName": "KultFilmler_v16",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/KultFilmler_v16.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/KultFilmler_v16.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "RecTV_v110",
+    "internalName": "RecTV_v110",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/RecTV_v110.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/RecTV_v110.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "SetFilmIzle_v30",
+    "internalName": "SetFilmIzle_v30",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/SetFilmIzle_v30.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/SetFilmIzle_v30.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "SezonlukDizi_v9",
+    "internalName": "SezonlukDizi_v9",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/SezonlukDizi_v9.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/SezonlukDizi_v9.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "SinemaCX_v24",
+    "internalName": "SinemaCX_v24",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/SinemaCX_v24.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/SinemaCX_v24.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "Sinewix_v2",
+    "internalName": "Sinewix_v2",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/Sinewix_v2.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/Sinewix_v2.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "TLCtr_v19",
+    "internalName": "TLCtr_v19",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/TLCtr_v19.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/TLCtr_v19.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "Vavoo_v3",
+    "internalName": "Vavoo_v3",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/Vavoo_v3.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/Vavoo_v3.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "Watch2Movies_v6",
+    "internalName": "Watch2Movies_v6",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/Watch2Movies_v6.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/Watch2Movies_v6.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "WebteIzle_v20",
+    "internalName": "WebteIzle_v20",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/WebteIzle_v20.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/WebteIzle_v20.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 murattunc05 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "4KFilmIzlesene",
+    "internalName": "4KFilmIzlesene",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/4KFilmIzlesene.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/4KFilmIzlesene.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 ramazansancar 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "DMax",
+    "internalName": "DMax",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/DMax.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/DMax.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 ramazansancar 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "FilmKovasi",
+    "internalName": "FilmKovasi",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/FilmKovasi.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/FilmKovasi.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 ramazansancar 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "Filmİzlesene",
+    "internalName": "Filmİzlesene",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/Filmİzlesene.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/Filmİzlesene.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 ramazansancar 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "FullHDFilmİzlede",
+    "internalName": "FullHDFilmİzlede",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/FullHDFilmİzlede.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/FullHDFilmİzlede.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 ramazansancar 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "HDFilmSitesi",
+    "internalName": "HDFilmSitesi",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/HDFilmSitesi.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/HDFilmSitesi.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 ramazansancar 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "IzleAI",
+    "internalName": "IzleAI",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/IzleAI.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/IzleAI.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 ramazansancar 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "RoketDizi",
+    "internalName": "RoketDizi",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/RoketDizi.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/RoketDizi.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 ramazansancar 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "Tafdi",
+    "internalName": "Tafdi",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/Tafdi.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/Tafdi.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 ramazansancar 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "TurkSCanliTV",
+    "internalName": "TurkSCanliTV",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/TurkSCanliTV.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/TurkSCanliTV.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 ramazansancar 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "Twitch",
+    "internalName": "Twitch",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/Twitch.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/Twitch.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 ramazansancar 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "WFilmİzle",
+    "internalName": "WFilmİzle",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/WFilmİzle.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/WFilmİzle.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 ramazansancar 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "iptvSevenler",
+    "internalName": "iptvSevenler",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/iptvSevenler.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/iptvSevenler.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 ramazansancar 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "name": "vavooSpor",
+    "internalName": "vavooSpor",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/vavooSpor.cs3",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/vavooSpor.cs3",
+    "language": "tr",
+    "status": 1,
+    "description": "🆕 ramazansancar 16.09.2026 Depodan kurtarıldı."
   }
 ]
