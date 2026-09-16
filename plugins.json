@@ -4474,50 +4474,6 @@
     "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSinema.cs3"
   },
   {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/PowerSinema.cs3",
-    "status": 3,
-    "version": 1,
-    "name": "PowerSinema",
-    "internalName": "PowerSinema",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "🆕 Wiojelt 16.09.2026 Power Sinema · 9.000+ Yerli & Yabancı Sinema, Animasyon ve Seri Filmler",
-    "fileSize": 36366,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "AnimeMovie",
-      "Documentary"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-d5c8502dbfbfbe163ad859b79585af5d7eea75cfc465fd46f707fe2b2c1752b0",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/PowerSinema.cs3"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3",
-    "status": 1,
-    "version": 3,
-    "name": "GolgeTV",
-    "internalName": "GolgeTV",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "🆕 Wiojelt 16.09.2026 GölgeTV spor kanalları ve alternatif yayınlar",
-    "fileSize": 146713,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://golgetv.com/favicon.ico",
-    "apiVersion": 1,
-    "fileHash": "sha256-f96b427cdb502af30591437dd4c9fd6620b96b3054fb57cebf853b1a9b69ff37",
-    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3"
-  },
-  {
     "name": "AniworldMC",
     "internalName": "AniworldMC",
     "version": "1.0.0",
@@ -5066,5 +5022,49 @@
     "language": "tr",
     "status": 1,
     "description": "🆕 ramazansancar 16.09.2026 Depodan kurtarıldı."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/PowerSinema.cs3",
+    "status": 3,
+    "version": 1,
+    "name": "PowerSinema",
+    "internalName": "PowerSinema",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "🆕 Wiojelt 16.09.2026 Power Sinema · 9.000+ Yerli & Yabancı Sinema, Animasyon ve Seri Filmler",
+    "fileSize": 36366,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "AnimeMovie",
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-d5c8502dbfbfbe163ad859b79585af5d7eea75cfc465fd46f707fe2b2c1752b0",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/PowerSinema.cs3"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3",
+    "status": 1,
+    "version": 3,
+    "name": "GolgeTV",
+    "internalName": "GolgeTV",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "🆕 Wiojelt 16.09.2026 GölgeTV spor kanalları ve alternatif yayınlar",
+    "fileSize": 146713,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://golgetv.com/favicon.ico",
+    "apiVersion": 1,
+    "fileHash": "sha256-f96b427cdb502af30591437dd4c9fd6620b96b3054fb57cebf853b1a9b69ff37",
+    "downloadUrl": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3"
   }
 ]
