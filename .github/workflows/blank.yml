@@ -209,13 +209,14 @@ jobs:
             } catch (e) { console.error(`${targetUrl} hatası: ${e.message}`); }
           }
 
-          // --- YEREL DEPOYU (PLUGINS/ KANALLARINI) TARAYAN VE JSON'A EKLENMEMİŞ .CS3 DOSYALARINI KURTARAN FONKSİYON ---
+          // --- DEPO İÇİNDEKİ YEREL DOSYALARI TARA VE 'MoOnCrOwN DePo' OLARAK EKLE ---
           function syncLocalFilesToMap(mergedMap, today) {
             const pluginsDir = 'plugins';
             if (!fs.existsSync(pluginsDir)) return;
 
             const githubRepoUser = "mooncrown04";
             const githubRepoName = "depolar";
+            const customOwnerName = "MoOnCrOwN DePo"; // Özel Kaynak İsmi
 
             const owners = fs.readdirSync(pluginsDir);
             for (const owner of owners) {
@@ -228,7 +229,7 @@ jobs:
                     const key = pluginNameFromFile.toLowerCase().replace(/\s+/g, '').replace(/i/g, 'ı').trim();
                     
                     if (!mergedMap.has(key)) {
-                      console.log(`🔍 Depoda bulundu ancak JSON'da yoktu, eklendi: ${owner}/${file}`);
+                      console.log(`🔍 Depoda bulundu ancak JSON'da yoktu, '${customOwnerName}' olarak eklendi: ${owner}/${file}`);
                       const localUrl = `https://raw.githubusercontent.com/${githubRepoUser}/${githubRepoName}/main/plugins/${owner}/${file}`;
                       
                       const newLocalPlugin = {
@@ -239,7 +240,7 @@ jobs:
                         downloadUrl: localUrl,
                         language: "tr",
                         status: 1,
-                        description: `🆕 ${owner} ${today} Depodan kurtarıldı.`
+                        description: `🆕 ${customOwnerName} ${today} Depodan yüklenen eklenti.`
                       };
                       mergedMap.set(key, newLocalPlugin);
                     }
@@ -277,7 +278,7 @@ jobs:
               await processPlugins(item.url, true, item.allowedPlugins, mergedMap, today);
             }
 
-            // --- DIŞ KANAL TARAMALARI BİTTİKTEN SONRA DEPO İÇİNDEKİ YEREL DOSYALARI DA TARA VE EKSİKLERİ EKLE ---
+            // --- DIŞ KANAL TARAMALARI BİTTİKTEN SONRA DEPO İÇİNDEKİ YEREL DOSYALARI TARA ---
             syncLocalFilesToMap(mergedMap, today);
 
             const finalPluginsArray = Array.from(mergedMap.values());
