@@ -1,4 +1,4 @@
-name: Eklenti and README Yoneticisi
+name: Eklentiler ve README Yoneticisi
 
 on:
   schedule:
@@ -29,15 +29,16 @@ jobs:
           python-version: '3.x'
 
       - name: Bağımlılıkları Kur
-        run: npm install node-fetch@2
+        run: npm install node-fetch@2 adm-zip
 
-      # --- 1. ADIM: .CS3 DOSYALARINI İNDİR, DEPO İÇİNDEKİ YEREL DOSYALARI TARA VE PLUGINS.JSON GÜNCELLE ---
+      # --- 1. ADIM: .CS3 DOSYALARINI İNDİR, YEREL DEPOYU TARA, SİLİNENLERİ TEMİZLE VE JSON GÜNCELLE ---
       - name: Pluginleri Indir, Yerel Depoyu Tara ve JSON Guncelle
         run: |
           node - <<'NODE'
           const fetch = require('node-fetch');
           const fs = require('fs');
           const path = require('path');
+          const AdmZip = require('adm-zip');
 
           const urls = [
             'https://raw.githubusercontent.com/Wiojelt/WioSinema/refs/heads/builds/plugins.json',
@@ -105,6 +106,23 @@ jobs:
             return match ? match[1] : "Unknown";
           }
 
+          // .CS3 DOSYASI İÇİNDEKİ MANIFEST.JSON DOSYASINI OKUYAN FONKSİYON
+          function extractManifestFromCs3(filePath) {
+            try {
+              const zip = new AdmZip(filePath);
+              const zipEntries = zip.getEntries();
+              
+              const manifestEntry = zipEntries.find(entry => entry.entryName.endsWith('manifest.json'));
+              if (manifestEntry) {
+                const manifestText = zip.readAsText(manifestEntry);
+                return JSON.parse(manifestText);
+              }
+            } catch (e) {
+              console.log(`⚠️ ${filePath} için manifest.json okunamadı: ${e.message}`);
+            }
+            return null;
+          }
+
           async function processPlugins(targetUrl, isSelective, allowedList, mergedMap, today) {
             try {
               const res = await fetch(targetUrl);
@@ -123,6 +141,7 @@ jobs:
                 if (isRemoteDisabled) {
                   console.log(`⚠️ ${remote.name || key} uzakta 'status: 0' (devre dışı). Yeni sürüm alınmıyor.`);
                   if (existing) {
+                    delete existing.downloadUrl;
                     mergedMap.set(key, existing);
                   }
                   continue;
@@ -188,7 +207,7 @@ jobs:
                 const githubRepoName = "depolar";
                 
                 remote.url = `https://raw.githubusercontent.com/${githubRepoUser}/${githubRepoName}/main/plugins/${repoOwner}/${fileName}`;
-                remote.downloadUrl = remote.url;
+                delete remote.downloadUrl; // downloadUrl alanı temizlendi
 
                 if (!existing) {
                   remote.description = `🆕 ${repoOwner} ${today} ${(remote.description || '')}`;
@@ -202,6 +221,7 @@ jobs:
                     remote.description = `🔴 ${repoOwner} ${today} ${cleanDesc}`;
                     mergedMap.set(key, remote);
                   } else {
+                    delete existing.downloadUrl;
                     mergedMap.set(key, existing);
                   }
                 }
@@ -209,13 +229,14 @@ jobs:
             } catch (e) { console.error(`${targetUrl} hatası: ${e.message}`); }
           }
 
-          // --- YEREL DEPOYU (PLUGINS/ KANALLARINI) TARAYAN VE JSON'A EKLENMEMİŞ .CS3 DOSYALARINI KURTARAN FONKSİYON ---
+          // --- DEPOYA ELLE EKLENEN MANUEL .CS3 DOSYALARINI OKUYUP MANIFEST VERİLERİYLE JSON'A EKLEME ---
           function syncLocalFilesToMap(mergedMap, today) {
             const pluginsDir = 'plugins';
             if (!fs.existsSync(pluginsDir)) return;
 
             const githubRepoUser = "mooncrown04";
             const githubRepoName = "depolar";
+            const customOwnerName = "MoOnCrOwN DePo";
 
             const owners = fs.readdirSync(pluginsDir);
             for (const owner of owners) {
@@ -224,25 +245,50 @@ jobs:
                 const files = fs.readdirSync(ownerPath);
                 for (const file of files) {
                   if (file.endsWith('.cs3')) {
-                    const pluginNameFromFile = path.basename(file, '.cs3');
+                    const localFilePath = path.join(ownerPath, file);
+                    const manifest = extractManifestFromCs3(localFilePath);
+                    
+                    const pluginNameFromFile = manifest ? (manifest.name || manifest.internalName) : path.basename(file, '.cs3');
                     const key = pluginNameFromFile.toLowerCase().replace(/\s+/g, '').replace(/i/g, 'ı').trim();
                     
                     if (!mergedMap.has(key)) {
-                      console.log(`🔍 Depoda bulundu ancak JSON'da yoktu, eklendi: ${owner}/${file}`);
+                      console.log(`🔍 Elle eklenen .cs3 bulundu! Manifest okunuyor: ${owner}/${file}`);
                       const localUrl = `https://raw.githubusercontent.com/${githubRepoUser}/${githubRepoName}/main/plugins/${owner}/${file}`;
                       
                       const newLocalPlugin = {
                         name: pluginNameFromFile,
-                        internalName: pluginNameFromFile,
-                        version: "1.0.0",
+                        internalName: manifest ? (manifest.internalName || pluginNameFromFile) : pluginNameFromFile,
+                        version: manifest ? normalizeVersion(manifest.version) : "1.0.0",
                         url: localUrl,
-                        downloadUrl: localUrl,
-                        language: "tr",
+                        language: manifest ? (manifest.language || manifest.lang || "tr") : "tr",
+                        authors: manifest ? (manifest.authors || [manifest.author || owner]) : [owner],
+                        tvTypes: manifest ? (manifest.tvTypes || []) : [],
+                        iconUrl: manifest ? (manifest.iconUrl || "") : "",
                         status: 1,
-                        description: `🆕 ${owner} ${today} Depodan kurtarıldı.`
+                        description: `🆕 ${customOwnerName} ${today} ${manifest && manifest.description ? manifest.description : 'Depodan yüklenen eklenti.'}`
                       };
                       mergedMap.set(key, newLocalPlugin);
                     }
+                  }
+                }
+              }
+            }
+          }
+
+          // --- MANUEL SİLİNEN DOSYALARI JSON'DAN TEMİZLEME (GARBAGE COLLECTION) ---
+          function cleanDeletedPluginsFromMap(mergedMap) {
+            for (const [key, plugin] of mergedMap.entries()) {
+              const pluginUrl = plugin.url || plugin.downloadUrl || "";
+              if (pluginUrl) {
+                const match = pluginUrl.match(/\/main\/plugins\/([^/]+)\/([^/]+)$/);
+                if (match) {
+                  const owner = match[1];
+                  const fileName = match[2];
+                  const localPath = path.join('plugins', owner, fileName);
+                  
+                  if (!fs.existsSync(localPath)) {
+                    console.log(`🗑️ Manuel olarak silinmiş eklenti JSON'dan kaldırılıyor: ${owner}/${fileName}`);
+                    mergedMap.delete(key);
                   }
                 }
               }
@@ -264,6 +310,7 @@ jobs:
                     (b.name.toLowerCase() === pName || b.name.toLowerCase() === pInternal)
                   );
                   if (isOldBlocked) continue;
+                  delete p.downloadUrl;
                   mergedMap.set(getStandardKey(p), p);
                 }
               } catch (e) { console.log("Eski dosya okunamadı veya boş."); }
@@ -277,8 +324,11 @@ jobs:
               await processPlugins(item.url, true, item.allowedPlugins, mergedMap, today);
             }
 
-            // --- DIŞ KANAL TARAMALARI BİTTİKTEN SONRA DEPO İÇİNDEKİ YEREL DOSYALARI DA TARA VE EKSİKLERİ EKLE ---
+            // --- 1. DEPO İÇİNDEKİ YEREL DOSYALARI TARA VE MANIFEST OKUYARAK EKLE ---
             syncLocalFilesToMap(mergedMap, today);
+
+            // --- 2. MANUEL OLARAK SİLİNMİŞ (.CS3 DOSYASI OLMAYAN) EKLENTİLERİ JSON'DAN TEMİZLE ---
+            cleanDeletedPluginsFromMap(mergedMap);
 
             const finalPluginsArray = Array.from(mergedMap.values());
             
@@ -292,6 +342,7 @@ jobs:
               try {
                 const oldBackupContent = JSON.parse(fs.readFileSync('backup-plugins.json', 'utf8'));
                 for (const bp of oldBackupContent) {
+                  delete bp.downloadUrl;
                   backupMap.set(getStandardKey(bp), bp);
                 }
               } catch (e) {
@@ -299,8 +350,12 @@ jobs:
               }
             }
 
+            // Manuel silinenlerin backup-plugins.json dosyasından da temizlenmesi
+            cleanDeletedPluginsFromMap(backupMap);
+
             for (const plugin of finalPluginsArray) {
               const clone = { ...plugin };
+              delete clone.downloadUrl;
               const match = clone.description && clone.description.match(/(?:🆕|🔴)\s+([^\s]+)/);
               const owner = match ? match[1] : "Bilinmiyor";
               
@@ -308,7 +363,6 @@ jobs:
                 const fileName = path.basename(clone.url);
                 const localCs3Url = `https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/${owner}/${fileName}`;
                 clone.url = localCs3Url;
-                clone.downloadUrl = localCs3Url;
               }
               backupMap.set(getStandardKey(clone), clone);
             }
@@ -464,4 +518,8 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add plugins.json backup-plugins.json README.md plugins/
-          git diff --staged --quiet || (git commit -m "Auto-update: plugins, backup-plugins and README" && git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main)
+          if ! git diff --staged --quiet; then
+            git commit -m "Auto-update: plugins, backup-plugins and README"
+            git pull --rebase origin main
+            git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main
+          fi
