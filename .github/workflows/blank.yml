@@ -115,6 +115,22 @@ jobs:
               for (const remote of remotePlugins) {
                 if (Array.isArray(remote.tvTypes) && remote.tvTypes.includes('NSFW')) continue;
                 
+                const key = getStandardKey(remote);
+                const existing = mergedMap.get(key);
+
+                // --- STATUS 0 (DEVRE DIŞI / BAKIMDA) KONTROLÜ ---
+                // Remote nesnede 'status' sayı veya string olarak 0 tanımlıysa:
+                const isRemoteDisabled = remote.status === 0 || remote.status === "0";
+                
+                if (isRemoteDisabled) {
+                  console.log(`⚠️ ${remote.name || key} uzakta 'status: 0' (devre dışı). Yeni sürüm alınmıyor.`);
+                  // Eğer depomuzda daha önceden var olan çalışan bir sürümü varsa, onu korumaya devam et
+                  if (existing) {
+                    mergedMap.set(key, existing);
+                  }
+                  continue; // Yeni sürümü işleme, bir sonraki eklentiye geç
+                }
+
                 const pluginUrl = remote.url || remote.downloadUrl || "";
                 if (!pluginUrl || !pluginUrl.endsWith('.cs3')) continue;
 
@@ -135,8 +151,6 @@ jobs:
                   if (!isAllowed) continue;
                 }
 
-                const key = getStandardKey(remote);
-                const existing = mergedMap.get(key);
                 if (!remote.language && !remote.lang) remote.language = "tr";
 
                 const ownerDir = path.join('plugins', repoOwner);
@@ -147,24 +161,30 @@ jobs:
                 const fileName = path.basename(pluginUrl);
                 const localFilePath = path.join(ownerDir, fileName);
                 
-                let shouldDownload = true;
+                let downloadedSuccessfully = false;
+                let shouldAttemptDownload = true;
+
                 if (existing && normalizeVersion(existing.version) === normalizeVersion(remote.version) && fs.existsSync(localFilePath)) {
-                  shouldDownload = false;
+                  shouldAttemptDownload = false;
+                  downloadedSuccessfully = true;
                 }
 
-                if (shouldDownload) {
+                if (shouldAttemptDownload) {
                   try {
                     const fileRes = await fetch(pluginUrl);
                     if (fileRes.ok) {
                       const buffer = await fileRes.buffer();
                       fs.writeFileSync(localFilePath, buffer);
-                    } else {
-                      if (fs.existsSync(localFilePath)) shouldDownload = false;
+                      downloadedSuccessfully = true;
                     }
                   } catch (err) {
                     console.error(`${fileName} indirilemedi: ${err.message}`);
-                    if (fs.existsSync(localFilePath)) shouldDownload = false;
                   }
+                }
+
+                const hasLocalFile = fs.existsSync(localFilePath);
+                if (!downloadedSuccessfully && !hasLocalFile) {
+                  continue;
                 }
 
                 const githubRepoUser = "mooncrown04";
@@ -179,7 +199,8 @@ jobs:
                 } else {
                   const vRemote = normalizeVersion(remote.version);
                   const vExisting = normalizeVersion(existing.version);
-                  if (vRemote !== vExisting) {
+                  
+                  if (downloadedSuccessfully && vRemote !== vExisting) {
                     let cleanDesc = (remote.description || '').replace(/^(🔴|🆕).*?\d{2}\.\d{2}\.\d{4}/g, '').trim();
                     remote.description = `🔴 ${repoOwner} ${today} ${cleanDesc}`;
                     mergedMap.set(key, remote);
@@ -257,7 +278,7 @@ jobs:
           })();
           NODE
 
-      # --- 2. ADIM: INTERAKTİF (KAYNAKLARA GÖRE GRUPLU) README TABLO OLUŞTURUCU (PYTHON) ---
+      # --- 2. ADIM: INTERAKTİF README TABLO OLUŞTURUCU (HEPSİ VE KAYNAKLAR) ---
       - name: README.md Guncelle
         shell: python
         run: |
@@ -279,6 +300,7 @@ jobs:
           with open("plugins.json", encoding="utf-8") as f:
               plugins = json.load(f)
 
+          all_rows = []
           repo_groups = defaultdict(list)
           today_news_dict = defaultdict(list)
           today_updates_dict = defaultdict(list)
@@ -321,6 +343,7 @@ jobs:
               img_tag = f'<img src="{icon}" width="30" style="border-radius:4px;">' if icon and "%size%" not in icon else "—"
               
               row_str = f"| {img_tag} | **{name}** | {date_str} | {marker} | `{repo_name}` | {country_tag} |"
+              all_rows.append(row_str)
               repo_groups[repo_name].append(row_str)
 
           def format_grouped_list(data_dict):
@@ -356,11 +379,27 @@ jobs:
               f"---\n### Depo Sahibi:\n"
               f"[<img src='{OWNER_AVATAR}' width='48' style='border-radius:50%;'>]({OWNER_PROFILE})  \n"
               f"**[{OWNER}]({OWNER_PROFILE})**\n\n"
-              f"---\n## 📦 Eklenti Listesi (Kaynaklara Göre)\n\n"
-              f"*Aşağıdaki kaynak butonlarına tıklayarak o kaynağa ait eklentileri listeleyebilirsiniz:*\n\n"
+              f"---\n## 📦 Eklenti Listesi\n\n"
+              f"*Aşağıdaki gruplara tıklayarak eklentileri listeleyebilirsiniz:*\n\n"
           )
 
           content_blocks = []
+
+          # 1. EN ÜSTE "HEPSİ" AKORDİYONU
+          all_table_str = (
+              "| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |\n"
+              "|:----:|:------------|:------|:------|:-------|:----:|\n"
+              + "\n".join(all_rows)
+          )
+          all_block = (
+              f"<details>\n"
+              f"<summary>🌐 <b>TÜM EKLENTİLER (HEPSİ)</b> ({len(all_rows)} Eklenti)</summary>\n\n"
+              f"{all_table_str}\n\n"
+              f"</details>\n"
+          )
+          content_blocks.append(all_block)
+
+          # 2. KAYNAK BAZLI AKORDİYONLAR
           for repo_name in sorted(repo_groups.keys()):
               rows = repo_groups[repo_name]
               table_str = (
