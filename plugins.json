@@ -3,7 +3,7 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "fileSize": 1919310,
+    "fileSize": 1924191,
     "status": "3",
     "language": "tr",
     "authors": [
@@ -14,11 +14,12 @@
       "TvSeries",
       "Anime"
     ],
-    "version": "17",
+    "version": "21",
     "internalName": "WioSinema",
     "description": "🔴 Wiojelt 17.09.2026 Tüm Türkçe film ve dizi sağlayıcıları tek eklentide. TMDB katalog ve çoklu kaynak akışı.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/WioSinema.cs3",
-    "name": "WioSinema"
+    "name": "WioSinema",
+    "hash": "df3cc38a79af3021a3da092441e4146f1dc304c63fdc7cebe2c7f74e83643b5c"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.tranimeizle.io&sz=%size%",
@@ -43,7 +44,7 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/logo.png?v=3",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
-    "fileSize": 545301,
+    "fileSize": 550605,
     "status": "3",
     "language": "tr",
     "authors": [
@@ -52,11 +53,12 @@
     "tvTypes": [
       "Live"
     ],
-    "version": "14",
+    "version": "16",
     "internalName": "WioSpor",
-    "description": "🆕 Wiojelt 17.09.2026 Tüm canlı TV ve spor kanalları tek eklentide. Renk grupları ve alternatif yayın kaynakları.",
+    "description": "🔴 Wiojelt 17.09.2026 Tüm canlı TV ve spor kanalları tek eklentide. Renk grupları ve alternatif yayın kaynakları.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/WioSpor.cs3",
-    "name": "WioSpor"
+    "name": "WioSpor",
+    "hash": "ad91e158bdee8c1e7f74df84302efe1f5f51f6e82eca1b9e129223b916bd35aa"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/icon.png",
@@ -1320,7 +1322,7 @@
     "iconUrl": "https://diziasya.com/apple-touch-icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "fileSize": 65019,
+    "fileSize": 75240,
     "status": "3",
     "language": "tr",
     "authors": [
@@ -1331,11 +1333,12 @@
       "TvSeries",
       "Movie"
     ],
-    "version": "7",
+    "version": "8",
     "internalName": "DiziAsya",
-    "description": "🆕 Wiojelt 17.09.2026 DiziAsya · Kore, Japon ve Çin Dizileri & Asya Sineması (diziasya.com)",
+    "description": "🔴 Wiojelt 17.09.2026 DiziAsya · Kore, Japon ve Çin Dizileri & Asya Sineması (diziasya.com)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DiziAsya.cs3",
-    "name": "DiziAsya"
+    "name": "DiziAsya",
+    "hash": "c6faabb1c13b6daedbf9d22c8dad71a6accb27823d4b9df71d44de024b7c5b24"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dmax.com.tr&sz=%size%",
@@ -2273,7 +2276,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ctnkyaumt/cstest",
-    "fileSize": 416632,
+    "fileSize": 424374,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -2289,9 +2292,9 @@
       "Anime",
       "Live"
     ],
-    "version": "39",
+    "version": "44",
     "internalName": "TurkishW",
-    "description": "🆕 ctnkyaumt 17.09.2026 Tek arama sonucu (TurkishW); bir içeriğe girince tüm kaynaklardan linkleri toplar. Film, Dizi, Anime + Canlı TV.",
+    "description": "🔴 ctnkyaumt 17.09.2026 Tek arama sonucu (TurkishW); bir içeriğe girince tüm kaynaklardan linkleri toplar. Film, Dizi, Anime + Canlı TV.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/TurkishW.cs3",
     "name": "TurkishW"
   },
@@ -2986,5 +2989,1144 @@
     "description": "🆕 Wiojelt 17.09.2026 GölgeTV spor kanalları ve alternatif yayınlar",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3",
     "name": "GolgeTV"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 9859,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "Sertel392"
+    ],
+    "tvTypes": [],
+    "version": "2",
+    "internalName": "AsyaFilmIzlesene",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/AsyaFilmIzlesene.cs3",
+    "name": "AsyaFilmIzlesene"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 12115,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "Sertel392"
+    ],
+    "tvTypes": [],
+    "version": "3",
+    "internalName": "CizgiVeDizi",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/CizgiVeDizi.cs3",
+    "name": "CizgiVeDizi"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 22504,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "Sertel392"
+    ],
+    "tvTypes": [],
+    "version": "1",
+    "internalName": "Puhu",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/Puhu.cs3",
+    "name": "Puhu"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 19290,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "Sertel392"
+    ],
+    "tvTypes": [],
+    "version": "2",
+    "internalName": "TorrentFilm",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/TorrentFilm.cs3",
+    "name": "TorrentFilm"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 50752,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "Sertel392"
+    ],
+    "tvTypes": [],
+    "version": "14",
+    "internalName": "YerelDiziler",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/YerelDiziler.cs3",
+    "name": "YerelDiziler"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 77654,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "Sertel392"
+    ],
+    "tvTypes": [],
+    "version": "1",
+    "internalName": "YerelProgramlar",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Sertel392/YerelProgramlar.cs3",
+    "name": "YerelProgramlar"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 68841,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "Wiojelt"
+    ],
+    "tvTypes": [],
+    "version": "1",
+    "internalName": "BirdirbirIPTV",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/BirdirbirIPTV.cs3",
+    "name": "BirdirbirIPTV"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 70763,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "Wiojelt"
+    ],
+    "tvTypes": [],
+    "version": "8",
+    "internalName": "CNCVerseHotstar",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CNCVerseHotstar.cs3",
+    "name": "CNCVerseHotstar"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 748096,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "Wiojelt"
+    ],
+    "tvTypes": [],
+    "version": "7",
+    "internalName": "CineTmdb",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CineTmdb.cs3",
+    "name": "CineTmdb"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 40113,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "Wiojelt"
+    ],
+    "tvTypes": [],
+    "version": "7",
+    "internalName": "DDiziAlternatif",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DDiziAlternatif.cs3",
+    "name": "DDiziAlternatif"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 45133,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "Wiojelt"
+    ],
+    "tvTypes": [],
+    "version": "8",
+    "internalName": "HDFilmCehennemiAlternatif",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/HDFilmCehennemiAlternatif.cs3",
+    "name": "HDFilmCehennemiAlternatif"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 29407,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "Wiojelt"
+    ],
+    "tvTypes": [],
+    "version": "7",
+    "internalName": "InternetArchive",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/InternetArchive.cs3",
+    "name": "InternetArchive"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 1822352,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "Wiojelt"
+    ],
+    "tvTypes": [],
+    "version": "7",
+    "internalName": "TurkSinema",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSinema.cs3",
+    "name": "TurkSinema"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 79138,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "Wiojelt"
+    ],
+    "tvTypes": [],
+    "version": "3",
+    "internalName": "TurkSporDestek",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSporDestek.cs3",
+    "name": "TurkSporDestek"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 38811,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "Wiojelt"
+    ],
+    "tvTypes": [],
+    "version": "1",
+    "internalName": "WioIPTVPanels",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/WioIPTVPanels.cs3",
+    "name": "WioIPTVPanels"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 77378,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "aytzey"
+    ],
+    "tvTypes": [],
+    "version": "7",
+    "internalName": "AnimPow",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AnimPow.cs3",
+    "name": "AnimPow"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 52355,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "aytzey"
+    ],
+    "tvTypes": [],
+    "version": "41",
+    "internalName": "Animeler",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Animeler.cs3",
+    "name": "Animeler"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 40168,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "aytzey"
+    ],
+    "tvTypes": [],
+    "version": "4",
+    "internalName": "Animely",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Animely.cs3",
+    "name": "Animely"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 28605,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "aytzey"
+    ],
+    "tvTypes": [],
+    "version": "22",
+    "internalName": "AsyaFanatiklerim",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/AsyaFanatiklerim.cs3",
+    "name": "AsyaFanatiklerim"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 25726,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "aytzey"
+    ],
+    "tvTypes": [],
+    "version": "20",
+    "internalName": "DiziAsia",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziAsia.cs3",
+    "name": "DiziAsia"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 76765,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "aytzey"
+    ],
+    "tvTypes": [],
+    "version": "22",
+    "internalName": "DiziFilmORG",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziFilmORG.cs3",
+    "name": "DiziFilmORG"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 59178,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "aytzey"
+    ],
+    "tvTypes": [],
+    "version": "4",
+    "internalName": "Dizigecesi",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Dizigecesi.cs3",
+    "name": "Dizigecesi"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 38540,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "aytzey"
+    ],
+    "tvTypes": [],
+    "version": "16",
+    "internalName": "Filmzal",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Filmzal.cs3",
+    "name": "Filmzal"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 17903,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "aytzey"
+    ],
+    "tvTypes": [],
+    "version": "15",
+    "internalName": "GinikoCanli",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/GinikoCanli.cs3",
+    "name": "GinikoCanli"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 61447,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "aytzey"
+    ],
+    "tvTypes": [],
+    "version": "25",
+    "internalName": "HDFilmizle",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/HDFilmizle.cs3",
+    "name": "HDFilmizle"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 40510,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "aytzey"
+    ],
+    "tvTypes": [],
+    "version": "17",
+    "internalName": "KickTR",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/KickTR.cs3",
+    "name": "KickTR"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 628229,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "aytzey"
+    ],
+    "tvTypes": [],
+    "version": "86",
+    "internalName": "KraptorPlus",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/KraptorPlus.cs3",
+    "name": "KraptorPlus"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 140096,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "aytzey"
+    ],
+    "tvTypes": [],
+    "version": "38",
+    "internalName": "MirrorVerse",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/MirrorVerse.cs3",
+    "name": "MirrorVerse"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 31616,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "aytzey"
+    ],
+    "tvTypes": [],
+    "version": "13",
+    "internalName": "OnePaceTr",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/OnePaceTr.cs3",
+    "name": "OnePaceTr"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 75102,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "aytzey"
+    ],
+    "tvTypes": [],
+    "version": "28",
+    "internalName": "OpenAnime",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/OpenAnime.cs3",
+    "name": "OpenAnime"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 40339,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "aytzey"
+    ],
+    "tvTypes": [],
+    "version": "25",
+    "internalName": "SeiCode",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/SeiCode.cs3",
+    "name": "SeiCode"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 70901,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "aytzey"
+    ],
+    "tvTypes": [],
+    "version": "15",
+    "internalName": "TrAnimeIzle",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/TrAnimeIzle.cs3",
+    "name": "TrAnimeIzle"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 166809,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "aytzey"
+    ],
+    "tvTypes": [],
+    "version": "33",
+    "internalName": "Turkdizileri",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Turkdizileri.cs3",
+    "name": "Turkdizileri"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 36778,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "aytzey"
+    ],
+    "tvTypes": [],
+    "version": "18",
+    "internalName": "TvDiziler",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/TvDiziler.cs3",
+    "name": "TvDiziler"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 59842,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "aytzey"
+    ],
+    "tvTypes": [],
+    "version": "23",
+    "internalName": "WFilmizle",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/WFilmizle.cs3",
+    "name": "WFilmizle"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 92944,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "aytzey"
+    ],
+    "tvTypes": [],
+    "version": "42",
+    "internalName": "YTS",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/YTS.cs3",
+    "name": "YTS"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 29294,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "aytzey"
+    ],
+    "tvTypes": [],
+    "version": "11",
+    "internalName": "YeniKaynak",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/YeniKaynak.cs3",
+    "name": "YeniKaynak"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 109126,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "aytzey"
+    ],
+    "tvTypes": [],
+    "version": "39",
+    "internalName": "Youtube",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Youtube.cs3",
+    "name": "Youtube"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 21613,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "blackhope01"
+    ],
+    "tvTypes": [],
+    "version": "1",
+    "internalName": "LoveFilm",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/LoveFilm.cs3",
+    "name": "LoveFilm"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 19992,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "blackhope01"
+    ],
+    "tvTypes": [],
+    "version": "1",
+    "internalName": "TmdbProvider",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/TmdbProvider.cs3",
+    "name": "TmdbProvider"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 6219592,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "dcenhance"
+    ],
+    "tvTypes": [],
+    "version": "764",
+    "internalName": "CS3MProvider",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/dcenhance/CS3MProvider.cs3",
+    "name": "CS3MProvider"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 21514,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "lepotane"
+    ],
+    "tvTypes": [],
+    "version": "1",
+    "internalName": "Animejara",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Animejara.cs3",
+    "name": "Animejara"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 25245,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "lepotane"
+    ],
+    "tvTypes": [],
+    "version": "1",
+    "internalName": "Atv",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Atv.cs3",
+    "name": "Atv"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 15219,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "lepotane"
+    ],
+    "tvTypes": [],
+    "version": "2",
+    "internalName": "DiziGom",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziGom.cs3",
+    "name": "DiziGom"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 48211,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "lepotane"
+    ],
+    "tvTypes": [],
+    "version": "2",
+    "internalName": "DiziMag",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziMag.cs3",
+    "name": "DiziMag"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 20865,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "lepotane"
+    ],
+    "tvTypes": [],
+    "version": "3",
+    "internalName": "DiziWatch",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziWatch.cs3",
+    "name": "DiziWatch"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 12468,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "lepotane"
+    ],
+    "tvTypes": [],
+    "version": "2",
+    "internalName": "FilmIzyon",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FilmIzyon.cs3",
+    "name": "FilmIzyon"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 18507,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "lepotane"
+    ],
+    "tvTypes": [],
+    "version": "4",
+    "internalName": "FullHDIzle",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FullHDIzle.cs3",
+    "name": "FullHDIzle"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 26337,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "lepotane"
+    ],
+    "tvTypes": [],
+    "version": "1",
+    "internalName": "HdFilmCehennemi2",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/HdFilmCehennemi2.cs3",
+    "name": "HdFilmCehennemi2"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 30116,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "lepotane"
+    ],
+    "tvTypes": [],
+    "version": "1",
+    "internalName": "Startv",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Startv.cs3",
+    "name": "Startv"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 19062,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "lepotane"
+    ],
+    "tvTypes": [],
+    "version": "1",
+    "internalName": "UltraFilmizle",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/UltraFilmizle.cs3",
+    "name": "UltraFilmizle"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 26816,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "mooncrown"
+    ],
+    "tvTypes": [],
+    "version": "3",
+    "internalName": "Vidmody",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/mooncrown/Vidmody.cs3",
+    "name": "Vidmody"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 21675,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "murattunc05"
+    ],
+    "tvTypes": [],
+    "version": "4",
+    "internalName": "BronzeCloudSports",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/BronzeCloudSports_v4.cs3",
+    "name": "BronzeCloudSports"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 36625,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "murattunc05"
+    ],
+    "tvTypes": [],
+    "version": "3",
+    "internalName": "Vavoo",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/murattunc05/Vavoo_v3.cs3",
+    "name": "Vavoo"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 11116,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "ramazansancar"
+    ],
+    "tvTypes": [],
+    "version": "5",
+    "internalName": "4KFilmIzlesene",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/4KFilmIzlesene.cs3",
+    "name": "4KFilmIzlesene"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 17764,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "ramazansancar"
+    ],
+    "tvTypes": [],
+    "version": "3",
+    "internalName": "FilmKovasi",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/FilmKovasi.cs3",
+    "name": "FilmKovasi"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 17149,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "ramazansancar"
+    ],
+    "tvTypes": [],
+    "version": "2",
+    "internalName": "Filmİzlesene",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/Filmİzlesene.cs3",
+    "name": "Filmİzlesene"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 15195,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "ramazansancar"
+    ],
+    "tvTypes": [],
+    "version": "2",
+    "internalName": "FullHDFilmİzlede",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/FullHDFilmİzlede.cs3",
+    "name": "FullHDFilmİzlede"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 22773,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "ramazansancar"
+    ],
+    "tvTypes": [],
+    "version": "12",
+    "internalName": "HDFilmSitesi",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/HDFilmSitesi.cs3",
+    "name": "HDFilmSitesi"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 15086,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "ramazansancar"
+    ],
+    "tvTypes": [],
+    "version": "6",
+    "internalName": "IzleAI",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/IzleAI.cs3",
+    "name": "IzleAI"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 22454,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "ramazansancar"
+    ],
+    "tvTypes": [],
+    "version": "9",
+    "internalName": "RoketDizi",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/RoketDizi.cs3",
+    "name": "RoketDizi"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 11977,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "ramazansancar"
+    ],
+    "tvTypes": [],
+    "version": "2",
+    "internalName": "Tafdi",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/Tafdi.cs3",
+    "name": "Tafdi"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 18030,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "ramazansancar"
+    ],
+    "tvTypes": [],
+    "version": "6",
+    "internalName": "TurkSCanliTV",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/TurkSCanliTV.cs3",
+    "name": "TurkSCanliTV"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 13653,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "ramazansancar"
+    ],
+    "tvTypes": [],
+    "version": "4",
+    "internalName": "Twitch",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/Twitch.cs3",
+    "name": "Twitch"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 15328,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "ramazansancar"
+    ],
+    "tvTypes": [],
+    "version": "3",
+    "internalName": "WFilmİzle",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/WFilmİzle.cs3",
+    "name": "WFilmİzle"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 18683,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "ramazansancar"
+    ],
+    "tvTypes": [],
+    "version": "3",
+    "internalName": "iptvSevenler",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/iptvSevenler.cs3",
+    "name": "iptvSevenler"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 18702,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "ramazansancar"
+    ],
+    "tvTypes": [],
+    "version": "2",
+    "internalName": "vavooSpor",
+    "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ramazansancar/vavooSpor.cs3",
+    "name": "vavooSpor"
   }
 ]
