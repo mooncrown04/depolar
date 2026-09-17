@@ -1,14 +1,14 @@
-### Son Güncelleme: 17.09.2026 04:12
+### Son Güncelleme: 17.09.2026 21:00
 
-### Toplam Eklenti: `221`
+### Toplam Eklenti: `225`
 
 > 🚀 **Bugünkü Güncelleme Özeti (17.09.2026)**
 >
 > * 🆕 **Yeni Eklenenler:**
   * **CakesTwix:** `SyncPlugin`
-  * **GitLatte:** `KICK Türkiye - Latte`, `powerboard Dizi - Latte`, `powerboard Sinema - Latte`
+  * **GitLatte:** `KICK Türkiye - Latte`, `powerboard Dizi - Latte`
   * **MoOnCrOwN DePo:** `4KFilmIzlesene`, `AnimPow`, `Animejara`, `Animeler`, `Animely`, `AniworldMC`, `AsyaFanatiklerim`, `AsyaFilmIzlesene`, `Atv`, `BirdirbirIPTV`, `BronzeCloudSports`, `CNCVerseHotstar`, `CS3MProvider`, `CineTmdb`, `CizgiVeDizi`, `DDizi - Latte`, `DDiziAlternatif`, `DiziAsia`, `DiziFilmORG`, `DiziFun - Latte`, `DiziGom`, `DiziMag`, `DiziWatch`, `Dizigecesi`, `FilmIzyon`, `FilmKovasi`, `Filmzal`, `Filmİzlesene`, `FullHDFilmİzlede`, `FullHDIzle`, `GinikoCanli`, `GoFilmIzle - Latte`, `HDFilmCehennemiAlternatif`, `HDFilmSitesi`, `HDFilmizle`, `HdFilmCehennemi2`, `InternetArchive`, `IzleAI`, `KickTR`, `KraptorPlus`, `LoveFilm`, `MirrorVerse`, `Müzik TV ve Radyo - Latte`, `OnePaceTr`, `OpenAnime`, `Puhu`, `RoketDizi`, `SeiCode`, `Startv`, `Tafdi`, `TmdbProvider`, `TorrentFilm`, `TrAnimeIzle`, `TurkSCanliTV`, `TurkSinema`, `TurkSporDestek`, `Turkdizileri`, `Tv Bahçesi - Latte`, `TvDiziler`, `Twitch`, `UltraFilmizle`, `Vavoo`, `Vidmody`, `WFilmizle`, `WFilmİzle`, `WebDramaTurkey - Latte`, `WioIPTVPanels`, `YTS`, `YeniKaynak`, `YerelDiziler`, `YerelProgramlar`, `YouTube Özel - Latte`, `Youtube`, `iptvSevenler`, `myway TV - Latte`, `vavooSpor`
-  * **Wiojelt:** `AltiYuzAltmisAltiFilmIzle`, `Anizium`, `ArdaSpor`, `AslanTV`, `BetmatikTV`, `BeyazElma`, `CNCVerseDisneyPlus`, `CNCVerseNetflix`, `CNCVersePrimeVideo`, `CineCat`, `CineSimkl`, `CineStream`, `ClipBox`, `Crex`, `CricifyProvider`, `DaddyLive`, `Deokwave`, `DiziAsya`, `DiziBoxAlternatif`, `DiziFilmIzle`, `DiziRella`, `DomatesTV`, `DominoTV`, `FilmIzzle`, `FlixNetwork`, `GolgeTV`, `HDFilmIzleInk`, `HDFilmIzleVip`, `HDFilmizleBest`, `Hesgoal`, `InatTV`, `InterSporTV`, `JestYayin`, `KralSporHD`, `LiderFilmIzle`, `LivXowProvider`, `LiveXTV`, `MacKeyfi`, `MahsunSports`, `MovieBoxProvider`, `NetFilmizle`, `NetVGold`, `Ntvs`, `PapazSports`, `PlayZTVProvider`, `PowerSinema`, `SelcukSports`, `SinemaGG`, `Sinemakolik`, `SportzxProvider`, `StreamEast`, `TRGoals`, `Taraftarium24`, `TrDiziIzle`, `TurkSinemaDestek`, `VivoXSpor`, `WioSinema`, `WioSpor`, `YabanciDizi`, `ZbahisTV`
+  * **Wiojelt:** `AltiYuzAltmisAltiFilmIzle`, `Anizium`, `ArdaSpor`, `AslanTV`, `BasketballReplays`, `BasketballVideo`, `BetmatikTV`, `BeyazElma`, `CNCVerseDisneyPlus`, `CNCVerseNetflix`, `CNCVersePrimeVideo`, `CineCat`, `CineSimkl`, `CineStream`, `ClipBox`, `Crex`, `CricifyProvider`, `DaddyLive`, `Deokwave`, `DiziAsya`, `DiziBoxAlternatif`, `DiziFilmIzle`, `DiziRella`, `DomatesTV`, `DominoTV`, `FilmIzzle`, `FlixNetwork`, `GolgeTV`, `HDFilmIzleInk`, `HDFilmIzleVip`, `HDFilmizleBest`, `Hesgoal`, `InatTV`, `InterSporTV`, `JestYayin`, `KralSporHD`, `LiderFilmIzle`, `LivXowProvider`, `LiveXTV`, `MacKeyfi`, `MahsunSports`, `MovieBoxProvider`, `NetFilmizle`, `NetShort`, `NetVGold`, `Ntvs`, `PapazSports`, `PlayZTVProvider`, `PowerSinema`, `SelcukSports`, `SinemaGG`, `Sinemakolik`, `SportzxProvider`, `StreamEast`, `TRGoals`, `Taraftarium24`, `TrDiziIzle`, `TurkSinemaDestek`, `TurkSpor`, `VivoXSpor`, `WioSpor`, `YabanciDizi`, `ZbahisTV`
   * **blackhope01:** `FilmHane`
   * **ctnkyaumt:** `EnglishW`, `Filmmirasım`, `TurkishW`
   * **feroxx:** `CanliTV`, `DiziPod`
@@ -18,15 +18,16 @@
   * **pltmustafa:** `Cloud-Sync`, `plt-party`, `plt-stream`, `plt-tv`, `trakt-sync`
 >
 > * 🔴 **Güncellenenler:**
-  * **Wiojelt:** `v10 Spor`
+  * **GitLatte:** `powerboard Sinema - Latte`
+  * **Wiojelt:** `WioSinema`, `v10 Spor`
   * **blackhope01:** `DiziLife`, `DiziMom`, `DiziYo`, `DramaDizilerim`, `FilmMakinesi`, `JetFilmizle`, `SezonlukDizi`, `Webteizle`
-  * **feroxx:** `DiziPalOriginal`, `Dizilla`, `FullHDFilm`, `FullHDFilmizlesene`, `HDFilmDelisi`, `InatBox`, `RecTV`, `SetFilmIzle`, `TRanimaci`
+  * **feroxx:** `DiziPalOriginal`, `Dizilla`, `FullHDFilm`, `FullHDFilmizlesene`, `InatBox`, `RecTV`, `SetFilmIzle`, `TRanimaci`
   * **lepotane:** `AnimeciX`, `BelgeselX`, `CizgiMax`, `DDizi`, `DMax`, `DiziBal`, `DiziBol`, `DiziBox`, `DiziKorea`, `DiziPal`, `DiziYou`, `FilmModu`, `HDFilmCehennemi`, `KultFilmler`, `SelcukFlix`, `SineWix`, `SinemaCX`, `Streamed`, `TRasyalog`, `TurkAnime`, `Watch2Movies`
   * **manitux-app:** `YesilcamTV`
-  * **patr0nq:** `AsyaAnimeleri`, `RareFilmm`, `TLCtr`
+  * **patr0nq:** `AsyaAnimeleri`, `HDFilmDelisi`, `RareFilmm`, `TLCtr`
 
 ### 📊 Son 15 Günlük Durum Özeti
-🆕 Yeni Eklentiler: 174 &nbsp;|&nbsp; 🔴 Güncellenenler: 47
+🆕 Yeni Eklentiler: 176 &nbsp;|&nbsp; 🔴 Güncellenenler: 49
 
 ---
 ### Depo Sahibi:
@@ -39,7 +40,7 @@
 *Aşağıdaki gruplara tıklayarak eklentileri listeleyebilirsiniz:*
 
 <details>
-<summary>🌐 <b>TÜM EKLENTİLER (HEPSİ)</b> (221 Eklenti)</summary>
+<summary>🌐 <b>TÜM EKLENTİLER (HEPSİ)</b> (225 Eklenti)</summary>
 
 | İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
 |:----:|:------------|:------|:------|:-------|:----:|
@@ -62,6 +63,8 @@
 | — | **AsyaFilmIzlesene** | 17.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **AsyaWatch** | 17.09.2026 | 🆕 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **Atv** | 17.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="30" style="border-radius:4px;"> | **BasketballReplays** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="30" style="border-radius:4px;"> | **BasketballVideo** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
 | — | **BelgeselX** | 17.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BetmatikTV.png" width="30" style="border-radius:4px;"> | **BetmatikTV** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BeyazElma.png" width="30" style="border-radius:4px;"> | **BeyazElma** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -141,7 +144,7 @@
 | <img src="https://www.google.com/s2/favicons?sz=64&domain=hdfilmcehennemi.nl" width="30" style="border-radius:4px;"> | **HDFilmCehennemi** | 17.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **HdFilmCehennemi2** | 17.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **HDFilmCehennemiAlternatif** | 17.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| — | **HDFilmDelisi** | 17.09.2026 | 🔴 | `feroxx` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **HDFilmDelisi** | 17.09.2026 | 🔴 | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **HDFilmizle** | 17.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.google.com/s2/favicons?domain=www.hdfilmizle.best&sz=128" width="30" style="border-radius:4px;"> | **HDFilmizleBest** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.google.com/s2/favicons?domain=hdfilmizle.ink&sz=128" width="30" style="border-radius:4px;"> | **HDFilmIzleInk** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -176,6 +179,7 @@
 | — | **Müzik TV ve Radyo - Latte** | 17.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.google.com/s2/favicons?domain=netfilmizle.com&sz=128" width="30" style="border-radius:4px;"> | **NetFilmizle** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://netfree2.cc/mobile/img/nf2/icon_x192.png" width="30" style="border-radius:4px;"> | **NetflixMirror** | 17.09.2026 | 🆕 | `patr0nq` | <img src="https://flagcdn.com/w20/in.png" width="20" alt="hi"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/netshort.png" width="30" style="border-radius:4px;"> | **NetShort** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/NetVGold.png" width="30" style="border-radius:4px;"> | **NetVGold** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Ntvs.png" width="30" style="border-radius:4px;"> | **Ntvs** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **OnePaceTr** | 17.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -186,7 +190,7 @@
 | <img src="https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png" width="30" style="border-radius:4px;"> | **plt-stream** | 17.09.2026 | 🆕 | `pltmustafa` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon_tv.png" width="30" style="border-radius:4px;"> | **plt-tv** | 17.09.2026 | 🆕 | `pltmustafa` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powerdizi.png" width="30" style="border-radius:4px;"> | **powerboard Dizi - Latte** | 17.09.2026 | 🆕 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powersinema.png" width="30" style="border-radius:4px;"> | **powerboard Sinema - Latte** | 17.09.2026 | 🆕 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powersinema.png" width="30" style="border-radius:4px;"> | **powerboard Sinema - Latte** | 17.09.2026 | 🔴 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png" width="30" style="border-radius:4px;"> | **PowerSinema** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **Puhu** | 17.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **RareFilmm** | 17.09.2026 | 🔴 | `patr0nq` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
@@ -231,6 +235,7 @@
 | — | **TurkSCanliTV** | 17.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **TurkSinema** | 17.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/support-qr.png" width="30" style="border-radius:4px;"> | **TurkSinemaDestek** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="30" style="border-radius:4px;"> | **TurkSpor** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **TurkSporDestek** | 17.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **Tv Bahçesi - Latte** | 17.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **Tv8** | 17.09.2026 | 🆕 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -251,7 +256,7 @@
 | — | **WFilmizle** | 17.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **WFilmİzle** | 17.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **WioIPTVPanels** | 17.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png" width="30" style="border-radius:4px;"> | **WioSinema** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png" width="30" style="border-radius:4px;"> | **WioSinema** | 17.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/logo.png?v=3" width="30" style="border-radius:4px;"> | **WioSpor** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.google.com/s2/favicons?domain=yabancidizi.news&sz=128" width="30" style="border-radius:4px;"> | **YabanciDizi** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **YeniKaynak** | 17.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -283,7 +288,7 @@
 |:----:|:------------|:------|:------|:-------|:----:|
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/kick.png" width="30" style="border-radius:4px;"> | **KICK Türkiye - Latte** | 17.09.2026 | 🆕 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powerdizi.png" width="30" style="border-radius:4px;"> | **powerboard Dizi - Latte** | 17.09.2026 | 🆕 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powersinema.png" width="30" style="border-radius:4px;"> | **powerboard Sinema - Latte** | 17.09.2026 | 🆕 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powersinema.png" width="30" style="border-radius:4px;"> | **powerboard Sinema - Latte** | 17.09.2026 | 🔴 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 
 </details>
 
@@ -372,7 +377,7 @@
 </details>
 
 <details>
-<summary>📂 <b>Wiojelt</b> (61 Eklenti)</summary>
+<summary>📂 <b>Wiojelt</b> (65 Eklenti)</summary>
 
 | İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
 |:----:|:------------|:------|:------|:-------|:----:|
@@ -380,6 +385,8 @@
 | <img src="https://x.anizium.co/assets/index/img/embed-logo.png" width="30" style="border-radius:4px;"> | **Anizium** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ArdaSpor.png" width="30" style="border-radius:4px;"> | **ArdaSpor** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/AslanTV.png" width="30" style="border-radius:4px;"> | **AslanTV** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="30" style="border-radius:4px;"> | **BasketballReplays** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="30" style="border-radius:4px;"> | **BasketballVideo** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BetmatikTV.png" width="30" style="border-radius:4px;"> | **BetmatikTV** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BeyazElma.png" width="30" style="border-radius:4px;"> | **BeyazElma** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://cinecat.eu/android-chrome-192x192.png?v=3" width="30" style="border-radius:4px;"> | **CineCat** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/un.png" width="20" alt="all"> |
@@ -417,6 +424,7 @@
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/MahsunSports.jpg" width="30" style="border-radius:4px;"> | **MahsunSports** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png" width="30" style="border-radius:4px;"> | **MovieBoxProvider** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
 | <img src="https://www.google.com/s2/favicons?domain=netfilmizle.com&sz=128" width="30" style="border-radius:4px;"> | **NetFilmizle** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/netshort.png" width="30" style="border-radius:4px;"> | **NetShort** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/NetVGold.png" width="30" style="border-radius:4px;"> | **NetVGold** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Ntvs.png" width="30" style="border-radius:4px;"> | **Ntvs** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/PapazSports.png" width="30" style="border-radius:4px;"> | **PapazSports** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -431,9 +439,10 @@
 | <img src="https://www.google.com/s2/favicons?domain=trdiziizle.tv&sz=128" width="30" style="border-radius:4px;"> | **TrDiziIzle** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/TRGoals.png" width="30" style="border-radius:4px;"> | **TRGoals** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/support-qr.png" width="30" style="border-radius:4px;"> | **TurkSinemaDestek** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="30" style="border-radius:4px;"> | **TurkSpor** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/test/builds/icon.png" width="30" style="border-radius:4px;"> | **v10 Spor** | 17.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/VivoXSpor.png" width="30" style="border-radius:4px;"> | **VivoXSpor** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| <img src="https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png" width="30" style="border-radius:4px;"> | **WioSinema** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png" width="30" style="border-radius:4px;"> | **WioSinema** | 17.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/logo.png?v=3" width="30" style="border-radius:4px;"> | **WioSpor** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://www.google.com/s2/favicons?domain=yabancidizi.news&sz=128" width="30" style="border-radius:4px;"> | **YabanciDizi** | 17.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ZbahisTV.png" width="30" style="border-radius:4px;"> | **ZbahisTV** | 17.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -469,7 +478,7 @@
 </details>
 
 <details>
-<summary>📂 <b>feroxx</b> (11 Eklenti)</summary>
+<summary>📂 <b>feroxx</b> (10 Eklenti)</summary>
 
 | İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
 |:----:|:------------|:------|:------|:-------|:----:|
@@ -479,7 +488,6 @@
 | — | **DiziPod** | 17.09.2026 | 🆕 | `feroxx` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **FullHDFilm** | 17.09.2026 | 🔴 | `feroxx` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **FullHDFilmizlesene** | 17.09.2026 | 🔴 | `feroxx` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
-| — | **HDFilmDelisi** | 17.09.2026 | 🔴 | `feroxx` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png" width="30" style="border-radius:4px;"> | **InatBox** | 17.09.2026 | 🔴 | `feroxx` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp" width="30" style="border-radius:4px;"> | **RecTV** | 17.09.2026 | 🔴 | `feroxx` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **SetFilmIzle** | 17.09.2026 | 🔴 | `feroxx` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
@@ -546,12 +554,13 @@
 </details>
 
 <details>
-<summary>📂 <b>patr0nq</b> (10 Eklenti)</summary>
+<summary>📂 <b>patr0nq</b> (11 Eklenti)</summary>
 
 | İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
 |:----:|:------------|:------|:------|:-------|:----:|
 | — | **AsyaAnimeleri** | 17.09.2026 | 🔴 | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://filmbip.com/uploads/favicon/original/favicon.webp" width="30" style="border-radius:4px;"> | **FilmBip** | 17.09.2026 | 🆕 | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **HDFilmDelisi** | 17.09.2026 | 🔴 | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | — | **KoreanTurk** | 17.09.2026 | 🆕 | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
 | <img src="https://netfree2.cc/mobile/img/nf2/icon_x192.png" width="30" style="border-radius:4px;"> | **NetflixMirror** | 17.09.2026 | 🆕 | `patr0nq` | <img src="https://flagcdn.com/w20/in.png" width="20" alt="hi"> |
 | — | **RareFilmm** | 17.09.2026 | 🔴 | `patr0nq` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |

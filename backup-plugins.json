@@ -3,7 +3,7 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "fileSize": 1917913,
+    "fileSize": 1919310,
     "status": "3",
     "language": "tr",
     "authors": [
@@ -12,13 +12,11 @@
     "tvTypes": [
       "Movie",
       "TvSeries",
-      "Anime",
-      "Cartoon",
-      "Documentary"
+      "Anime"
     ],
-    "version": "12",
+    "version": "17",
     "internalName": "WioSinema",
-    "description": "🆕 Wiojelt 17.09.2026 TMDB v3 Türkçe katalog (23 ayrıştırılmış kategori), Ultra HD afişler, ClipBox/CineStream direkt TMDB motoru ve 68 sağlayıcıyı tek çatı altında toplayan birleşik sinema ve dizi eklentisi.",
+    "description": "🔴 Wiojelt 17.09.2026 Tüm Türkçe film ve dizi sağlayıcıları tek eklentide. TMDB katalog ve çoklu kaynak akışı.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/WioSinema.cs3",
     "name": "WioSinema"
   },
@@ -144,8 +142,8 @@
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/patr0nq/patr0n-cs",
-    "fileSize": 13845,
+    "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
+    "fileSize": 16594,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -762,8 +760,8 @@
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmdelisi.com&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/feroxx/Kekik-cloudstream",
-    "fileSize": 64395,
+    "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
+    "fileSize": 61519,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -775,8 +773,8 @@
     ],
     "version": "1",
     "internalName": "HDFilmDelisi",
-    "description": "🔴 feroxx 17.09.2026 HD Film Delisi - Türkçe Filmler",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/HDFilmDelisi.cs3",
+    "description": "🔴 patr0nq 17.09.2026 HD Film Delisi - Türkçe Filmler",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/HDFilmDelisi.cs3",
     "name": "HDFilmDelisi"
   },
   {
@@ -2887,7 +2885,7 @@
     ],
     "version": "5",
     "internalName": "powerboard Sinema - Latte",
-    "description": "🆕 GitLatte 17.09.2026 powerboard`un sinema arşivi",
+    "description": "🔴 GitLatte 17.09.2026 powerboard`un sinema arşivi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/powerboard Sinema - Latte.cs3",
     "name": "powerboard Sinema - Latte"
   },
@@ -4201,5 +4199,84 @@
     "description": "🆕 MoOnCrOwN DePo 17.09.2026 Depodan yüklenen eklenti.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/MoOnCrOwN/vavooSpor.cs3",
     "name": "vavooSpor"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/netshort.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
+    "fileSize": 29858,
+    "status": "3",
+    "language": "tr",
+    "authors": [
+      "Wiojelt"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "AsianDrama"
+    ],
+    "version": "1",
+    "internalName": "NetShort",
+    "description": "🆕 Wiojelt 17.09.2026 NetShort · Kısa dikey diziler",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/NetShort.cs3",
+    "name": "NetShort"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "fileSize": 464730,
+    "status": "3",
+    "language": "tr",
+    "authors": [
+      "Wiojelt"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": "4",
+    "internalName": "TurkSpor",
+    "description": "🆕 Wiojelt 17.09.2026 17 spor sağlayıcısı tek pakette. İstenen sağlayıcı eklenti ayarlarından açılıp kapatılabilir.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkSpor.cs3",
+    "name": "TurkSpor"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "fileSize": 106651,
+    "status": "3",
+    "language": "en",
+    "authors": [
+      "Wiojelt"
+    ],
+    "tvTypes": [
+      "Movie",
+      "Others"
+    ],
+    "version": "1",
+    "internalName": "BasketballReplays",
+    "description": "🆕 Wiojelt 17.09.2026 BasketballReplays · Full game replays (NBA, EuroLeague)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/BasketballReplays.cs3",
+    "name": "BasketballReplays"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "fileSize": 109339,
+    "status": "3",
+    "language": "en",
+    "authors": [
+      "Wiojelt"
+    ],
+    "tvTypes": [
+      "Movie",
+      "Others"
+    ],
+    "version": "1",
+    "internalName": "BasketballVideo",
+    "description": "🆕 Wiojelt 17.09.2026 BasketballVideo · Game replays & highlights",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/BasketballVideo.cs3",
+    "name": "BasketballVideo"
   }
 ]
