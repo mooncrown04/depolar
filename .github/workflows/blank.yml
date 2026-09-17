@@ -262,7 +262,7 @@ jobs:
             } catch (e) { console.error(`${targetUrl} hatası: ${e.message}`); }
           }
 
-          function syncLocalFilesToMap(mergedMap, today) {
+          function extractLocalOnlyPlugins(mergedMap, customLocalMap, today) {
             const pluginsDir = 'plugins';
             if (!fs.existsSync(pluginsDir)) return;
 
@@ -283,6 +283,7 @@ jobs:
                     const pluginNameFromFile = manifest ? (manifest.name || manifest.internalName) : path.basename(file, '.cs3');
                     const key = pluginNameFromFile.toLowerCase().replace(/\s+/g, '').replace(/i/g, 'ı').trim();
                     
+                    // DIŞ URL'LERDE YOKSA -> Sadece senin deponda olan eklentidir
                     if (!mergedMap.has(key)) {
                       const localUrl = `https://raw.githubusercontent.com/${githubRepoUser}/${githubRepoName}/main/plugins/${owner}/${file}`;
                       
@@ -301,7 +302,10 @@ jobs:
                         url: localUrl,
                         name: pluginNameFromFile
                       };
-                      mergedMap.set(key, formatPluginObject(newLocalPlugin));
+
+                      const formattedObj = formatPluginObject(newLocalPlugin);
+                      mergedMap.set(key, formattedObj);
+                      customLocalMap.set(key, formattedObj);
                     }
                   }
                 }
@@ -309,8 +313,8 @@ jobs:
             }
           }
 
-          function cleanDeletedPluginsFromMap(mergedMap) {
-            for (const [key, plugin] of mergedMap.entries()) {
+          function cleanDeletedPluginsFromMap(targetMap) {
+            for (const [key, plugin] of targetMap.entries()) {
               const pluginUrl = plugin.url || plugin.downloadUrl || "";
               if (pluginUrl) {
                 const match = pluginUrl.match(/\/main\/plugins\/([^/]+)\/([^/]+)$/);
@@ -320,7 +324,7 @@ jobs:
                   const localPath = path.join('plugins', owner, fileName);
                   
                   if (!fs.existsSync(localPath)) {
-                    mergedMap.delete(key);
+                    targetMap.delete(key);
                   }
                 }
               }
@@ -329,6 +333,7 @@ jobs:
 
           (async () => {
             const mergedMap = new Map();
+            const customLocalMap = new Map();
             const today = new Date().toLocaleDateString('tr-TR');
 
             if (fs.existsSync('plugins.json')) {
@@ -357,13 +362,21 @@ jobs:
               await processPlugins(item.url, true, item.allowedPlugins, mergedMap, today);
             }
 
-            syncLocalFilesToMap(mergedMap, today);
+            // Sadece senin deponda olan eklentileri ayır ve hem mergedMap hem customLocalMap'e ekle
+            extractLocalOnlyPlugins(mergedMap, customLocalMap, today);
+            
             cleanDeletedPluginsFromMap(mergedMap);
+            cleanDeletedPluginsFromMap(customLocalMap);
 
+            // 1. ANA JSON (plugins.json)
             const finalPluginsArray = Array.from(mergedMap.values()).map(formatPluginObject);
             fs.writeFileSync('plugins.json', JSON.stringify(finalPluginsArray, null, 2));
 
-            // --- YEDEKLEME İŞLEMİ (backup-plugins.json) ---
+            // 2. SADECE YEREL DEPO JSON (custom-plugins.json)
+            const finalCustomArray = Array.from(customLocalMap.values()).map(formatPluginObject);
+            fs.writeFileSync('custom-plugins.json', JSON.stringify(finalCustomArray, null, 2));
+
+            // 3. YEDEKLEME JSON (backup-plugins.json)
             const backupMap = new Map();
             if (fs.existsSync('backup-plugins.json')) {
               try {
@@ -541,9 +554,9 @@ jobs:
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
-          git add plugins.json backup-plugins.json README.md plugins/
+          git add plugins.json backup-plugins.json custom-plugins.json README.md plugins/
           if ! git diff --staged --quiet; then
-            git commit -m "Auto-update: plugins, backup-plugins and README"
+            git commit -m "Auto-update: plugins, backup-plugins, custom-plugins and README"
             git pull --rebase origin main
             git push https://x-access-token:${GH_TOKEN}@github.com/mooncrown04/depolar.git HEAD:main
           fi
