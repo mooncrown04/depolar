@@ -31,7 +31,7 @@ jobs:
       - name: Bağımlılıkları Kur
         run: npm install node-fetch@2 adm-zip
 
-      # --- 1. ADIM: .CS3 DOSYALARINI İNDİR, YEREL DEPOYU TARA, SİLİNENLERİ TEMİZLE VE JSON GÜNCELLE ---
+      # --- 1. ADIM: .CS3 DOSYALARINI İNDİR, YEREL DEPOYU TARA VE JSON DOSYALARINI GÜNCELLE ---
       - name: Pluginleri Indir, Yerel Depoyu Tara ve JSON Guncelle
         run: |
           node - <<'NODE'
@@ -363,6 +363,7 @@ jobs:
             const finalPluginsArray = Array.from(mergedMap.values()).map(formatPluginObject);
             fs.writeFileSync('plugins.json', JSON.stringify(finalPluginsArray, null, 2));
 
+            // --- YEDEKLEME İŞLEMİ (backup-plugins.json) ---
             const backupMap = new Map();
             if (fs.existsSync('backup-plugins.json')) {
               try {
@@ -397,7 +398,7 @@ jobs:
           })();
           NODE
 
-      # --- 2. ADIM: INTERAKTİF README TABLO OLUŞTURUCU (HEPSİ VE KAYNAKLAR) ---
+      # --- 2. ADIM: README GÜNCELLEME ---
       - name: README.md Guncelle
         shell: python
         run: |
