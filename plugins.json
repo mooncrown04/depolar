@@ -3,7 +3,7 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "fileSize": 1983439,
+    "fileSize": 2007393,
     "status": "3",
     "language": "tr",
     "authors": [
@@ -14,12 +14,12 @@
       "TvSeries",
       "Anime"
     ],
-    "version": "22",
+    "version": "25",
     "internalName": "WioSinema",
     "description": "🔴 Wiojelt 18.09.2026 Tüm Türkçe film ve dizi sağlayıcıları tek eklentide. TMDB katalog ve çoklu kaynak akışı.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/WioSinema.cs3",
     "name": "WioSinema",
-    "hash": "709f0ad35081cd199f9f9b99f5deb6c6d81781458763dcfceead39644e974c72"
+    "hash": "9411fa7031d307194cac4d04e26a45c7fab064bc88f3f6bc8e9cf2a7db32661f"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.tranimeizle.io&sz=%size%",
@@ -4159,6 +4159,26 @@
     "name": "vavooSpor"
   },
   {
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/BingeBang.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "fileSize": 73502,
+    "status": "3",
+    "language": "all",
+    "authors": [
+      "Wiojelt"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": "1",
+    "internalName": "BingeBang",
+    "description": "🆕 Wiojelt 18.09.2026 BingeBang · Yüksek Kaliteli Film & Dizi Platformu (bingebang.tv)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/BingeBang.cs3",
+    "name": "BingeBang"
+  },
+  {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
@@ -4178,26 +4198,6 @@
     "description": "🆕 Wiojelt 18.09.2026 Power Sinema · 9.000+ Yerli & Yabancı Sinema, Animasyon ve Seri Filmler",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/PowerSinema.cs3",
     "name": "PowerSinema"
-  },
-  {
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/BingeBang.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "fileSize": 73502,
-    "status": "3",
-    "language": "all",
-    "authors": [
-      "Wiojelt"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "version": "1",
-    "internalName": "BingeBang",
-    "description": "🆕 Wiojelt 18.09.2026 BingeBang · Yüksek Kaliteli Film & Dizi Platformu (bingebang.tv)",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/BingeBang.cs3",
-    "name": "BingeBang"
   },
   {
     "iconUrl": "https://golgetv.com/favicon.ico",
