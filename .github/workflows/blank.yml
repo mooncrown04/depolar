@@ -288,6 +288,9 @@ jobs:
                     if (!mergedMap.has(key)) {
                       const localUrl = `https://raw.githubusercontent.com/${githubRepoUser}/${githubRepoName}/main/plugins/${owner}/${file}`;
                       
+                      const origDesc = manifest && manifest.description ? manifest.description.trim() : '';
+                      const finalDesc = origDesc ? `🆕 ${customOwnerName} ${today} ${origDesc}` : `🆕 ${customOwnerName} ${today}`;
+
                       const newLocalPlugin = {
                         iconUrl: manifest ? (manifest.iconUrl || "") : "",
                         apiVersion: manifest ? (manifest.apiVersion || 1) : 1,
@@ -299,7 +302,7 @@ jobs:
                         tvTypes: manifest ? (manifest.tvTypes || []) : [],
                         version: manifest ? normalizeVersion(manifest.version) : "1.0.0",
                         internalName: manifest ? (manifest.internalName || pluginNameFromFile) : pluginNameFromFile,
-                        description: `🆕 ${customOwnerName} ${today} ${manifest && manifest.description ? manifest.description : 'Depodan yüklenen eklenti.'}`,
+                        description: finalDesc,
                         url: localUrl,
                         name: pluginNameFromFile
                       };
