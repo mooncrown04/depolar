@@ -399,7 +399,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.org&sz=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 16672,
+    "fileSize": 18126,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -420,7 +420,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 32279,
+    "fileSize": 34630,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -1197,7 +1197,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=movies2watch.watch&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 24877,
+    "fileSize": 24893,
     "status": "1",
     "language": "en",
     "authors": [
@@ -2307,7 +2307,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ctnkyaumt/cstest",
-    "fileSize": 462493,
+    "fileSize": 463736,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -2323,9 +2323,9 @@
       "Anime",
       "Live"
     ],
-    "version": "62",
+    "version": "65",
     "internalName": "TurkishW",
-    "description": "🔴 ctnkyaumt 26.09.2026 Tek arama sonucu (TurkishW); bir içeriğe girince tüm kaynaklardan linkleri toplar. Film, Dizi, Anime + Canlı TV.",
+    "description": "🔴 ctnkyaumt 27.09.2026 Tek arama sonucu (TurkishW); bir içeriğe girince tüm kaynaklardan linkleri toplar. Film, Dizi, Anime + Canlı TV.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/TurkishW.cs3",
     "name": "TurkishW"
   },
