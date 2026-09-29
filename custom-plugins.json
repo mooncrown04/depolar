@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 223445,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "Wiojelt"
+    ],
+    "tvTypes": [],
+    "version": "12",
+    "internalName": "IkiDirIkiSpor",
+    "description": "🆕 MoOnCrOwN DePo 29.09.2026",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/IkiDirIkiSpor.cs3",
+    "name": "IkiDirIkiSpor"
+  }
+]
