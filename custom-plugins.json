@@ -3,17 +3,17 @@
     "iconUrl": "",
     "apiVersion": 1,
     "repositoryUrl": "",
-    "fileSize": 223445,
+    "fileSize": 391581,
     "status": "1",
     "language": "tr",
     "authors": [
       "Wiojelt"
     ],
     "tvTypes": [],
-    "version": "12",
-    "internalName": "IkiDirIkiSpor",
+    "version": "6",
+    "internalName": "TurkishCineStream",
     "description": "🆕 MoOnCrOwN DePo 29.09.2026",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/IkiDirIkiSpor.cs3",
-    "name": "IkiDirIkiSpor"
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TurkishCineStream.cs3",
+    "name": "TurkishCineStream"
   }
 ]
