@@ -1533,7 +1533,7 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DominoTV.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "fileSize": 93019,
+    "fileSize": 138675,
     "status": "3",
     "language": "tr",
     "authors": [
@@ -1542,16 +1542,16 @@
     "tvTypes": [
       "Live"
     ],
-    "version": "4",
+    "version": "9",
     "internalName": "DominoTV",
-    "description": "🆕 Wiojelt 17.09.2026 Domino TV 4.0 dinamik spor kanalları",
+    "description": "🔴 Wiojelt 06.10.2026 Domino TV dinamik kanal listesi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DominoTV.cs3",
     "name": "DominoTV"
   },
   {
     "iconUrl": "https://golgetv.com/favicon.ico",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
     "fileSize": 179056,
     "status": "1",
     "language": "tr",
@@ -1563,7 +1563,7 @@
     ],
     "version": "3",
     "internalName": "GolgeTV",
-    "description": "🆕 Wiojelt 06.10.2026 GÃ¶lgeTV spor kanallarÄ± ve alternatif yayÄ±nlar",
+    "description": "🆕 Wiojelt 06.10.2026 GölgeTV spor kanalları ve alternatif yayınlar",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3",
     "name": "GolgeTV"
   },
@@ -2271,7 +2271,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ctnkyaumt/cstest",
-    "fileSize": 155310,
+    "fileSize": 242663,
     "status": "1",
     "language": "en",
     "authors": [
@@ -2281,9 +2281,9 @@
       "Movie",
       "TvSeries"
     ],
-    "version": "17",
+    "version": "19",
     "internalName": "EnglishW",
-    "description": "🔴 ctnkyaumt 01.10.2026 One search result (EnglishW); opening a title fans out to every English source and collects all links. Auto-subtitles included.",
+    "description": "🔴 ctnkyaumt 06.10.2026 One search result (EnglishW); each English source checks its sub-sources and offers the best playable Auto stream. Auto-subtitles included.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/EnglishW.cs3",
     "name": "EnglishW"
   },
@@ -2310,7 +2310,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/ctnkyaumt/cstest",
-    "fileSize": 505388,
+    "fileSize": 505390,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -2326,9 +2326,9 @@
       "Anime",
       "Live"
     ],
-    "version": "84",
+    "version": "85",
     "internalName": "TurkishW",
-    "description": "🔴 ctnkyaumt 03.10.2026 Tek arama sonucu (TurkishW); bir içeriğe girince tüm kaynaklardan linkleri toplar. Film, Dizi, Anime + Canlı TV.",
+    "description": "🔴 ctnkyaumt 06.10.2026 Tek arama sonucu (TurkishW); bir içeriğe girince tüm kaynaklardan linkleri toplar. Film, Dizi, Anime + Canlı TV.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/ctnkyaumt/TurkishW.cs3",
     "name": "TurkishW"
   },
@@ -4356,20 +4356,25 @@
     "name": "CineTmdb"
   },
   {
-    "iconUrl": "",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.ddizi.tel&sz=128",
     "apiVersion": 1,
-    "repositoryUrl": "",
-    "fileSize": 40113,
-    "status": "1",
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "fileSize": 117527,
+    "status": "3",
     "language": "tr",
     "authors": [
       "Wiojelt"
     ],
-    "tvTypes": [],
-    "version": "7",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "version": "8",
     "internalName": "DDiziAlternatif",
-    "description": "🆕 MoOnCrOwN DePo 27.09.2026",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/MoOnCrOwN/DDiziAlternatif.cs3",
+    "description": "🔴 Wiojelt 06.10.2026 D Dizi · TurkSinema ayrı sağlayıcı paketi",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DDiziAlternatif.cs3",
     "name": "DDiziAlternatif"
   },
   {
