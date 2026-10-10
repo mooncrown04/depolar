@@ -1,273 +1,645 @@
-### Son Güncelleme: 10.10.2026 02:37
+### Son Güncelleme: 10.10.2026 03:07
 
-### Repo Kısa Kodu: `yok`
+### Toplam Eklenti: `256`
 
-### Toplam Eklenti Sayısı: `256` 
+> 🚀 **Bugünkü Güncelleme Özeti (10.10.2026)**
+>
+> * 🆕 **Yeni Eklenenler:**
+  * **Wiojelt:** `GolgeTV`, `PowerSinema`
+>
+> * 🔴 **Güncellenenler:**
+  * **GitLatte:** `powerboard Sinema - Latte`
+  * **Wiojelt:** `AslanTV`, `WioCinema`
+  * **aytzey:** `CizgiveDizi`, `DiziPal`, `InatBox`, `RecTV`, `SineWix`, `SinemaCX`, `TrAnimeIzle`, `TurkAnime`, `WebDramaTurkey`
+  * **blackhope01:** `DiziBal`, `DiziLife`, `DiziMom`, `DiziYo`, `DramaDizilerim`, `FilmEkseni`, `FilmHane`, `FilmMakinesi`, `JetFilmizle`, `SezonlukDizi`, `Webteizle`
+  * **lepotane:** `AnimeciX`, `Anizium`, `AsyaAnimeleri`, `AsyaWatch`, `BelgeselX`, `CizgiMax`, `DDizi`, `DMax`, `DiziBol`, `DiziBox`, `DiziKorea`, `DiziPalOrijinal`, `DiziPod`, `DiziYou`, `Dizilla`, `FilmModu`, `FullHDFilmizlesene`, `HDFilmCehennemi`, `HDFilmDelisi`, `KultFilmler`, `OpenAnime`, `RareFilmm`, `SelcukFlix`, `SetFilmIzle`, `Sinezy`, `TRasyalog`, `TvDiziler`, `Watch2Movies`, `WebdramaTurkey2`, `YabanciDizi`, `YesilCamTv`
+  * **patr0nq:** `DiziPalOriginal`, `FullHDFilm`, `TLCtr`, `TRanimaci`
+
+### 📊 Son 15 Günlük Durum Özeti
+🆕 Yeni Eklentiler: 48 &nbsp;|&nbsp; 🔴 Güncellenenler: 97
 
 ---
-
 ### Depo Sahibi:
-[<img src='https://st5.depositphotos.com/1041725/67731/v/380/depositphotos_677319750-stock-illustration-ararat-mountain-illustration-vector-white.jpg' width='48' height='48' style='border-radius:50%;'>](https://github.com/mooncrown04)  
+[<img src='https://st5.depositphotos.com/1041725/67731/v/380/depositphotos_677319750-stock-illustration-ararat-mountain-illustration-vector-white.jpg' width='48' style='border-radius:50%;'>](https://github.com/mooncrown04)  
 **[MoOnCrOwN](https://github.com/mooncrown04)**
----
 
+---
 ## 📦 Eklenti Listesi
 
-| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Türler | Ülke | |
-|:----:|:------------|:------|:------|:-------|:-------|:----:|:---:|
-| <img src="https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png" width="32" style="border-radius:4px;"> | **0 WioSinema** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/logo.png?v=3" width="32" style="border-radius:4px;"> | **0 WioSpor** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/WioCinema/main/assets/providers/turkishcinestream.png" width="32" style="border-radius:4px;"> | **1 TurkishCineStream** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Asya Dizisi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="32" style="border-radius:4px;"> | **1 v10 Spor** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/2dir2-spor-gothic.png" width="32" style="border-radius:4px;"> | **2dir2 Spor** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **4KFilmIzlesene** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/AltiYuzAltmisAltiFilmIzle.png" width="32" style="border-radius:4px;"> | **AltiYuzAltmisAltiFilmIzle** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://aniarsiv.com/favicon.ico" width="32" style="border-radius:4px;"> | **AniArsiv** | 10.10.2026 | 🔴 | `mooncrown04` | Anime, Animemovie, Ova | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?sz=64&domain=animeav1.com" width="32" style="border-radius:4px;"> | **AnimeAV** | 10.10.2026 | 🔴 | `mooncrown04` | Anime | <img src="https://flagcdn.com/w20/un.png" width="20" style="vertical-align: middle;"> Bilinmiyor | |
-| <img src="https://anm.cx/favicon.ico" width="32" style="border-radius:4px;"> | **AnimeciX** | 10.10.2026 | 🔴 | `mooncrown04` | Anime | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **Animejara** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeler.pw/&size=128" width="32" style="border-radius:4px;"> | **Animeler** | 10.10.2026 | 🔴 | `mooncrown04` | Anime | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://play-lh.googleusercontent.com/BIE1R3FVOpIoCPxkx3Erfuw5sVc5wVIbeHAcRuTUGesuvc1S1Cr6KYumGVbn7xABuLc=w240-h480" width="32" style="border-radius:4px;"> | **Animely** | 10.10.2026 | 🔴 | `mooncrown04` | Anime, Animemovie, Ova | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.animeworld.ac&size=128" width="32" style="border-radius:4px;"> | **AnimeWorld** | 10.10.2026 | 🔴 | `mooncrown04` | Anime | <img src="https://flagcdn.com/w20/it.png" width="20" style="vertical-align: middle;"> İtalya | |
-| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeyt.cc&size=128" width="32" style="border-radius:4px;"> | **AnimeYTX** | 10.10.2026 | 🔴 | `mooncrown04` | Anime | <img src="https://flagcdn.com/w20/un.png" width="20" style="vertical-align: middle;"> Bilinmiyor | |
-| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animpow.com/&size=128" width="32" style="border-radius:4px;"> | **AnimPow** | 10.10.2026 | 🔴 | `mooncrown04` | Anime | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?sz=64&domain=anizium.co" width="32" style="border-radius:4px;"> | **Anizium** | 10.10.2026 | 🔴 | `mooncrown04` | Anime, Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLGJxL_3l-lZofrxkC-vpKFzHzyKW-Z0lYg&s" width="32" style="border-radius:4px;"> | **Anizm** | 10.10.2026 | 🔴 | `mooncrown04` | Anime | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ArdaSpor.png" width="32" style="border-radius:4px;"> | **ArdaSpor** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/AslanTV.png" width="32" style="border-radius:4px;"> | **AslanTV** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=64" width="32" style="border-radius:4px;"> | **AsyaAnimeleri** | 10.10.2026 | 🔴 | `mooncrown04` | Anime | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png" width="32" style="border-radius:4px;"> | **AsyaFanatiklerim** | 10.10.2026 | 🔴 | `mooncrown04` | Asya Dizisi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **AsyaFilmIzlesene** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=asyawatch.com&sz=64" width="32" style="border-radius:4px;"> | **AsyaWatch** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **AtomSpor** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=www.atv.com.tr&sz=64" width="32" style="border-radius:4px;"> | **Atv** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi, Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BasketballReplays.png" width="32" style="border-radius:4px;"> | **BasketballReplays** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Others | <img src="https://flagcdn.com/w20/gb.png" width="20" style="vertical-align: middle;"> İngiltere | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BasketballVideo.png" width="32" style="border-radius:4px;"> | **BasketballVideo** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Others | <img src="https://flagcdn.com/w20/gb.png" width="20" style="vertical-align: middle;"> İngiltere | |
-| <img src="https://www.google.com/s2/favicons?domain=belgeselx.com&sz=64" width="32" style="border-radius:4px;"> | **BelgeselX** | 10.10.2026 | 🔴 | `mooncrown04` | Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BetmatikTV.png" width="32" style="border-radius:4px;"> | **BetmatikTV** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BeyazElma.png" width="32" style="border-radius:4px;"> | **BeyazElma** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/BingeBang.png" width="32" style="border-radius:4px;"> | **BingeBang** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/un.png" width="20" style="vertical-align: middle;"> Bilinmiyor | |
-| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16" width="32" style="border-radius:4px;"> | **BirAsyaDizi** | 10.10.2026 | 🔴 | `mooncrown04` | Asya Dizisi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **BirdirbirIPTV** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **BronzeCloudSports** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=64" width="32" style="border-radius:4px;"> | **CanliTV** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://cinecat.eu/android-chrome-192x192.png?v=3" width="32" style="border-radius:4px;"> | **CineCat** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime | <img src="https://flagcdn.com/w20/un.png" width="20" style="vertical-align: middle;"> Bilinmiyor | |
-| <img src="https://www.google.com/s2/favicons?domain=simkl.com&sz=128" width="32" style="border-radius:4px;"> | **CineSimkl** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/SaurabhKaperwan/CSX/master/CineStream/icon.png" width="32" style="border-radius:4px;"> | **CineStream** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **CineTmdb** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=cizgidizi.net&sz=128" width="32" style="border-radius:4px;"> | **CizgiDiziNet** | 10.10.2026 | 🔴 | `mooncrown04` | Çizgi Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=cizgifilmizle.info&sz=128" width="32" style="border-radius:4px;"> | **CizgiFilmIzleInfo** | 10.10.2026 | 🔴 | `mooncrown04` | Çizgi Film, Dizi, Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=cizgifilm.tv&sz=128" width="32" style="border-radius:4px;"> | **CizgiFilmTv** | 10.10.2026 | 🔴 | `mooncrown04` | Çizgi Film, Dizi, Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=cizgimax.online&sz=64" width="32" style="border-radius:4px;"> | **CizgiMax** | 10.10.2026 | 🔴 | `mooncrown04` | Çizgi Film, Anime, Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=cizgiportal.net&sz=128" width="32" style="border-radius:4px;"> | **CizgiPortal** | 10.10.2026 | 🔴 | `mooncrown04` | Çizgi Film, Dizi, Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=cizgi.site&sz=128" width="32" style="border-radius:4px;"> | **CizgiSite** | 10.10.2026 | 🔴 | `mooncrown04` | Çizgi Film, Dizi, Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?sz=64&domain=cizgivedizi.com" width="32" style="border-radius:4px;"> | **CizgiveDizi** | 10.10.2026 | 🔴 | `mooncrown04` | Çizgi Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/ClipBox.png" width="32" style="border-radius:4px;"> | **ClipBox** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://img.icons8.com/color/512/cloud-sync.png" width="32" style="border-radius:4px;"> | **Cloud-Sync** | 10.10.2026 | 🔴 | `mooncrown04` | All | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png" width="32" style="border-radius:4px;"> | **CNCVerseDisneyPlus** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png" width="32" style="border-radius:4px;"> | **CNCVerseHotstar** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png" width="32" style="border-radius:4px;"> | **CNCVerseNetflix** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png" width="32" style="border-radius:4px;"> | **CNCVersePrimeVideo** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Crex.png" width="32" style="border-radius:4px;"> | **Crex** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="32" style="border-radius:4px;"> | **CricifyProvider** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/gb.png" width="20" style="vertical-align: middle;"> İngiltere | |
-| — | **CS3MProvider** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DaddyLive.jpg" width="32" style="border-radius:4px;"> | **DaddyLive** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.ddizi.im/favicon.ico" width="32" style="border-radius:4px;"> | **DDizi** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=www.ddizi.tel&sz=128" width="32" style="border-radius:4px;"> | **DDiziAlternatif** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=deokwave.com&sz=128" width="32" style="border-radius:4px;"> | **Deokwave** | 10.10.2026 | 🔴 | `mooncrown04` | Anime, Animemovie, Ova | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?sz=64&domain=diziasia.com" width="32" style="border-radius:4px;"> | **DiziAsia** | 10.10.2026 | 🔴 | `mooncrown04` | Asya Dizisi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diziasya.com&size=32" width="32" style="border-radius:4px;"> | **DiziAsya** | 10.10.2026 | 🔴 | `mooncrown04` | Asya Dizisi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=dizibal.org&sz=128" width="32" style="border-radius:4px;"> | **DiziBal** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=dizibol.org&sz=128" width="32" style="border-radius:4px;"> | **DiziBol** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=64" width="32" style="border-radius:4px;"> | **DiziBox** | 10.10.2026 | 🔴 | `mooncrown04` | Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=128" width="32" style="border-radius:4px;"> | **DiziBoxAlternatif** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziFilmIzle.jpg" width="32" style="border-radius:4px;"> | **DiziFilmIzle** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizifilm.org/dizi/breaking-bad/sezon-1/bolum-2&size=128" width="32" style="border-radius:4px;"> | **DiziFilmORG** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizigecesi.com/tr&size=128" width="32" style="border-radius:4px;"> | **Dizigecesi** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=dizigom1.co&sz=64" width="32" style="border-radius:4px;"> | **DiziGom** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=https://dizikorea.vip&sz=64" width="32" style="border-radius:4px;"> | **DiziKorea** | 10.10.2026 | 🔴 | `mooncrown04` | Asya Dizisi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=https://dizi73.life&sz=64" width="32" style="border-radius:4px;"> | **DiziLife** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=dizilla.club&sz=64" width="32" style="border-radius:4px;"> | **Dizilla** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **DiziMag** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=https://www.dizimom.surf&sz=64" width="32" style="border-radius:4px;"> | **DiziMom** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal.im/&size=128" width="32" style="border-radius:4px;"> | **DiziPal** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=https://dizipal2135.com&sz=64" width="32" style="border-radius:4px;"> | **DiziPal2** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=https://dizipal2036.com&sz=64" width="32" style="border-radius:4px;"> | **DiziPalOriginal** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi, Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1581.com&size=128" width="32" style="border-radius:4px;"> | **DiziPalOrijinal** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=dizipod.com&sz=64" width="32" style="border-radius:4px;"> | **DiziPod** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=dizirella.net&sz=128" width="32" style="border-radius:4px;"> | **DiziRella** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?sz=64&domain=diziwatch.ac" width="32" style="border-radius:4px;"> | **DiziWatch** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=https://www.diziyo.so&sz=64" width="32" style="border-radius:4px;"> | **DiziYo** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png" width="32" style="border-radius:4px;"> | **DiziYou** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=www.dmax.com.tr&sz=64" width="32" style="border-radius:4px;"> | **DMax** | 10.10.2026 | 🔴 | `mooncrown04` | Belgesel, Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://documentaryarea.com&size=128" width="32" style="border-radius:4px;"> | **DocumentaryArea** | 10.10.2026 | 🔴 | `mooncrown04` | Belgesel | <img src="https://flagcdn.com/w20/gb.png" width="20" style="vertical-align: middle;"> İngiltere | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DomatesTV.webp" width="32" style="border-radius:4px;"> | **DomatesTV** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DominoTV.png" width="32" style="border-radius:4px;"> | **DominoTV** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=https://dramadizilerim.com&sz=64" width="32" style="border-radius:4px;"> | **DramaDizilerim** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org" width="32" style="border-radius:4px;"> | **EnglishW** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/gb.png" width="20" style="vertical-align: middle;"> İngiltere | |
-| <img src="https://filmbip.com/uploads/favicon/original/favicon.webp" width="32" style="border-radius:4px;"> | **FilmBip** | 10.10.2026 | 🔴 | `mooncrown04` | Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=https://www.filmekseni.vip&sz=64" width="32" style="border-radius:4px;"> | **FilmEkseni** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=https://www.filmhane.shop&sz=64" width="32" style="border-radius:4px;"> | **FilmHane** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmizyon.com/&size=64" width="32" style="border-radius:4px;"> | **FilmIzyon** | 10.10.2026 | 🔴 | `mooncrown04` | Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=filmizzle.com&sz=128" width="32" style="border-radius:4px;"> | **FilmIzzle** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **Filmİzlesene** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **FilmKovasi** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=https://www.filmmakinesi.to&sz=64" width="32" style="border-radius:4px;"> | **FilmMakinesi** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://filmmirasim.ktb.gov.tr/favicon-r.png" width="32" style="border-radius:4px;"> | **Filmmirasım** | 10.10.2026 | 🔴 | `mooncrown04` | Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?sz=64&domain=filmmodu.one" width="32" style="border-radius:4px;"> | **FilmModu** | 10.10.2026 | 🔴 | `mooncrown04` | Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmzal.me/&size=128" width="32" style="border-radius:4px;"> | **Filmzal** | 10.10.2026 | 🔴 | `mooncrown04` | Film | <img src="https://flagcdn.com/w20/un.png" width="20" style="vertical-align: middle;"> Bilinmiyor | |
-| <img src="https://www.google.com/s2/favicons?domain=flixnetwork.is&sz=128" width="32" style="border-radius:4px;"> | **FlixNetwork** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=fullhdfilm.us&sz=64" width="32" style="border-radius:4px;"> | **FullHDFilm** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.fullhdfilmizlesene.now/favicon.ico" width="32" style="border-radius:4px;"> | **FullHDFilmizlesene** | 10.10.2026 | 🔴 | `mooncrown04` | Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **FullHDFilmİzlede** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **FullHDIzle** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.giniko.com/images/favicon.ico" width="32" style="border-radius:4px;"> | **GinikoCanli** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://golgetv.com/favicon.ico" width="32" style="border-radius:4px;"> | **GolgeTV** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?sz=64&domain=hdfilmcehennemi.nl" width="32" style="border-radius:4px;"> | **HDFilmCehennemi** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi2.biz&sz=64" width="32" style="border-radius:4px;"> | **HdFilmCehennemi2** | 10.10.2026 | 🔴 | `mooncrown04` | Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **HDFilmCehennemiAlternatif** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?sz=64&domain=hdfilmdelisi.one" width="32" style="border-radius:4px;"> | **HDFilmDelisi** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hdfilmizle.life/rally-caps/&size=128" width="32" style="border-radius:4px;"> | **HDFilmizle** | 10.10.2026 | 🔴 | `mooncrown04` | Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=www.hdfilmizle.best&sz=128" width="32" style="border-radius:4px;"> | **HDFilmizleBest** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=hdfilmizle.ink&sz=128" width="32" style="border-radius:4px;"> | **HDFilmIzleInk** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=hdfilmizle.vip&sz=128" width="32" style="border-radius:4px;"> | **HDFilmIzleVip** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **HDFilmSitesi** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Hesgoal.png" width="32" style="border-radius:4px;"> | **Hesgoal** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **IkiDirIkiSpor** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png" width="32" style="border-radius:4px;"> | **InatBox** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png" width="32" style="border-radius:4px;"> | **InatBoxBC** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InatTV.png" width="32" style="border-radius:4px;"> | **InatTV** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **InternetArchive** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InterSporTV.png" width="32" style="border-radius:4px;"> | **InterSporTV** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **iptvSevenler** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **IzleAI** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=izleoyna.com&sz=128" width="32" style="border-radius:4px;"> | **IzleOyna** | 10.10.2026 | 🔴 | `mooncrown04` | Çizgi Film, Dizi, Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.jestyayin970.com/logo.png" width="32" style="border-radius:4px;"> | **JestYayin** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=https://jetfilmizle.now&sz=64" width="32" style="border-radius:4px;"> | **JetFilmizle** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **KacakSpor** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=www.kanald.com.tr&sz=64" width="32" style="border-radius:4px;"> | **KanalD** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi, Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/kick.png" width="32" style="border-radius:4px;"> | **KICK Türkiye - Latte** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi, Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kick.com&size=48" width="32" style="border-radius:4px;"> | **KickTR** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/providers/KoolTV.png" width="32" style="border-radius:4px;"> | **Kool TV** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=koreanturk.com&sz=64" width="32" style="border-radius:4px;"> | **KoreanTurk** | 10.10.2026 | 🔴 | `mooncrown04` | Asya Dizisi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/KralSporHD.png" width="32" style="border-radius:4px;"> | **KralSporHD** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/aytzey/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png" width="32" style="border-radius:4px;"> | **KraptorPlus** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi, Film, Anime, Çizgi Film, Asya Dizisi, Animemovie | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?sz=64&domain=kultfilmler.net" width="32" style="border-radius:4px;"> | **KultFilmler** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **LeoTV** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=liderfilmizle.com&sz=128" width="32" style="border-radius:4px;"> | **LiderFilmIzle** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/LiveXTV.png" width="32" style="border-radius:4px;"> | **LiveXTV** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="32" style="border-radius:4px;"> | **LivXowProvider** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/gb.png" width="20" style="vertical-align: middle;"> İngiltere | |
-| <img src="https://www.google.com/s2/favicons?domain=https://lovefilmizle.net&sz=64" width="32" style="border-radius:4px;"> | **LoveFilm** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/MacKeyfi.png" width="32" style="border-radius:4px;"> | **MacKeyfi** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/MahsunSports.jpg" width="32" style="border-radius:4px;"> | **MahsunSports** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/test/builds/logos/mapple.png" width="32" style="border-radius:4px;"> | **Mapple** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime | <img src="https://flagcdn.com/w20/un.png" width="20" style="vertical-align: middle;"> Bilinmiyor | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/WioLand/main/assets/icon.png" width="32" style="border-radius:4px;"> | **MegaWio** | 10.10.2026 | 🔴 | `mooncrown04` | Others | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=minikacocuk.com.tr&sz=128" width="32" style="border-radius:4px;"> | **MinikaCocuk** | 10.10.2026 | 🔴 | `mooncrown04` | Çizgi Film, Dizi, Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=minikago.com.tr&sz=128" width="32" style="border-radius:4px;"> | **MinikaGO** | 10.10.2026 | 🔴 | `mooncrown04` | Çizgi Film, Dizi, Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/aytzey/cs-kraptor/refs/heads/master/.github/icons/logo/mirrorverseicon.png" width="32" style="border-radius:4px;"> | **MirrorVerse** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png" width="32" style="border-radius:4px;"> | **MovieBoxProvider** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Canlı TV | <img src="https://flagcdn.com/w20/gb.png" width="20" style="vertical-align: middle;"> İngiltere | |
-| <img src="https://raw.githubusercontent.com/lepotane/MRC-builds/builds/icon.png" width="32" style="border-radius:4px;"> | **MRC-Live** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/lepotane/MRC-builds/builds/icon.png" width="32" style="border-radius:4px;"> | **MRC-Naughty** | 10.10.2026 | 🔴 | `mooncrown04` | Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/lepotane/MRC-builds/builds/icon.png" width="32" style="border-radius:4px;"> | **MRC-Plus** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/test/builds/icon.gif" width="32" style="border-radius:4px;"> | **NebulaSports** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=netfilmizle.com&sz=128" width="32" style="border-radius:4px;"> | **NetFilmizle** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://netfree2.cc/mobile/img/nf2/icon_x192.png" width="32" style="border-radius:4px;"> | **NetflixMirror** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/un.png" width="20" style="vertical-align: middle;"> Bilinmiyor | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/NetShort.png" width="32" style="border-radius:4px;"> | **NetShort** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi, Asya Dizisi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/NetVGold.png" width="32" style="border-radius:4px;"> | **NetVGold** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Ntvs.png" width="32" style="border-radius:4px;"> | **Ntvs** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.onepacetr.net/&size=128" width="32" style="border-radius:4px;"> | **OnePaceTr** | 10.10.2026 | 🔴 | `mooncrown04` | Anime | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=openani.me&sz=64" width="32" style="border-radius:4px;"> | **OpenAnime** | 10.10.2026 | 🔴 | `mooncrown04` | Anime | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/PapazSports.png" width="32" style="border-radius:4px;"> | **PapazSports** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/PatronHD.png" width="32" style="border-radius:4px;"> | **PatronHD** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="32" style="border-radius:4px;"> | **PlayZTVProvider** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/gb.png" width="20" style="vertical-align: middle;"> İngiltere | |
-| <img src="https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon_party.png" width="32" style="border-radius:4px;"> | **plt-party** | 10.10.2026 | 🔴 | `mooncrown04` | All | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png" width="32" style="border-radius:4px;"> | **plt-stream** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi, Film, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon_tv.png" width="32" style="border-radius:4px;"> | **plt-tv** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powerdizi.png" width="32" style="border-radius:4px;"> | **powerboard Dizi - Latte** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powersinema.png" width="32" style="border-radius:4px;"> | **powerboard Sinema - Latte** | 10.10.2026 | 🔴 | `mooncrown04` | Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png" width="32" style="border-radius:4px;"> | **PowerSinema** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Animemovie, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **Puhu** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?sz=64&domain=rarefilmm.com" width="32" style="border-radius:4px;"> | **RareFilmm** | 10.10.2026 | 🔴 | `mooncrown04` | Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rectvapk.cc&size=128" width="32" style="border-radius:4px;"> | **RecTV** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Canlı TV, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp" width="32" style="border-radius:4px;"> | **RecTVBC** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Canlı TV, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **RoketDizi** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://seicode.net/favicon.png" width="32" style="border-radius:4px;"> | **SeiCode** | 10.10.2026 | 🔴 | `mooncrown04` | Anime | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=selcukflix.com&sz=64" width="32" style="border-radius:4px;"> | **SelcukFlix** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/SelcukSports.png" width="32" style="border-radius:4px;"> | **SelcukSports** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=www.setfilmizle.ltd&sz=64" width="32" style="border-radius:4px;"> | **SetFilm** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=www.setfilmizle.uk&sz=64" width="32" style="border-radius:4px;"> | **SetFilmIzle** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **SeyirTURK** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=https://sezonlukdizi.cc&sz=64" width="32" style="border-radius:4px;"> | **SezonlukDizi** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=www.showtv.com.tr&sz=64" width="32" style="border-radius:4px;"> | **Showtv** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi, Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinefy3.com/&size=128" width="32" style="border-radius:4px;"> | **Sinefy** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.sinema.gg/&size=128" width="32" style="border-radius:4px;"> | **SinemaCX** | 10.10.2026 | 🔴 | `mooncrown04` | Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=sinema.gg&sz=128" width="32" style="border-radius:4px;"> | **SinemaGG** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=sinemakolik.com&sz=128" width="32" style="border-radius:4px;"> | **Sinemakolik** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480" width="32" style="border-radius:4px;"> | **SineWix** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Asya Dizisi, Çizgi Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?sz=64&domain=sinezy.to" width="32" style="border-radius:4px;"> | **Sinezy** | 10.10.2026 | 🔴 | `mooncrown04` | Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="32" style="border-radius:4px;"> | **SportzxProvider** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/gb.png" width="20" style="vertical-align: middle;"> İngiltere | |
-| <img src="https://www.google.com/s2/favicons?domain=www.startv.com.tr&sz=64" width="32" style="border-radius:4px;"> | **Startv** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/test/builds/assets/seyirturk.png" width="32" style="border-radius:4px;"> | **StbTV** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/StreamEast.png" width="32" style="border-radius:4px;"> | **StreamEast** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Streamed.png" width="32" style="border-radius:4px;"> | **Streamed** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://i.imgur.com/LBfX2k3.png" width="32" style="border-radius:4px;"> | **Supercartoons** | 10.10.2026 | 🔴 | `mooncrown04` | Çizgi Film | <img src="https://flagcdn.com/w20/gb.png" width="20" style="vertical-align: middle;"> İngiltere | |
-| <img src="https://www.google.com/s2/favicons?domain=www.superfilmgeldi.info&sz=64" width="32" style="border-radius:4px;"> | **SuperFilmGeldi** | 10.10.2026 | 🔴 | `mooncrown04` | Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **SyncPlugin** | 10.10.2026 | 🔴 | `mooncrown04` | Others | <img src="https://flagcdn.com/w20/un.png" width="20" style="vertical-align: middle;"> Bilinmiyor | |
-| — | **Tafdi** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Taraftarium24.png" width="32" style="border-radius:4px;"> | **Taraftarium24** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=64" width="32" style="border-radius:4px;"> | **TLC** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi, Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=64" width="32" style="border-radius:4px;"> | **TLCtr** | 10.10.2026 | 🔴 | `mooncrown04` | Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **TmdbProvider** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **TorrentFilm** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://play-lh.googleusercontent.com/eUBvwF8qxYbAB-teSb1o3PSvKDUbjQzJO5xuqAiXzncQo55_Gp9aByEaJ79a1lDS6zecy-SvzOLSK-UIRmcTYQ=s320" width="32" style="border-radius:4px;"> | **trakt-sync** | 10.10.2026 | 🔴 | `mooncrown04` | All | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=tranimaci.com&sz=64" width="32" style="border-radius:4px;"> | **TRanimaci** | 10.10.2026 | 🔴 | `mooncrown04` | Anime | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.tranimeizle.io/&size=128" width="32" style="border-radius:4px;"> | **TrAnimeIzle** | 10.10.2026 | 🔴 | `mooncrown04` | Anime | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=asyalog.co&sz=64" width="32" style="border-radius:4px;"> | **TRasyalog** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=trdiziizle.tv&sz=128" width="32" style="border-radius:4px;"> | **TrDiziIzle** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Belgesel | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/TRGoals.png" width="32" style="border-radius:4px;"> | **TRGoals** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.turkanime.co&size=64" width="32" style="border-radius:4px;"> | **TurkAnime** | 10.10.2026 | 🔴 | `mooncrown04` | Anime, Animemovie | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://i.imgur.com/Cff8v6J.png" width="32" style="border-radius:4px;"> | **Turkdizileri** | 10.10.2026 | 🔴 | `mooncrown04` | Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **TurkishCineStream** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org" width="32" style="border-radius:4px;"> | **TurkishW** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime, Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **TurkSCanliTV** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **TurkSinema** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/support-qr.png" width="32" style="border-radius:4px;"> | **TurkSinemaDestek** | 10.10.2026 | 🔴 | `mooncrown04` | Others | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="32" style="border-radius:4px;"> | **TurkSpor** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **TurkSporDestek** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=www.tv8.com.tr&sz=64" width="32" style="border-radius:4px;"> | **Tv8** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi, Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=tvdiziler.tv&sz=64" width="32" style="border-radius:4px;"> | **TvDiziler** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **Twitch** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=ugurfilm7.com&sz=64" width="32" style="border-radius:4px;"> | **UgurFilm** | 10.10.2026 | 🔴 | `mooncrown04` | Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ufilmizle.com/&size=128" width="32" style="border-radius:4px;"> | **UltraFilmizle** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/logo.png" width="32" style="border-radius:4px;"> | **v10 Spor** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **Vavoo** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **vavooSpor** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **VegolTV** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **Vidmody** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/test/main/logos/viontv.png" width="32" style="border-radius:4px;"> | **VionTV** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/VivoXSpor.png" width="32" style="border-radius:4px;"> | **VivoXSpor** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/VionTV.webp" width="32" style="border-radius:4px;"> | **VİONTV** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **Warflix** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/gb.png" width="20" style="vertical-align: middle;"> İngiltere | |
-| <img src="https://www.google.com/s2/favicons?domain=movies2watch.watch&sz=64" width="32" style="border-radius:4px;"> | **Watch2Movies** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/gb.png" width="20" style="vertical-align: middle;"> İngiltere | |
-| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40" width="32" style="border-radius:4px;"> | **WebDramaTurkey** | 10.10.2026 | 🔴 | `mooncrown04` | Asya Dizisi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=https://webdramaturkey2.com&sz=64" width="32" style="border-radius:4px;"> | **WebdramaTurkey2** | 10.10.2026 | 🔴 | `mooncrown04` | Asya Dizisi, Film, Anime, Others | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=https://webteizle3.xyz&sz=64" width="32" style="border-radius:4px;"> | **Webteizle** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://wfilmizle.bar&size=128" width="32" style="border-radius:4px;"> | **WFilmizle** | 10.10.2026 | 🔴 | `mooncrown04` | Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **WFilmİzle** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/WioAsya/main/assets/logo.png" width="32" style="border-radius:4px;"> | **WioAsya** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Asya Dizisi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/WioCinema/main/assets/logo.png" width="32" style="border-radius:4px;"> | **WioCinema** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/gb.png" width="20" style="vertical-align: middle;"> İngiltere | |
-| — | **WioIPTVPanels** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/WiojeltSpor/main/assets/logo.png" width="32" style="border-radius:4px;"> | **WiojeltSpor** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/test/builds/icon.gif" width="32" style="border-radius:4px;"> | **WioPollTest** | 10.10.2026 | 🔴 | `mooncrown04` | Others | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png" width="32" style="border-radius:4px;"> | **WioSinema** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi, Anime | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/logo.png?v=3" width="32" style="border-radius:4px;"> | **WioSpor** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?domain=yabancidizi.news&sz=64" width="32" style="border-radius:4px;"> | **YabanciDizi** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.yenikaynak.com/&size=16" width="32" style="border-radius:4px;"> | **YeniKaynak** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **YerelDiziler** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **YerelProgramlar** | 10.10.2026 | 🔴 | `mooncrown04` | — | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?sz=64&domain=yesilcamtv.com.tr" width="32" style="border-radius:4px;"> | **YesilCamTv** | 10.10.2026 | 🔴 | `mooncrown04` | Film | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://www.google.com/s2/favicons?sz=64&domain=yoturkish.to" width="32" style="border-radius:4px;"> | **YoTurkish** | 10.10.2026 | 🔴 | `mooncrown04` | Dizi | <img src="https://flagcdn.com/w20/gb.png" width="20" style="vertical-align: middle;"> İngiltere | |
-| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128" width="32" style="border-radius:4px;"> | **Youtube** | 10.10.2026 | 🔴 | `mooncrown04` | Film, Canlı TV, Music, Dizi | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| — | **YTPatron** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128" width="32" style="border-radius:4px;"> | **YTS** | 10.10.2026 | 🔴 | `mooncrown04` | Torrent | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
-| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ZbahisTV.png" width="32" style="border-radius:4px;"> | **ZbahisTV** | 10.10.2026 | 🔴 | `mooncrown04` | Canlı TV | <img src="https://flagcdn.com/w20/tr.png" width="20" style="vertical-align: middle;"> Türkiye | |
+*Aşağıdaki gruplara tıklayarak eklentileri listeleyebilirsiniz:*
+
+<details>
+<summary>🌐 <b>TÜM EKLENTİLER (HEPSİ)</b> (256 Eklenti)</summary>
+
+| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
+|:----:|:------------|:------|:------|:-------|:----:|
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png" width="30" style="border-radius:4px;"> | **0 WioSinema** | 03.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/logo.png?v=3" width="30" style="border-radius:4px;"> | **0 WioSpor** | 06.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioCinema/main/assets/providers/turkishcinestream.png" width="30" style="border-radius:4px;"> | **1 TurkishCineStream** | 03.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="30" style="border-radius:4px;"> | **1 v10 Spor** | 04.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/2dir2-spor-gothic.png" width="30" style="border-radius:4px;"> | **2dir2 Spor** | 29.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **4KFilmIzlesene** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/AltiYuzAltmisAltiFilmIzle.png" width="30" style="border-radius:4px;"> | **AltiYuzAltmisAltiFilmIzle** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://aniarsiv.com/favicon.ico" width="30" style="border-radius:4px;"> | **AniArsiv** | 24.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=animeav1.com" width="30" style="border-radius:4px;"> | **AnimeAV** | 02.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/un.png" width="20" alt="mx"> |
+| <img src="https://anm.cx/favicon.ico" width="30" style="border-radius:4px;"> | **AnimeciX** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Animejara** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeler.pw/&size=128" width="30" style="border-radius:4px;"> | **Animeler** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://play-lh.googleusercontent.com/BIE1R3FVOpIoCPxkx3Erfuw5sVc5wVIbeHAcRuTUGesuvc1S1Cr6KYumGVbn7xABuLc=w240-h480" width="30" style="border-radius:4px;"> | **Animely** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.animeworld.ac&size=128" width="30" style="border-radius:4px;"> | **AnimeWorld** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/un.png" width="20" alt="it"> |
+| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeyt.cc&size=128" width="30" style="border-radius:4px;"> | **AnimeYTX** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/un.png" width="20" alt="mx"> |
+| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animpow.com/&size=128" width="30" style="border-radius:4px;"> | **AnimPow** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=anizium.co" width="30" style="border-radius:4px;"> | **Anizium** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLGJxL_3l-lZofrxkC-vpKFzHzyKW-Z0lYg&s" width="30" style="border-radius:4px;"> | **Anizm** | 29.09.2026 | 🆕 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ArdaSpor.png" width="30" style="border-radius:4px;"> | **ArdaSpor** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/AslanTV.png" width="30" style="border-radius:4px;"> | **AslanTV** | 10.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **AsyaAnimeleri** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png" width="30" style="border-radius:4px;"> | **AsyaFanatiklerim** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **AsyaFilmIzlesene** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **AsyaWatch** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **AtomSpor** | 09.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Atv** | 29.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BasketballReplays.png" width="30" style="border-radius:4px;"> | **BasketballReplays** | 18.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BasketballVideo.png" width="30" style="border-radius:4px;"> | **BasketballVideo** | 19.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| — | **BelgeselX** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BetmatikTV.png" width="30" style="border-radius:4px;"> | **BetmatikTV** | 09.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BeyazElma.png" width="30" style="border-radius:4px;"> | **BeyazElma** | 07.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/BingeBang.png" width="30" style="border-radius:4px;"> | **BingeBang** | 18.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/un.png" width="20" alt="all"> |
+| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16" width="30" style="border-radius:4px;"> | **BirAsyaDizi** | 29.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **BirdirbirIPTV** | 09.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **BronzeCloudSports** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **CanliTV** | 17.09.2026 | ⚪ | `feroxx` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://cinecat.eu/android-chrome-192x192.png?v=3" width="30" style="border-radius:4px;"> | **CineCat** | 19.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/un.png" width="20" alt="all"> |
+| <img src="https://www.google.com/s2/favicons?domain=simkl.com&sz=128" width="30" style="border-radius:4px;"> | **CineSimkl** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/SaurabhKaperwan/CSX/master/CineStream/icon.png" width="30" style="border-radius:4px;"> | **CineStream** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **CineTmdb** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=cizgidizi.net&sz=128" width="30" style="border-radius:4px;"> | **CizgiDiziNet** | 27.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=cizgifilmizle.info&sz=128" width="30" style="border-radius:4px;"> | **CizgiFilmIzleInfo** | 27.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=cizgifilm.tv&sz=128" width="30" style="border-radius:4px;"> | **CizgiFilmTv** | 27.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **CizgiMax** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=cizgiportal.net&sz=128" width="30" style="border-radius:4px;"> | **CizgiPortal** | 27.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=cizgi.site&sz=128" width="30" style="border-radius:4px;"> | **CizgiSite** | 27.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=cizgivedizi.com" width="30" style="border-radius:4px;"> | **CizgiveDizi** | 10.10.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/ClipBox.png" width="30" style="border-radius:4px;"> | **ClipBox** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://img.icons8.com/color/512/cloud-sync.png" width="30" style="border-radius:4px;"> | **Cloud-Sync** | 17.09.2026 | ⚪ | `pltmustafa` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png" width="30" style="border-radius:4px;"> | **CNCVerseDisneyPlus** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png" width="30" style="border-radius:4px;"> | **CNCVerseHotstar** | 27.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png" width="30" style="border-radius:4px;"> | **CNCVerseNetflix** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png" width="30" style="border-radius:4px;"> | **CNCVersePrimeVideo** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Crex.png" width="30" style="border-radius:4px;"> | **Crex** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="30" style="border-radius:4px;"> | **CricifyProvider** | 19.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| — | **CS3MProvider** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DaddyLive.jpg" width="30" style="border-radius:4px;"> | **DaddyLive** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.ddizi.im/favicon.ico" width="30" style="border-radius:4px;"> | **DDizi** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=www.ddizi.tel&sz=128" width="30" style="border-radius:4px;"> | **DDiziAlternatif** | 06.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=deokwave.com&sz=128" width="30" style="border-radius:4px;"> | **Deokwave** | 19.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=diziasia.com" width="30" style="border-radius:4px;"> | **DiziAsia** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diziasya.com&size=32" width="30" style="border-radius:4px;"> | **DiziAsya** | 04.10.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=dizibal.org&sz=128" width="30" style="border-radius:4px;"> | **DiziBal** | 10.10.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=dizibol.org&sz=128" width="30" style="border-radius:4px;"> | **DiziBol** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **DiziBox** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=128" width="30" style="border-radius:4px;"> | **DiziBoxAlternatif** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziFilmIzle.jpg" width="30" style="border-radius:4px;"> | **DiziFilmIzle** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizifilm.org/dizi/breaking-bad/sezon-1/bolum-2&size=128" width="30" style="border-radius:4px;"> | **DiziFilmORG** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizigecesi.com/tr&size=128" width="30" style="border-radius:4px;"> | **Dizigecesi** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **DiziGom** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **DiziKorea** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **DiziLife** | 10.10.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Dizilla** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **DiziMag** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **DiziMom** | 10.10.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal.im/&size=128" width="30" style="border-radius:4px;"> | **DiziPal** | 10.10.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **DiziPal2** | 02.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **DiziPalOriginal** | 10.10.2026 | 🔴 | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1581.com&size=128" width="30" style="border-radius:4px;"> | **DiziPalOrijinal** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **DiziPod** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=dizirella.net&sz=128" width="30" style="border-radius:4px;"> | **DiziRella** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=diziwatch.ac" width="30" style="border-radius:4px;"> | **DiziWatch** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **DiziYo** | 10.10.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png" width="30" style="border-radius:4px;"> | **DiziYou** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **DMax** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://documentaryarea.com&size=128" width="30" style="border-radius:4px;"> | **DocumentaryArea** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DomatesTV.webp" width="30" style="border-radius:4px;"> | **DomatesTV** | 09.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DominoTV.png" width="30" style="border-radius:4px;"> | **DominoTV** | 06.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **DramaDizilerim** | 10.10.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org" width="30" style="border-radius:4px;"> | **EnglishW** | 07.10.2026 | 🔴 | `ctnkyaumt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| <img src="https://filmbip.com/uploads/favicon/original/favicon.webp" width="30" style="border-radius:4px;"> | **FilmBip** | 17.09.2026 | ⚪ | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **FilmEkseni** | 10.10.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **FilmHane** | 10.10.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmizyon.com/&size=64" width="30" style="border-radius:4px;"> | **FilmIzyon** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=filmizzle.com&sz=128" width="30" style="border-radius:4px;"> | **FilmIzzle** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Filmİzlesene** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **FilmKovasi** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **FilmMakinesi** | 10.10.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://filmmirasim.ktb.gov.tr/favicon-r.png" width="30" style="border-radius:4px;"> | **Filmmirasım** | 17.09.2026 | ⚪ | `ctnkyaumt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=filmmodu.one" width="30" style="border-radius:4px;"> | **FilmModu** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmzal.me/&size=128" width="30" style="border-radius:4px;"> | **Filmzal** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/un.png" width="20" alt="az"> |
+| <img src="https://www.google.com/s2/favicons?domain=flixnetwork.is&sz=128" width="30" style="border-radius:4px;"> | **FlixNetwork** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **FullHDFilm** | 10.10.2026 | 🔴 | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.fullhdfilmizlesene.now/favicon.ico" width="30" style="border-radius:4px;"> | **FullHDFilmizlesene** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **FullHDFilmİzlede** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **FullHDIzle** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.giniko.com/images/favicon.ico" width="30" style="border-radius:4px;"> | **GinikoCanli** | 22.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://golgetv.com/favicon.ico" width="30" style="border-radius:4px;"> | **GolgeTV** | 10.10.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=hdfilmcehennemi.nl" width="30" style="border-radius:4px;"> | **HDFilmCehennemi** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **HdFilmCehennemi2** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **HDFilmCehennemiAlternatif** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=hdfilmdelisi.one" width="30" style="border-radius:4px;"> | **HDFilmDelisi** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hdfilmizle.life/rally-caps/&size=128" width="30" style="border-radius:4px;"> | **HDFilmizle** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=www.hdfilmizle.best&sz=128" width="30" style="border-radius:4px;"> | **HDFilmizleBest** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=hdfilmizle.ink&sz=128" width="30" style="border-radius:4px;"> | **HDFilmIzleInk** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=hdfilmizle.vip&sz=128" width="30" style="border-radius:4px;"> | **HDFilmIzleVip** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **HDFilmSitesi** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Hesgoal.png" width="30" style="border-radius:4px;"> | **Hesgoal** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **IkiDirIkiSpor** | 29.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png" width="30" style="border-radius:4px;"> | **InatBox** | 10.10.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png" width="30" style="border-radius:4px;"> | **InatBoxBC** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InatTV.png" width="30" style="border-radius:4px;"> | **InatTV** | 09.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **InternetArchive** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InterSporTV.png" width="30" style="border-radius:4px;"> | **InterSporTV** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **iptvSevenler** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **IzleAI** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=izleoyna.com&sz=128" width="30" style="border-radius:4px;"> | **IzleOyna** | 27.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.jestyayin970.com/logo.png" width="30" style="border-radius:4px;"> | **JestYayin** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **JetFilmizle** | 10.10.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **KacakSpor** | 07.10.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **KanalD** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/kick.png" width="30" style="border-radius:4px;"> | **KICK Türkiye - Latte** | 17.09.2026 | ⚪ | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kick.com&size=48" width="30" style="border-radius:4px;"> | **KickTR** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/providers/KoolTV.png" width="30" style="border-radius:4px;"> | **Kool TV** | 29.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **KoreanTurk** | 17.09.2026 | ⚪ | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/KralSporHD.png" width="30" style="border-radius:4px;"> | **KralSporHD** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/aytzey/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png" width="30" style="border-radius:4px;"> | **KraptorPlus** | 22.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=kultfilmler.net" width="30" style="border-radius:4px;"> | **KultFilmler** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **LeoTV** | 09.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=liderfilmizle.com&sz=128" width="30" style="border-radius:4px;"> | **LiderFilmIzle** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/LiveXTV.png" width="30" style="border-radius:4px;"> | **LiveXTV** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="30" style="border-radius:4px;"> | **LivXowProvider** | 19.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| — | **LoveFilm** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/MacKeyfi.png" width="30" style="border-radius:4px;"> | **MacKeyfi** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/MahsunSports.jpg" width="30" style="border-radius:4px;"> | **MahsunSports** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/test/builds/logos/mapple.png" width="30" style="border-radius:4px;"> | **Mapple** | 22.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/un.png" width="20" alt="all"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioLand/main/assets/icon.png" width="30" style="border-radius:4px;"> | **MegaWio** | 26.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=minikacocuk.com.tr&sz=128" width="30" style="border-radius:4px;"> | **MinikaCocuk** | 27.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=minikago.com.tr&sz=128" width="30" style="border-radius:4px;"> | **MinikaGO** | 27.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/aytzey/cs-kraptor/refs/heads/master/.github/icons/logo/mirrorverseicon.png" width="30" style="border-radius:4px;"> | **MirrorVerse** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png" width="30" style="border-radius:4px;"> | **MovieBoxProvider** | 22.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| <img src="https://raw.githubusercontent.com/lepotane/MRC-builds/builds/icon.png" width="30" style="border-radius:4px;"> | **MRC-Live** | 04.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/lepotane/MRC-builds/builds/icon.png" width="30" style="border-radius:4px;"> | **MRC-Naughty** | 04.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/lepotane/MRC-builds/builds/icon.png" width="30" style="border-radius:4px;"> | **MRC-Plus** | 04.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/test/builds/icon.gif" width="30" style="border-radius:4px;"> | **NebulaSports** | 07.10.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=netfilmizle.com&sz=128" width="30" style="border-radius:4px;"> | **NetFilmizle** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://netfree2.cc/mobile/img/nf2/icon_x192.png" width="30" style="border-radius:4px;"> | **NetflixMirror** | 17.09.2026 | ⚪ | `patr0nq` | <img src="https://flagcdn.com/w20/in.png" width="20" alt="hi"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/NetShort.png" width="30" style="border-radius:4px;"> | **NetShort** | 20.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/NetVGold.png" width="30" style="border-radius:4px;"> | **NetVGold** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Ntvs.png" width="30" style="border-radius:4px;"> | **Ntvs** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.onepacetr.net/&size=128" width="30" style="border-radius:4px;"> | **OnePaceTr** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **OpenAnime** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/PapazSports.png" width="30" style="border-radius:4px;"> | **PapazSports** | 09.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/PatronHD.png" width="30" style="border-radius:4px;"> | **PatronHD** | 09.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="30" style="border-radius:4px;"> | **PlayZTVProvider** | 19.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| <img src="https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon_party.png" width="30" style="border-radius:4px;"> | **plt-party** | 17.09.2026 | ⚪ | `pltmustafa` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png" width="30" style="border-radius:4px;"> | **plt-stream** | 21.09.2026 | ⚪ | `pltmustafa` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon_tv.png" width="30" style="border-radius:4px;"> | **plt-tv** | 17.09.2026 | ⚪ | `pltmustafa` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powerdizi.png" width="30" style="border-radius:4px;"> | **powerboard Dizi - Latte** | 17.09.2026 | ⚪ | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powersinema.png" width="30" style="border-radius:4px;"> | **powerboard Sinema - Latte** | 10.10.2026 | 🔴 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png" width="30" style="border-radius:4px;"> | **PowerSinema** | 10.10.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Puhu** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=rarefilmm.com" width="30" style="border-radius:4px;"> | **RareFilmm** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rectvapk.cc&size=128" width="30" style="border-radius:4px;"> | **RecTV** | 10.10.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp" width="30" style="border-radius:4px;"> | **RecTVBC** | 22.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **RoketDizi** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://seicode.net/favicon.png" width="30" style="border-radius:4px;"> | **SeiCode** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **SelcukFlix** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/SelcukSports.png" width="30" style="border-radius:4px;"> | **SelcukSports** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **SetFilm** | 23.09.2026 | ⚪ | `manitux-app` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **SetFilmIzle** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **SeyirTURK** | 07.10.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **SezonlukDizi** | 10.10.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Showtv** | 29.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinefy3.com/&size=128" width="30" style="border-radius:4px;"> | **Sinefy** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.sinema.gg/&size=128" width="30" style="border-radius:4px;"> | **SinemaCX** | 10.10.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=sinema.gg&sz=128" width="30" style="border-radius:4px;"> | **SinemaGG** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=sinemakolik.com&sz=128" width="30" style="border-radius:4px;"> | **Sinemakolik** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480" width="30" style="border-radius:4px;"> | **SineWix** | 10.10.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=sinezy.to" width="30" style="border-radius:4px;"> | **Sinezy** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="30" style="border-radius:4px;"> | **SportzxProvider** | 19.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| — | **Startv** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/test/builds/assets/seyirturk.png" width="30" style="border-radius:4px;"> | **StbTV** | 07.10.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/StreamEast.png" width="30" style="border-radius:4px;"> | **StreamEast** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Streamed.png" width="30" style="border-radius:4px;"> | **Streamed** | 20.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://i.imgur.com/LBfX2k3.png" width="30" style="border-radius:4px;"> | **Supercartoons** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| — | **SuperFilmGeldi** | 17.09.2026 | ⚪ | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **SyncPlugin** | 17.09.2026 | ⚪ | `CakesTwix` | <img src="https://flagcdn.com/w20/un.png" width="20" alt="uk"> |
+| — | **Tafdi** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Taraftarium24.png" width="30" style="border-radius:4px;"> | **Taraftarium24** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **TLC** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **TLCtr** | 10.10.2026 | 🔴 | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **TmdbProvider** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **TorrentFilm** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://play-lh.googleusercontent.com/eUBvwF8qxYbAB-teSb1o3PSvKDUbjQzJO5xuqAiXzncQo55_Gp9aByEaJ79a1lDS6zecy-SvzOLSK-UIRmcTYQ=s320" width="30" style="border-radius:4px;"> | **trakt-sync** | 17.09.2026 | ⚪ | `pltmustafa` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **TRanimaci** | 10.10.2026 | 🔴 | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.tranimeizle.io/&size=128" width="30" style="border-radius:4px;"> | **TrAnimeIzle** | 10.10.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **TRasyalog** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=trdiziizle.tv&sz=128" width="30" style="border-radius:4px;"> | **TrDiziIzle** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/TRGoals.png" width="30" style="border-radius:4px;"> | **TRGoals** | 09.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.turkanime.co&size=64" width="30" style="border-radius:4px;"> | **TurkAnime** | 10.10.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://i.imgur.com/Cff8v6J.png" width="30" style="border-radius:4px;"> | **Turkdizileri** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **TurkishCineStream** | 29.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org" width="30" style="border-radius:4px;"> | **TurkishW** | 06.10.2026 | 🔴 | `ctnkyaumt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **TurkSCanliTV** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **TurkSinema** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/support-qr.png" width="30" style="border-radius:4px;"> | **TurkSinemaDestek** | 22.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="30" style="border-radius:4px;"> | **TurkSpor** | 07.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **TurkSporDestek** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Tv8** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **TvDiziler** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Twitch** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **UgurFilm** | 17.09.2026 | ⚪ | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ufilmizle.com/&size=128" width="30" style="border-radius:4px;"> | **UltraFilmizle** | 23.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/logo.png" width="30" style="border-radius:4px;"> | **v10 Spor** | 19.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Vavoo** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **vavooSpor** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **VegolTV** | 07.10.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Vidmody** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/test/main/logos/viontv.png" width="30" style="border-radius:4px;"> | **VionTV** | 24.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/VivoXSpor.png" width="30" style="border-radius:4px;"> | **VivoXSpor** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/VionTV.webp" width="30" style="border-radius:4px;"> | **VİONTV** | 24.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Warflix** | 07.10.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| — | **Watch2Movies** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40" width="30" style="border-radius:4px;"> | **WebDramaTurkey** | 10.10.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **WebdramaTurkey2** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Webteizle** | 10.10.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://wfilmizle.bar&size=128" width="30" style="border-radius:4px;"> | **WFilmizle** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **WFilmİzle** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioAsya/main/assets/logo.png" width="30" style="border-radius:4px;"> | **WioAsya** | 03.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioCinema/main/assets/logo.png" width="30" style="border-radius:4px;"> | **WioCinema** | 10.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| — | **WioIPTVPanels** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WiojeltSpor/main/assets/logo.png" width="30" style="border-radius:4px;"> | **WiojeltSpor** | 07.10.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/test/builds/icon.gif" width="30" style="border-radius:4px;"> | **WioPollTest** | 22.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png" width="30" style="border-radius:4px;"> | **WioSinema** | 22.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/logo.png?v=3" width="30" style="border-radius:4px;"> | **WioSpor** | 09.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **YabanciDizi** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.yenikaynak.com/&size=16" width="30" style="border-radius:4px;"> | **YeniKaynak** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **YerelDiziler** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **YerelProgramlar** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=yesilcamtv.com.tr" width="30" style="border-radius:4px;"> | **YesilCamTv** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=yoturkish.to" width="30" style="border-radius:4px;"> | **YoTurkish** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128" width="30" style="border-radius:4px;"> | **Youtube** | 27.09.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **YTPatron** | 17.09.2026 | ⚪ | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128" width="30" style="border-radius:4px;"> | **YTS** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ZbahisTV.png" width="30" style="border-radius:4px;"> | **ZbahisTV** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+
+</details>
+
+<details>
+<summary>📂 <b>CakesTwix</b> (1 Eklenti)</summary>
+
+| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
+|:----:|:------------|:------|:------|:-------|:----:|
+| — | **SyncPlugin** | 17.09.2026 | ⚪ | `CakesTwix` | <img src="https://flagcdn.com/w20/un.png" width="20" alt="uk"> |
+
+</details>
+
+<details>
+<summary>📂 <b>GitLatte</b> (3 Eklenti)</summary>
+
+| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
+|:----:|:------------|:------|:------|:-------|:----:|
+| <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/kick.png" width="30" style="border-radius:4px;"> | **KICK Türkiye - Latte** | 17.09.2026 | ⚪ | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powerdizi.png" width="30" style="border-radius:4px;"> | **powerboard Dizi - Latte** | 17.09.2026 | ⚪ | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powersinema.png" width="30" style="border-radius:4px;"> | **powerboard Sinema - Latte** | 10.10.2026 | 🔴 | `GitLatte` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+
+</details>
+
+<details>
+<summary>📂 <b>MoOnCrOwN DePo</b> (34 Eklenti)</summary>
+
+| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
+|:----:|:------------|:------|:------|:-------|:----:|
+| — | **4KFilmIzlesene** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Animejara** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **AsyaFilmIzlesene** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **BronzeCloudSports** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **CineTmdb** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **CS3MProvider** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **DiziMag** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Filmİzlesene** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **FilmKovasi** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **FullHDFilmİzlede** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **FullHDIzle** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **HDFilmCehennemiAlternatif** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **HDFilmSitesi** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **IkiDirIkiSpor** | 29.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **InternetArchive** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **iptvSevenler** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **IzleAI** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Puhu** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **RoketDizi** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Tafdi** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **TmdbProvider** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **TorrentFilm** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **TurkishCineStream** | 29.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **TurkSCanliTV** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **TurkSinema** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **TurkSporDestek** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Twitch** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Vavoo** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **vavooSpor** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Vidmody** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **WFilmİzle** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **WioIPTVPanels** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **YerelDiziler** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **YerelProgramlar** | 27.09.2026 | 🆕 | `MoOnCrOwN DePo` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+
+</details>
+
+<details>
+<summary>📂 <b>Wiojelt</b> (99 Eklenti)</summary>
+
+| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
+|:----:|:------------|:------|:------|:-------|:----:|
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png" width="30" style="border-radius:4px;"> | **0 WioSinema** | 03.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/logo.png?v=3" width="30" style="border-radius:4px;"> | **0 WioSpor** | 06.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioCinema/main/assets/providers/turkishcinestream.png" width="30" style="border-radius:4px;"> | **1 TurkishCineStream** | 03.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="30" style="border-radius:4px;"> | **1 v10 Spor** | 04.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/2dir2-spor-gothic.png" width="30" style="border-radius:4px;"> | **2dir2 Spor** | 29.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/AltiYuzAltmisAltiFilmIzle.png" width="30" style="border-radius:4px;"> | **AltiYuzAltmisAltiFilmIzle** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://aniarsiv.com/favicon.ico" width="30" style="border-radius:4px;"> | **AniArsiv** | 24.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ArdaSpor.png" width="30" style="border-radius:4px;"> | **ArdaSpor** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/AslanTV.png" width="30" style="border-radius:4px;"> | **AslanTV** | 10.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **AtomSpor** | 09.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BasketballReplays.png" width="30" style="border-radius:4px;"> | **BasketballReplays** | 18.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BasketballVideo.png" width="30" style="border-radius:4px;"> | **BasketballVideo** | 19.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BetmatikTV.png" width="30" style="border-radius:4px;"> | **BetmatikTV** | 09.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BeyazElma.png" width="30" style="border-radius:4px;"> | **BeyazElma** | 07.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/BingeBang.png" width="30" style="border-radius:4px;"> | **BingeBang** | 18.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/un.png" width="20" alt="all"> |
+| — | **BirdirbirIPTV** | 09.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://cinecat.eu/android-chrome-192x192.png?v=3" width="30" style="border-radius:4px;"> | **CineCat** | 19.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/un.png" width="20" alt="all"> |
+| <img src="https://www.google.com/s2/favicons?domain=simkl.com&sz=128" width="30" style="border-radius:4px;"> | **CineSimkl** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/SaurabhKaperwan/CSX/master/CineStream/icon.png" width="30" style="border-radius:4px;"> | **CineStream** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=cizgidizi.net&sz=128" width="30" style="border-radius:4px;"> | **CizgiDiziNet** | 27.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=cizgifilmizle.info&sz=128" width="30" style="border-radius:4px;"> | **CizgiFilmIzleInfo** | 27.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=cizgifilm.tv&sz=128" width="30" style="border-radius:4px;"> | **CizgiFilmTv** | 27.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=cizgiportal.net&sz=128" width="30" style="border-radius:4px;"> | **CizgiPortal** | 27.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=cizgi.site&sz=128" width="30" style="border-radius:4px;"> | **CizgiSite** | 27.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/ClipBox.png" width="30" style="border-radius:4px;"> | **ClipBox** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png" width="30" style="border-radius:4px;"> | **CNCVerseDisneyPlus** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png" width="30" style="border-radius:4px;"> | **CNCVerseHotstar** | 27.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png" width="30" style="border-radius:4px;"> | **CNCVerseNetflix** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png" width="30" style="border-radius:4px;"> | **CNCVersePrimeVideo** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Crex.png" width="30" style="border-radius:4px;"> | **Crex** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="30" style="border-radius:4px;"> | **CricifyProvider** | 19.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DaddyLive.jpg" width="30" style="border-radius:4px;"> | **DaddyLive** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=www.ddizi.tel&sz=128" width="30" style="border-radius:4px;"> | **DDiziAlternatif** | 06.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=deokwave.com&sz=128" width="30" style="border-radius:4px;"> | **Deokwave** | 19.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=128" width="30" style="border-radius:4px;"> | **DiziBoxAlternatif** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziFilmIzle.jpg" width="30" style="border-radius:4px;"> | **DiziFilmIzle** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=dizirella.net&sz=128" width="30" style="border-radius:4px;"> | **DiziRella** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DomatesTV.webp" width="30" style="border-radius:4px;"> | **DomatesTV** | 09.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/DominoTV.png" width="30" style="border-radius:4px;"> | **DominoTV** | 06.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=filmizzle.com&sz=128" width="30" style="border-radius:4px;"> | **FilmIzzle** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=flixnetwork.is&sz=128" width="30" style="border-radius:4px;"> | **FlixNetwork** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://golgetv.com/favicon.ico" width="30" style="border-radius:4px;"> | **GolgeTV** | 10.10.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=www.hdfilmizle.best&sz=128" width="30" style="border-radius:4px;"> | **HDFilmizleBest** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=hdfilmizle.ink&sz=128" width="30" style="border-radius:4px;"> | **HDFilmIzleInk** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=hdfilmizle.vip&sz=128" width="30" style="border-radius:4px;"> | **HDFilmIzleVip** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Hesgoal.png" width="30" style="border-radius:4px;"> | **Hesgoal** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InatTV.png" width="30" style="border-radius:4px;"> | **InatTV** | 09.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InterSporTV.png" width="30" style="border-radius:4px;"> | **InterSporTV** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=izleoyna.com&sz=128" width="30" style="border-radius:4px;"> | **IzleOyna** | 27.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.jestyayin970.com/logo.png" width="30" style="border-radius:4px;"> | **JestYayin** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **KacakSpor** | 07.10.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/providers/KoolTV.png" width="30" style="border-radius:4px;"> | **Kool TV** | 29.09.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/KralSporHD.png" width="30" style="border-radius:4px;"> | **KralSporHD** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **LeoTV** | 09.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=liderfilmizle.com&sz=128" width="30" style="border-radius:4px;"> | **LiderFilmIzle** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/LiveXTV.png" width="30" style="border-radius:4px;"> | **LiveXTV** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="30" style="border-radius:4px;"> | **LivXowProvider** | 19.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/MacKeyfi.png" width="30" style="border-radius:4px;"> | **MacKeyfi** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/MahsunSports.jpg" width="30" style="border-radius:4px;"> | **MahsunSports** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/test/builds/logos/mapple.png" width="30" style="border-radius:4px;"> | **Mapple** | 22.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/un.png" width="20" alt="all"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioLand/main/assets/icon.png" width="30" style="border-radius:4px;"> | **MegaWio** | 26.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=minikacocuk.com.tr&sz=128" width="30" style="border-radius:4px;"> | **MinikaCocuk** | 27.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=minikago.com.tr&sz=128" width="30" style="border-radius:4px;"> | **MinikaGO** | 27.09.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png" width="30" style="border-radius:4px;"> | **MovieBoxProvider** | 22.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/test/builds/icon.gif" width="30" style="border-radius:4px;"> | **NebulaSports** | 07.10.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=netfilmizle.com&sz=128" width="30" style="border-radius:4px;"> | **NetFilmizle** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/NetShort.png" width="30" style="border-radius:4px;"> | **NetShort** | 20.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/NetVGold.png" width="30" style="border-radius:4px;"> | **NetVGold** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Ntvs.png" width="30" style="border-radius:4px;"> | **Ntvs** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/PapazSports.png" width="30" style="border-radius:4px;"> | **PapazSports** | 09.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/PatronHD.png" width="30" style="border-radius:4px;"> | **PatronHD** | 09.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="30" style="border-radius:4px;"> | **PlayZTVProvider** | 19.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png" width="30" style="border-radius:4px;"> | **PowerSinema** | 10.10.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/SelcukSports.png" width="30" style="border-radius:4px;"> | **SelcukSports** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **SeyirTURK** | 07.10.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=sinema.gg&sz=128" width="30" style="border-radius:4px;"> | **SinemaGG** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=sinemakolik.com&sz=128" width="30" style="border-radius:4px;"> | **Sinemakolik** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="30" style="border-radius:4px;"> | **SportzxProvider** | 19.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/test/builds/assets/seyirturk.png" width="30" style="border-radius:4px;"> | **StbTV** | 07.10.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/StreamEast.png" width="30" style="border-radius:4px;"> | **StreamEast** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Streamed.png" width="30" style="border-radius:4px;"> | **Streamed** | 20.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/Taraftarium24.png" width="30" style="border-radius:4px;"> | **Taraftarium24** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=trdiziizle.tv&sz=128" width="30" style="border-radius:4px;"> | **TrDiziIzle** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/TRGoals.png" width="30" style="border-radius:4px;"> | **TRGoals** | 09.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/support-qr.png" width="30" style="border-radius:4px;"> | **TurkSinemaDestek** | 22.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/logo.png" width="30" style="border-radius:4px;"> | **TurkSpor** | 07.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/logo.png" width="30" style="border-radius:4px;"> | **v10 Spor** | 19.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **VegolTV** | 07.10.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/test/main/logos/viontv.png" width="30" style="border-radius:4px;"> | **VionTV** | 24.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/VivoXSpor.png" width="30" style="border-radius:4px;"> | **VivoXSpor** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/VionTV.webp" width="30" style="border-radius:4px;"> | **VİONTV** | 24.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Warflix** | 07.10.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioAsya/main/assets/logo.png" width="30" style="border-radius:4px;"> | **WioAsya** | 03.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioCinema/main/assets/logo.png" width="30" style="border-radius:4px;"> | **WioCinema** | 10.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WiojeltSpor/main/assets/logo.png" width="30" style="border-radius:4px;"> | **WiojeltSpor** | 07.10.2026 | 🆕 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/test/builds/icon.gif" width="30" style="border-radius:4px;"> | **WioPollTest** | 22.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png" width="30" style="border-radius:4px;"> | **WioSinema** | 22.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/logo.png?v=3" width="30" style="border-radius:4px;"> | **WioSpor** | 09.10.2026 | 🔴 | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/ZbahisTV.png" width="30" style="border-radius:4px;"> | **ZbahisTV** | 17.09.2026 | ⚪ | `Wiojelt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+
+</details>
+
+<details>
+<summary>📂 <b>aytzey</b> (30 Eklenti)</summary>
+
+| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
+|:----:|:------------|:------|:------|:-------|:----:|
+| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeler.pw/&size=128" width="30" style="border-radius:4px;"> | **Animeler** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://play-lh.googleusercontent.com/BIE1R3FVOpIoCPxkx3Erfuw5sVc5wVIbeHAcRuTUGesuvc1S1Cr6KYumGVbn7xABuLc=w240-h480" width="30" style="border-radius:4px;"> | **Animely** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animpow.com/&size=128" width="30" style="border-radius:4px;"> | **AnimPow** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://asyafanatiklerim.com/wp-content/uploads/2018/08/md_5aaeb1de75bea.png" width="30" style="border-radius:4px;"> | **AsyaFanatiklerim** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=cizgivedizi.com" width="30" style="border-radius:4px;"> | **CizgiveDizi** | 10.10.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=diziasia.com" width="30" style="border-radius:4px;"> | **DiziAsia** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.diziasya.com&size=32" width="30" style="border-radius:4px;"> | **DiziAsya** | 04.10.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizifilm.org/dizi/breaking-bad/sezon-1/bolum-2&size=128" width="30" style="border-radius:4px;"> | **DiziFilmORG** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizigecesi.com/tr&size=128" width="30" style="border-radius:4px;"> | **Dizigecesi** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal.im/&size=128" width="30" style="border-radius:4px;"> | **DiziPal** | 10.10.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://filmzal.me/&size=128" width="30" style="border-radius:4px;"> | **Filmzal** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/un.png" width="20" alt="az"> |
+| <img src="https://www.giniko.com/images/favicon.ico" width="30" style="border-radius:4px;"> | **GinikoCanli** | 22.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hdfilmizle.life/rally-caps/&size=128" width="30" style="border-radius:4px;"> | **HDFilmizle** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png" width="30" style="border-radius:4px;"> | **InatBox** | 10.10.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://kick.com&size=48" width="30" style="border-radius:4px;"> | **KickTR** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/aytzey/cs-kraptor/refs/heads/master/.github/icons/logo/kraptorplus.png" width="30" style="border-radius:4px;"> | **KraptorPlus** | 22.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/aytzey/cs-kraptor/refs/heads/master/.github/icons/logo/mirrorverseicon.png" width="30" style="border-radius:4px;"> | **MirrorVerse** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.onepacetr.net/&size=128" width="30" style="border-radius:4px;"> | **OnePaceTr** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rectvapk.cc&size=128" width="30" style="border-radius:4px;"> | **RecTV** | 10.10.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://seicode.net/favicon.png" width="30" style="border-radius:4px;"> | **SeiCode** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.sinema.gg/&size=128" width="30" style="border-radius:4px;"> | **SinemaCX** | 10.10.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480" width="30" style="border-radius:4px;"> | **SineWix** | 10.10.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.tranimeizle.io/&size=128" width="30" style="border-radius:4px;"> | **TrAnimeIzle** | 10.10.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.turkanime.co&size=64" width="30" style="border-radius:4px;"> | **TurkAnime** | 10.10.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://i.imgur.com/Cff8v6J.png" width="30" style="border-radius:4px;"> | **Turkdizileri** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://webdramaturkey.org/&size=40" width="30" style="border-radius:4px;"> | **WebDramaTurkey** | 10.10.2026 | 🔴 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://wfilmizle.bar&size=128" width="30" style="border-radius:4px;"> | **WFilmizle** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.yenikaynak.com/&size=16" width="30" style="border-radius:4px;"> | **YeniKaynak** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128" width="30" style="border-radius:4px;"> | **Youtube** | 27.09.2026 | 🆕 | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://en.yts-official.mx&size=128" width="30" style="border-radius:4px;"> | **YTS** | 18.09.2026 | ⚪ | `aytzey` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+
+</details>
+
+<details>
+<summary>📂 <b>blackhope01</b> (11 Eklenti)</summary>
+
+| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
+|:----:|:------------|:------|:------|:-------|:----:|
+| <img src="https://www.google.com/s2/favicons?domain=dizibal.org&sz=128" width="30" style="border-radius:4px;"> | **DiziBal** | 10.10.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **DiziLife** | 10.10.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **DiziMom** | 10.10.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **DiziYo** | 10.10.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **DramaDizilerim** | 10.10.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **FilmEkseni** | 10.10.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **FilmHane** | 10.10.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **FilmMakinesi** | 10.10.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **JetFilmizle** | 10.10.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **SezonlukDizi** | 10.10.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Webteizle** | 10.10.2026 | 🔴 | `blackhope01` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+
+</details>
+
+<details>
+<summary>📂 <b>ctnkyaumt</b> (3 Eklenti)</summary>
+
+| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
+|:----:|:------------|:------|:------|:-------|:----:|
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org" width="30" style="border-radius:4px;"> | **EnglishW** | 07.10.2026 | 🔴 | `ctnkyaumt` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| <img src="https://filmmirasim.ktb.gov.tr/favicon-r.png" width="30" style="border-radius:4px;"> | **Filmmirasım** | 17.09.2026 | ⚪ | `ctnkyaumt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org" width="30" style="border-radius:4px;"> | **TurkishW** | 06.10.2026 | 🔴 | `ctnkyaumt` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+
+</details>
+
+<details>
+<summary>📂 <b>feroxx</b> (1 Eklenti)</summary>
+
+| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
+|:----:|:------------|:------|:------|:-------|:----:|
+| — | **CanliTV** | 17.09.2026 | ⚪ | `feroxx` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+
+</details>
+
+<details>
+<summary>📂 <b>lepotane</b> (58 Eklenti)</summary>
+
+| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
+|:----:|:------------|:------|:------|:-------|:----:|
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=animeav1.com" width="30" style="border-radius:4px;"> | **AnimeAV** | 02.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/un.png" width="20" alt="mx"> |
+| <img src="https://anm.cx/favicon.ico" width="30" style="border-radius:4px;"> | **AnimeciX** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.animeworld.ac&size=128" width="30" style="border-radius:4px;"> | **AnimeWorld** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/un.png" width="20" alt="it"> |
+| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeyt.cc&size=128" width="30" style="border-radius:4px;"> | **AnimeYTX** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/un.png" width="20" alt="mx"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=anizium.co" width="30" style="border-radius:4px;"> | **Anizium** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLGJxL_3l-lZofrxkC-vpKFzHzyKW-Z0lYg&s" width="30" style="border-radius:4px;"> | **Anizm** | 29.09.2026 | 🆕 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **AsyaAnimeleri** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **AsyaWatch** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Atv** | 29.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **BelgeselX** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.birasyadizi.com/&size=16" width="30" style="border-radius:4px;"> | **BirAsyaDizi** | 29.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **CizgiMax** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.ddizi.im/favicon.ico" width="30" style="border-radius:4px;"> | **DDizi** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?domain=dizibol.org&sz=128" width="30" style="border-radius:4px;"> | **DiziBol** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **DiziBox** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **DiziGom** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **DiziKorea** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Dizilla** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **DiziPal2** | 02.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1581.com&size=128" width="30" style="border-radius:4px;"> | **DiziPalOrijinal** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **DiziPod** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=diziwatch.ac" width="30" style="border-radius:4px;"> | **DiziWatch** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png" width="30" style="border-radius:4px;"> | **DiziYou** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **DMax** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://documentaryarea.com&size=128" width="30" style="border-radius:4px;"> | **DocumentaryArea** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmizyon.com/&size=64" width="30" style="border-radius:4px;"> | **FilmIzyon** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=filmmodu.one" width="30" style="border-radius:4px;"> | **FilmModu** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.fullhdfilmizlesene.now/favicon.ico" width="30" style="border-radius:4px;"> | **FullHDFilmizlesene** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=hdfilmcehennemi.nl" width="30" style="border-radius:4px;"> | **HDFilmCehennemi** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **HdFilmCehennemi2** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=hdfilmdelisi.one" width="30" style="border-radius:4px;"> | **HDFilmDelisi** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png" width="30" style="border-radius:4px;"> | **InatBoxBC** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **KanalD** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=kultfilmler.net" width="30" style="border-radius:4px;"> | **KultFilmler** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **LoveFilm** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/lepotane/MRC-builds/builds/icon.png" width="30" style="border-radius:4px;"> | **MRC-Live** | 04.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/lepotane/MRC-builds/builds/icon.png" width="30" style="border-radius:4px;"> | **MRC-Naughty** | 04.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/lepotane/MRC-builds/builds/icon.png" width="30" style="border-radius:4px;"> | **MRC-Plus** | 04.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **OpenAnime** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=rarefilmm.com" width="30" style="border-radius:4px;"> | **RareFilmm** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp" width="30" style="border-radius:4px;"> | **RecTVBC** | 22.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **SelcukFlix** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **SetFilmIzle** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Showtv** | 29.09.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinefy3.com/&size=128" width="30" style="border-radius:4px;"> | **Sinefy** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=sinezy.to" width="30" style="border-radius:4px;"> | **Sinezy** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Startv** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://i.imgur.com/LBfX2k3.png" width="30" style="border-radius:4px;"> | **Supercartoons** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| — | **TLC** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **TRasyalog** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Tv8** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **TvDiziler** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ufilmizle.com/&size=128" width="30" style="border-radius:4px;"> | **UltraFilmizle** | 23.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **Watch2Movies** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+| — | **WebdramaTurkey2** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **YabanciDizi** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=yesilcamtv.com.tr" width="30" style="border-radius:4px;"> | **YesilCamTv** | 10.10.2026 | 🔴 | `lepotane` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://www.google.com/s2/favicons?sz=64&domain=yoturkish.to" width="30" style="border-radius:4px;"> | **YoTurkish** | 20.09.2026 | ⚪ | `lepotane` | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="en"> |
+
+</details>
+
+<details>
+<summary>📂 <b>manitux-app</b> (1 Eklenti)</summary>
+
+| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
+|:----:|:------------|:------|:------|:-------|:----:|
+| — | **SetFilm** | 23.09.2026 | ⚪ | `manitux-app` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+
+</details>
+
+<details>
+<summary>📂 <b>patr0nq</b> (10 Eklenti)</summary>
+
+| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
+|:----:|:------------|:------|:------|:-------|:----:|
+| — | **DiziPalOriginal** | 10.10.2026 | 🔴 | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://filmbip.com/uploads/favicon/original/favicon.webp" width="30" style="border-radius:4px;"> | **FilmBip** | 17.09.2026 | ⚪ | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **FullHDFilm** | 10.10.2026 | 🔴 | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **KoreanTurk** | 17.09.2026 | ⚪ | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://netfree2.cc/mobile/img/nf2/icon_x192.png" width="30" style="border-radius:4px;"> | **NetflixMirror** | 17.09.2026 | ⚪ | `patr0nq` | <img src="https://flagcdn.com/w20/in.png" width="20" alt="hi"> |
+| — | **SuperFilmGeldi** | 17.09.2026 | ⚪ | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **TLCtr** | 10.10.2026 | 🔴 | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **TRanimaci** | 10.10.2026 | 🔴 | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **UgurFilm** | 17.09.2026 | ⚪ | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| — | **YTPatron** | 17.09.2026 | ⚪ | `patr0nq` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+
+</details>
+
+<details>
+<summary>📂 <b>pltmustafa</b> (5 Eklenti)</summary>
+
+| İkon | Eklenti Adı | Tarih | Durum | Kaynak | Ülke |
+|:----:|:------------|:------|:------|:-------|:----:|
+| <img src="https://img.icons8.com/color/512/cloud-sync.png" width="30" style="border-radius:4px;"> | **Cloud-Sync** | 17.09.2026 | ⚪ | `pltmustafa` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon_party.png" width="30" style="border-radius:4px;"> | **plt-party** | 17.09.2026 | ⚪ | `pltmustafa` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon.png" width="30" style="border-radius:4px;"> | **plt-stream** | 21.09.2026 | ⚪ | `pltmustafa` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://raw.githubusercontent.com/pltmustafa/plt-stream/master/icon_tv.png" width="30" style="border-radius:4px;"> | **plt-tv** | 17.09.2026 | ⚪ | `pltmustafa` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+| <img src="https://play-lh.googleusercontent.com/eUBvwF8qxYbAB-teSb1o3PSvKDUbjQzJO5xuqAiXzncQo55_Gp9aByEaJ79a1lDS6zecy-SvzOLSK-UIRmcTYQ=s320" width="30" style="border-radius:4px;"> | **trakt-sync** | 17.09.2026 | ⚪ | `pltmustafa` | <img src="https://flagcdn.com/w20/tr.png" width="20" alt="tr"> |
+
+</details>
