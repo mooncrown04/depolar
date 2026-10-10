@@ -46,7 +46,7 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSpor/main/assets/logo.png?v=3",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/WioSpor",
-    "fileSize": 653222,
+    "fileSize": 687353,
     "status": "3",
     "language": "tr",
     "authors": [
@@ -55,9 +55,9 @@
     "tvTypes": [
       "Live"
     ],
-    "version": "45",
+    "version": "46",
     "internalName": "WioSpor",
-    "description": "🔴 Wiojelt 09.10.2026 Tüm canlı TV ve spor kanalları tek eklentide. Renk grupları ve alternatif yayın kaynakları.",
+    "description": "🔴 Wiojelt 10.10.2026 Tüm canlı TV ve spor kanalları tek eklentide. Renk grupları ve alternatif yayın kaynakları.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/WioSpor.cs3",
     "name": "WioSpor"
   },
@@ -582,7 +582,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizirella.net&sz=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "fileSize": 58197,
+    "fileSize": 137139,
     "status": "3",
     "language": "tr",
     "authors": [
@@ -594,9 +594,9 @@
       "Anime",
       "Documentary"
     ],
-    "version": "7",
+    "version": "8",
     "internalName": "DiziRella",
-    "description": "🆕 Wiojelt 17.09.2026 DiziRella · TurkSinema ayrı sağlayıcı paketi",
+    "description": "🔴 Wiojelt 10.10.2026 DiziRella · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DiziRella.cs3",
     "name": "DiziRella"
   },
@@ -1298,7 +1298,7 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "fileSize": 125562,
+    "fileSize": 127254,
     "status": "3",
     "language": "tr",
     "authors": [
@@ -1417,7 +1417,7 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BetmatikTV.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "fileSize": 161214,
+    "fileSize": 212879,
     "status": "3",
     "language": "tr",
     "authors": [
@@ -1426,9 +1426,9 @@
     "tvTypes": [
       "Live"
     ],
-    "version": "2",
+    "version": "3",
     "internalName": "BetmatikTV",
-    "description": "🔴 Wiojelt 09.10.2026 Betmatik TV canlı spor kanalları · otomatik alan güncelleme",
+    "description": "🔴 Wiojelt 10.10.2026 Betmatik TV canlı spor kanalları · otomatik alan güncelleme",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/BetmatikTV.cs3",
     "name": "BetmatikTV"
   },
@@ -1478,14 +1478,14 @@
     "status": "1",
     "language": "en",
     "authors": [
-      "Wiojelt"
+      "NivinCNC"
     ],
     "tvTypes": [
       "Live"
     ],
-    "version": "65",
+    "version": "1",
     "internalName": "CricifyProvider",
-    "description": "🔴 Wiojelt 19.09.2026 CNCVerse kaynaklı CricifyProvider canlı yayın paketi · izinli harici derleme",
+    "description": "🔴 Wiojelt 10.10.2026 CNCVerse kaynaklı CricifyProvider canlı yayın paketi · izinli harici derleme",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CricifyProvider.cs3",
     "name": "CricifyProvider",
     "externalPath": "external/CNCVerse/CricifyProvider.cs3"
@@ -1551,7 +1551,7 @@
     "iconUrl": "https://golgetv.com/favicon.ico",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "fileSize": 179056,
+    "fileSize": 230173,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -1562,7 +1562,7 @@
     ],
     "version": "3",
     "internalName": "GolgeTV",
-    "description": "🆕 Wiojelt 10.10.2026 GÃ¶lgeTV spor kanallarÄ± ve alternatif yayÄ±nlar",
+    "description": "🆕 Wiojelt 10.10.2026 GölgeTV spor kanalları ve alternatif yayınlar",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3",
     "name": "GolgeTV"
   },
@@ -1589,7 +1589,7 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InatTV.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "fileSize": 134854,
+    "fileSize": 175518,
     "status": "3",
     "language": "tr",
     "authors": [
@@ -1598,9 +1598,9 @@
     "tvTypes": [
       "Live"
     ],
-    "version": "10",
+    "version": "11",
     "internalName": "InatTV",
-    "description": "🔴 Wiojelt 09.10.2026 🟢 Kaynak: İnat TV · Emeği için teşekkürler ♥ · @wiojelt",
+    "description": "🔴 Wiojelt 10.10.2026 🟢 Kaynak: İnat TV · Emeği için teşekkürler ♥ · @wiojelt",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/InatTV.cs3",
     "name": "InatTV"
   },
@@ -1669,14 +1669,14 @@
     "status": "1",
     "language": "en",
     "authors": [
-      "Wiojelt"
+      "NivinCNC"
     ],
     "tvTypes": [
       "Live"
     ],
-    "version": "14",
+    "version": "1",
     "internalName": "LivXowProvider",
-    "description": "🔴 Wiojelt 19.09.2026 CNCVerse kaynaklı LivXowProvider canlı yayın paketi · izinli harici derleme",
+    "description": "🔴 Wiojelt 10.10.2026 CNCVerse kaynaklı LivXowProvider canlı yayın paketi · izinli harici derleme",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/LivXowProvider.cs3",
     "name": "LivXowProvider",
     "externalPath": "external/CNCVerse/LivXowProvider.cs3"
@@ -1780,7 +1780,7 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/PapazSports.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "fileSize": 132420,
+    "fileSize": 223328,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -1789,9 +1789,9 @@
     "tvTypes": [
       "Live"
     ],
-    "version": "2",
+    "version": "1",
     "internalName": "PapazSports",
-    "description": "🔴 Wiojelt 09.10.2026 PapazSports canlı kanal ve maç listesi, artan alan adı keşfi ve güncelleme ekranı.",
+    "description": "🔴 Wiojelt 10.10.2026 PapazSports canlı kanal ve maç listesi, artan alan adı keşfi ve güncelleme ekranı.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/PapazSports.cs3",
     "name": "PapazSports"
   },
@@ -1803,14 +1803,14 @@
     "status": "1",
     "language": "en",
     "authors": [
-      "Wiojelt"
+      "NivinCNC"
     ],
     "tvTypes": [
       "Live"
     ],
-    "version": "35",
+    "version": "1",
     "internalName": "PlayZTVProvider",
-    "description": "🔴 Wiojelt 19.09.2026 CNCVerse kaynaklı PlayZTVProvider canlı yayın paketi · izinli harici derleme",
+    "description": "🔴 Wiojelt 10.10.2026 CNCVerse kaynaklı PlayZTVProvider canlı yayın paketi · izinli harici derleme",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/PlayZTVProvider.cs3",
     "name": "PlayZTVProvider",
     "externalPath": "external/CNCVerse/PlayZTVProvider.cs3"
@@ -1842,14 +1842,14 @@
     "status": "1",
     "language": "en",
     "authors": [
-      "Wiojelt"
+      "NivinCNC"
     ],
     "tvTypes": [
       "Live"
     ],
-    "version": "19",
+    "version": "1",
     "internalName": "SportzxProvider",
-    "description": "🔴 Wiojelt 19.09.2026 CNCVerse kaynaklı SportzxProvider canlı yayın paketi · izinli harici derleme",
+    "description": "🔴 Wiojelt 10.10.2026 CNCVerse kaynaklı SportzxProvider canlı yayın paketi · izinli harici derleme",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/SportzxProvider.cs3",
     "name": "SportzxProvider",
     "externalPath": "external/CNCVerse/SportzxProvider.cs3"
@@ -3685,7 +3685,7 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/PatronHD.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
-    "fileSize": 103070,
+    "fileSize": 212829,
     "status": "3",
     "language": "tr",
     "authors": [
@@ -3694,9 +3694,9 @@
     "tvTypes": [
       "Live"
     ],
-    "version": "15",
+    "version": "16",
     "internalName": "PatronHD",
-    "description": "🔴 Wiojelt 09.10.2026 🔴 Kaynak: PatronHD / Patronspor · Emeği için teşekkürler ♥ · @wiojelt",
+    "description": "🔴 Wiojelt 10.10.2026 🔴 Kaynak: PatronHD / Patronspor · Emeği için teşekkürler ♥ · @wiojelt",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/PatronHD.cs3",
     "name": "PatronHD"
   },
@@ -5024,5 +5024,108 @@
     "description": "🆕 MoOnCrOwN DePo 29.09.2026",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/MoOnCrOwN/TurkishCineStream.cs3",
     "name": "TurkishCineStream"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPalHub.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "fileSize": 207437,
+    "status": "3",
+    "language": "tr",
+    "authors": [
+      "Wiojelt"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "version": "17",
+    "internalName": "DiziPalHub",
+    "description": "🆕 Wiojelt 10.10.2026 DiziPal Hub · 2225, DDiziPal, Orjinal 14 ve 1588 kaynakları tek merkezde",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DiziPalHub.cs3",
+    "name": "DiziPalHub"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/hintfilmizle_icon.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "fileSize": 166127,
+    "status": "3",
+    "language": "tr",
+    "authors": [
+      "Wiojelt"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "AsianDrama"
+    ],
+    "version": "2",
+    "internalName": "HintFilmIzle",
+    "description": "🆕 Wiojelt 10.10.2026 HintFilmİzle · En yeni Hint ve Asya filmleri & dizileri (hintfilmizle.com)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/HintFilmIzle.cs3",
+    "name": "HintFilmIzle"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/assets/providers/Dexter.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Wiojelt/test",
+    "fileSize": 169006,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "Wiojelt"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": "1",
+    "internalName": "Dexter",
+    "description": "🆕 Wiojelt 10.10.2026 Dexter.pw · 4K/1080p Film & Dizi (Doğrudan HLS Akışları).",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Dexter.cs3",
+    "name": "Dexter"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/icon.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Wiojelt/test",
+    "fileSize": 164393,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "Wiojelt"
+    ],
+    "tvTypes": [
+      "Others"
+    ],
+    "version": "1",
+    "internalName": "WioSync",
+    "description": "🆕 Wiojelt 10.10.2026 WioStream Cihaz Eşleme, Telemetri ve Uzaktan Yönetim Eklentisi",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/WioSync.cs3",
+    "name": "WioSync"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioAsya/builds/assets/hintfilmizle.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Wiojelt/WioAsya",
+    "fileSize": 163198,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "Wiojelt"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "AsianDrama"
+    ],
+    "version": "2",
+    "internalName": "HintFilmIzle",
+    "description": "🆕 Wiojelt 10.10.2026 HintFilmİzle · En yeni Hint ve Asya filmleri & dizileri (hintfilmizle.com)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/HintFilmIzle.cs3",
+    "name": "HintFilmİzle"
   }
 ]
