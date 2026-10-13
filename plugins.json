@@ -5051,8 +5051,8 @@
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/icon.png",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Wiojelt/test",
-    "fileSize": 164393,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "fileSize": 167262,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -5061,9 +5061,9 @@
     "tvTypes": [
       "Others"
     ],
-    "version": "1",
+    "version": "2",
     "internalName": "WioSync",
-    "description": "🆕 Wiojelt 10.10.2026 WioStream Cihaz Eşleme, Telemetri ve Uzaktan Yönetim Eklentisi",
+    "description": "🔴 Wiojelt 13.10.2026 WioStream Cihaz Eşleme, Telemetri ve Uzaktan Yönetim Eklentisi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/WioSync.cs3",
     "name": "WioSync"
   },

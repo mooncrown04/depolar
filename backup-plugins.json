@@ -1295,23 +1295,6 @@
     "name": "YesilCamTv"
   },
   {
-    "iconUrl": "",
-    "apiVersion": 1,
-    "repositoryUrl": "",
-    "fileSize": 127254,
-    "status": "1",
-    "language": "tr",
-    "authors": [
-      "Wiojelt"
-    ],
-    "tvTypes": [],
-    "version": "1",
-    "internalName": "PowerSinema",
-    "description": "🆕 MoOnCrOwN DePo 13.10.2026",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/MoOnCrOwN/PowerSinema.cs3",
-    "name": "PowerSinema"
-  },
-  {
     "iconUrl": "https://cinecat.eu/android-chrome-192x192.png?v=3",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
@@ -4509,8 +4492,8 @@
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/test/builds/icon.png",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Wiojelt/test",
-    "fileSize": 164393,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSpor",
+    "fileSize": 167262,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -4519,9 +4502,9 @@
     "tvTypes": [
       "Others"
     ],
-    "version": "1",
+    "version": "2",
     "internalName": "WioSync",
-    "description": "🆕 Wiojelt 10.10.2026 WioStream Cihaz Eşleme, Telemetri ve Uzaktan Yönetim Eklentisi",
+    "description": "🔴 Wiojelt 13.10.2026 WioStream Cihaz Eşleme, Telemetri ve Uzaktan Yönetim Eklentisi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/WioSync.cs3",
     "name": "WioSync"
   },
@@ -5143,5 +5126,22 @@
     "description": "🆕 MoOnCrOwN DePo 29.09.2026",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/MoOnCrOwN/TurkishCineStream.cs3",
     "name": "TurkishCineStream"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 127254,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "Wiojelt"
+    ],
+    "tvTypes": [],
+    "version": "1",
+    "internalName": "PowerSinema",
+    "description": "🆕 MoOnCrOwN DePo 13.10.2026",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/MoOnCrOwN/PowerSinema.cs3",
+    "name": "PowerSinema"
   }
 ]
