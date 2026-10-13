@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 127254,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "Wiojelt"
+    ],
+    "tvTypes": [],
+    "version": "1",
+    "internalName": "PowerSinema",
+    "description": "🆕 MoOnCrOwN DePo 13.10.2026",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/PowerSinema.cs3",
+    "name": "PowerSinema"
+  }
+]
