@@ -38,7 +38,7 @@
     ],
     "version": "35",
     "internalName": "TurkAnime",
-    "description": "🔴 aytzey 21.10.2026 Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
+    "description": "🔴 aytzey 22.10.2026 Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/TurkAnime.cs3",
     "name": "TurkAnime"
   },
@@ -118,7 +118,7 @@
     ],
     "version": "3",
     "internalName": "AnimeciX",
-    "description": "🔴 lepotane 21.10.2026 AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
+    "description": "🔴 lepotane 22.10.2026 AnimeciX, animeleri keÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸fedebileceÃƒÆ’Ã¢â‚¬ÂÃƒâ€¦Ã‚Â¸iniz ve animeler hakkÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±nda her ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸eyi ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶ÃƒÆ’Ã¢â‚¬ÂÃƒâ€¦Ã‚Â¸renebileceÃƒÆ’Ã¢â‚¬ÂÃƒâ€¦Ã‚Â¸iniz bir paylaÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸ÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±m platformudur.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeciX.cs3",
     "name": "AnimeciX"
   },
@@ -138,7 +138,7 @@
     ],
     "version": "4",
     "internalName": "Anizium",
-    "description": "🔴 lepotane 21.10.2026 Anizium - Türkçe altyazılı ve dublajlı anime ile anime film arşivi.",
+    "description": "🔴 lepotane 22.10.2026 Anizium - TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e altyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± ve dublajlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± anime ile anime film arÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸ivi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Anizium.cs3",
     "name": "Anizium"
   },
@@ -146,7 +146,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 13967,
+    "fileSize": 31969,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -155,9 +155,9 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": "4",
+    "version": "5",
     "internalName": "AsyaAnimeleri",
-    "description": "🔴 lepotane 21.10.2026 Asya Animeleri - Anime izle, Donghua izle, Türkçe Altyazılı Anime izle.",
+    "description": "🔴 lepotane 22.10.2026 Asya Animeleri - Anime izle, Donghua izle, TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e AltyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± Anime izle.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AsyaAnimeleri.cs3",
     "name": "AsyaAnimeleri"
   },
@@ -165,7 +165,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 31227,
+    "fileSize": 34458,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -174,9 +174,9 @@
     "tvTypes": [
       "Documentary"
     ],
-    "version": "4",
+    "version": "5",
     "internalName": "BelgeselX",
-    "description": "🔴 lepotane 21.10.2026 En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
+    "description": "🔴 lepotane 22.10.2026 En yeni belgeseller, tÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§e altyazÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â±lÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â± yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/BelgeselX.cs3",
     "name": "BelgeselX"
   },
@@ -228,7 +228,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 44451,
+    "fileSize": 77630,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -239,9 +239,9 @@
       "Anime",
       "Movie"
     ],
-    "version": "6",
+    "version": "8",
     "internalName": "CizgiMax",
-    "description": "🔴 lepotane 21.10.2026 ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
+    "description": "🔴 lepotane 22.10.2026 ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¡izgiMax ile ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¡izgi Film izlemek artÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±k daha kolay, donmadan full hd ve reklamsÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±z bir sitedir, iÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§erisinde 700 den fazla ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§izgi film olan, Bu site bu iÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸i profesyonelce yapÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±yor.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/CizgiMax.cs3",
     "name": "CizgiMax"
   },
@@ -348,7 +348,7 @@
     ],
     "version": "5",
     "internalName": "DDizi",
-    "description": "🔴 lepotane 21.10.2026 DDizi.im için Cloudstream eklentisi.",
+    "description": "🔴 lepotane 22.10.2026 DDizi.im iÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§in Cloudstream eklentisi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DDizi.cs3",
     "name": "DDizi"
   },
@@ -390,7 +390,7 @@
     ],
     "version": "1",
     "internalName": "DiziBal",
-    "description": "🔴 blackhope01 21.10.2026 En popüler yabancı dizileri yeni bölümleriyle takip edin. HBO, Netflix, Apple TV+ yapımları Türkçe altyazılı olarak dizibaL'da!",
+    "description": "🔴 blackhope01 22.10.2026 En popüler yabancı dizileri yeni bölümleriyle takip edin. HBO, Netflix, Apple TV+ yapımları Türkçe altyazılı olarak dizibaL'da!",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DiziBal.cs3",
     "name": "DiziBal"
   },
@@ -398,7 +398,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.org&sz=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 18126,
+    "fileSize": 22924,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -409,9 +409,9 @@
       "TvSeries",
       "Anime"
     ],
-    "version": "5",
+    "version": "6",
     "internalName": "DiziBol",
-    "description": "🔴 lepotane 11.10.2026 En popüler yabancı dizileri yeni bölümleriyle takip edin. HBO, Netflix, Apple TV+ yapımları Türkçe altyazılı olarak dizibaL'da!",
+    "description": "🔴 lepotane 22.10.2026 En popÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ler yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± dizileri yeni bÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼mleriyle takip edin. HBO, Netflix, Apple TV+ yapÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±mlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e altyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± olarak dizibaL'da!",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziBol.cs3",
     "name": "DiziBol"
   },
@@ -419,7 +419,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.de&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 40743,
+    "fileSize": 45648,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -428,9 +428,9 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": "18",
+    "version": "20",
     "internalName": "DiziBox",
-    "description": "🔴 lepotane 21.10.2026 Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site..",
+    "description": "🔴 lepotane 22.10.2026 YabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± Dizi izle, TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼m yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± dizilerin yeni ve eski sezonlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±nÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± full hd izleyebileceÃƒÆ’Ã¢â‚¬ÂÃƒâ€¦Ã‚Â¸iniz elit site..",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziBox.cs3",
     "name": "DiziBox"
   },
@@ -493,7 +493,7 @@
     ],
     "version": "4",
     "internalName": "DiziKorea",
-    "description": "🔴 lepotane 21.10.2026 En Güncel Kore Dizileri izleme Sitesi",
+    "description": "🔴 lepotane 22.10.2026 En GÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ncel Kore Dizileri izleme Sitesi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziKorea.cs3",
     "name": "DiziKorea"
   },
@@ -512,7 +512,7 @@
     ],
     "version": "10",
     "internalName": "Dizilla",
-    "description": "🔴 lepotane 21.10.2026 Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
+    "description": "🔴 lepotane 22.10.2026 Dizilla tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼m yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± dizileri ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼cretsiz olarak TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e Dublaj ve altyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± seÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§enekleri ile 1080P kalite izleyebileceÃƒÆ’Ã¢â‚¬ÂÃƒâ€¦Ã‚Â¸iniz yeni nesil yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Dizilla.cs3",
     "name": "Dizilla"
   },
@@ -532,29 +532,28 @@
     ],
     "version": "4",
     "internalName": "DiziMom",
-    "description": "🔴 blackhope01 21.10.2026 Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
+    "description": "🔴 blackhope01 22.10.2026 Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DiziMom.cs3",
     "name": "DiziMom"
   },
   {
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal.im/&size=128",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal2142.com&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
-    "fileSize": 38257,
+    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
+    "fileSize": 37665,
     "status": "1",
     "language": "tr",
     "authors": [
-      "kraptor",
-      "ByAyzen"
+      "MRC"
     ],
     "tvTypes": [
-      "Movie",
-      "TvSeries"
+      "TvSeries",
+      "Movie"
     ],
-    "version": "90",
+    "version": "13",
     "internalName": "DiziPal",
-    "description": "🔴 aytzey 21.10.2026 En yeni dizileri güvenli ve hızlı şekilde sunar.",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziPal.cs3",
+    "description": "🔴 lepotane 22.10.2026 DiziPal - GÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ncel domain ile yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± dizi ve filmleri gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼venli ve hÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±zlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸ekilde sunar.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziPal.cs3",
     "name": "DiziPal"
   },
   {
@@ -574,7 +573,7 @@
     ],
     "version": "43",
     "internalName": "DiziPalOriginal",
-    "description": "🔴 patr0nq 21.10.2026 en yeni dizileri güvenli ve hızlı şekilde sunar.",
+    "description": "🔴 patr0nq 22.10.2026 en yeni dizileri güvenli ve hızlı şekilde sunar.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/DiziPalOriginal.cs3",
     "name": "DiziPalOriginal"
   },
@@ -615,7 +614,7 @@
     ],
     "version": "9",
     "internalName": "DiziYou",
-    "description": "🔴 lepotane 21.10.2026 Diziyou - Kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesi.",
+    "description": "🔴 lepotane 22.10.2026 Diziyou - Kaliteli TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e dublaj ve altyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± dizi izleme sitesi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziYou.cs3",
     "name": "DiziYou"
   },
@@ -657,27 +656,27 @@
     ],
     "version": "2",
     "internalName": "FilmMakinesi",
-    "description": "🔴 blackhope01 21.10.2026 Film Makinesi ile en yeni ve güncel filmleri Full HD kalite farkı ile izleyebilirsiniz. Film izle denildiğinde akla gelen en kaliteli film sitesi.",
+    "description": "🔴 blackhope01 22.10.2026 Film Makinesi ile en yeni ve güncel filmleri Full HD kalite farkı ile izleyebilirsiniz. Film izle denildiğinde akla gelen en kaliteli film sitesi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/FilmMakinesi.cs3",
     "name": "FilmMakinesi"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=filmmodu.one",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmmodu.one/&size=128",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 19227,
+    "repositoryUrl": "https://github.com/aytzey/cs-kraptor",
+    "fileSize": 29725,
     "status": "1",
     "language": "tr",
     "authors": [
-      "MRC"
+      "kraptor"
     ],
     "tvTypes": [
       "Movie"
     ],
-    "version": "4",
+    "version": "42",
     "internalName": "FilmModu",
-    "description": "🔴 lepotane 21.10.2026 1080p film izleme keyfi (MRC)",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FilmModu.cs3",
+    "description": "🔴 aytzey 22.10.2026 Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/FilmModu.cs3",
     "name": "FilmModu"
   },
   {
@@ -718,7 +717,7 @@
     ],
     "version": "35",
     "internalName": "FullHDFilm",
-    "description": "🔴 patr0nq 21.10.2026 Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
+    "description": "🔴 patr0nq 22.10.2026 Fullhdfilm ile en yeni vizyon filmler Full HD ve kesintisiz film sizlerle. Özgün film arşivimizle en üstün kaliteli film izle keyfini sunuyoruz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/FullHDFilm.cs3",
     "name": "FullHDFilm"
   },
@@ -737,7 +736,7 @@
     ],
     "version": "6",
     "internalName": "FullHDFilmizlesene",
-    "description": "🔴 lepotane 21.10.2026 FullHDFilmizlesene Turkce Film Saglayicisi",
+    "description": "🔴 lepotane 22.10.2026 FullHDFilmizlesene Turkce Film Saglayicisi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FullHDFilmizlesene.cs3",
     "name": "FullHDFilmizlesene"
   },
@@ -757,7 +756,7 @@
     ],
     "version": "8",
     "internalName": "HDFilmCehennemi",
-    "description": "🔴 lepotane 21.10.2026 Türkiye'nin en hızlı HD film izleme sitesi (MRC)",
+    "description": "🔴 lepotane 22.10.2026 TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkiye'nin en hÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±zlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± HD film izleme sitesi (MRC)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/HDFilmCehennemi.cs3",
     "name": "HDFilmCehennemi"
   },
@@ -777,7 +776,7 @@
     ],
     "version": "16",
     "internalName": "HDFilmDelisi",
-    "description": "🔴 lepotane 21.10.2026 Dublaj ve altyazÄ±lÄ± HD filmler ve diziler (MRC)",
+    "description": "🔴 lepotane 22.10.2026 Dublaj ve altyazÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â±lÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â± HD filmler ve diziler (MRC)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/HDFilmDelisi.cs3",
     "name": "HDFilmDelisi"
   },
@@ -863,7 +862,7 @@
     ],
     "version": "1",
     "internalName": "JetFilmizle",
-    "description": "🔴 blackhope01 21.10.2026 En yeni yerli ve yabancı yapımları Full HD kalitede film izle. Türkçe dublaj ve altyazı seçenekleriyle sunulan ödüllü sinema eserlerini JetFilmizle hızıyla keşfedin.",
+    "description": "🔴 blackhope01 22.10.2026 En yeni yerli ve yabancı yapımları Full HD kalitede film izle. Türkçe dublaj ve altyazı seçenekleriyle sunulan ödüllü sinema eserlerini JetFilmizle hızıyla keşfedin.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/JetFilmizle.cs3",
     "name": "JetFilmizle"
   },
@@ -871,7 +870,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=kultfilmler.net",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 33654,
+    "fileSize": 51766,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -881,9 +880,9 @@
       "Movie",
       "TvSeries"
     ],
-    "version": "6",
+    "version": "8",
     "internalName": "KultFilmler",
-    "description": "🔴 lepotane 21.10.2026 Seçkin kült film ve dizi arşivi (MRC)",
+    "description": "🔴 lepotane 22.10.2026 SeÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§kin kÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¼lt film ve dizi arÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¸ivi (MRC)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/KultFilmler.cs3",
     "name": "KultFilmler"
   },
@@ -956,7 +955,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rarefilmm.com",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 13875,
+    "fileSize": 20230,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -965,9 +964,9 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": "4",
+    "version": "5",
     "internalName": "RareFilmm",
-    "description": "🔴 lepotane 21.10.2026 Unutulmaz nadir filmler arsivi (MRC)",
+    "description": "🔴 lepotane 22.10.2026 Unutulmaz nadir filmler arsivi (MRC)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/RareFilmm.cs3",
     "name": "RareFilmm"
   },
@@ -987,7 +986,7 @@
     ],
     "version": "6",
     "internalName": "SetFilmIzle",
-    "description": "🔴 lepotane 21.10.2026 Setfilmizle sitemizde, donma yaşamadan Türkçe dublaj ve altyazılı filmleri ile dizileri muhteşem 1080p full HD kalitesinde izleyebilirsiniz.",
+    "description": "🔴 lepotane 22.10.2026 Setfilmizle sitemizde, donma yaÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸amadan TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e dublaj ve altyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± filmleri ile dizileri muhteÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸em 1080p full HD kalitesinde izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/SetFilmIzle.cs3",
     "name": "SetFilmIzle"
   },
@@ -1006,7 +1005,7 @@
     ],
     "version": "1",
     "internalName": "SezonlukDizi",
-    "description": "🔴 blackhope01 21.10.2026 Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
+    "description": "🔴 blackhope01 22.10.2026 Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/SezonlukDizi.cs3",
     "name": "SezonlukDizi"
   },
@@ -1025,7 +1024,7 @@
     ],
     "version": "36",
     "internalName": "SinemaCX",
-    "description": "🔴 aytzey 21.10.2026 Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
+    "description": "🔴 aytzey 22.10.2026 Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/SinemaCX.cs3",
     "name": "SinemaCX"
   },
@@ -1093,7 +1092,7 @@
     ],
     "version": "33",
     "internalName": "SineWix",
-    "description": "🔴 aytzey 21.10.2026 SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
+    "description": "🔴 aytzey 22.10.2026 SineWix - Ücretsiz Film, Dizi ve Anime İzleme Uygulaması 5000+ HD İçerik, Türkçe Altyazılı, Otaku Dostu Anime Arşivi, Premium Kalite Yabancı Yapımlar",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/SineWix.cs3",
     "name": "SineWix"
   },
@@ -1131,7 +1130,7 @@
     ],
     "version": "17",
     "internalName": "TRanimaci",
-    "description": "🔴 patr0nq 21.10.2026 TRanimeci - Türkiye'nin Online Anime izleme sitesi.",
+    "description": "🔴 patr0nq 22.10.2026 TRanimeci - Türkiye'nin Online Anime izleme sitesi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/patr0nq/TRanimaci.cs3",
     "name": "TRanimaci"
   },
@@ -1150,7 +1149,7 @@
     ],
     "version": "4",
     "internalName": "TRasyalog",
-    "description": "🔴 lepotane 21.10.2026 TRasyalog izleme sitesi.",
+    "description": "🔴 lepotane 22.10.2026 TRasyalog izleme sitesi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/TRasyalog.cs3",
     "name": "TRasyalog"
   },
@@ -1211,7 +1210,7 @@
     ],
     "version": "3",
     "internalName": "Watch2Movies",
-    "description": "🔴 lepotane 21.10.2026 Movies2Watch is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series.",
+    "description": "🔴 lepotane 22.10.2026 Movies2Watch is a Free Movies streaming site with zero ads. We let you watch movies online without having to register or paying, with over 10000 movies and TV-Series.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Watch2Movies.cs3",
     "name": "Watch2Movies"
   },
@@ -1231,7 +1230,7 @@
     ],
     "version": "1",
     "internalName": "Webteizle",
-    "description": "🔴 blackhope01 21.10.2026 Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
+    "description": "🔴 blackhope01 22.10.2026 Her türlü filmi ister dublaj ister altyazılı, en kaliteli bir şekilde izleyebileceğiniz arşivi en geniş gerçek film izleme siteniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/Webteizle.cs3",
     "name": "Webteizle"
   },
@@ -1250,7 +1249,7 @@
     ],
     "version": "17",
     "internalName": "YabanciDizi",
-    "description": "🔴 lepotane 21.10.2026 Son çıkan yabancı dizi ve filmleri yabancidizi' de izle. En yeni yabancı film ve diziler, türkçe altyazılı yada dublaj olarak 1080p kalitesinde hd izle.",
+    "description": "🔴 lepotane 22.10.2026 Son ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±kan yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± dizi ve filmleri yabancidizi' de izle. En yeni yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± film ve diziler, tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e altyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± yada dublaj olarak 1080p kalitesinde hd izle.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/YabanciDizi.cs3",
     "name": "YabanciDizi"
   },
@@ -1271,7 +1270,7 @@
     ],
     "version": "43",
     "internalName": "RecTV",
-    "description": "🔴 aytzey 21.10.2026 RecTV,Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
+    "description": "🔴 aytzey 22.10.2026 RecTV,Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/RecTV.cs3",
     "name": "RecTV"
   },
@@ -1290,7 +1289,7 @@
     ],
     "version": "3",
     "internalName": "YesilCamTv",
-    "description": "🔴 lepotane 21.10.2026 Yesilcam klasikleri arsivi (MRC)",
+    "description": "🔴 lepotane 22.10.2026 Yesilcam klasikleri arsivi (MRC)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/YesilCamTv.cs3",
     "name": "YesilCamTv"
   },
@@ -1965,7 +1964,7 @@
     ],
     "version": "40",
     "internalName": "WebDramaTurkey",
-    "description": "🔴 aytzey 21.10.2026 Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler",
+    "description": "🔴 aytzey 22.10.2026 Web Drama Turkey - Kore, Çin, Japon Dizileri, Filmleri ve Animeler",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/WebDramaTurkey.cs3",
     "name": "WebDramaTurkey"
   },
@@ -1973,7 +1972,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=selcukflix.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 66627,
+    "fileSize": 74045,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -1983,9 +1982,9 @@
       "Movie",
       "TvSeries"
     ],
-    "version": "7",
+    "version": "8",
     "internalName": "SelcukFlix",
-    "description": "🔴 lepotane 21.10.2026 Selcukflix'te her türden en yeni ve en popüler dizi ve filmleri izlemenin keyfini çıkarın. Aksiyondan romantiğe, bilim kurgudan dramaya, geniş kütüphanemizde herkes için bir şey var",
+    "description": "🔴 lepotane 22.10.2026 Selcukflix'te her tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rden en yeni ve en popÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ler dizi ve filmleri izlemenin keyfini ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±karÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±n. Aksiyondan romantiÃƒÆ’Ã¢â‚¬ÂÃƒâ€¦Ã‚Â¸e, bilim kurgudan dramaya, geniÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸ kÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼phanemizde herkes iÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§in bir ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸ey var",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/SelcukFlix.cs3",
     "name": "SelcukFlix"
   },
@@ -2104,7 +2103,7 @@
     ],
     "version": "4",
     "internalName": "WebdramaTurkey2",
-    "description": "🔴 lepotane 21.10.2026 WebdramaTurkey2 içerikleri",
+    "description": "🔴 lepotane 22.10.2026 WebdramaTurkey2 iÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§erikleri",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/WebdramaTurkey2.cs3",
     "name": "WebdramaTurkey2"
   },
@@ -2144,7 +2143,7 @@
     ],
     "version": "59",
     "internalName": "InatBox",
-    "description": "🔴 aytzey 21.10.2026 Güncel sunucu protokolü ve saat eşitleme desteği.",
+    "description": "🔴 aytzey 22.10.2026 Güncel sunucu protokolü ve saat eşitleme desteği.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/InatBox.cs3",
     "name": "InatBox"
   },
@@ -2346,7 +2345,7 @@
     ],
     "version": "1",
     "internalName": "DiziPod",
-    "description": "🔴 lepotane 21.10.2026 Yabancı dizi ve film izleme platformu. Altyazılı yabancı dizi ve film izle.",
+    "description": "🔴 lepotane 22.10.2026 YabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± dizi ve film izleme platformu. AltyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± dizi ve film izle.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziPod.cs3",
     "name": "DiziPod"
   },
@@ -2392,7 +2391,7 @@
     "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeyt.cc&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 45070,
+    "fileSize": 45493,
     "status": "1",
     "language": "mx",
     "authors": [
@@ -2401,9 +2400,9 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": "3",
+    "version": "4",
     "internalName": "AnimeYTX",
-    "description": "🔴 lepotane 20.09.2026 Únete a la familia de AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido más popular de la animación japonesa.",
+    "description": "🔴 lepotane 22.10.2026 ÃƒÆ’Ã†â€™Ãƒâ€¦Ã‚Â¡nete a la familia de AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido mÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡s popular de la animaciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n japonesa.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AnimeYTX.cs3",
     "name": "AnimeYTX"
   },
@@ -2423,7 +2422,7 @@
     ],
     "version": "6",
     "internalName": "AsyaWatch",
-    "description": "🔴 lepotane 21.10.2026 Asyawatch",
+    "description": "🔴 lepotane 22.10.2026 Asyawatch",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/AsyaWatch.cs3",
     "name": "AsyaWatch"
   },
@@ -2462,7 +2461,7 @@
     ],
     "version": "2",
     "internalName": "DiziLife",
-    "description": "🔴 blackhope01 21.10.2026 Dizi.life Türkçe dizi/film izleme platformu — yabancı diziler, yeni filmler, son bölümler.",
+    "description": "🔴 blackhope01 22.10.2026 Dizi.life Türkçe dizi/film izleme platformu — yabancı diziler, yeni filmler, son bölümler.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DiziLife.cs3",
     "name": "DiziLife"
   },
@@ -2470,7 +2469,7 @@
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://dizipal1581.com&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 55192,
+    "fileSize": 51285,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -2479,9 +2478,9 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": "12",
+    "version": "16",
     "internalName": "DiziPalOrijinal",
-    "description": "🔴 lepotane 21.10.2026 DiziPal Orijinal.",
+    "description": "🔴 lepotane 22.10.2026 DiziPal Orijinal.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziPalOrijinal.cs3",
     "name": "DiziPalOrijinal"
   },
@@ -2501,7 +2500,7 @@
     ],
     "version": "1",
     "internalName": "DiziYo",
-    "description": "🔴 blackhope01 21.10.2026 Yeni film, dizi, anime ve bölümleri keşfet; güncel trendleri, sıralamaları ve yayın takvimini incele.",
+    "description": "🔴 blackhope01 22.10.2026 Yeni film, dizi, anime ve bölümleri keşfet; güncel trendleri, sıralamaları ve yayın takvimini incele.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DiziYo.cs3",
     "name": "DiziYo"
   },
@@ -2539,7 +2538,7 @@
     ],
     "version": "3",
     "internalName": "DramaDizilerim",
-    "description": "🔴 blackhope01 21.10.2026 En popüler NetShort, DramaBox, ReelShort ve FreeReels kısa dizilerini Türkçe dublaj ve altyazı seçenekleriyle Full HD kalitede ücretsiz ve reklamsız izleyin.",
+    "description": "🔴 blackhope01 22.10.2026 En popüler NetShort, DramaBox, ReelShort ve FreeReels kısa dizilerini Türkçe dublaj ve altyazı seçenekleriyle Full HD kalitede ücretsiz ve reklamsız izleyin.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/DramaDizilerim.cs3",
     "name": "DramaDizilerim"
   },
@@ -2559,7 +2558,7 @@
     ],
     "version": "1",
     "internalName": "FilmEkseni",
-    "description": "🔴 blackhope01 21.10.2026 Film Ekseni Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
+    "description": "🔴 blackhope01 22.10.2026 Film Ekseni Vizyonda ki, en güncel ve en yeni filmleri full hd kalitesinde türkçe dublaj ve altyazı seçenekleriyle 1080p olarak izleyebileceğiniz adresiniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/FilmEkseni.cs3",
     "name": "FilmEkseni"
   },
@@ -2567,7 +2566,7 @@
     "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 48442,
+    "fileSize": 54180,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -2578,9 +2577,9 @@
       "TvSeries",
       "Live"
     ],
-    "version": "2",
+    "version": "4",
     "internalName": "InatBoxBC",
-    "description": "🔴 lepotane 20.09.2026 İnatBox BC - Canlı kanallar, spor, film ve diziler.",
+    "description": "🔴 lepotane 22.10.2026 ÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â°natBox BC - CanlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± kanallar, spor, film ve diziler.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/InatBoxBC.cs3",
     "name": "InatBoxBC"
   },
@@ -2649,7 +2648,7 @@
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sinefy3.com/&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 21761,
+    "fileSize": 44009,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -2659,9 +2658,9 @@
       "Movie",
       "TvSeries"
     ],
-    "version": "3",
+    "version": "4",
     "internalName": "Sinefy",
-    "description": "🔴 lepotane 20.09.2026 Yabancı film izle olarak vizyondaki en yeni yabancı filmleri türkçe dublaj ve altyazılı olarak en hızlı şekilde full hd olarak sizlere sunuyoruz.",
+    "description": "🔴 lepotane 22.10.2026 YabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± film izle olarak vizyondaki en yeni yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± filmleri tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e dublaj ve altyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± olarak en hÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±zlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸ekilde full hd olarak sizlere sunuyoruz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Sinefy.cs3",
     "name": "Sinefy"
   },
@@ -2669,7 +2668,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sinezy.to",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 22684,
+    "fileSize": 42111,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -2678,9 +2677,9 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": "6",
+    "version": "8",
     "internalName": "Sinezy",
-    "description": "🔴 lepotane 21.10.2026 HD film izleme keyfi (MRC)",
+    "description": "🔴 lepotane 22.10.2026 HD film izleme keyfi (MRC)",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Sinezy.cs3",
     "name": "Sinezy"
   },
@@ -2778,7 +2777,7 @@
     ],
     "version": "1",
     "internalName": "FilmHane",
-    "description": "🔴 blackhope01 21.10.2026 Trend olan tüm yabancı yerli filmleri Hd ve 720p 1080p kalitesinde kesintisiz indirmeden izleyebilirsiniz, Online film sitemizde Türkçe dublaj olarak izleyebilirsiniz.",
+    "description": "🔴 blackhope01 22.10.2026 Trend olan tüm yabancı yerli filmleri Hd ve 720p 1080p kalitesinde kesintisiz indirmeden izleyebilirsiniz, Online film sitemizde Türkçe dublaj olarak izleyebilirsiniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/blackhope01/FilmHane.cs3",
     "name": "FilmHane"
   },
@@ -2841,7 +2840,7 @@
     ],
     "version": "5",
     "internalName": "powerboard Sinema - Latte",
-    "description": "🔴 GitLatte 21.10.2026 powerboard`un sinema arşivi",
+    "description": "🔴 GitLatte 22.10.2026 powerboard`un sinema arşivi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/GitLatte/powerboard Sinema - Latte.cs3",
     "name": "powerboard Sinema - Latte"
   },
@@ -3264,7 +3263,7 @@
     ],
     "version": "13",
     "internalName": "OpenAnime",
-    "description": "🔴 lepotane 21.10.2026 OpenAnime - Açık Kaynak Anime Platformu.",
+    "description": "🔴 lepotane 22.10.2026 OpenAnime - AÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±k Kaynak Anime Platformu.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/OpenAnime.cs3",
     "name": "OpenAnime"
   },
@@ -3342,7 +3341,7 @@
     ],
     "version": "6",
     "internalName": "TvDiziler",
-    "description": "🔴 lepotane 21.10.2026 TvDiziler - Yerli diziler, Türkçe dublaj/altyazılı bölümler.",
+    "description": "🔴 lepotane 22.10.2026 TvDiziler - Yerli diziler, TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e dublaj/altyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± bÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶lÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼mler.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/TvDiziler.cs3",
     "name": "TvDiziler"
   },
@@ -3471,18 +3470,19 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizigom1.co&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 37483,
+    "fileSize": 46357,
     "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
     ],
     "tvTypes": [
-      "TvSeries"
+      "TvSeries",
+      "Movie"
     ],
-    "version": "13",
+    "version": "18",
     "internalName": "DiziGom",
-    "description": "🔴 lepotane 20.09.2026 Türkçe altyazılı yabancı dizi izle, Tüm yabancı, kore, netflix dizilerin yeni ve eski sezonlarını orijinal dilinde dizigom1 alt yazılı film izleyebilir, sadece türkçe altyazılı en iyi yabancı diziler ve filmler hakkında yorum yapabilirsiniz.",
+    "description": "🔴 lepotane 22.10.2026 TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e altyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± dizi izle, TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼m yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±, kore, netflix dizilerin yeni ve eski sezonlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±nÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± orijinal dilinde dizigom1 alt yazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± film izleyebilir, sadece tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e altyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± en iyi yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± diziler ve filmler hakkÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±nda yorum yapabilirsiniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziGom.cs3",
     "name": "DiziGom"
   },
@@ -3509,7 +3509,7 @@
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.filmizyon.com/&size=64",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 23695,
+    "fileSize": 33227,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -3518,9 +3518,9 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": "6",
+    "version": "8",
     "internalName": "FilmIzyon",
-    "description": "🔴 lepotane 20.09.2026 Yerli ve yabancı ödüllü tüm filmleri Türkçe Dublaj veya Orjinal dilde izleyebileceğiniz Türkiye'nin en kaliteli film izleme platformuna hoşgeldiniz.",
+    "description": "🔴 lepotane 22.10.2026 Yerli ve yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶dÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼llÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼m filmleri TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e Dublaj veya Orjinal dilde izleyebileceÃƒÆ’Ã¢â‚¬ÂÃƒâ€¦Ã‚Â¸iniz TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkiye'nin en kaliteli film izleme platformuna hoÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸geldiniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FilmIzyon.cs3",
     "name": "FilmIzyon"
   },
@@ -3547,7 +3547,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.startv.com.tr&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 33823,
+    "fileSize": 37329,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -3556,9 +3556,9 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": "4",
+    "version": "5",
     "internalName": "Startv",
-    "description": "🔴 lepotane 20.09.2026 Star TV dizileri ve programları.",
+    "description": "🔴 lepotane 22.10.2026 Star TV dizileri ve programlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Startv.cs3",
     "name": "Startv"
   },
@@ -4096,8 +4096,8 @@
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLGJxL_3l-lZofrxkC-vpKFzHzyKW-Z0lYg&s",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 64239,
-    "status": "3",
+    "fileSize": 68933,
+    "status": "1",
     "language": "tr",
     "authors": [
       "MRC"
@@ -4105,17 +4105,17 @@
     "tvTypes": [
       "Anime"
     ],
-    "version": "1",
+    "version": "3",
     "internalName": "Anizm",
-    "description": "🆕 lepotane 29.09.2026 Türkçe Altyazılı Anime İzle.",
+    "description": "🔴 lepotane 22.10.2026 TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e AltyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± Anime ÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â°zle.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Anizm.cs3",
     "name": "Anizm"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal2135.com&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal2142.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 27820,
+    "fileSize": 36707,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -4125,9 +4125,9 @@
       "Movie",
       "TvSeries"
     ],
-    "version": "2",
+    "version": "7",
     "internalName": "DiziPal2",
-    "description": "🔴 lepotane 02.10.2026 DiziPal2  en yeni dizileri güvenli ve hızlı şekilde sunar.",
+    "description": "🔴 lepotane 22.10.2026 DiziPal2  en yeni dizileri gÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼venli ve hÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±zlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸ekilde sunar.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziPal2.cs3",
     "name": "DiziPal2"
   },
@@ -4156,7 +4156,7 @@
     "iconUrl": "https://raw.githubusercontent.com/lepotane/MRC-builds/builds/icon.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/lepotane/MRC-builds",
-    "fileSize": 29020,
+    "fileSize": 71551,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -4165,9 +4165,9 @@
     "tvTypes": [
       "Live"
     ],
-    "version": "3",
+    "version": "9",
     "internalName": "MRC-Live",
-    "description": "🔴 lepotane 04.10.2026 MRC-Live — canlı TV / IPTV kanalları (Türkiye ve dünya).",
+    "description": "🔴 lepotane 22.10.2026 MRC-Live ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â canlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± TV / IPTV kanallarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± (TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkiye ve dÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼nya).",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/MRC-Live.cs3",
     "name": "MRC-Live"
   },
@@ -5158,7 +5158,7 @@
     "tvTypes": [],
     "version": "3",
     "internalName": "GolgeTV",
-    "description": "🆕 MoOnCrOwN DePo 21.10.2026",
+    "description": "🆕 MoOnCrOwN DePo 22.10.2026",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/MoOnCrOwN/GolgeTV.cs3",
     "name": "GolgeTV"
   },
@@ -5175,7 +5175,7 @@
     "tvTypes": [],
     "version": "1",
     "internalName": "PowerSinema",
-    "description": "🆕 MoOnCrOwN DePo 21.10.2026",
+    "description": "🆕 MoOnCrOwN DePo 22.10.2026",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/MoOnCrOwN/PowerSinema.cs3",
     "name": "PowerSinema"
   }
