@@ -355,24 +355,23 @@
     "name": "DDizi"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=deokwave.com&sz=128",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=deokwave.com&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "fileSize": 45565,
-    "status": "3",
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 59752,
+    "status": "1",
     "language": "tr",
     "authors": [
-      "Wiojelt"
+      "F0Rextasy"
     ],
     "tvTypes": [
-      "Anime",
-      "AnimeMovie",
-      "OVA"
+      "Movie",
+      "TvSeries"
     ],
-    "version": "7",
+    "version": "8",
     "internalName": "Deokwave",
-    "description": "🔴 Wiojelt 19.09.2026 Deokwave · TurkSinema ayrı sağlayıcı paketi (4K Ultra HD & Anime)",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Deokwave.cs3",
+    "description": "🔴 F0Rextasy 14.11.2026 Deokwave — Türkçe içerik",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/Deokwave.cs3",
     "name": "Deokwave"
   },
   {
@@ -462,7 +461,7 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziFilmIzle.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "fileSize": 58218,
+    "fileSize": 139230,
     "status": "3",
     "language": "tr",
     "authors": [
@@ -476,7 +475,7 @@
     ],
     "version": "8",
     "internalName": "DiziFilmIzle",
-    "description": "🆕 Wiojelt 17.09.2026 DiziFilmİzle · TurkSinema ayrı sağlayıcı paketi",
+    "description": "🔴 Wiojelt 14.11.2026 DiziFilmİzle · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DiziFilmIzle.cs3",
     "name": "DiziFilmIzle"
   },
@@ -580,26 +579,24 @@
     "name": "DiziPalOriginal"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizirella.net&sz=128",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizirella.one&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "fileSize": 137139,
-    "status": "3",
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 41233,
+    "status": "1",
     "language": "tr",
     "authors": [
-      "Wiojelt"
+      "F0Rextasy"
     ],
     "tvTypes": [
       "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
+      "TvSeries"
     ],
-    "version": "8",
-    "internalName": "DiziRella",
-    "description": "🔴 Wiojelt 10.10.2026 DiziRella · TurkSinema ayrı sağlayıcı paketi",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/DiziRella.cs3",
-    "name": "DiziRella"
+    "version": "6",
+    "internalName": "Dizirella",
+    "description": "🔴 F0Rextasy 14.11.2026 Dizirella — Türkçe içerik",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/Dizirella.cs3",
+    "name": "Dizirella"
   },
   {
     "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
@@ -786,7 +783,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmizle.best&sz=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "fileSize": 35962,
+    "fileSize": 114929,
     "status": "3",
     "language": "tr",
     "authors": [
@@ -800,7 +797,7 @@
     ],
     "version": "1",
     "internalName": "HDFilmizleBest",
-    "description": "🆕 Wiojelt 17.09.2026 H D Filmizle Best · TurkSinema ayrı sağlayıcı paketi",
+    "description": "🔴 Wiojelt 14.11.2026 H D Filmizle Best · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/HDFilmizleBest.cs3",
     "name": "HDFilmizleBest"
   },
@@ -935,7 +932,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=netfilmizle.com&sz=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "fileSize": 45901,
+    "fileSize": 123798,
     "status": "3",
     "language": "tr",
     "authors": [
@@ -949,7 +946,7 @@
     ],
     "version": "1",
     "internalName": "NetFilmizle",
-    "description": "🆕 Wiojelt 17.09.2026 Net Filmizle · TurkSinema ayrı sağlayıcı paketi",
+    "description": "🔴 Wiojelt 14.11.2026 Net Filmizle · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/NetFilmizle.cs3",
     "name": "NetFilmizle"
   },
@@ -1056,7 +1053,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=sinemakolik.com&sz=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "fileSize": 44316,
+    "fileSize": 122209,
     "status": "3",
     "language": "tr",
     "authors": [
@@ -1070,7 +1067,7 @@
     ],
     "version": "1",
     "internalName": "Sinemakolik",
-    "description": "🆕 Wiojelt 17.09.2026 Sinemakolik · TurkSinema ayrı sağlayıcı paketi",
+    "description": "🔴 Wiojelt 14.11.2026 Sinemakolik · TurkSinema ayrı sağlayıcı paketi",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/Sinemakolik.cs3",
     "name": "Sinemakolik"
   },
@@ -2327,7 +2324,7 @@
     ],
     "version": "10",
     "internalName": "CanliTV",
-    "description": "🆕 feroxx 17.09.2026 Canlı TV",
+    "description": "🔴 feroxx 14.11.2026 Canlı TV",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/feroxx/CanliTV.cs3",
     "name": "CanliTV"
   },
@@ -2443,7 +2440,7 @@
     ],
     "version": "4",
     "internalName": "BirAsyaDizi",
-    "description": "🔴 lepotane 29.09.2026 Asya'nın En Ünlü Dizilerini en yüksek çözünürlükte HD ve kesintisiz izleyin, kaliteli Asya film ve dizilerinin keyfini sürün.",
+    "description": "🔴 lepotane 14.11.2026 Asya'nÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±n En ÃƒÆ’Ã†â€™Ãƒâ€¦Ã¢â‚¬Å“nlÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ Dizilerini en yÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ksek ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶zÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼nÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rlÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼kte HD ve kesintisiz izleyin, kaliteli Asya film ve dizilerinin keyfini sÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼n.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/BirAsyaDizi.cs3",
     "name": "BirAsyaDizi"
   },
@@ -2601,7 +2598,7 @@
     ],
     "version": "2",
     "internalName": "KanalD",
-    "description": "🔴 lepotane 20.09.2026 Kanal D dizileri, programları ve canlı yayın.",
+    "description": "🔴 lepotane 14.11.2026 Kanal D dizileri, programlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± ve canlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± yayÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±n.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/KanalD.cs3",
     "name": "KanalD"
   },
@@ -2740,7 +2737,7 @@
     ],
     "version": "2",
     "internalName": "Tv8",
-    "description": "🔴 lepotane 20.09.2026 TV8 programları, yarışmaları, dizileri ve canlı yayın.",
+    "description": "🔴 lepotane 14.11.2026 TV8 programlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±, yarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸malarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±, dizileri ve canlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± yayÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±n.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Tv8.cs3",
     "name": "Tv8"
   },
@@ -3000,7 +2997,7 @@
     ],
     "version": "43",
     "internalName": "Animeler",
-    "description": "🔴 aytzey 24.10.2026 HD kalitesinde ücretsiz anime izle! Animeler.me, en yeni ve popüler anime serilerini Türkçe altyazılı ve dublajlı olarak sunar. Favori animelerini hemen keşfet!",
+    "description": "🔴 aytzey 14.11.2026 HD kalitesinde ücretsiz anime izle! Animeler.me, en yeni ve popüler anime serilerini Türkçe altyazılı ve dublajlı olarak sunar. Favori animelerini hemen keşfet!",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Animeler.cs3",
     "name": "Animeler"
   },
@@ -3061,7 +3058,7 @@
     ],
     "version": "21",
     "internalName": "DiziAsia",
-    "description": "🔴 aytzey 18.09.2026 DiziAsia - Asya Dizileri İzle",
+    "description": "🔴 aytzey 14.11.2026 DiziAsia - Asya Dizileri İzle",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/DiziAsia.cs3",
     "name": "DiziAsia"
   },
@@ -3101,7 +3098,7 @@
     ],
     "version": "5",
     "internalName": "Dizigecesi",
-    "description": "🔴 aytzey 18.09.2026 Dizigecesi ile yüksek kalitede Türkçe altyazılı yabancı dizileri kesintisiz ve reklamsız izleyebilirsiniz. Yabancı dizi izle, yabancı film izle, yabancı diziler, yabancı filmler.",
+    "description": "🔴 aytzey 14.11.2026 Dizigecesi ile yüksek kalitede Türkçe altyazılı yabancı dizileri kesintisiz ve reklamsız izleyebilirsiniz. Yabancı dizi izle, yabancı film izle, yabancı diziler, yabancı filmler.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/Dizigecesi.cs3",
     "name": "Dizigecesi"
   },
@@ -3158,7 +3155,7 @@
     ],
     "version": "26",
     "internalName": "HDFilmizle",
-    "description": "🔴 aytzey 18.09.2026 En yeni ve popüler filmleri 1080p kalitesinde Türkçe dublaj altyazılı izle. Aksiyon, macera, komedi, dram ve daha fazlası film izle sayfamızda.",
+    "description": "🔴 aytzey 14.11.2026 En yeni ve popüler filmleri 1080p kalitesinde Türkçe dublaj altyazılı izle. Aksiyon, macera, komedi, dram ve daha fazlası film izle sayfamızda.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/HDFilmizle.cs3",
     "name": "HDFilmizle"
   },
@@ -3246,7 +3243,7 @@
     ],
     "version": "14",
     "internalName": "OnePaceTr",
-    "description": "🔴 aytzey 18.09.2026 One Pace türkçe altyazılı izleme platformu.",
+    "description": "🔴 aytzey 14.11.2026 One Pace türkçe altyazılı izleme platformu.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/aytzey/OnePaceTr.cs3",
     "name": "OnePaceTr"
   },
@@ -3464,7 +3461,7 @@
     ],
     "version": "7",
     "internalName": "Atv",
-    "description": "🔴 lepotane 29.09.2026 ATV dizileri, programları ve canlı yayın.",
+    "description": "🔴 lepotane 14.11.2026 ATV dizileri, programlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± ve canlÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± yayÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±n.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Atv.cs3",
     "name": "Atv"
   },
@@ -3484,7 +3481,7 @@
     ],
     "version": "18",
     "internalName": "DiziGom",
-    "description": "🔴 lepotane 22.10.2026 TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e altyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± dizi izle, TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼m yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±, kore, netflix dizilerin yeni ve eski sezonlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±nÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± orijinal dilinde dizigom1 alt yazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± film izleyebilir, sadece tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e altyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± en iyi yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± diziler ve filmler hakkÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±nda yorum yapabilirsiniz.",
+    "description": "🔴 lepotane 14.11.2026 TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e altyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± dizi izle, TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼m yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±, kore, netflix dizilerin yeni ve eski sezonlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±nÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± orijinal dilinde dizigom1 alt yazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± film izleyebilir, sadece tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e altyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± en iyi yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± diziler ve filmler hakkÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±nda yorum yapabilirsiniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/DiziGom.cs3",
     "name": "DiziGom"
   },
@@ -3522,7 +3519,7 @@
     ],
     "version": "8",
     "internalName": "FilmIzyon",
-    "description": "🔴 lepotane 22.10.2026 Yerli ve yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶dÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼llÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼m filmleri TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e Dublaj veya Orjinal dilde izleyebileceÃƒÆ’Ã¢â‚¬ÂÃƒâ€¦Ã‚Â¸iniz TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkiye'nin en kaliteli film izleme platformuna hoÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸geldiniz.",
+    "description": "🔴 lepotane 14.11.2026 Yerli ve yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶dÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼llÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ tÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼m filmleri TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e Dublaj veya Orjinal dilde izleyebileceÃƒÆ’Ã¢â‚¬ÂÃƒâ€¦Ã‚Â¸iniz TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkiye'nin en kaliteli film izleme platformuna hoÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€¦Ã‚Â¸geldiniz.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/FilmIzyon.cs3",
     "name": "FilmIzyon"
   },
@@ -3541,7 +3538,7 @@
     ],
     "version": "5",
     "internalName": "HdFilmCehennemi2",
-    "description": "🔴 lepotane 20.09.2026 HdFilmCehennemi2 - Alternatif yüksek kalitede film izleme sitesi.",
+    "description": "🔴 lepotane 14.11.2026 HdFilmCehennemi2 - Alternatif yÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼ksek kalitede film izleme sitesi.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/HdFilmCehennemi2.cs3",
     "name": "HdFilmCehennemi2"
   },
@@ -3560,7 +3557,7 @@
     ],
     "version": "5",
     "internalName": "Startv",
-    "description": "🔴 lepotane 22.10.2026 Star TV dizileri ve programlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±.",
+    "description": "🔴 lepotane 14.11.2026 Star TV dizileri ve programlarÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Startv.cs3",
     "name": "Startv"
   },
@@ -3580,7 +3577,7 @@
     ],
     "version": "14",
     "internalName": "UltraFilmizle",
-    "description": "🔴 lepotane 23.09.2026 UltraFilmizle - 1080p ve 4K yerli/yabancı film izleme.",
+    "description": "🔴 lepotane 14.11.2026 UltraFilmizle - 1080p ve 4K yerli/yabancÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± film izleme.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/UltraFilmizle.cs3",
     "name": "UltraFilmizle"
   },
@@ -3764,7 +3761,7 @@
     "iconUrl": "https://aniarsiv.com/favicon.ico",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/test",
-    "fileSize": 13090,
+    "fileSize": 110540,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -3777,7 +3774,7 @@
     ],
     "version": "1",
     "internalName": "AniArsiv",
-    "description": "🆕 Wiojelt 24.09.2026 AniArşiv · Güncel ve klasik anime arşivi, Türkçe altyazı",
+    "description": "🔴 Wiojelt 14.11.2026 AniArşiv · Güncel ve klasik anime arşivi, Türkçe altyazı",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/AniArsiv.cs3",
     "name": "AniArsiv"
   },
@@ -3906,7 +3903,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgi.site&sz=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "fileSize": 104935,
+    "fileSize": 106616,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -3919,7 +3916,7 @@
     ],
     "version": "3",
     "internalName": "CizgiSite",
-    "description": "🔴 Wiojelt 27.09.2026 WioKids · cizgi.site Türkçe çizgi film kaynağı",
+    "description": "🔴 Wiojelt 14.11.2026 WioKids · cizgi.site Türkçe çizgi film kaynağı",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/CizgiSite.cs3",
     "name": "CizgiSite"
   },
@@ -3948,7 +3945,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=minikacocuk.com.tr&sz=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "fileSize": 111987,
+    "fileSize": 113561,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -3961,7 +3958,7 @@
     ],
     "version": "3",
     "internalName": "MinikaCocuk",
-    "description": "🔴 Wiojelt 27.09.2026 WioKids · Minika Çocuk resmî program ve video kataloğu",
+    "description": "🔴 Wiojelt 14.11.2026 WioKids · Minika Çocuk resmî program ve video kataloğu",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/MinikaCocuk.cs3",
     "name": "MinikaCocuk"
   },
@@ -3969,7 +3966,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=minikago.com.tr&sz=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "fileSize": 111984,
+    "fileSize": 113547,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -3982,7 +3979,7 @@
     ],
     "version": "3",
     "internalName": "MinikaGO",
-    "description": "🔴 Wiojelt 27.09.2026 WioKids · Minika GO resmî program ve video kataloğu",
+    "description": "🔴 Wiojelt 14.11.2026 WioKids · Minika GO resmî program ve video kataloğu",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/MinikaGO.cs3",
     "name": "MinikaGO"
   },
@@ -4109,7 +4106,7 @@
     ],
     "version": "3",
     "internalName": "Anizm",
-    "description": "🔴 lepotane 22.10.2026 TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e AltyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± Anime ÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â°zle.",
+    "description": "🔴 lepotane 14.11.2026 TÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¼rkÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§e AltyazÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â±lÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â± Anime ÃƒÆ’Ã¢â‚¬ÂÃƒâ€šÃ‚Â°zle.",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/lepotane/Anizm.cs3",
     "name": "Anizm"
   },
@@ -5765,20 +5762,23 @@
     "name": "IzleAI"
   },
   {
-    "iconUrl": "",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=roketdizi.life&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "",
-    "fileSize": 22454,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 42377,
     "status": "1",
     "language": "tr",
     "authors": [
-      "ramazansancar"
+      "F0Rextasy"
     ],
-    "tvTypes": [],
-    "version": "9",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "version": "1",
     "internalName": "RoketDizi",
-    "description": "🆕 MoOnCrOwN DePo 27.09.2026",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/MoOnCrOwN/RoketDizi.cs3",
+    "description": "🔴 F0Rextasy 14.11.2026 RoketDizi — yabancı dizi & film, Türkçe dublaj/altyazı (roketdizi.life)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/RoketDizi.cs3",
     "name": "RoketDizi"
   },
   {
@@ -5916,6 +5916,460 @@
     "description": "🆕 MoOnCrOwN DePo 29.09.2026",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/MoOnCrOwN/TurkishCineStream.cs3",
     "name": "TurkishCineStream"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=asyabox.co&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 46435,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": "7",
+    "internalName": "AsyaBox",
+    "description": "🆕 F0Rextasy 14.11.2026 AsyaBox — Türkçe içerik",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/AsyaBox.cs3",
+    "name": "AsyaBox"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=asyadizi.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 46966,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": "7",
+    "internalName": "AsyaDizi",
+    "description": "🆕 F0Rextasy 14.11.2026 AsyaDizi — Türkçe içerik",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/AsyaDizi.cs3",
+    "name": "AsyaDizi"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=asyadizileriizle.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 46406,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": "7",
+    "internalName": "Asyadizileriizle",
+    "description": "🆕 F0Rextasy 14.11.2026 Asyadizileriizle — Türkçe içerik",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/Asyadizileriizle.cs3",
+    "name": "Asyadizileriizle"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 38880,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "version": "9",
+    "internalName": "AsyaLog",
+    "description": "🆕 F0Rextasy 14.11.2026 AsyaLog — Asya dizileri ve filmleri (asyalog.co)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/AsyaLog.cs3",
+    "name": "AsyaLog"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=canlidizi.sbs&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 45215,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": "7",
+    "internalName": "CanliDizi",
+    "description": "🆕 F0Rextasy 14.11.2026 CanliDizi — Türkçe içerik",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/CanliDizi.cs3",
+    "name": "CanliDizi"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=ddizimag.icu&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 39644,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": "5",
+    "internalName": "DDizimag",
+    "description": "🆕 F0Rextasy 14.11.2026 DDizimag — Türkçe içerik",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/DDizimag.cs3",
+    "name": "DDizimag"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=diziabi.net&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 45124,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": "6",
+    "internalName": "DiziAbi",
+    "description": "🆕 F0Rextasy 14.11.2026 DiziAbi — Türkçe içerik",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/DiziAbi.cs3",
+    "name": "DiziAbi"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizibaba.net&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 30334,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": "6",
+    "internalName": "Dizibaba",
+    "description": "🆕 F0Rextasy 14.11.2026 Dizibaba — Türkçe dublaj/altyazılı film arşivi",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/Dizibaba.cs3",
+    "name": "Dizibaba"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=diziboxizle.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 41554,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": "10",
+    "internalName": "DiziboxIzle",
+    "description": "🆕 F0Rextasy 14.11.2026 DiziboxIzle — güncel yabancı dizi (diziboxizle.com)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/DiziboxIzle.cs3",
+    "name": "DiziboxIzle"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizican.cc&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 50465,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": "11",
+    "internalName": "DiziCaN",
+    "description": "🆕 F0Rextasy 14.11.2026 DiziCaN — Türkçe içerik",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/DiziCaN.cs3",
+    "name": "DiziCaN"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizikorea3.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 41424,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "version": "8",
+    "internalName": "Dizikorea3",
+    "description": "🆕 F0Rextasy 14.11.2026 Dizikorea3 — Kore/Asya dizileri ve filmleri (dizikorea3.com)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/Dizikorea3.cs3",
+    "name": "Dizikorea3"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizilab.cc&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 31326,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": "6",
+    "internalName": "Dizilab",
+    "description": "🆕 F0Rextasy 14.11.2026 Dizilab — Türkçe altyazılı/dublajlı yabancı diziler",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/Dizilab.cs3",
+    "name": "Dizilab"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizimanya.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 41784,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": "2",
+    "internalName": "Dizimanya",
+    "description": "🆕 F0Rextasy 14.11.2026 Dizimanya — Türkçe altyazılı yabancı dizi izle",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/Dizimanya.cs3",
+    "name": "Dizimanya"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizisol.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 45731,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": "1",
+    "internalName": "DiziSol",
+    "description": "🆕 F0Rextasy 14.11.2026 DiziSol — Yabancı dizi ve film arşivi (dizisol.com)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/DiziSol.cs3",
+    "name": "DiziSol"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizist.live&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 43738,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": "6",
+    "internalName": "Dizist",
+    "description": "🆕 F0Rextasy 14.11.2026 Dizist — dizist.live (Türkçe altyazılı yabancı dizi)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/Dizist.cs3",
+    "name": "Dizist"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmdiziizle.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 54538,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": "7",
+    "internalName": "HDFilmDiziIzle",
+    "description": "🆕 F0Rextasy 14.11.2026 HDFilmDiziIzle — Türkçe içerik",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/HDFilmDiziIzle.cs3",
+    "name": "HDFilmDiziIzle"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=izlefilm.net&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 34248,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": "3",
+    "internalName": "IzleFilm",
+    "description": "🆕 F0Rextasy 14.11.2026 IzleFilm — izlefilm.net Full HD Türkçe dublaj/altyazılı film arşivi",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/IzleFilm.cs3",
+    "name": "IzleFilm"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=puhutv.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 42936,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "version": "3",
+    "internalName": "PuhuTV",
+    "description": "🆕 F0Rextasy 14.11.2026 PuhuTV — Yerli diziler, puhutv Orijinal yapımlar, filmler ve belgeseller",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/PuhuTV.cs3",
+    "name": "PuhuTV"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=sinemetrik.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 43735,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": "1",
+    "internalName": "Sinemetrik",
+    "description": "🆕 F0Rextasy 14.11.2026 Sinemetrik — sinemetrik.com Türkçe film/dizi platformu (kendi player'ı, TR altyazı)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/Sinemetrik.cs3",
+    "name": "Sinemetrik"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=sonanime.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 45352,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": "5",
+    "internalName": "SonAnime",
+    "description": "🆕 F0Rextasy 14.11.2026 SonAnime — Türkçe içerik",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/SonAnime.cs3",
+    "name": "SonAnime"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=turkanime.live&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 42087,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "version": "1",
+    "internalName": "TurkAnimeTV",
+    "description": "🆕 F0Rextasy 14.11.2026 Türk Anime TV — Türkçe altyazılı anime izle (turkanime.live)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/TurkAnimeTV.cs3",
+    "name": "TurkAnimeTV"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=turkcedizi.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 53022,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": "10",
+    "internalName": "TurkceDizi",
+    "description": "🆕 F0Rextasy 14.11.2026 TurkceDizi — Türkçe içerik",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/TurkceDizi.cs3",
+    "name": "TurkceDizi"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=weboo.com.tr&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 43584,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": "5",
+    "internalName": "Weboo",
+    "description": "🆕 F0Rextasy 14.11.2026 Weboo — Türkçe içerik",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/Weboo.cs3",
+    "name": "Weboo"
   },
   {
     "iconUrl": "",
