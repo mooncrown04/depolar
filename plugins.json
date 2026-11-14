@@ -1153,25 +1153,22 @@
     "name": "TRasyalog"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=trdiziizle.tv&sz=128",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=trdiziizle.tv&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "fileSize": 58207,
-    "status": "3",
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 36019,
+    "status": "1",
     "language": "tr",
     "authors": [
-      "Wiojelt"
+      "F0Rextasy"
     ],
     "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
+      "TvSeries"
     ],
-    "version": "7",
+    "version": "3",
     "internalName": "TrDiziIzle",
-    "description": "🆕 Wiojelt 17.09.2026 TrDiziİzle · TurkSinema ayrı sağlayıcı paketi",
-    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/TrDiziIzle.cs3",
+    "description": "🔴 F0Rextasy 14.11.2026 TrDiziIzle — trdiziizle.tv (Türkçe dizi arşivi, son bölümler, IMDb sıralı liste)",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/TrDiziIzle.cs3",
     "name": "TrDiziIzle"
   },
   {
@@ -6137,7 +6134,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizimanya.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
-    "fileSize": 41784,
+    "fileSize": 41907,
     "status": "1",
     "language": "tr",
     "authors": [
@@ -6146,9 +6143,9 @@
     "tvTypes": [
       "TvSeries"
     ],
-    "version": "2",
+    "version": "3",
     "internalName": "Dizimanya",
-    "description": "🆕 F0Rextasy 14.11.2026 Dizimanya — Türkçe altyazılı yabancı dizi izle",
+    "description": "🔴 F0Rextasy 14.11.2026 Dizimanya — Türkçe altyazılı yabancı dizi izle",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/Dizimanya.cs3",
     "name": "Dizimanya"
   },
@@ -6349,6 +6346,46 @@
     "description": "🆕 F0Rextasy 14.11.2026 Weboo — Türkçe içerik",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/Weboo.cs3",
     "name": "Weboo"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=diziboxtv.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 45239,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": "6",
+    "internalName": "DiziBoxTv",
+    "description": "🆕 F0Rextasy 14.11.2026 DiziBoxTv — Türkçe içerik",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/DiziBoxTv.cs3",
+    "name": "DiziBoxTv"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizifon.cc&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/F0Rextasy/bigbullapp-cs",
+    "fileSize": 43469,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "F0Rextasy"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": "7",
+    "internalName": "Dizifon",
+    "description": "🆕 F0Rextasy 14.11.2026 Dizifon — Türkçe içerik",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/F0Rextasy/Dizifon.cs3",
+    "name": "Dizifon"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
