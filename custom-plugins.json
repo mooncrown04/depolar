@@ -12,8 +12,25 @@
     "tvTypes": [],
     "version": "3",
     "internalName": "GolgeTV",
-    "description": "🆕 MoOnCrOwN DePo 18.11.2026",
+    "description": "🆕 MoOnCrOwN DePo 19.11.2026",
     "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/GolgeTV.cs3",
     "name": "GolgeTV"
+  },
+  {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "",
+    "fileSize": 127254,
+    "status": "1",
+    "language": "tr",
+    "authors": [
+      "Wiojelt"
+    ],
+    "tvTypes": [],
+    "version": "1",
+    "internalName": "PowerSinema",
+    "description": "🆕 MoOnCrOwN DePo 19.11.2026",
+    "url": "https://raw.githubusercontent.com/mooncrown04/depolar/main/plugins/Wiojelt/PowerSinema.cs3",
+    "name": "PowerSinema"
   }
 ]
